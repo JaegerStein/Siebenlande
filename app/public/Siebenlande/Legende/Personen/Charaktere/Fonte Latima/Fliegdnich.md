@@ -1,0 +1,1 @@
+Kenku, Teil der [[Abenteurergruppe]]; wird in [[Viasti]] von Söldnern entführt und daraufhin nie wieder gesehen

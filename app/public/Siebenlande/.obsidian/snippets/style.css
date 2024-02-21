@@ -1,0 +1,11 @@
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.br4, .br4 img {
+    border-radius: 16px;
+}

@@ -1,0 +1,1 @@
+Yespest, Teil der [[Abenteurergruppe]]
