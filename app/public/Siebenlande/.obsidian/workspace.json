@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ccaec2efb424cc97",
+        "id": "58a5ed486073dc9d",
         "type": "tabs",
         "children": [
           {
-            "id": "70f137f326130b24",
+            "id": "fe53c99c26b08dc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regeln/Charakter/Attribute.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regeln/Charakter/Attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regeln/Charakter/Attribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Regeln/Charakter/Attribute.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,8 +136,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70f137f326130b24",
+  "active": "fe53c99c26b08dc2",
   "lastOpenFiles": [
+    "Journal/Episoden/Episode 3 - Geister, Hexen, Teufel.md",
+    "Regeln/Kampf/Fernkampf.md",
+    "Regeln/Charakter/Attribute.md",
     "Legende/Personen/Charaktere/Weißflammen/Weskarrán.md",
     "Legende/Wesen/Bestien/Telemaccio.md",
     "Legende/Wesen/Bestien/Telematschdio.md",
@@ -173,10 +168,7 @@
     "Legende/Personen/Charaktere/Nekromanten",
     "Legende/Personen/Charaktere/Hexen",
     "Legende/Personen/Charaktere/Zauberer",
-    "Legende/Personen/Charaktere/Fonte Latima/Norwa Solis.md",
     "Legende/Personen/Persönlichkeiten",
-    "Legende/Personen/Charaktere/Kartjan Hamsa.md",
-    "Legende/Personen/Charaktere/Zauberer/Iduarto.md",
     "Journal/Questkarte.canvas",
     "Legende/Personen/Charaktere/Kirche",
     "Legende/Personen/Charaktere/Fonte Latima",

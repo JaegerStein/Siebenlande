@@ -1,2 +1,5 @@
 app/build
 app/node_modules
+
+app/public/Siebenlande/.obsidian/*
+!app/public/Siebenlande/.obsidian/snippets/
