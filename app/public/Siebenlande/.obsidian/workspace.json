@@ -11,8 +11,10 @@
             "id": "fe53c99c26b08dc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "!attachments/Legende/Geografie/Reiche/Herzogtümer/Malravien/malravien.jpg"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "!attachments/Legende/Geografie/Reiche/Herzogtümer/Malravien/malravien.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "!attachments/Legende/Geografie/Reiche/Herzogtümer/Malravien/malravien.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "!attachments/Legende/Geografie/Reiche/Herzogtümer/Malravien/malravien.jpg"
+              }
             }
           }
         ]
