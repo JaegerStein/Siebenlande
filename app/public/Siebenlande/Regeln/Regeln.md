@@ -1,0 +1,1 @@
+Die Regeln beinhalten selbstredend den aktuellen Stand des Regelwerkes dieses Spiels.

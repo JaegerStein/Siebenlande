@@ -1,0 +1,1 @@
+Schleim, Teil der [[Abenteurergruppe]], der er in [[Viasti]] erst beitritt
