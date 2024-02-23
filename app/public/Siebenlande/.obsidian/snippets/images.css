@@ -1,0 +1,12 @@
+.img-right {
+    float: right;
+}
+
+.img-left {
+    float: left;
+}
+
+.img-left img,
+.img-right img {
+    border-radius: 32px;
+}
