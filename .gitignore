@@ -3,4 +3,3 @@ app/node_modules
 
 app/public/Siebenlande/.obsidian/*
 !app/public/Siebenlande/.obsidian/snippets/
-app/public/Siebenlande/.obsidian/workspace.json
