@@ -1,9 +1,10 @@
 import React from 'react';
+import Entry from './Entry';
 
 const Center = () => {
     return (
-        <div>
-        <h1>Center</h1>
+        <div id='river'>
+            <Entry />
         </div>
     );
 }
