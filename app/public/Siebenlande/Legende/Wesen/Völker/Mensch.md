@@ -12,7 +12,7 @@ Die **Menschen** zählen zu den jüngsten Völker der [[Siebenlande]], dennoch k
 **Lebenserwartung** 60 Jahre
 **Basisausdauer** 20
 **Größe** 5 bis 6 [[Maßeinheiten|Fuß]], [[Größenkategorien|Mittelgroß]]
-**Bewegungsrate** 30 Fuß | 6 Felder
+**Bewegungsrate** 30 Fuß, 6 Felder
 
 | STÄ | ATH | GES | KON | WAH | INT | WEI | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
