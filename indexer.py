@@ -28,8 +28,12 @@ def create_index(start_path):
             if file.endswith('.md'):
                 # Create the file ID and add the file to the index
                 file_id = os.path.relpath(os.path.join(root, file), start_path).replace('\\', '/')
-                index[file_id] = {
-                    'title': os.path.splitext(file)[0],
+                parts = file_id.split('/')
+                current_level = index
+                for part in parts[:-1]:  # Traverse the directories
+                    current_level = current_level.setdefault(part, {})
+                current_level[parts[-1]] = {
+                    'title': os.path.splitext(parts[-1])[0],
                     'created_time': str(int(os.path.getctime(os.path.join(root, file)))),
                     'last_modified_time': str(int(os.path.getmtime(os.path.join(root, file))))
                 }
