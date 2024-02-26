@@ -6,6 +6,8 @@ import Left from './Left';
 import Center from './Center';
 import Right from './Right';
 
+import Markdown from 'react-markdown';
+
 const App: React.FC = () => {
   return (
     <>
