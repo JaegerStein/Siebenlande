@@ -1,5 +1,6 @@
 app/build
 app/node_modules
 
-app/public/Siebenlande/.obsidian/*
-!app/public/Siebenlande/.obsidian/snippets/
+app/public/Siebenlande/.obsidian/app.json
+app/public/Siebenlande/.obsidian/appearance.json
+app/public/Siebenlande/.obsidian/workspace.json
