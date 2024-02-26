@@ -3,6 +3,13 @@
     "tasks": [
         {
             "type": "shell",
+            "label": "indexer",
+            "command": "python",
+            "args": ["${workspaceFolder}/indexer.py"],
+            "problemMatcher": []
+        },
+        {
+            "type": "shell",
             "label": "start",
             "command": "npm",
             "args": ["start"],
@@ -23,7 +30,8 @@
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "dependsOn": ["indexer"]
         }
     ]
 }
