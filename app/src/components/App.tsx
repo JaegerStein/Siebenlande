@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { FC, useEffect, useState } from 'react';
 import logo from '../logo.svg';
 import '../styles/App.scss';
 
@@ -8,20 +8,20 @@ import Right from './Right';
 
 import Markdown from 'react-markdown';
 
-const App: React.FC = () => {
-  return (
-    <>
-      <div className='left'>
-        <Left />
-      </div>
-      <div className='center'>
-        <Center />
-      </div>
-      <div className='right'>
-        <Right />
-      </div>
-    </>
-  );
+const App: FC = () => {
+    return (
+      <>
+        <div className='left'>
+          <Left />
+        </div>
+        <div className='center'>
+          <Center />
+        </div>
+        <div className='right'>
+          <Right />
+        </div>
+      </>
+    );
 }
 
 export default App;
