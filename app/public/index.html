@@ -22,7 +22,7 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-  <title>Siebenlande</title>
+  <title>7lan.de</title>
   <style>
     body {
       background-color: #1e1e1e;
@@ -30,135 +30,12 @@
       margin: 0;
       padding: 0;
     }
-
-    #loader-left,
-    #loader-right {
-      position: fixed;
-      top: 0;
-      bottom: 0;
-      width: 25%;
-      height: 100vh;
-      padding: 1rem;
-    }
-
-    #loader-left {
-      background-color: #262626;
-      box-shadow: 16px 0 32px #1e1e1e;
-      left: 0;
-    }
-
-    #loader-right {
-      box-shadow: -16px 0 16px #262626;
-      right: 0;
-    }
-
-    #loader-center {
-      width: 75ch;
-      max-width: 75ch;
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      height: 100vh;
-      margin-top: 4rem;
-    }
-
-    hr {
-      margin: 1rem 0;
-      opacity: 0;
-    }
-
-    @keyframes gradient {
-      0% {
-        background-position: 0% 50%;
-      }
-
-      50% {
-        background-position: 100% 50%;
-      }
-
-      100% {
-        background-position: 0% 50%;
-      }
-    }
-
-    .loader-bar {
-      height: 2rem;
-      background: linear-gradient(270deg, #171741, #290733);
-      background-size: 200% 200%;
-      animation: gradient 2s ease infinite;
-      border-radius: 9999px;
-      margin-bottom: 1rem;
-
-      box-shadow:
-        -6px -6px 14px rgba(0 0 0 / .7),
-        -6px -6px 10px rgba(0 0 0 / .5),
-        6px 6px 8px rgba(0 0 0 / .075),
-        2px 2px 16px rgba(255 255 255 / .15);
-    }
-
-    .bar-full {
-      width: 100%;
-    }
-
-    .bar-half {
-      width: 50%;
-    }
-
-    .bar-short {
-      width: 25%;
-    }
   </style>
 </head>
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
-  <div id="loader">
-    <div id="loader-left">
-      <div class="loader-bar bar-short"></div>
-      <hr>
-      <div class="loader-bar bar-full"></div>
-      <div class="loader-bar bar-half"></div>
-      <div class="loader-bar bar-half"></div>
-      <div class="loader-bar bar-half"></div>
-    </div>
-    <div id="loader-center">
-      <div class="loader-bar bar-half"></div>
-      <hr>
-      <div class="loader-bar bar-full"></div>
-      <div class="loader-bar bar-full"></div>
-      <div class="loader-bar bar-full"></div>
-      <div class="loader-bar bar-full"></div>
-      <div class="loader-bar bar-half"></div>
-      <hr>
-      <hr>
-      <hr>
-      <div class="loader-bar bar-short"></div>
-      <hr>
-      <div class="loader-bar bar-full"></div>
-      <div class="loader-bar bar-full"></div>
-      <div class="loader-bar bar-short"></div>
-    </div>
-    <div id="loader-right">
-      <div class="loader-bar bar-short"></div>
-      <hr>
-      <div class="loader-bar bar-half"></div>
-      <div class="loader-bar bar-half"></div>
-      <div class="loader-bar bar-short"></div>
-      <div class="loader-bar bar-full"></div>
-    </div>
-  </div>
   <div id="root"></div>
-  <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
 </body>
 
 </html>

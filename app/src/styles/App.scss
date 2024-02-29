@@ -1,43 +1,46 @@
 @import 'common/colors.scss';
 
-.left {
-  position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  width: 25%;
-  max-height: 100vh;
-  overflow-y: auto;
-  background-color: $color-background;
+$side-width: 25%;
+$side-min-width: 256px;
+$side-max-width: 512px;
+$padding: 1rem;
 
-  padding-left: 1rem;
-
-  min-width: 256px;
-  max-width: 512px;
-}
-
+.left,
 .right {
   position: fixed;
   top: 0;
-  right: 0;
   bottom: 0;
-  width: 25%;
+  width: $side-width;
   max-height: 100vh;
   overflow-y: auto;
-  border:1px solid red;
+  min-width: $side-min-width;
+  max-width: $side-max-width;
 
-  padding-right: 1rem;
-  padding-left: 1rem;
+  &.left {
+    left: 0;
+    background-color: $color-background;
+    padding-left: $padding;
+    box-shadow: 8px 0 8px -8px rgba(0 0 0 / .5);
+  }
 
-  min-width: 256px;
-  max-width: 512px;
+  &.right {
+    right: 0;
+    padding-right: $padding;
+    padding-left: $padding;
+    box-shadow: -8px 0 8px -8px rgba(0 0 0 / .5);
+  }
 }
 
 .center {
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: $side-width;
+  margin-right: $side-width;
   border: 2px dotted $color-link;
-  min-width: 60ch;
+  min-height: 100vh;
+  min-width: 45ch;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 
@@ -76,6 +79,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

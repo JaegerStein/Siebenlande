@@ -44,6 +44,7 @@ def create_index(start_path):
 index = create_index(vault_path)
 index_data = {
     'vault': vault_name,
+    'attachments_folder': attachments_folder,
     'index': index
 }
 with open('./app/public/index.json', 'w', encoding='utf-8') as f:
