@@ -2,9 +2,9 @@ import React, { Dispatch, FC, SetStateAction, useEffect, useState } from 'react'
 import logo from '../logo.svg';
 import '../styles/App.scss';
 
-import Left from './Left';
-import Center from './Center';
-import Right from './Right';
+import Left from './Left/Left';
+import Center from './Center/Center';
+import Right from './Right/Right';
 
 import Markdown from 'react-markdown';
 import { loadJSON } from '../scripts/utils';
