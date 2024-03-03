@@ -21,13 +21,17 @@ const App: FC = () => {
   // index
   useEffect(() => { loadJSON('index.json').then(data => setIndex(data)); }, []);
   useEffect(() => { if (index.vault) setSiteTitle(index.vault); }, [index]);
+
   // openEntries
-  const open = (entry: string) => { setOpenEntries([...openEntries, entry]); }
+  const openEntry = (entry: string) => {
+    //setOpenEntries([...openEntries, entry]);
+    console.log("Link click arrived in app:", entry);
+  }
 
   return (
     <>
       <div className='left'>
-        <Left index={index} />
+        <Left index={index} openEntry={openEntry} />
       </div>
       <div className='center'>
         <Center />

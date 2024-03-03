@@ -1,34 +1,46 @@
 import React, { FC, useState } from 'react';
+import Link from '../common/Link';
 
-interface TreeNodeProps { node: any; nodeName: string; }
-interface FileNodeProps { node: any; }
-
-const FolderNode: FC<TreeNodeProps> = ({ node, nodeName }: TreeNodeProps) => {
-    const [isOpen, setIsOpen] = useState<boolean>(false);
-    const handleClick = () => setIsOpen(!isOpen);
-
-    return (
-        <div>
-            <div onClick={handleClick}>
-                {isOpen ? '[-]' : '[+]'}
-                {nodeName}
-            </div>
-            {isOpen && Object.keys(node).map((key) => <TreeNode key={key} nodeName={key} node={node[key]} />)}
-        </div>
-    );
+interface TreeNodeProps { 
+  node: any; 
+  nodeName: string; 
+  path: string; 
+  openEntry: (entry: string) => void; 
 }
 
-const FileNode: FC<FileNodeProps> = ({ node }: FileNodeProps) => {
+const appendPath = (path: string, nodeName: string) => `${path}${path ? '/' : ''}${nodeName}`;
+
+const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, openEntry }) => {
+  const [isOpen, setIsOpen] = useState<boolean>(false);
+  const isFolder = typeof node === 'object' && !node.hasOwnProperty('title');
+  
+  const handleClick = () => setIsOpen(!isOpen);
+
+  if (isFolder) {
     return (
-        <div>
-            {node.title}
+      <div>
+        <div onClick={handleClick}>
+          {isOpen ? '[-]' : '[+]'}
+          {nodeName}
         </div>
+        {isOpen && Object.keys(node).map((key) => (
+          <TreeNode
+            key={key}
+            node={node[key]}
+            nodeName={key}
+            path={appendPath(path, nodeName)}
+            openEntry={openEntry}
+          />
+        ))}
+      </div>
     );
-}
+  }
 
-export const TreeNode: FC<TreeNodeProps> = ({ node, nodeName }: TreeNodeProps) => {
-    const isFolder = typeof node === 'object' && !node.hasOwnProperty('title');
-
-    return isFolder ? <FolderNode node={node} nodeName={nodeName} /> : <FileNode node={node} />;
-
+  return (
+    <div>
+      <Link to={appendPath(path, nodeName)} onClick={openEntry}>{node.title}</Link>
+    </div>
+  );
 };
+
+export default TreeNode;

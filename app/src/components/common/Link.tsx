@@ -14,25 +14,23 @@ enum LinkType {
 }
 
 interface LinkProps {
-    href: string;
+    to: string;
     className?: string;
-    linkText?: ReactNode;
     linkType?: LinkType;
-    onClick?: () => void;
-    onMiddleClick?: () => void;
+    onClick?: (entry: string) => void;
+    children?: ReactNode;
 }
 
-const Link: FC<LinkProps> = ({ href, className, linkText, linkType, onClick, onMiddleClick }: LinkProps) => {
+const Link: FC<LinkProps> = ({ to, className, linkType, onClick, children }: LinkProps) => {
 
     const handleMouseClick = (event: MouseEvent) => {
         event.preventDefault();
-        if (event.button === 1 && onMiddleClick) onMiddleClick();
-        else if (onClick) onClick();
+        if (onClick) onClick(to);
     }
 
     return (
-        <a href={href} className={className} onClick={handleMouseClick}>
-            {linkText || href}
+        <a href={to} className={className} onClick={handleMouseClick}>
+            {children || to}
         </a>
     );
 };
