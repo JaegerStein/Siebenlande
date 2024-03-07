@@ -6,3 +6,12 @@ $max-depth: 10;
     padding-left: $indentation * $i;
   }
 }
+
+.v {
+    width: 10px;
+    height: 10px;
+
+    &.rotate {
+        transform: rotate(90deg);
+    }
+}

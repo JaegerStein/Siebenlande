@@ -1,6 +1,7 @@
 import React, { FC, useState } from 'react';
 import Link from '../common/Link';
 import { OpenEntry } from '../../scripts/types';
+import { ReactComponent as V } from '../../assets/v.svg'; // Path:
 
 interface TreeNodeProps {
   node: any;
@@ -45,9 +46,9 @@ const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1, openEnt
 
   if (!nodeName) {
     return (
-      <div>
+      <>
         {children}
-      </div>
+      </>
     );
   }
 
@@ -55,7 +56,7 @@ const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1, openEnt
     return (
       <div className={`depth-${depth}`}>
         <div onClick={handleFolderClick}>
-          {isOpen ? '[-]' : '[+]'}
+          <V className={`v ${isOpen ? 'rotate' : ''}`} />
           {nodeName}
         </div>
         {isOpen && children}
