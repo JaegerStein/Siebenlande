@@ -1,4 +1,5 @@
 import React, { FC, ReactNode, MouseEvent } from 'react';
+import { OpenEntry } from '../../scripts/types';
 
 // Links can have 1 of 4 types: internal, external, download, or anchor
 // Their hrefs look like this:
@@ -17,7 +18,7 @@ interface LinkProps {
     to: string;
     className?: string;
     linkType?: LinkType;
-    onClick?: (entry: string) => void;
+    onClick?: OpenEntry;
     children?: ReactNode;
 }
 

@@ -4,4 +4,6 @@ type Index = {
     index: any
 }
 
-export default Index;
+type OpenEntry = (entry: string, middleMouse?: boolean) => void;
+
+export type { Index, OpenEntry };
