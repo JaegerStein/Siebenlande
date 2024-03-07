@@ -2,6 +2,8 @@ import React, { FC } from "react";
 import { Index, OpenEntry } from "../../scripts/types";
 import Searchbar from "./Searchbar";
 import LeftTree from "./LeftTree";
+// stylesheet Left.scss
+import '../../styles/Left.scss';
 
 interface LeftProps { index: Index; openEntry: OpenEntry; }
 
