@@ -1,10 +1,15 @@
-import React from 'react';
+import React, { FC, ReactNode } from 'react';
 import Entry from './Entry';
+import '../../styles/Center.scss';
 
-const Center = () => {
+interface CenterProps {
+    children?: ReactNode;
+}
+
+const Center: FC<CenterProps> = ({ children }: CenterProps) => {
     return (
         <div id='river'>
-            <Entry />
+            {children}
         </div>
     );
 }

@@ -10,9 +10,7 @@ const LeftTree: FC<LeftTreeProps> = ({ index, openEntry }: LeftTreeProps) => {
     useEffect(() => {
         if (index.index) {
             const root = index.index;
-            const nodes = <TreeNode key={root.key} nodeName={root.key} node={index.index} path="" openEntry={openEntry} />;
-            console.log(nodes);
-            
+            const nodes = <TreeNode key="root" nodeName="" node={index.index} path="" openEntry={openEntry} />;
             setTreeNodes([nodes]);
         }
     }, [index]);
