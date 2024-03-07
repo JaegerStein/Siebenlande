@@ -1,3 +1,10 @@
+#left-tree {
+    overflow-y: auto;
+    height: 100%;
+    width: 100%;
+    padding-top: 1rem;
+}
+
 $indentation: .75rem;
 $max-depth: 10;
 
@@ -8,10 +15,13 @@ $max-depth: 10;
 }
 
 .v {
-    width: 10px;
-    height: 10px;
+    width: 1rem;
+    height: 1rem;
+
+    margin-right: .5rem;
 
     &.rotate {
         transform: rotate(90deg);
     }
 }
+
