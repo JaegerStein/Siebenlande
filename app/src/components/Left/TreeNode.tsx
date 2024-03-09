@@ -27,7 +27,7 @@ const sortKeys = (node: any) => {
 const appendPath = (path: string, nodeName: string) => `${path}${path ? '/' : ''}${nodeName}`;
 
 const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1, openEntry }) => {
-  const [isOpen, setIsOpen] = useState<boolean>(false);
+  const [isOpen, setIsOpen] = useState<boolean>(true);
   const isFolder = typeof node === 'object' && !node.hasOwnProperty('title');
 
   const handleFolderClick = () => setIsOpen(!isOpen);
