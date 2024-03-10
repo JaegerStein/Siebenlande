@@ -8,9 +8,12 @@ import Right from './Right/Right';
 import Entry from './Center/Entry';
 
 import { loadJSON, loadText } from '../scripts/utils';
+import { IndexNode } from '../scripts/IndexNode';
 
 type SetIndex = Dispatch<SetStateAction<any>>;
 type SetOpenEntries = Dispatch<SetStateAction<ReactNode[]>>;
+
+type Index = IndexNode[];
 
 const setSiteTitle = (title: string) => { document.title = title; }
 
