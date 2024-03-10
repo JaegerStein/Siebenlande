@@ -16,9 +16,9 @@ const LeftTree: FC<LeftTreeProps> = ({ index, openEntry }: LeftTreeProps) => {
     }, [index]);
 
     return (
-        <div id='left-tree'>
+        <nav id='left-tree'>
             {treeNodes}
-        </div>
+        </nav>
     );
 };
 

@@ -1,6 +1,7 @@
 import React, { ComponentType, Dispatch, FC, ReactNode, SetStateAction, useEffect, useState } from 'react';
 import logo from '../logo.svg';
 import '../styles/App.scss';
+import '../styles/common/common.scss';
 
 import Left from './Left/Left';
 import Center from './Center/Center';

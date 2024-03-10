@@ -55,7 +55,7 @@ const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1, openEnt
   else if (isFolder) {
     return (
       <div className={`depth-${depth}`}>
-        <div onClick={handleFolderClick}>
+        <div onClick={handleFolderClick} className='left-folder flex ai-center'>
           <V className={`v ${isOpen ? 'rotate' : ''}`} />
           {nodeName}
         </div>
@@ -66,7 +66,7 @@ const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1, openEnt
 
   return (
     <div className={`depth-${depth}`}>
-      <Link to={appendPath(path, nodeName)} onClick={openEntry}>{node.title}</Link>
+      <Link className="left-link" to={appendPath(path, nodeName)} onClick={openEntry}>{node.title}</Link>
     </div>
   );
 };
