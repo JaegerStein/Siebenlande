@@ -43,7 +43,7 @@ const App: FC = () => {
         </Center>
       </div>
       <div className='right'>
-        <Right />
+        <Right openEntries={openEntries}/>
       </div>
     </>
   );

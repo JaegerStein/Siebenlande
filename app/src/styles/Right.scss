@@ -1,0 +1,11 @@
+$indentation: 1rem;
+$max-depth: 10;
+
+
+.right {
+    @for $i from 0 through $max-depth {
+        .depth-#{$i} {
+            padding-left: $indentation * $i;
+        }
+    }
+}

@@ -1,55 +1,56 @@
 @import 'common/colors.scss';
 
-#left-tree {
-    overflow-y: auto;
-    height: 100%;
-    width: 100%;
-    padding-top: 1rem;
-
-    padding-bottom: 2rem;
-}
-
 $indentation: 1rem;
 $max-depth: 10;
 
-@for $i from 0 through $max-depth {
-  .depth-#{$i} {
-    
-    font-size: 1rem;
-    line-height: 1.5rem;
-    position: relative;
+#left-tree {
+  overflow-y: auto;
+  height: 100%;
+  width: 100%;
+  padding-top: 1rem;
 
-    // unless depth is 0, add a border-left
-    @if $i > 0 {
-      border-left: 1px dotted $color-font-light;
-      padding-left: $indentation;
-    }
+  padding-bottom: 2rem;
 
-    .left-folder {
-      font-size: 1.1rem;
-      font-weight: lighter;
-      color: $color-font-light;
-    }
+  @for $i from 0 through $max-depth {
+    .depth-#{$i} {
 
-    .left-link {
-      text-decoration: none;
-      color: $color-font-light;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      position: relative;
 
-      &:hover {
-        color: $color-font;
+      // unless depth is 0, add a border-left
+      @if $i >0 {
+        border-left: 1px dotted $color-font-light;
+        padding-left: $indentation / 2;
+        margin-left: $indentation / 2;
+      }
+
+      .left-folder {
+        font-size: 1.1rem;
+        font-weight: lighter;
+        color: $color-font-light;
+      }
+
+      .left-link {
+        text-decoration: none;
+        color: $color-font-light;
+
+        &:hover {
+          color: $color-font;
+        }
       }
     }
   }
-}
 
-.v {
+  .v {
     width: 1rem;
     height: 1rem;
 
     margin-right: .5rem;
 
     &.rotate {
-        transform: rotate(90deg);
+      transform: rotate(90deg);
     }
-}
+  }
 
+}
