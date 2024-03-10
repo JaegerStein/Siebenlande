@@ -1,10 +1,17 @@
 ---
-aliases:
-  - Testeintrag
-  - Übermäßig & Lang
 tags:
   - Meta
-custom: custom frontmatter
+aliases:
+  - Home
+uid: HOME
+---
+# Übersicht
+- [[Journal]]
+- [[Legende]]
+- [[Regeln]]
+
+*Ignoriere den Rest weiter unten.*
+
 ---
 # Überschrift
 Dieser Eintrag dient zum testen des Webviewers. Alles, was in diesem Artikel auftaucht, muss auch in der Webversion funktionieren.
