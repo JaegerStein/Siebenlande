@@ -5,9 +5,12 @@ export { el, sel, selAll }
 
 async function load(url: string): Promise<Response> {
     const response: Response = await fetch(url);
-    if (!response.ok) throw new Error(`Failed to load ${url}`);
+    if (!response.ok || response.headers.get('Content-Type')?.includes('text/html')) throw new Error(`Failed to load ${url}`);
     return response;
 }
 const loadJSON = async (url: string): Promise<any> => await (await load(url)).json();
-const loadText = async (url: string): Promise<string> => await (await load(url)).text();
+const loadText = async (url: string): Promise<string> => {
+    try { return await (await load(url)).text(); }
+    catch (error) { return "Der Eintrag konnte nicht geladen werden."; }
+};
 export { loadJSON, loadText }
