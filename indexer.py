@@ -1,18 +1,30 @@
 import os
 import json
 import configparser
-import uuid
+import sys
 
 # Read the configuration file
 config = configparser.ConfigParser()
-config.read('./indexer.ini')
+config_file_path = './indexer.ini'
+if not os.path.exists(config_file_path):
+    sys.exit(f"Configuration file {config_file_path} does not exist.")
+config.read(config_file_path)
 
+# Check for required configuration options
+required_options = ['VaultName', 'VaultPath', 'AttachmentsFolder', 'Homepage']
+for option in required_options:
+    if not config.has_option('DEFAULT', option):
+        sys.exit(f"Configuration option {option} is missing from {config_file_path}.")
+        
 # Get the title, vault path, and attachments folder from the configuration
 vault_name = config.get('DEFAULT', 'VaultName')
 vault_path = config.get('DEFAULT', 'VaultPath')
 attachments_folder = config.get('DEFAULT', 'AttachmentsFolder')
 homepage = config.get('DEFAULT', 'Homepage')
 
+# Initial UID
+uid_counter = 1
+# uid: file_path
 uids = {}
 
 
@@ -72,9 +84,6 @@ def base36encode(number):
     return base36.zfill(4)
 
 
-uid_counter = 1
-
-
 def create_uid():
     global uid_counter
     max_uid_counter = 36**4 + 36**3 + 36**2 + 36 # Maximum possible number of unique IDs
@@ -113,11 +122,10 @@ def create_index(start_path):
 
     return index
 
-
+# Run through the vault and register all existing UIDs from the front matter
 register_uids(vault_path)
-print(uids)
 
-# Create the index and write it to the index.json file
+# Create the index
 index = create_index(vault_path)
 
 index_data = {
