@@ -1,6 +1,11 @@
-app/build
-app/node_modules
+# Ignore everything
+/*
 
+# But not these directories/files
+!/app/public/Siebenlande
+!/app/public/Siebenlande/*
+
+# but ignore these files
 app/public/Siebenlande/.obsidian/app.json
 app/public/Siebenlande/.obsidian/appearance.json
 app/public/Siebenlande/.obsidian/workspace.json
