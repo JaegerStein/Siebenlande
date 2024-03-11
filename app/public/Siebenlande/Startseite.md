@@ -4,6 +4,7 @@ tags:
   - Meta
 aliases:
   - Home
+  - Start
 ---
 # Übersicht
 - [[Journal]]

@@ -21,6 +21,7 @@ vault_name = config.get('DEFAULT', 'VaultName')
 vault_path = config.get('DEFAULT', 'VaultPath')
 attachments_folder = config.get('DEFAULT', 'AttachmentsFolder')
 homepage = config.get('DEFAULT', 'Homepage')
+properties = config.get('DEFAULT', 'Properties').split(', ')
 
 # Initial UID
 uid_counter = 1
@@ -28,21 +29,63 @@ uid_counter = 1
 uids = {}
 
 
-def walk_markdown(start_path):
-    # Walk the directory structure
-    for root, dirs, files in os.walk(start_path):
-        # Ignore the .obsidian folder
-        if '.obsidian' in dirs:
-            dirs.remove('.obsidian')
-
-        # Ignore the attachments folder, except for the shared folder
-        if attachments_folder in dirs and not root.endswith('!shared'):
-            dirs.remove(attachments_folder)
-
+def walk_files(root_path, file_type, exclude_folders=[]):
+    # walk the directory structure
+    for root, dirs, files in os.walk(root_path):
+        # ignore the exclude folders
+        for exclude_folder in exclude_folders:
+            if exclude_folder in dirs:
+                dirs.remove(exclude_folder)
+        
         for file in files:
-            if file.endswith('.md'):
+            if file.endswith(file_type):
                 file_path = os.path.join(root, file)
                 yield file_path
+
+def walk_markdown(root_path):
+    return walk_files(root_path, '.md', ['.obsidian', attachments_folder])
+        
+
+def read_front_matter(lines):
+    # files without front matter
+    if not lines or lines[0].strip() != '---':
+        return {}
+    
+    front_matter = {}
+    current_key = None
+    for line in lines[1:]:
+        stripped_line = line.strip()
+
+        # end of front matter
+        if stripped_line == '---':
+            break
+
+        # list value
+        if stripped_line.startswith('-'):
+            if current_key:
+                front_matter[current_key].append(stripped_line[1:].strip())
+        else:
+            key_value = stripped_line.split(':')
+            # actually contains ':'
+            if len(key_value) == 2:
+                current_key = key_value[0].strip()
+
+                # ignore keys not in the properties list
+                if current_key not in properties:
+                    current_key = None
+                    continue
+                    
+                # single-line key-value pair
+                if key_value[1]:
+                    value = key_value[1].strip()
+                    if value:
+                        front_matter[current_key] = value
+                    
+                # multi-line key-value pair
+                else :    
+                    front_matter[current_key] = []
+
+    return front_matter
 
 
 def read_uid(file_path):
@@ -52,20 +95,12 @@ def read_uid(file_path):
     # Check whether the file is empty
     if len(lines) == 0:
         return
-
-    # Check if the file contains front matter
-    if lines[0].strip() == '---':
-        front_matter = {}
-        for line in lines[1:]:
-            if line.strip() == '---':
-                break
-            key_value = line.strip().split(':')
-            if len(key_value) == 2:
-                front_matter[key_value[0].strip()] = key_value[1].strip()
-
-        uid = front_matter.get('uid', None)
-        if uid:
-            return uid
+    
+    front_matter = read_front_matter(lines)
+    print(front_matter)
+    uid = front_matter.get('uid', None)
+    if uid:
+        return uid
 
 
 def register_uids(start_path):
@@ -100,12 +135,6 @@ def create_index(start_path):
     index = {}
 
     for file_path in walk_markdown(start_path):
-        uid = read_uid(file_path)
-        if not uid:
-            uid = create_uid()
-            uids[uid] = file_path
-                
-        # Create the file ID and add the file to the index
         file_id = os.path.relpath(file_path, start_path).replace('\\', '/')
         parts = file_id.split('/')
         current_level = index
@@ -116,9 +145,11 @@ def create_index(start_path):
             'created_time': str(int(os.path.getctime(file_path))),
             'last_modified_time': str(int(os.path.getmtime(file_path))),
         }
-        # add uid if it exists for this file
-        if uid:
-            current_level[parts[-1]]['uid'] = uid
+        uid = read_uid(file_path)
+        if not uid:
+            uid = create_uid()
+            uids[uid] = file_path
+        current_level[parts[-1]]['uid'] = uid
 
     return index
 
