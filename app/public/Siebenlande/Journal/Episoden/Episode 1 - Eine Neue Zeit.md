@@ -3,6 +3,7 @@ aliases:
   - Episode 1
 tags:
   - Episode
+uid: ep1
 ---
 *[[Episode 0 - Prolog|Zurück zu Episode 0]]*
 

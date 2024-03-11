@@ -102,6 +102,17 @@ def read_uid(file_path):
     if uid:
         return uid
 
+def write_uid(file_path, uid):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    uid_str = f'"{uid}"' if uid.isdigit() else uid  # Wrap the UID in quotes if it's only a number
+    if lines and lines[0] == '---\n':  # Check if the file has a front matter
+        front_matter_end = lines.index('---\n', 1) if '---\n' in lines[1:] else 1
+        lines.insert(front_matter_end, f'uid: {uid_str}\n')
+    else:  # If the file doesn't have a front matter, create one
+        lines = ['---\n', f'uid: {uid_str}\n', '---\n'] + lines
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.writelines(lines)
 
 def register_uids(start_path):
     for file_path in walk_markdown(start_path):
@@ -149,6 +160,7 @@ def create_index(start_path):
         if not uid:
             uid = create_uid()
             uids[uid] = file_path
+            write_uid(file_path, uid)
         current_level[parts[-1]]['uid'] = uid
 
     return index
