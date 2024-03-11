@@ -1,3 +1,6 @@
+---
+uid: 2a
+---
 Nach einem kräftezehrenden Kampf, am Ende eines langen Tages, oder vor einer großen Schlacht, können Charaktere sich nach Belieben dazu entscheiden zu rasten, um so ihre [[Ausdauer]] zu regenerieren, von unliebsamen [[Statuseffekt|Statusveränderungen]] befreit zu werden, oder ihre Zauberplätze wieder aufzufüllen. Ein Charakter, der nicht mindestens **1 Ausdauerpunkt** übrig hat, kann nicht rasten und muss zuerst gerettet werden.
 
 Rasten gibt es in zwei Varianten:

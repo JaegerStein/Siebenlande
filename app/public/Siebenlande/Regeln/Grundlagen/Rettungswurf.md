@@ -1,3 +1,6 @@
+---
+uid: 2b
+---
 Arten von Rettungswürfen:
 
 -   Reflex (STÄ o. ATH o. GES)

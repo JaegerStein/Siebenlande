@@ -1,9 +1,10 @@
 ---
+uid: home
 tags:
   - Meta
 aliases:
   - Home
-uid: HOME
+  - Start
 ---
 # Übersicht
 - [[Journal]]

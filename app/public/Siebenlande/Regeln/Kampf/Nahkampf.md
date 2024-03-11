@@ -1,3 +1,6 @@
+---
+uid: 2f
+---
 # Flankieren
 ![[flank1.png|300]]![[flank2.png|300]]
 Frontal (grün): Angriffe sind unbeeinflusst.  

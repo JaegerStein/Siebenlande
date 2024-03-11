@@ -1,3 +1,6 @@
+---
+uid: "21"
+---
 Unter **Fähigkeiten** werden die alltäglichen und weniger üblichen Befähigungen eines Charakters verstanden. Diese geben Boni in Höhe des Fähigkeitswertes auf entsprechende Würfe.
 Fähigkeitskosten berechnen sich identisch zu [[Attribute|Attributskosten]]. Der Standardwert jeder Fähigkeit ist 0.
 

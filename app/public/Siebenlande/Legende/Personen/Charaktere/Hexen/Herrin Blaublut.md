@@ -1,3 +1,6 @@
+---
+uid: "17"
+---
 - Hexe, die für ihre Taten sehr bekannt ist und der Gruppe in [[Viasti]] begegnet
 - Kontrahentin von [[Imerol, der Geisterjäger]]
 - hilft Norwa beim Brechen seines Fluches

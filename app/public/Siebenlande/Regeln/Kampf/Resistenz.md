@@ -1,3 +1,6 @@
+---
+uid: 2g
+---
 **Resistenzen** ermöglichen es, einen Teil des eingehenden [[Schadensarten|Schadens der entsprechenden Art]] zu ignorieren. Dieser wird um die Höhe der Resistenz bis zu einem Minimum von 0 reduziert.
 
 ---
