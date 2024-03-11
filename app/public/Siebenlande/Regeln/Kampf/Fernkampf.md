@@ -1,3 +1,6 @@
+---
+uid: 2e
+---
 **Fernkampf** nutzt als [[Attribute|Attribut]]
 - *Geschick* für Geschosswaffen (Bögen, Armbrüste, etc.) und
 - *Athletik* für Wurfwaffen (Speere, Messer, Äxte, etc.)

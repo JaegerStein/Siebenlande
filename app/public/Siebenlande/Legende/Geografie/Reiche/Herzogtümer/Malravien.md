@@ -1,3 +1,6 @@
+---
+uid: a
+---
 <span class="img-right">![[malravien.jpg|300]]</span>
 **Malravien** (oder die **Niedermark**, wie das Großherzogtum gemeinhin in den [[Legende/Geografie/Siebenlande|Siebenlanden]] genannt wird) ist ein Protektorat des Königreichs [[Padrinal]].
 

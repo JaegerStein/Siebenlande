@@ -1,3 +1,6 @@
+---
+uid: 2d
+---
 Du rollst bei einem [[Attribute|Attributswurf]] zwei Würfel und nimmst das
 **Vorteil**:  höhere Ergebnis.
 **Nachteil**: niedrigere Ergebnis.

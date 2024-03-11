@@ -5,6 +5,7 @@ tags:
   - Geografie
   - Padrinal
   - Stadt
+uid: "3"
 ---
 Stadt in [[Padrinal]] und vor dem Drachangriff Heimat der Questerei "[[Fonte Latima]]", der unsere [[Abenteurergruppe]] einst angehörte.
 # Fonte Latima

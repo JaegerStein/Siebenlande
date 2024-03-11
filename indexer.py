@@ -100,6 +100,7 @@ def read_uid(file_path):
     print(front_matter)
     uid = front_matter.get('uid', None)
     if uid:
+        uid = uid.replace('"', '')
         return uid
 
 def write_uid(file_path, uid):
