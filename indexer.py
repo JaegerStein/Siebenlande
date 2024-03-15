@@ -21,7 +21,11 @@ vault_name = config.get('DEFAULT', 'VaultName')
 vault_path = config.get('DEFAULT', 'VaultPath')
 attachments_folder = config.get('DEFAULT', 'AttachmentsFolder')
 homepage = config.get('DEFAULT', 'Homepage')
-properties = config.get('DEFAULT', 'Properties').split(', ')
+
+uid = 'uid'
+aliases = 'aliases'
+tags = 'tags'
+properties = [uid, aliases, tags]
 
 # Initial UID
 uid_counter = 1
@@ -88,7 +92,7 @@ def read_front_matter(lines):
     return front_matter
 
 
-def read_uid(file_path):
+def read_properties(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
@@ -97,11 +101,15 @@ def read_uid(file_path):
         return
     
     front_matter = read_front_matter(lines)
-    print(front_matter)
     uid = front_matter.get('uid', None)
+    aliases = front_matter.get('aliases', None)
+    tags = front_matter.get('tags', None)
+    
+    # if uid only contains numbers, obsidian requires it to be wrapped in quotes, but they are not necessary here
     if uid:
         uid = uid.replace('"', '')
-        return uid
+    
+    return uid, aliases, tags
 
 def write_uid(file_path, uid):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -117,7 +125,7 @@ def write_uid(file_path, uid):
 
 def register_uids(start_path):
     for file_path in walk_markdown(start_path):
-        uid = read_uid(file_path)
+        uid, _, _ = read_properties(file_path)
         if uid:
             uids[uid] = file_path
 
@@ -157,12 +165,16 @@ def create_index(start_path):
             'created_time': str(int(os.path.getctime(file_path))),
             'last_modified_time': str(int(os.path.getmtime(file_path))),
         }
-        uid = read_uid(file_path)
+        uid, aliases, tags = read_properties(file_path)
         if not uid:
             uid = create_uid()
             uids[uid] = file_path
             write_uid(file_path, uid)
         current_level[parts[-1]]['uid'] = uid
+        if aliases:
+            current_level[parts[-1]]['aliases'] = aliases
+        if tags:
+            current_level[parts[-1]]['tags'] = tags
 
     return index
 
