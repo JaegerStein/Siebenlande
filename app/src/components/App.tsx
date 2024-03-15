@@ -8,7 +8,7 @@ import Right from './Right/Right';
 import Entry from './Center/Entry';
 
 import { loadJSON, loadText } from '../scripts/utils';
-import { Index } from '../scripts/types';
+import { Index, IndexEntry } from '../scripts/types';
 
 
 type SetIndex = Dispatch<SetStateAction<any>>;
@@ -19,15 +19,19 @@ const setSiteTitle = (title: string) => { document.title = title; }
 const App: FC = () => {
   const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
   const [openEntries, setOpenEntries]: [ReactNode[], SetOpenEntries] = useState<ReactNode[]>([]);
-
+  
+  const [entryRendered, SetEntryRendered] = useState<boolean>(false);
+  const onEntryRendered = () => SetEntryRendered(true);
   // index
   useEffect(() => { loadJSON('index.json').then(data => setIndex(data)); }, []);
   useEffect(() => { if (index.vault) setSiteTitle(index.vault); }, [index]);
 
   const openEntry = (entry: string) => {
-    loadText("/Siebenlande/" + entry).then(data => {
-      setOpenEntries(openEntries => [...openEntries, <Entry entry={entry} content={data} />]);
-    });
+    const keyPath: string[] = entry.split('/');
+    const indexEntry = keyPath.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, index.index as any);
+    console.log(indexEntry as IndexEntry);
+
+    setOpenEntries(openEntries => [...openEntries, <Entry entry={indexEntry} path={entry} onRendered={onEntryRendered}/>]);
   }
 
   return (
@@ -41,7 +45,7 @@ const App: FC = () => {
         </Center>
       </div>
       <div className='right'>
-        <Right openEntries={openEntries} />
+        <Right openEntries={openEntries} entryRendered={entryRendered} />
       </div>
     </>
   );

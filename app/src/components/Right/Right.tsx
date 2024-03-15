@@ -5,10 +5,12 @@ import '../../styles/Right.scss';
 
 interface RightProps {
     openEntries: ReactNode[];
+    entryRendered: boolean;
 }
 
-const Right: FC<RightProps> = ({ openEntries }: RightProps) => {
+const Right: FC<RightProps> = ({ openEntries, entryRendered }: RightProps) => {
     useEffect(() => {
+        if (!entryRendered) return;
         const river = el('river');
         const headers = river?.querySelectorAll('h1, h2, h3, h4, h5, h6');
         const navContainer = document.getElementById('navContainer');
@@ -33,7 +35,7 @@ const Right: FC<RightProps> = ({ openEntries }: RightProps) => {
             const br = document.createElement('br');
             navContainer?.appendChild(br);
         });
-    }, [openEntries]);
+    }, [openEntries, entryRendered]);
 
     return (
         <div id="navContainer">
