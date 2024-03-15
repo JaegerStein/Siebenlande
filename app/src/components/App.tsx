@@ -1,5 +1,4 @@
-import React, { ComponentType, Dispatch, FC, ReactNode, SetStateAction, useEffect, useState } from 'react';
-import logo from '../logo.svg';
+import { Dispatch, FC, ReactNode, SetStateAction, useEffect, useState } from 'react';
 import '../styles/App.scss';
 import '../styles/common/common.scss';
 
@@ -42,7 +41,7 @@ const App: FC = () => {
         </Center>
       </div>
       <div className='right'>
-        <Right openEntries={openEntries}/>
+        <Right openEntries={openEntries} />
       </div>
     </>
   );
