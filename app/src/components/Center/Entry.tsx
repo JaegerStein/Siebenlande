@@ -9,9 +9,10 @@ interface EntryProps {
     entry: IndexEntry;
     path: string;
     onRendered: () => void;
+    onEntryAction: (entry: string, action: string) => void;
 }
 
-const Entry: FC<EntryProps> = ({ entry, path, onRendered }: EntryProps) => {
+const Entry: FC<EntryProps> = ({ entry, path, onRendered, onEntryAction }: EntryProps) => {
     const [content, setContent] = useState<string>('');
 
     function removeFrontmatter(text: string): string {
@@ -41,7 +42,7 @@ const Entry: FC<EntryProps> = ({ entry, path, onRendered }: EntryProps) => {
             <div className='entry-header'>
                 <div className='entry-title'>
                     <h1>{entry.title}</h1>
-                    <button><X className='entry-x' /></button>
+                    <button onClick={() => onEntryAction(path, "close")}><X className='entry-x' /></button>
                 </div>
                 <div className='entry-meta'>
                 </div>

@@ -19,7 +19,8 @@ const setSiteTitle = (title: string) => { document.title = title; }
 const App: FC = () => {
   const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
   const [openEntries, setOpenEntries]: [ReactNode[], SetOpenEntries] = useState<ReactNode[]>([]);
-  
+  const openEntryList: string[] = [];
+
   const [entryRendered, SetEntryRendered] = useState<boolean>(false);
   const onEntryRendered = () => SetEntryRendered(true);
   // index
@@ -27,11 +28,31 @@ const App: FC = () => {
   useEffect(() => { if (index.vault) setSiteTitle(index.vault); }, [index]);
 
   const openEntry = (entry: string) => {
+    if (openEntryList.includes(entry)) return;
+
     const keyPath: string[] = entry.split('/');
     const indexEntry = keyPath.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, index.index as any);
     console.log(indexEntry as IndexEntry);
 
-    setOpenEntries(openEntries => [...openEntries, <Entry entry={indexEntry} path={entry} onRendered={onEntryRendered}/>]);
+    setOpenEntries(openEntries => [...openEntries, <Entry entry={indexEntry} path={entry} onRendered={onEntryRendered} onEntryAction={onEntryAction}/>]);
+    openEntryList.push(entry);
+  }
+
+  const closeEntry = (entry: string) => {
+    const index = openEntryList.indexOf(entry);
+    if (index === -1) return;
+
+    openEntryList.splice(index, 1);
+    setOpenEntries(openEntries => {
+      const newOpenEntries = [...openEntries];
+      newOpenEntries.splice(index, 1);
+      return newOpenEntries;
+    });
+  }
+
+  const onEntryAction = (entry: string, action: string) => {
+    if (action === 'close') closeEntry(entry);
+    else if (action === 'open') openEntry(entry);
   }
 
   return (
