@@ -1,7 +1,7 @@
 import React, { FC, useState } from 'react';
 import Link from '../common/Link';
 import { OpenEntry } from '../../scripts/types';
-import { ReactComponent as V } from '../../assets/v.svg'; // Path:
+import { ReactComponent as V } from '../../assets/v.svg';
 
 interface TreeNodeProps {
   node: any;

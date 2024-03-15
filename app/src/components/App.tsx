@@ -9,17 +9,16 @@ import Right from './Right/Right';
 import Entry from './Center/Entry';
 
 import { loadJSON, loadText } from '../scripts/utils';
-import { IndexNode } from '../scripts/IndexNode';
+import { Index } from '../scripts/types';
+
 
 type SetIndex = Dispatch<SetStateAction<any>>;
 type SetOpenEntries = Dispatch<SetStateAction<ReactNode[]>>;
 
-type Index = IndexNode[];
-
 const setSiteTitle = (title: string) => { document.title = title; }
 
 const App: FC = () => {
-  const [index, setIndex]: [any, SetIndex] = useState({});
+  const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
   const [openEntries, setOpenEntries]: [ReactNode[], SetOpenEntries] = useState<ReactNode[]>([]);
 
   // index
@@ -28,7 +27,7 @@ const App: FC = () => {
 
   const openEntry = (entry: string) => {
     loadText("/Siebenlande/" + entry).then(data => {
-      setOpenEntries(openEntries => [...openEntries, <Entry title={entry} content={data} />]);
+      setOpenEntries(openEntries => [...openEntries, <Entry entry={entry} content={data} />]);
     });
   }
 

@@ -162,8 +162,8 @@ def create_index(start_path):
             current_level = current_level.setdefault(part, {})
         current_level[parts[-1]] = {
             'title': os.path.splitext(parts[-1])[0],
-            'created_time': str(int(os.path.getctime(file_path))),
-            'last_modified_time': str(int(os.path.getmtime(file_path))),
+            'created_time': int(os.path.getctime(file_path)),
+            'last_modified_time': int(os.path.getmtime(file_path)),
         }
         uid, aliases, tags = read_properties(file_path)
         if not uid:
