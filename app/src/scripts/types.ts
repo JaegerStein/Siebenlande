@@ -18,13 +18,11 @@ interface IndexEntry {
 }
 export type { Index, IndexFolder, IndexEntry };
 
+type OpenEntry = (entry: string, middleMouse?: boolean) => void;
+export type { OpenEntry };
+
 enum EntryAction {
     OPEN = 'open',
     CLOSE = 'close'
 }
-
-type OpenEntry = (entry: string, middleMouse?: boolean) => void;
-
-export type { EntryAction, OpenEntry };
-
-
+export {EntryAction}

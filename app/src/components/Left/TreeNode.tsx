@@ -1,14 +1,14 @@
-import React, { FC, useState } from 'react';
+import React, { FC, useContext, useState } from 'react';
 import Link from '../common/Link';
-import { OpenEntry } from '../../scripts/types';
+import { EntryAction, OpenEntry } from '../../scripts/types';
 import { ReactComponent as V } from '../../assets/v.svg';
+import { EntryContext } from '../App';
 
 interface TreeNodeProps {
   node: any;
   nodeName: string;
   path: string;
   depth?: number;
-  openEntry: OpenEntry;
 }
 
 const sortKeys = (node: any) => {
@@ -26,9 +26,12 @@ const sortKeys = (node: any) => {
 
 const appendPath = (path: string, nodeName: string) => `${path}${path ? '/' : ''}${nodeName}`;
 
-const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1, openEntry }) => {
+const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1 }) => {
   const [isOpen, setIsOpen] = useState<boolean>(false);
   const isFolder = typeof node === 'object' && !node.hasOwnProperty('title');
+
+  const {entryAction} = useContext(EntryContext)!;
+  const openEntry = (entry: string) => entryAction(entry, EntryAction.OPEN);
 
   const handleFolderClick = () => setIsOpen(!isOpen);
 
@@ -40,7 +43,6 @@ const TreeNode: FC<TreeNodeProps> = ({ node, nodeName, path, depth = -1, openEnt
       nodeName={key}
       path={appendPath(path, nodeName)}
       depth={depth + 1}
-      openEntry={openEntry}
     />
   ));
 

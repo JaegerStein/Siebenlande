@@ -3,15 +3,13 @@ import {Index} from '../../scripts/types';
 import TreeNode from './TreeNode';
 import { IndexContext } from '../App';
 
-interface LeftTreeProps { openEntry: (entry: string) => void }
-
-const LeftTree: FC<LeftTreeProps> = ({openEntry }: LeftTreeProps) => {
+const LeftTree: FC = () => {
     const [treeNodes, setTreeNodes] = useState<JSX.Element[]>([]);
     const {index} = useContext(IndexContext);
 
     useEffect(() => {
         if (index.index) {
-            const nodes = <TreeNode key="root" nodeName="" node={index.index} path="" openEntry={openEntry} />;
+            const nodes = <TreeNode key="root" nodeName="" node={index.index} path="" />;
             setTreeNodes([nodes]);
         }
     }, [index]);

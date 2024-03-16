@@ -11,7 +11,7 @@ import Left from './Left/Left';
 import Right from './Right/Right';
 
 // Scripts and types
-import { Index, IndexEntry } from '../scripts/types';
+import { EntryAction, Index, IndexEntry } from '../scripts/types';
 import { loadJSON, setTitle } from '../scripts/utils';
 
 
@@ -24,13 +24,18 @@ type SetOpenEntries = Dispatch<SetStateAction<OpenEntries>>;
 interface IndexContextType { index: Index; }
 export const IndexContext = createContext<IndexContextType>({ index: {} as Index });
 
+interface EntryContextType {
+  openEntries: OpenEntries;
+  entryAction: (entry: string, action: EntryAction) => void;
+  renderEntry: (renderFinished: boolean) => void;
+}
+export const EntryContext = createContext<EntryContextType>({ openEntries: {}, entryAction: () => { }, renderEntry: () => { } });
+
 const App: FC = () => {
   const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
-
   const [openEntries, setOpenEntries]: [OpenEntries, SetOpenEntries] = useState<OpenEntries>({});
-
-  const [entryRendered, SetEntryRendered] = useState<boolean>(false);
-  const onEntryRendered = () => SetEntryRendered(true);
+  const [entryRendered, setEntryRendered] = useState<boolean>(true);
+  const renderEntry = (renderFinished: boolean) => setEntryRendered(renderFinished);
 
   // index
   useEffect(() => { loadJSON('index.json').then(data => setIndex(data)); }, []);
@@ -45,7 +50,7 @@ const App: FC = () => {
     const keyPath: string[] = entry.split('/');
     const indexEntry = keyPath.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, index.index as any);
 
-    setOpenEntries(openEntries => ({ ...openEntries, [entry]: <Entry entry={indexEntry} path={entry} onRendered={onEntryRendered} onEntryAction={onEntryAction} /> }));
+    setOpenEntries(openEntries => ({ ...openEntries, [entry]: <Entry entry={indexEntry} path={entry} /> }));
   }
 
   const closeEntry = (entry: string) => {
@@ -58,28 +63,30 @@ const App: FC = () => {
     });
   }
 
-  const onEntryAction = (entry: string, action: string) => {
+  const entryAction = (entry: string, action: string) => {
     if (action === 'close') closeEntry(entry);
     else if (action === 'open') openEntry(entry);
   }
 
   return (
     <IndexContext.Provider value={{ index }}>
-      <div className='left'>
-        <Left openEntry={openEntry} />
-      </div>
-      <div className='center'>
-        <Center>
-          {Object.entries(openEntries).map(([key, value]) =>
-            <Fragment key={key}>
-              {value}
-            </ Fragment>
-          )}
-        </Center>
-      </div>
-      <div className='right'>
-        <Right openEntries={Object.values(openEntries)} entryRendered={entryRendered} />
-      </div>
+      <EntryContext.Provider value={{ openEntries, entryAction, renderEntry }}>
+        <div className='left'>
+          <Left />
+        </div>
+        <div className='center'>
+          <Center>
+            {Object.entries(openEntries).map(([key, value]) =>
+              <Fragment key={key}>
+                {value}
+              </ Fragment>
+            )}
+          </Center>
+        </div>
+        <div className='right'>
+          <Right openEntries={Object.values(openEntries)} entryRendered={entryRendered} />
+        </div>
+      </EntryContext.Provider>
     </IndexContext.Provider>
   );
 }

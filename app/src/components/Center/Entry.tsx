@@ -1,19 +1,19 @@
-import React, { FC, useEffect, useState } from 'react';
+import React, { FC, useContext, useEffect, useState } from 'react';
 import Markdown from 'react-markdown';
-import { IndexEntry } from '../../scripts/types';
+import { EntryAction, IndexEntry } from '../../scripts/types';
 
 import { ReactComponent as X } from '../../assets/x.svg';
 import { loadText } from '../../scripts/utils';
+import { EntryContext } from '../App';
 
 interface EntryProps {
     entry: IndexEntry;
     path: string;
-    onRendered: () => void;
-    onEntryAction: (entry: string, action: string) => void;
 }
 
-const Entry: FC<EntryProps> = ({ entry, path, onRendered, onEntryAction }: EntryProps) => {
+const Entry: FC<EntryProps> = ({ entry, path }: EntryProps) => {
     const [content, setContent] = useState<string>('');
+    const {entryAction, renderEntry} = useContext(EntryContext);
 
     function removeFrontmatter(text: string): string {
         const lines = text.split('\n');
@@ -31,9 +31,10 @@ const Entry: FC<EntryProps> = ({ entry, path, onRendered, onEntryAction }: Entry
     }
 
     useEffect(() => {
+        renderEntry(false);
         loadText("/Siebenlande/" + path).then(data => {
             setContent(removeFrontmatter(data));
-            onRendered();
+            renderEntry(true);
         });
     }, []);
 
@@ -42,7 +43,7 @@ const Entry: FC<EntryProps> = ({ entry, path, onRendered, onEntryAction }: Entry
             <div className='entry-header'>
                 <div className='entry-title'>
                     <h1>{entry.title}</h1>
-                    <button onClick={() => onEntryAction(path, "close")}><X className='entry-x' /></button>
+                    <button onClick={() => entryAction(path, EntryAction.CLOSE)}><X className='entry-x' /></button>
                 </div>
                 <div className='entry-meta'>
                 </div>
