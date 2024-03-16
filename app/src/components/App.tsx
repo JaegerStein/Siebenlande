@@ -1,4 +1,4 @@
-import { createContext, Dispatch, FC, ReactNode, SetStateAction, useEffect, useState } from 'react';
+import { createContext, Dispatch, FC, Fragment, ReactNode, SetStateAction, useEffect, useState } from 'react';
 
 // Styles
 import '../styles/App.scss';
@@ -17,19 +17,21 @@ import { loadJSON, setTitle } from '../scripts/utils';
 
 // State action shorthand types
 type SetIndex = Dispatch<SetStateAction<Index>>;
-type SetOpenEntries = Dispatch<SetStateAction<ReactNode[]>>;
+type OpenEntries = { [key: string]: ReactNode };
+type SetOpenEntries = Dispatch<SetStateAction<OpenEntries>>;
 
 // App context
-interface IndexContextType {  index: Index;}
+interface IndexContextType { index: Index; }
 export const IndexContext = createContext<IndexContextType>({ index: {} as Index });
 
 const App: FC = () => {
   const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
-  const [openEntries, setOpenEntries]: [ReactNode[], SetOpenEntries] = useState<ReactNode[]>([]);
-  const openEntryList: string[] = [];
+
+  const [openEntries, setOpenEntries]: [OpenEntries, SetOpenEntries] = useState<OpenEntries>({});
 
   const [entryRendered, SetEntryRendered] = useState<boolean>(false);
   const onEntryRendered = () => SetEntryRendered(true);
+
   // index
   useEffect(() => { loadJSON('index.json').then(data => setIndex(data)); }, []);
   useEffect(() => {
@@ -38,23 +40,20 @@ const App: FC = () => {
   }, [index]);
 
   const openEntry = (entry: string) => {
-    if (openEntryList.includes(entry)) return;
+    if (openEntries[entry]) return;
 
     const keyPath: string[] = entry.split('/');
     const indexEntry = keyPath.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, index.index as any);
 
-    setOpenEntries(openEntries => [...openEntries, <Entry entry={indexEntry} path={entry} onRendered={onEntryRendered} onEntryAction={onEntryAction}/>]);
-    openEntryList.push(entry);
+    setOpenEntries(openEntries => ({ ...openEntries, [entry]: <Entry entry={indexEntry} path={entry} onRendered={onEntryRendered} onEntryAction={onEntryAction} /> }));
   }
 
   const closeEntry = (entry: string) => {
-    const index = openEntryList.indexOf(entry);
-    if (index === -1) return;
-
-    openEntryList.splice(index, 1);
     setOpenEntries(openEntries => {
-      const newOpenEntries = [...openEntries];
-      newOpenEntries.splice(index, 1);
+      if (!openEntries[entry]) return openEntries;
+
+      const newOpenEntries = { ...openEntries };
+      delete newOpenEntries[entry];
       return newOpenEntries;
     });
   }
@@ -65,17 +64,21 @@ const App: FC = () => {
   }
 
   return (
-    <IndexContext.Provider value={{index}}>
+    <IndexContext.Provider value={{ index }}>
       <div className='left'>
         <Left openEntry={openEntry} />
       </div>
       <div className='center'>
         <Center>
-          {openEntries || <></ >}
+          {Object.entries(openEntries).map(([key, value]) =>
+            <Fragment key={key}>
+              {value}
+            </ Fragment>
+          )}
         </Center>
       </div>
       <div className='right'>
-        <Right openEntries={openEntries} entryRendered={entryRendered} />
+        <Right openEntries={Object.values(openEntries)} entryRendered={entryRendered} />
       </div>
     </IndexContext.Provider>
   );
