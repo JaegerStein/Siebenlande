@@ -1,11 +1,13 @@
-import React, { FC, useEffect, useState } from 'react';
+import React, { FC, useContext, useEffect, useState } from 'react';
 import {Index} from '../../scripts/types';
 import TreeNode from './TreeNode';
+import { AppContext } from '../App';
 
-interface LeftTreeProps { index: Index, openEntry: (entry: string) => void }
+interface LeftTreeProps { openEntry: (entry: string) => void }
 
-const LeftTree: FC<LeftTreeProps> = ({ index, openEntry }: LeftTreeProps) => {
+const LeftTree: FC<LeftTreeProps> = ({openEntry }: LeftTreeProps) => {
     const [treeNodes, setTreeNodes] = useState<JSX.Element[]>([]);
+    const {index} = useContext(AppContext);
 
     useEffect(() => {
         if (index.index) {

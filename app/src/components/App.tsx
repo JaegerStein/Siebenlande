@@ -1,20 +1,27 @@
-import { Dispatch, FC, ReactNode, SetStateAction, useEffect, useState } from 'react';
+import { createContext, Dispatch, FC, ReactNode, SetStateAction, useEffect, useState } from 'react';
+
+// Styles
 import '../styles/App.scss';
 import '../styles/common/common.scss';
 
-import Left from './Left/Left';
+// Components
 import Center from './Center/Center';
-import Right from './Right/Right';
 import Entry from './Center/Entry';
+import Left from './Left/Left';
+import Right from './Right/Right';
 
-import { loadJSON, loadText } from '../scripts/utils';
+// Scripts and types
 import { Index, IndexEntry } from '../scripts/types';
+import { loadJSON, setTitle } from '../scripts/utils';
 
 
-type SetIndex = Dispatch<SetStateAction<any>>;
+// State action shorthand types
+type SetIndex = Dispatch<SetStateAction<Index>>;
 type SetOpenEntries = Dispatch<SetStateAction<ReactNode[]>>;
 
-const setSiteTitle = (title: string) => { document.title = title; }
+// App context
+interface AppContextType {  index: Index;}
+export const AppContext = createContext<AppContextType>({ index: {} as Index });
 
 const App: FC = () => {
   const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
@@ -25,7 +32,10 @@ const App: FC = () => {
   const onEntryRendered = () => SetEntryRendered(true);
   // index
   useEffect(() => { loadJSON('index.json').then(data => setIndex(data)); }, []);
-  useEffect(() => { if (index.vault) setSiteTitle(index.vault); }, [index]);
+  useEffect(() => {
+    if (index.vault) setTitle(index.vault);
+    if (index.homepage) openEntry(index.homepage);
+  }, [index]);
 
   const openEntry = (entry: string) => {
     if (openEntryList.includes(entry)) return;
@@ -56,9 +66,9 @@ const App: FC = () => {
   }
 
   return (
-    <>
+    <AppContext.Provider value={{index}}>
       <div className='left'>
-        <Left index={index} openEntry={openEntry} />
+        <Left openEntry={openEntry} />
       </div>
       <div className='center'>
         <Center>
@@ -68,7 +78,7 @@ const App: FC = () => {
       <div className='right'>
         <Right openEntries={openEntries} entryRendered={entryRendered} />
       </div>
-    </>
+    </AppContext.Provider>
   );
 }
 

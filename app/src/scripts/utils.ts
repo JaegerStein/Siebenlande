@@ -14,3 +14,6 @@ const loadText = async (url: string): Promise<string> => {
     catch (error) { return "Der Eintrag konnte nicht geladen werden."; }
 };
 export { loadJSON, loadText }
+
+const setTitle = (title: string): void => { document.title = title; };
+export { setTitle }

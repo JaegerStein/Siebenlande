@@ -9,6 +9,11 @@ interface IndexFolder {
     contents?: (IndexFolder | IndexEntry)[]
 }
 
+enum EntryAction {
+    OPEN = 'open',
+    CLOSE = 'close'
+}
+
 interface IndexEntry {
     title: string;
     created_time: number;
@@ -20,6 +25,6 @@ interface IndexEntry {
 
 type OpenEntry = (entry: string, middleMouse?: boolean) => void;
 
-export type { Index, IndexFolder, IndexEntry, OpenEntry };
+export type { Index, EntryAction, IndexFolder, IndexEntry, OpenEntry };
 
 
