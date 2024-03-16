@@ -45,11 +45,12 @@ const App: FC = () => {
   }, [index]);
 
   const openEntry = (entry: string) => {
-    if (openEntries[entry]) return;
+    if (openEntries[entry] || !entryRendered) return;
 
     const keyPath: string[] = entry.split('/');
     const indexEntry = keyPath.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, index.index as any);
 
+    renderEntry(false);
     setOpenEntries(openEntries => ({ ...openEntries, [entry]: <Entry entry={indexEntry} path={entry} /> }));
   }
 

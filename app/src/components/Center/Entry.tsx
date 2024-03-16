@@ -31,7 +31,6 @@ const Entry: FC<EntryProps> = ({ entry, path }: EntryProps) => {
     }
 
     useEffect(() => {
-        renderEntry(false);
         loadText("/Siebenlande/" + path).then(data => {
             setContent(removeFrontmatter(data));
             renderEntry(true);
