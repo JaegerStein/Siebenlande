@@ -20,8 +20,8 @@ type SetIndex = Dispatch<SetStateAction<Index>>;
 type SetOpenEntries = Dispatch<SetStateAction<ReactNode[]>>;
 
 // App context
-interface AppContextType {  index: Index;}
-export const AppContext = createContext<AppContextType>({ index: {} as Index });
+interface IndexContextType {  index: Index;}
+export const IndexContext = createContext<IndexContextType>({ index: {} as Index });
 
 const App: FC = () => {
   const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
@@ -42,7 +42,6 @@ const App: FC = () => {
 
     const keyPath: string[] = entry.split('/');
     const indexEntry = keyPath.reduce((obj, key) => (obj && obj[key] !== 'undefined') ? obj[key] : null, index.index as any);
-    console.log(indexEntry as IndexEntry);
 
     setOpenEntries(openEntries => [...openEntries, <Entry entry={indexEntry} path={entry} onRendered={onEntryRendered} onEntryAction={onEntryAction}/>]);
     openEntryList.push(entry);
@@ -66,7 +65,7 @@ const App: FC = () => {
   }
 
   return (
-    <AppContext.Provider value={{index}}>
+    <IndexContext.Provider value={{index}}>
       <div className='left'>
         <Left openEntry={openEntry} />
       </div>
@@ -78,7 +77,7 @@ const App: FC = () => {
       <div className='right'>
         <Right openEntries={openEntries} entryRendered={entryRendered} />
       </div>
-    </AppContext.Provider>
+    </IndexContext.Provider>
   );
 }
 
