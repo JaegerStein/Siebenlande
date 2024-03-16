@@ -46,8 +46,8 @@ const Entry: FC<EntryProps> = ({ entry, path }: EntryProps) => {
                 </div>
                 <div className='entry-meta'>
                 </div>
+                <hr></hr>
             </div>
-            <hr></hr>
             <div className='entry-body'>
                 <Markdown>{content}</Markdown>
             </div>

@@ -8,37 +8,51 @@
 }
 
 .entry {
+    margin: 3rem 0;
     max-width: 75ch;
     width: 100%;
 
     list-style: inside;
 
-    .entry-title {
-        height: 4rem;
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
+    .entry-header {
 
-        button {
+        .entry-title {
+            height: 4rem;
+            width: 100%;
             display: flex;
+            justify-content: space-between;
             align-items: center;
-            justify-content: center;
-            border: none;
-            border-radius: 50%;
-            margin: .75rem;
-            background-color: $color-background;
-            
-            &:hover {
-                background-color: $color-body;
-                outline: 1px solid $color-font-light;
+
+            h1 {
+                font-size: 3rem;
+                font-weight: 200;
             }
-            
-            .entry-x {
-                width: 2rem;
-                height: 2rem;
+
+            button {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border: none;
+                border-radius: 50%;
+                margin: .75rem;
+                background-color: $color-background;
+
+                &:hover {
+                    background-color: $color-body;
+                    outline: 1px solid $color-font-light;
+                }
+
+                .entry-x {
+                    width: 2rem;
+                    height: 2rem;
+                }
             }
         }
-    }
 
+        hr {
+            margin: 1rem 0;
+            border: none;
+            border-top: 4px solid $color-background;
+        }
+    }
 }
