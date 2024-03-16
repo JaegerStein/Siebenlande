@@ -3,6 +3,13 @@ const sel = (query: string): HTMLElement | null => document.querySelector(query)
 const selAll = (query: string): NodeListOf<HTMLElement> => document.querySelectorAll(query);
 export { el, sel, selAll }
 
+//
+
+const setTitle = (title: string): void => { document.title = title; };
+export { setTitle }
+
+//
+
 async function load(url: string): Promise<Response> {
     const response: Response = await fetch(url);
     if (!response.ok || response.headers.get('Content-Type')?.includes('text/html')) throw new Error(`Failed to load ${url}`);
@@ -15,5 +22,3 @@ const loadText = async (url: string): Promise<string> => {
 };
 export { loadJSON, loadText }
 
-const setTitle = (title: string): void => { document.title = title; };
-export { setTitle }
