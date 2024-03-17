@@ -1,4 +1,5 @@
 @import 'common/colors.scss';
+@import 'common/fonts.scss';
 
 #river {
     width: 100%;
@@ -13,11 +14,52 @@
     width: 100%;
 
     list-style: inside;
+    color: $color-font;
 
     .entry-header {
 
+        .entry-path {
+            font-weight: 100;
+            color: $color-font-light;
+            font-size: .9rem;
+            line-height: .9rem;
+        }
+
+        button {
+            float: right;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: none;
+            border-radius: 50%;
+            padding: .25rem;
+            background-color: $color-background;
+
+            svg {
+                path {
+                    fill: $color-font-light;
+                }
+            }
+
+            &:hover {
+                background-color: $color-font-light;
+                cursor: pointer;
+
+                svg {
+                    path {
+                        fill: $color-body;
+                    }
+                }
+            }
+
+            .entry-x {
+                width: 1rem;
+                height: 1rem;
+            }
+        }
+
         .entry-title {
-            height: 4rem;
+            margin-top: 1rem;
             width: 100%;
             display: flex;
             justify-content: space-between;
@@ -25,40 +67,38 @@
 
             h1 {
                 font-size: 3rem;
-                font-weight: 200;
+                line-height: 2.25rem;
+                font-weight: lighter;
+                font-family: 'Angie', serif;
             }
 
-            button {
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                border: none;
-                border-radius: 50%;
-                margin: .75rem;
-                padding: .25rem;
+        }
+
+        .entry-aliases {
+            font-family: 'Angie', serif;
+            font-size: 1rem;
+            line-height: 1rem;
+            font-weight: lighter;
+            font-style: italic;
+            color: $color-font-light;
+            padding-left: 1rem;
+        }
+
+        .entry-meta {
+            margin-top: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: start;
+            gap: 1rem;
+
+            .entry-tag {
+                font-size: 1rem;
+                line-height: 1rem;
+                padding: .25rem .25rem;
+                font-weight: normal;
+                color: $color-link;
                 background-color: $color-background;
-
-                svg {
-                    path {
-                        fill: $color-font-light;
-                    }
-                }
-
-                &:hover {
-                    background-color: $color-font-light;
-                    cursor: pointer;
-
-                    svg {
-                        path {
-                            fill: $color-body;
-                        }
-                    }
-                }
-
-                .entry-x {
-                    width: 2rem;
-                    height: 2rem;
-                }
+                border-radius: 1rem;
             }
         }
 
@@ -68,4 +108,5 @@
             border-top: 4px solid $color-background;
         }
     }
+
 }

@@ -15,6 +15,10 @@ const Entry: FC<EntryProps> = ({ entry, path }: EntryProps) => {
     const [content, setContent] = useState<string>('');
     const {entryAction, renderEntry} = useContext(EntryContext);
 
+    const entryPath: string = path.split('/').slice(0, -1).join('/') + '/';
+    const tags: string[] = entry.tags || [];
+    const aliases: string[] = entry.aliases || [];
+
     function removeFrontmatter(text: string): string {
         const lines = text.split('\n');
         if (lines[0].trim() === '---') {
@@ -39,11 +43,16 @@ const Entry: FC<EntryProps> = ({ entry, path }: EntryProps) => {
     return (
         <div className='entry'>
             <div className='entry-header'>
+                <span className='entry-path'>{entryPath}</span>
+                <button onClick={() => entryAction(path, EntryAction.CLOSE)}><X className='entry-x' /></button>
                 <div className='entry-title'>
                     <h1>{entry.title}</h1>
-                    <button onClick={() => entryAction(path, EntryAction.CLOSE)}><X className='entry-x' /></button>
                 </div>
+                <span className='entry-aliases'>{aliases.join(", ")}</span>
                 <div className='entry-meta'>
+                    {tags.map((tag, index) => (
+                        <span key={index} className='entry-tag'>{tag}</span>
+                    ))}
                 </div>
                 <hr></hr>
             </div>
