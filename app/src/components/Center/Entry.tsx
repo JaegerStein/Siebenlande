@@ -24,8 +24,7 @@ const Entry: FC<EntryProps> = ({ entry, path }: EntryProps) => {
             // this means frontmatter was not closed properly, just throw the whole text back
             if (i === lines.length) { return text; }
             
-            const [, ...contentLines] = lines.slice(i + 1);
-            return contentLines.join('\n');
+            return lines.slice(i + 1).join('\n');
         }
         return text;
     }
