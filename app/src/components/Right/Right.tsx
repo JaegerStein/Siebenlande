@@ -1,16 +1,15 @@
-import React, { FC, ReactNode, useEffect } from "react";
+import { useContext, useEffect } from "react";
 import { el } from "../../scripts/utils";
 
 import '../../styles/Right.scss';
+import { EntryContext } from "../App";
 
-interface RightProps {
-    openEntries: ReactNode[];
-    entryRendered: boolean;
-}
+const Right = () => {
+    const { openEntries, entryRendered } = useContext(EntryContext)
 
-const Right: FC<RightProps> = ({ openEntries, entryRendered }: RightProps) => {
     useEffect(() => {
         if (!entryRendered) return;
+        
         const river = el('river');
         const headers = river?.querySelectorAll('h1, h2, h3, h4, h5, h6');
         const navContainer = document.getElementById('navContainer');

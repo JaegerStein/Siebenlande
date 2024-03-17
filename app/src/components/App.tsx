@@ -28,8 +28,9 @@ interface EntryContextType {
   openEntries: OpenEntries;
   entryAction: (entry: string, action: EntryAction) => void;
   renderEntry: (renderFinished: boolean) => void;
+  entryRendered: boolean;
 }
-export const EntryContext = createContext<EntryContextType>({ openEntries: {}, entryAction: () => { }, renderEntry: () => { } });
+export const EntryContext = createContext<EntryContextType>({ openEntries: {}, entryAction: () => { }, renderEntry: () => { }, entryRendered: true});
 
 const App: FC = () => {
   const [index, setIndex]: [Index, SetIndex] = useState<Index>({} as Index);
@@ -71,7 +72,7 @@ const App: FC = () => {
 
   return (
     <IndexContext.Provider value={{ index }}>
-      <EntryContext.Provider value={{ openEntries, entryAction, renderEntry }}>
+      <EntryContext.Provider value={{ openEntries, entryAction, renderEntry, entryRendered }}>
         <div className='left'>
           <Left />
         </div>
@@ -85,7 +86,7 @@ const App: FC = () => {
           </Center>
         </div>
         <div className='right'>
-          <Right openEntries={Object.values(openEntries)} entryRendered={entryRendered} />
+          <Right />
         </div>
       </EntryContext.Provider>
     </IndexContext.Provider>
