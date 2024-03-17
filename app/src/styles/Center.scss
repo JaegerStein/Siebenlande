@@ -35,11 +35,24 @@
                 border: none;
                 border-radius: 50%;
                 margin: .75rem;
+                padding: .25rem;
                 background-color: $color-background;
 
+                svg {
+                    path {
+                        fill: $color-font-light;
+                    }
+                }
+
                 &:hover {
-                    background-color: $color-body;
-                    outline: 1px solid $color-font-light;
+                    background-color: $color-font-light;
+                    cursor: pointer;
+
+                    svg {
+                        path {
+                            fill: $color-body;
+                        }
+                    }
                 }
 
                 .entry-x {
