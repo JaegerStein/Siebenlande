@@ -5,18 +5,25 @@ $max-depth: 10;
 
 
 .right {
-    a {
-        color: $color-font;
-        text-decoration: none;
 
-        &:hover {
-            color: $color-link-hover;
+    .entry-nav-group {
+        margin: 1rem 0;
+
+        a {
+            color: $color-font;
+            text-decoration: none;
+            display: block;
+
+            &:hover {
+                color: $color-link-hover;
+            }
+        }
+
+        @for $i from 0 through $max-depth {
+            .depth-#{$i} {
+                padding-left: $indentation * $i;
+            }
         }
     }
 
-    @for $i from 0 through $max-depth {
-        .depth-#{$i} {
-            padding-left: $indentation * $i;
-        }
-    }
 }

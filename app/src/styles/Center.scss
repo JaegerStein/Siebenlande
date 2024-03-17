@@ -58,20 +58,12 @@
             }
         }
 
-        .entry-title {
-            margin-top: 1rem;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-
-            h1 {
+        h1.entry-title {
+                margin-top: 1rem;
                 font-size: 3rem;
                 line-height: 2.25rem;
                 font-weight: lighter;
                 font-family: 'Angie', serif;
-            }
-
         }
 
         .entry-aliases {
