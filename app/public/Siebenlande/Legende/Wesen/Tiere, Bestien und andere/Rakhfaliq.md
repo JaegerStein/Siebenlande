@@ -1,0 +1,2 @@
+- unbekannt, ob der Name einer ganzen Spezies oder des bestimmten Individuums
+- muss sich gegen Fion im Fightclub von [[Viasti]] duellieren, wo es bis zu seinem Tode kämpft
