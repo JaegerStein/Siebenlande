@@ -1,0 +1,2 @@
+- Frau aus [[Aussos]]
+- erzählt Fion und Artheus, dass ihr Mann [[Eladio]] bei den Prüfungen sowie einem Wettkampf des [[Kult des Kosmos|Kultes des Kosmos]] teilgenommen hat und seither vermisst wird

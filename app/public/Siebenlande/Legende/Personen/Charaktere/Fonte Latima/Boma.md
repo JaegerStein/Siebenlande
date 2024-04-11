@@ -3,4 +3,4 @@ uid: "10"
 ---
 #Charakter #Llekampa
 
-Llekampa, Teil der [[Abenteurergruppe]]
+Llekampa, Teil der [[Questerei Fonte Latima|Abenteurergruppe]]
