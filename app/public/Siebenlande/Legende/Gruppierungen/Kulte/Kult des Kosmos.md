@@ -10,5 +10,6 @@ Der Kult besitzt eine Niederlassung in [[Aussos]]. Die Zwerge heuern regelmäßi
 
 Namen, die mit dem Kult in Verbindung stehen:
 - [[Báfurr]]
+- [[Lofar]]
 - [[Lysglian]] 
 - [[Suðri Þorinul]]

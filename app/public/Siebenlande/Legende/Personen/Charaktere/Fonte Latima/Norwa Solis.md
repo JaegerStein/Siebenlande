@@ -1,5 +1,7 @@
 ---
 uid: "14"
+aliases:
+  - Norwa
 ---
 Weswam-Gnom, Teil der [[Questerei Fonte Latima|Abenteurergruppe]]
 

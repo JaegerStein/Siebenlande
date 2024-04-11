@@ -1,5 +1,7 @@
 ---
 uid: z
+aliases:
+  - Artheus
 ---
 #Charakter #Albe #Halbdämon
 

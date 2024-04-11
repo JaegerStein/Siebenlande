@@ -2,6 +2,7 @@
 aliases:
   - Fionn
   - Fion
+  - Fionnsgeul
 tags:
   - Charakter
   - Minotaure
