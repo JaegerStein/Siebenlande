@@ -7,6 +7,8 @@ uid: ep1
 ---
 *[[Episode 0 - Prolog|Zurück zu Episode 0]]*
 
+**Dauer:** 4 Sitzungen
+
 **12. bis 14. Schneeschmelze des Jahres 49, E2 Z5**
 
 In jedem Ende liegt ein neuer Anfang. Und so bekamen auch unsere Abenteurer eine neue Lebenschance. Triefend nass und geplagt von Eiseskälte erwachten sie, mit nichts mehr als blutdurchtränkten Kultistengewändern am Leibe, in einem ihnen unbekannten Schrein. Die Erinnerungen eines jeden Einzelnen an die Geschehnisse, was zwischen dem vernichtenden Drachenfeuer und dem Erwachen an diesem sonderbaren Ort passiert war, gingen weit auseinander. Was sollten sie nun tun? Welcher Zweck hat ihr neues Dasein?

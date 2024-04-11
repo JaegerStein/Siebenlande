@@ -7,6 +7,8 @@ uid: ep3
 ---
 *[[Episode 2 - Der Rattenkönig|Zurück zu Episode 2]]*
 
+**Dauer:** 20 Sitzungen
+
 **18. bis 40. Schneeschmelze des Jahres 49, E2 Z5**
 
 In den frühen Morgenstunden der 18. Schneeschmelze – der Tag, an dem die Handelskarawane mitsamt unserer Abenteurergruppe die Reise nach Viasti antrat – spürte Fliegdnich noch Vredec auf, um dessen Gespräch mit seinem mysteriösen Geschäftspartner zu belauschen. Dieser entpuppte sich als Kartjan Hamsa, der Vredec dafür bezahlte, eine Frau namens Asta mitzunehmen. Und obwohl Kartjan Fliegdnich entdeckte, zog er daraufhin wieder davon.
@@ -27,4 +29,4 @@ Während den nächsten vier Tagen passierten verschiedene Dinge: Dursam berichte
 
 Und so begaben sich die Sieben mit neuer Stärke an der 39. Schneeschmelze zu Phorials Kirche und traten durch das Portal. Auf der anderen Seite angekommen, befanden sie sich in einer Dimension, die Gelehrte ein psionisches Subkapitel nennen und die den Anschein einer düsteren Version von Phorials Kirche hatte. Dort duellierten sich Herrin Blaublut und Imerol, während der Wiederkehrer vorerst gebändigt hinter ihnen stand. Als die Gruppe hinzukam, versuchte sowohl die Hexe als auch der Geist sie von ihrem jeweiligen Plan zu überzeugen. Zwiegespalten entschieden sie sich, Herrin Blaublut anzugreifen, die ihnen wahrlich keinen einfachen Kampf bot. Doch am Ende starb sie und löste sich mitsamt ihrer beschworenen Schwerter auf. Daraufhin begab sich Imerol mit dem Wiederkehrer in die große Halle, holte die Hexe jedoch wieder aus einem Blutbecken hervor, um ihr dann den Geist einzutreiben und dadurch Norwa zu befreien. Dieser exekutierte sie schlussendlich, wodurch sich das psionische Subkapitel, das sich als Blaubluts Alptraum herausstellte, auflöste und die Gruppe zurück in Phorials Kirche brachte. Nach einem kurzen Gespräch mit Rinhardt, der ihnen eine Belohnung versprach, kehrten die Sieben erschöpft in die Taverne zurück.
 
-Fortsetzung folgt...
+[[Episode 4 - Titel folgt|Weiter zu Episode 4]]

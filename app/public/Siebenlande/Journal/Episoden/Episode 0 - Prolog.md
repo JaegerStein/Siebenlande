@@ -5,8 +5,9 @@ tags:
   - Episode
 uid: ep0
 ---
-**Dauer** 6 Sitzungen
-**Datum** 6. Schneeschmelze 68, 9. Epoche 4. Zeitalter
+**Dauer:** 6 Sitzungen
+
+**6. bis 11. Schneeschmelze des Jahres 68, E9 Z4**
 
 Die nächste Reise unserer siebenköpfigen Abenteurergruppe bestehend aus dem [[Halbdämon]]-[[Albe|Dunkelelfen]] **[[Artheus Panti]]**, der [[Llekampa]] **[[Boma]]**, dem [[Yespest]] **[[Dursam Goar]]**, dem [[Minotaure|Minotauren]] **[[Fionnsgeul Tarbh]]**, dem [[Kenku]] **[[Fliegdnich]]**, dem [[Weswam]]-[[Gnom]] **[[Norwa Solis]]** und dem [[Zwerg]] **[[Suðri Þorinul]]** steht bevor. Allesamt sind sie Mitglieder der [[Questerei]] "**[[Questerei Fonte Latima]]**" aus [[Studemont]] und auf der Suche nach Ruhm sowie der Verwirklichung ihrer persönlichen Ziele.
 
@@ -14,8 +15,6 @@ Nachdem sie vom [[Stevano von Latima|Grafen Stevano von Latima]] den [[Fäulnis 
 
 In dem Grabmal fand die Gruppe eine Reihe an Steintafeln vor - manch einer würde ihren Inhalt als Heldentaten der alten Menschen glorifizieren, andere wiederum sehen darin einen Genozid an allen anderen Völkern. Ferner haben die Abenteurer verschiedene nekromantische Schriftrollen entdeckt, die laut Fion aus Mesra stammen sollen, sowie sieben Goldmünzen mit jeweils verschiedenen Skelettköpfen, die sie unter sich aufteilten. Nachdem sie alles erkundet hatten, machten sie sich auf den Rückweg durch Malravien.
 
-**Datum** 11. Schneeschmelze
-
-In einem Dorf vor der Zwergenfestung Hadorim, welche den Zugang zu den Siebenlanden bewacht, verschlug sie es zur nächtlichen Rast in eine Taverne. Doch noch bevor die Abenteurer ihre Augen zum Schlaf verschließen konnten, vernahmen sie den Glockenalarm der Zwerge. Sie stürzten auf die Straße, nur um zu sehen, wie das weißbrennende Feuer eines Drachen mit gigantischer Spannweite ganze Häuser und ihre Bewohner verschluckte... und das war auch das Letzte, was sie sahen.
+In einem Dorf vor der Zwergenfestung Hadorim, welche den Zugang zu den Siebenlanden bewacht, verschlug sie es an der 11. Schneeschmelze zur nächtlichen Rast in eine Taverne. Doch noch bevor die Abenteurer ihre Augen zum Schlaf verschließen konnten, vernahmen sie den Glockenalarm der Zwerge. Sie stürzten auf die Straße, nur um zu sehen, wie das weißbrennende Feuer eines Drachen mit gigantischer Spannweite ganze Häuser und ihre Bewohner verschluckte... und das war auch das Letzte, was sie sahen.
 
 [[Episode 1 - Eine Neue Zeit|Weiter zu Episode 1]]
