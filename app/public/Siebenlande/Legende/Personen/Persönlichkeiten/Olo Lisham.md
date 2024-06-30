@@ -1,5 +1,5 @@
 ---
 uid: 1i
 ---
-Angebeteter Gott des Weswam-Gnome
+Angebeteter Gott der Weswam-Gnome
 

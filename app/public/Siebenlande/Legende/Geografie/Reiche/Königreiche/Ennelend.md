@@ -4,4 +4,4 @@ tags:
   - Reich
 uid: e
 ---
-Ein Reich in den [[Legende/Geografie/Siebenlande]]n westlich von [[Ausperlend]]. Die Einwohner Ennelends sehen sich entgegen den Ansichten des benachbarten Ausperlends als eigenes Land.
+Ein Reich in den [[Siebenlande|Siebenlanden]] westlich von [[Ausperlend]] und nördlich von [[Merin]]. Die Einwohner Ennelends sehen sich entgegen den Ansichten des benachbarten Ausperlends als eigenes Land.

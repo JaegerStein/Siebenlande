@@ -1,4 +1,4 @@
 ---
 uid: "16"
 ---
-Schleim, Teil der [[Abenteurergruppe]], der er in [[Viasti]] erst beitritt
+Schleim, Teil der [[Questerei Fonte Latima|Abenteurergruppe]], welcher er erst in [[Viasti]] beitritt

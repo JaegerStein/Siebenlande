@@ -1,4 +1,6 @@
 ---
 uid: "11"
+aliases:
+  - Dursam
 ---
-Yespest, Teil der [[Abenteurergruppe]]
+Yespest, Teil der [[Questerei Fonte Latima|Abenteurergruppe]]

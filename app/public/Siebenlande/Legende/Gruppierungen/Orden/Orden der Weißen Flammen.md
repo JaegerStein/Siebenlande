@@ -11,6 +11,7 @@ Mit der Ankunft des Drachen [[Matarvuld]] begann das Fünfte Zeitalter, auch gen
 
 Namen, von denen die Gruppe bisher gehört hat:
 - [[Matarvuld]]
+- [[Ryuhin]] oder auch Biànlung
 - [[Saskia]]
 - [[Tarón]]
 - [[Várvan]]
