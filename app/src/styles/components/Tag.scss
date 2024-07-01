@@ -1,0 +1,18 @@
+@import '../common/colors.scss';
+@import '../common/fonts.scss';
+
+.tag {
+    background-color: $link-tag;
+    color: $link-active;
+
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 1rem;
+    padding: 0 .5rem;
+
+    display: inline-flex;
+    align-items: center;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    box-shadow: 0 0 1px 0 rgba($link-active, .5);
+}

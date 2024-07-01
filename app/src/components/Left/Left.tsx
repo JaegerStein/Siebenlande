@@ -5,6 +5,7 @@ import LeftTree from "./LeftTree";
 
 import '../../styles/Left.scss';
 import { EntryContext, IndexContext } from "../App";
+import Tag from "../common/Tag";
 
 const Left: FC = () => {
     const {index} = useContext(IndexContext);
@@ -12,6 +13,7 @@ const Left: FC = () => {
     return (
         <div>
             <h1>{index.vault}</h1>
+            <Tag>REMtag</Tag>
             <Searchbar />
             <LeftTree />
         </div>
