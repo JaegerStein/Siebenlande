@@ -20,7 +20,7 @@ $max-depth: 10;
 
       // unless depth is 0, add a border-left
       @if $i >0 {
-        border-left: 1px dotted $color-font-light;
+        border-left: 1px dotted $font-gray;
         padding-left: calc($indentation / 2);
         margin-left: calc($indentation / 2);
       }
@@ -28,16 +28,16 @@ $max-depth: 10;
       .left-folder {
         font-size: 1.1rem;
         font-weight: lighter;
-        color: $color-font-light;
+        color: $font-gray;
         cursor: pointer;
       }
 
       .left-link {
         text-decoration: none;
-        color: $color-font-light;
+        color: $font-gray;
 
         &:hover {
-          color: $color-font;
+          color: $font-white;
         }
       }
     }
@@ -48,7 +48,7 @@ $max-depth: 10;
     height: 1rem;
 
     path {
-      fill: $color-font-light;
+      fill: $font-gray;
     }
 
     &.rotate {

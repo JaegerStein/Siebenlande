@@ -10,12 +10,12 @@ $max-depth: 10;
         margin: 1rem 0;
 
         a {
-            color: $color-font;
+            color: $font-white;
             text-decoration: none;
             display: block;
 
             &:hover {
-                color: $color-link-hover;
+                color: $link-hover;
             }
         }
 

@@ -14,13 +14,13 @@
     width: 100%;
 
     list-style: inside;
-    color: $color-font;
+    color: $font-white;
 
     .entry-header {
 
         .entry-path {
             font-weight: 100;
-            color: $color-font-light;
+            color: $font-gray;
             font-size: .9rem;
             line-height: .9rem;
         }
@@ -37,17 +37,17 @@
 
             svg {
                 path {
-                    fill: $color-font-light;
+                    fill: $font-gray;
                 }
             }
 
             &:hover {
-                background-color: $color-font-light;
+                background-color: $font-gray;
                 cursor: pointer;
 
                 svg {
                     path {
-                        fill: $color-body;
+                        fill: $base-body;
                     }
                 }
             }
@@ -72,7 +72,7 @@
             line-height: 1rem;
             font-weight: lighter;
             font-style: italic;
-            color: $color-font-light;
+            color: $font-gray;
             padding-left: 1rem;
         }
 
@@ -88,7 +88,7 @@
                 line-height: 1rem;
                 padding: .25rem .25rem;
                 font-weight: normal;
-                color: $color-link;
+                color: $link-active;
                 background-color: $color-background;
                 border-radius: 1rem;
             }
