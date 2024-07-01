@@ -1,1 +1,0 @@
-![[Charakterbogen.xlsx]]
