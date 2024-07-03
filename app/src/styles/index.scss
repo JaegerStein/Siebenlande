@@ -9,14 +9,45 @@
 body {
   background-color: $base-body;
   color: $font-gray;
+
+  font-family: 'Inter', sans-serif;
+  font-weight: 1;
+  font-size: 1rem;
+  line-height: 1.5;
+
+  h1 {
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+    line-height: 1.5;
+  }
+
+  h3 {
+    font-size: 1.6rem;
+    line-height: 1.5;
+  }
+
+  h4 {
+    font-size: 1.4rem;
+    line-height: 1.5;
+  }
+
+  h5 {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+
+  h6 {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
 }
 
 /* PREGEN */
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
