@@ -1,8 +1,8 @@
 {
-  "settingsVersion": "1.8.01",
+  "settingsVersion": "1.8.1-2b",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "",
+  "includePluginCSS": [],
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
@@ -11,6 +11,7 @@
   "sidebarWidth": "20em",
   "minOutlineCollapse": 2,
   "startOutlineCollapsed": false,
+  "relativeOutlineLinks": false,
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
   "allowResizingSidebars": true,
@@ -18,7 +19,7 @@
   "minifyHTML": true,
   "makeNamesWebStyle": true,
   "onlyExportModified": false,
-  "deleteOldFiles": false,
+  "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
@@ -27,7 +28,7 @@
   "addTitle": true,
   "addRSSFeed": true,
   "siteURL": "https://siebenlande.de/",
-  "authorName": "",
+  "authorName": "Simon Maurer",
   "vaultTitle": "Siebenlande",
   "exportPreset": "website",
   "openAfterExport": false,
@@ -38,15 +39,22 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "showDefaultTreeIcons": false,
+  "showDefaultTreeIcons": true,
   "emojiStyle": "Native",
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\maure\\Desktop\\siebenlande",
+  "exportPath": "C:\\Users\\maure\\Desktop\\siebenlande",
   "filesToExport": [
-    [
-      "all"
-    ]
+    []
+  ],
+  "filePickerBlacklist": [
+    "(^|\\/)node_modules\\/",
+    "(^|\\/)dist\\/",
+    "(^|\\/)dist-ssr\\/",
+    "(^|\\/)\\.vscode\\/"
+  ],
+  "filePickerWhitelist": [
+    "\\.\\w+$"
   ]
 }

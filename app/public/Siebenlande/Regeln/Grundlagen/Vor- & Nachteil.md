@@ -1,5 +1,8 @@
 ---
-uid: 2d
+uid: vona
+aliases:
+  - Vorteil
+  - Nachteil
 ---
 Du rollst bei einem [[Attribute|Attributswurf]] zwei Würfel und nimmst das
 **Vorteil**:  höhere Ergebnis.

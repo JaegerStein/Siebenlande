@@ -11,6 +11,8 @@ uid: 1y
 *↳ Hauptartikel: [[Zwerg]]*
 ![[Zwerg#Übersicht]]
 # Gnome
+*↳ Hauptartikel: [[Gnom]]*
+![[Gnom#Übersicht]]
 # Kenku
 # Halbdämonen
 # Mimen

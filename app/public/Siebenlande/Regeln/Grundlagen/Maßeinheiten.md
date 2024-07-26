@@ -1,7 +1,9 @@
 ---
-uid: "29"
+uid: mass
+aliases:
+  - Fuß
 ---
-Dieses Regelwerk und die Welt der [[Legende/Geografie/Siebenlande]] benutzen eine Vielzahl an Maßeinheiten, die verdächtig kompatibel mit dem metrischen System sind. Zwar haben die meisten hier verwendeten Maßeinheiten bereits feststehende Definitionen, aber das kümmert nur die Amis, daher habe ich sie der Kompatibilität halber umfunktioniert.
+Dieses Regelwerk und die Welt der [[Siebenlande]] benutzen eine Vielzahl an Maßeinheiten, die verdächtig kompatibel mit dem metrischen System sind. Zwar haben die meisten hier verwendeten Maßeinheiten bereits feststehende Definitionen, aber das kümmert nur die Amis, daher habe ich sie der Kompatibilität halber umfunktioniert.
 
 Zeiteinheiten sind identisch mit der realen Welt, für alles weitere siehe > [[Zeitrechnung]]
 
