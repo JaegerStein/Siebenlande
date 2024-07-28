@@ -1,11 +1,2 @@
-!/app/public/Siebenlande
-!/app/public/Siebenlande/*
+legacy
 
-app/public/Siebenlande/.obsidian/app.json
-app/public/Siebenlande/.obsidian/appearance.json
-app/public/Siebenlande/.obsidian/workspace.json
-
-app/build
-app/node_modules
-app/public/Siebenlande/.obsidian/core-plugins.json
-app/public/Siebenlande/.obsidian/core-plugins-migration.json
