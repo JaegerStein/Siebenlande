@@ -1,0 +1,2 @@
+- dritter Hund [[Norwa Solis|Norwas]]
+- gehört zunächst einem Adligen mit einem Anwesen zwischen [[Viasti]] und [[Padéra ul Forma]], von dem Norwa den Hund abkauft
