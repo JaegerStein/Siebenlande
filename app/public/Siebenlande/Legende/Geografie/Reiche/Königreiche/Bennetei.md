@@ -1,1 +1,0 @@
-Reich in den [[Siebenlande|Siebenlanden]], das sich ganz im Osten des Kontinents befindet. Es grenzt im Norden an [[Tarvenien]] und im Westen an [[Merin]].
