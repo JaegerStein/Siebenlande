@@ -1,0 +1,2 @@
+- Runenmeisterin der [[Kult des Kosmos|Zwerge des Kosmos]]
+- stellt [[Suðri Þorinul|Suðri]] drei philosophische Fragen zu den Lehren des Kultes, damit er sich als würdig erweisen kann; nachdem er bestanden hat, erhält er den Auftrag, den Zwerg [[Runmil]] aus der Stadt zu schaffen
