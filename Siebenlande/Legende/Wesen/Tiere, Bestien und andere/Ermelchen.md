@@ -1,0 +1,2 @@
+- Esel, den die Gruppe in [[Viasti]] kauft, um [[Thomaz, der Obelisk|Thomaz]] zu transportieren
+- muss in [[Padéra ul Forma]] zurückgelassen werden, weil er nicht mehr auf das Boot passt
