@@ -17,6 +17,13 @@
 			"command": "npx quartz sync -d Siebenlande",
 			"group": "none",
 			"problemMatcher": []
+		},
+		{
+			"label": "build",
+			"type": "shell",
+			"command": "npx quartz build -d Siebenlande",
+			"group": "none",
+			"problemMatcher": []
 		}
 	]
 }
