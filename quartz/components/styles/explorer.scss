@@ -27,16 +27,22 @@ button#explorer {
   background-color: transparent;
   border: none;
   text-align: left;
-  cursor: pointer;
+  //cursor: pointer;
   padding: 0;
   color: var(--dark);
   display: flex;
   align-items: center;
 
+  cursor: default;
+
   & h2 {
     font-size: 1rem;
     display: inline-block;
     margin: 0;
+  }
+
+  & svg {
+    display: none;
   }
 
   & .fold {

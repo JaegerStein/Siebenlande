@@ -87,6 +87,7 @@ export default ((userOpts?: Partial<Options>) => {
     return (
       <div class={classNames(displayClass, "explorer")}>
         <button
+          disabled
           type="button"
           id="explorer"
           data-behavior={opts.folderClickBehavior}
