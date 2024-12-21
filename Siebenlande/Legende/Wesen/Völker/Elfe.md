@@ -7,12 +7,10 @@ tags:
   - Volk
 uid: elfe
 ---
-<span class="img-right">![[elf.jpg|300]]</span>
-Die unsterblichen **Elfen** zählen zu den ältesten Völkern der [[Siebenlande]] und werden aufgrund ihres Alters von vielen als weise und edel angesehen. Ihre Schönheit ist legendär und ihre Kunstfertigkeit gilt als unübertroffen. Mit dieser gefühlten Überlegenheit geht aber auch ein gewisses Maß an Arroganz einher. Viele Elfen meiden den Kontakt zu sterblichen Völkern, um nicht Generation für Generation Zeugen der Vergänglichkeit ihrer Freunde werden zu müssen. Man nennt sie auch das _Überdauernde Volk_.
-
 # Übersicht
----
-## Merkmale
+<span class="sl-img float-right">![[elf.jpg|300]]</span>
+Die unsterblichen **Elfen** zählen zu den ältesten Völkern der [[Siebenlande]] und werden aufgrund ihres Alters von vielen als weise und edel angesehen. Ihre Schönheit ist legendär und ihre Kunstfertigkeit gilt als unübertroffen. Mit dieser gefühlten Überlegenheit geht aber auch ein gewisses Maß an Arroganz einher. Viele Elfen meiden den Kontakt zu sterblichen Völkern, um nicht Generation für Generation Zeugen der Vergänglichkeit ihrer Freunde werden zu müssen. Man nennt sie auch das _Überdauernde Volk_.
+# Merkmale
 **Lebenserwartung** Unsterblich
 **Basisausdauer** 20
 **Größe** 6 bis 61/2 [[Maßeinheiten|Fuß]], [[Größenkategorien|Mittelgroß]]
