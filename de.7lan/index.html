@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weiterleitung...</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var path = window.location.pathname;
+            var newUrl = "https://siebenlande.de" + path;
+            window.location.replace(newUrl);
+        });
+    </script>
+</head>
+<body>
+    <p>Falls Sie nicht automatisch weitergeleitet werden, folgen Sie diesem <a id="redirect-link" href="#">Link</a>.</p>
+    <script>
+        document.getElementById('redirect-link').href = "https://siebenlande.de" + window.location.pathname;
+    </script>
+</body>
+</html>
