@@ -89,7 +89,10 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.ShortUrlRedirects(),
+      Plugin.ShortUrlRedirects({
+        subfolder: "7lan",
+        targetDomain: "siebenlande.de",
+      }),
     ],
   },
 }

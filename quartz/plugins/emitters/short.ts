@@ -4,7 +4,12 @@ import path from "path"
 import { write } from "./helpers"
 import DepGraph from "../../depgraph"
 
-export const ShortUrlRedirects: QuartzEmitterPlugin = () => ({
+export interface Options {
+	subfolder: string
+	targetDomain: string
+}
+
+export const ShortUrlRedirects: QuartzEmitterPlugin<Options> = (opts = { subfolder: "", targetDomain: "" }) => ({
 	name: "ShortUrlRedirects",
 	getQuartzComponents() {
 		return []
@@ -16,7 +21,7 @@ export const ShortUrlRedirects: QuartzEmitterPlugin = () => ({
 		for (const [_tree, file] of content) {
 			const uid = file.data.frontmatter?.uid
 			if (typeof uid === "string") {
-				const slug = path.posix.join(uid) as FullSlug
+				const slug = path.posix.join(opts.subfolder, uid) as FullSlug
 				graph.addEdge(file.data.filePath!, joinSegments(argv.output, slug + ".html") as FilePath)
 			}
 		}
@@ -31,9 +36,9 @@ export const ShortUrlRedirects: QuartzEmitterPlugin = () => ({
 			const ogSlug = simplifySlug(file.data.slug!)
 			const uid = file.data.frontmatter?.uid
 			if (typeof uid === "string") {
-				const slug = path.posix.join(uid) as FullSlug
+				const slug = path.posix.join(opts.subfolder, uid) as FullSlug
 
-				const redirUrl = resolveRelative(slug, file.data.slug!)
+				const redirUrl = `https://${opts.targetDomain}/${file.data.slug!}`
 				const fp = await write({
 					ctx,
 					content: `
@@ -57,4 +62,4 @@ export const ShortUrlRedirects: QuartzEmitterPlugin = () => ({
 		}
 		return fps
 	},
-});
+})
