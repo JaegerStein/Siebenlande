@@ -1,0 +1,4 @@
+- Hierophant der Kirche
+- wird am Tag der 40. Schneeschmelze des Jahres 49, E2, Z5 von [[Hierophant Tionoberrum der Erste]] in dessen Villa erstochen, nachdem Herakannon von der Existenz der Teufelin erfährt
+- sein Skelett wird kurz darauf von [[Boma]] wiederbelebt
+- sein Leichenzug wird Tage später von [[Rinhardt]] geleitet

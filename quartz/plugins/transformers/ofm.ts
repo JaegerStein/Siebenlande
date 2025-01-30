@@ -266,14 +266,21 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                       type: "html",
                       value: `<iframe src="${url}" class="pdf"></iframe>`,
                     }
+                  } else if ([".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx"].includes(ext)) {
+                    const icon = ext === ".doc" || ext === ".docx" ? "word" :
+                      ext === ".xls" || ext === ".xlsx" ? "excel" :
+                        "powerpoint";
+                    return {
+                      type: "html",
+                      value: `<a href="${url}" download class="office-link"><img src="/icons/${icon}.png" alt="${icon} icon" /> Download ${path.basename(fp)}</a>`,
+                    }
                   } else {
                     const block = anchor
                     return {
                       type: "html",
                       data: { hProperties: { transclude: true } },
-                      value: `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${
-                        url + anchor
-                      }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
+                      value: `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${url + anchor
+                        }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
                     }
                   }
 
