@@ -6,15 +6,18 @@ tags:
 aliases:
   - Home
   - Start
-cssclasses: []
+  - Startseite
+cssclasses:
+  - wrap-table
 ---
+# Übersicht
 
 | [[Journal]]                               | [[Legende]]                                            | [[Regeln]]                          |
 | :---------------------------------------- | ------------------------------------------------------ | ----------------------------------- |
 | Die Mitschrift der Ereignisse eurer Reise | Hintergrundwissen über die Welt, Personen und Konzepte | Die aktuelle Version des Regelwerks |
+# Aktuelle Episode
+- [[Episode 6]]
 # Nützliche Einträge
 - [[Spielbare Völker]]
-- [[Questkarte.canvas|Questkarte]]
-
 # Nützliche Werkzeuge
 ![[Charakterbogen.xlsx]]
