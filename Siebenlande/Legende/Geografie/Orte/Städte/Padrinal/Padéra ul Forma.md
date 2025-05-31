@@ -1,0 +1,1 @@
+Stadt in [[Padrinal]]. Sie wird von der [[Abenteurergruppe]] nach ihrer Abreise aus [[Viasti]] aufgesucht. Von hier aus reisen sie mit einem Boot weiter nach [[Aussos]] in [[Merin]]. 

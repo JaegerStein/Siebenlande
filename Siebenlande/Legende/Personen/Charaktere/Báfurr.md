@@ -1,0 +1,2 @@
+- Zwerg, der [[Suðri Þorinul|Suðri]] in der Niederlassung des [[Kult des Kosmos|Kultes des Kosmos]] in [[Aussos]] empfängt
+- die beiden kannten sich bereits vor über hundert Jahren, als Suðri noch ein aktives Mitglied des Kultes war

@@ -1,0 +1,1 @@
+Das Oberhaupt der Kirche ist der Hierophant. Der Hierophant [[Herakannon der Zwölfte]] wurde am Tag der 40. Schneeschmelze von [[Hierophant Tionoberrum der Erste]] erstochen.

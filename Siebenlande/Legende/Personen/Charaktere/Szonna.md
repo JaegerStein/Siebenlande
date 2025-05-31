@@ -1,0 +1,2 @@
+- Frau aus [[Aussos]]
+- erzählt [[Fionnsgeul Tarbh|Fion]] und [[Artheus Panti|Artheus]], dass ihr Mann [[Eladio]] bei den Prüfungen sowie einem Wettkampf des [[Kult des Kosmos|Kultes des Kosmos]] teilgenommen hat und seither vermisst wird

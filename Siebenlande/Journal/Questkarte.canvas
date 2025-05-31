@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"type":"file","file":"Journal/Questen/Fäulnis in Malravien.md","id":"d53b42f321b98580","x":-220,"y":-217,"width":239,"height":105,"color":"1"},
+		{"type":"text","text":"Peretin ist in die Niedermark geflohen","id":"63a155ee706799c0","x":-580,"y":-147,"width":220,"height":71,"color":"6"},
+		{"type":"text","text":"Er versteckt sich in einem alten Grabmal in den Bergen von Malravien","id":"dea3f468124ad842","x":-900,"y":-61,"width":240,"height":101,"color":"6"},
+		{"type":"text","text":"Was macht Peretin in diesem Grabmal?","id":"0f5cf9167216c405","x":-780,"y":170,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Warum wurde Peretin Nekromant?","id":"1fbdfaf23c2cdc25","x":-370,"y":40,"width":210,"height":80,"color":"3"},
+		{"type":"text","text":"Wie wurde Peretin Nekromant?","id":"832d43eccbb06c26","x":-20,"y":40,"width":182,"height":80,"color":"3"},
+		{"type":"text","text":"?","id":"152cd496dd45cf2a","x":-130,"y":200,"width":60,"height":60,"color":"2"},
+		{"type":"text","text":"?","id":"c8709f08f5704f45","x":280,"y":-91,"width":60,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"0a3b53d112207a7d","fromNode":"d53b42f321b98580","fromSide":"bottom","toNode":"832d43eccbb06c26","toSide":"top"},
+		{"id":"c5bc0a465985cb50","fromNode":"d53b42f321b98580","fromSide":"bottom","toNode":"1fbdfaf23c2cdc25","toSide":"top"},
+		{"id":"9152d4cf6ce7da1d","fromNode":"d53b42f321b98580","fromSide":"left","toNode":"63a155ee706799c0","toSide":"right"},
+		{"id":"a3f23c86986253fc","fromNode":"63a155ee706799c0","fromSide":"left","toNode":"dea3f468124ad842","toSide":"top"},
+		{"id":"8ba573e385b8765a","fromNode":"d53b42f321b98580","fromSide":"right","toNode":"c8709f08f5704f45","toSide":"left"},
+		{"id":"b005cd782cd45719","fromNode":"dea3f468124ad842","fromSide":"bottom","toNode":"0f5cf9167216c405","toSide":"top"},
+		{"id":"4d3a5efbf1e0bdbd","fromNode":"832d43eccbb06c26","fromSide":"bottom","toNode":"152cd496dd45cf2a","toSide":"right"},
+		{"id":"8e09d6b7812b04da","fromNode":"152cd496dd45cf2a","fromSide":"left","toNode":"1fbdfaf23c2cdc25","toSide":"bottom"}
+	]
+}
