@@ -1,8 +1,5 @@
 import { concatenateResources } from "../util/resources"
-<<<<<<< HEAD
-=======
 import { classNames } from "../util/lang"
->>>>>>> upstream/v4
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 type FlexConfig = {
@@ -27,14 +24,10 @@ export default ((config: FlexConfig) => {
     const gap = config.gap ?? "1rem"
 
     return (
-<<<<<<< HEAD
-      <div style={`display: flex; flex-direction: ${direction}; flex-wrap: ${wrap}; gap: ${gap};`}>
-=======
       <div
         class={classNames(props.displayClass, "flex-component")}
         style={`flex-direction: ${direction}; flex-wrap: ${wrap}; gap: ${gap};`}
       >
->>>>>>> upstream/v4
         {config.components.map((c) => {
           const grow = c.grow ? 1 : 0
           const shrink = (c.shrink ?? true) ? 1 : 0

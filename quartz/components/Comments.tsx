@@ -17,10 +17,7 @@ type Options = {
     strict?: boolean
     reactionsEnabled?: boolean
     inputPosition?: "top" | "bottom"
-<<<<<<< HEAD
-=======
     lang?: string
->>>>>>> upstream/v4
   }
 }
 
@@ -54,10 +51,7 @@ export default ((opts: Options) => {
         data-theme-url={
           opts.options.themeUrl ?? `https://${cfg.baseUrl ?? "example.com"}/static/giscus`
         }
-<<<<<<< HEAD
-=======
         data-lang={opts.options.lang ?? "en"}
->>>>>>> upstream/v4
       ></div>
     )
   }

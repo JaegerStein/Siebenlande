@@ -226,17 +226,11 @@ Then, you can use it like any other component in `quartz.layout.ts` via `Compone
 As Quartz components are just functions that return React components, you can compositionally use them in other Quartz components.
 
 ```tsx title="quartz/components/AnotherComponent.tsx"
-<<<<<<< HEAD
-import YourComponent from "./YourComponent"
-
-export default (() => {
-=======
 import YourComponentConstructor from "./YourComponent"
 
 export default (() => {
   const YourComponent = YourComponentConstructor()
 
->>>>>>> upstream/v4
   function AnotherComponent(props: QuartzComponentProps) {
     return (
       <div>

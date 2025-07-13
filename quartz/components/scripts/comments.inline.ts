@@ -55,10 +55,7 @@ type GiscusElement = Omit<HTMLElement, "dataset"> & {
     strict: string
     reactionsEnabled: string
     inputPosition: "top" | "bottom"
-<<<<<<< HEAD
-=======
     lang: string
->>>>>>> upstream/v4
   }
 }
 
@@ -82,11 +79,7 @@ document.addEventListener("nav", () => {
   giscusScript.setAttribute("data-strict", giscusContainer.dataset.strict)
   giscusScript.setAttribute("data-reactions-enabled", giscusContainer.dataset.reactionsEnabled)
   giscusScript.setAttribute("data-input-position", giscusContainer.dataset.inputPosition)
-<<<<<<< HEAD
-
-=======
   giscusScript.setAttribute("data-lang", giscusContainer.dataset.lang)
->>>>>>> upstream/v4
   const theme = document.documentElement.getAttribute("saved-theme")
   if (theme) {
     giscusScript.setAttribute("data-theme", getThemeUrl(getThemeName(theme)))

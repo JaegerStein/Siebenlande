@@ -2,15 +2,9 @@ import sourceMapSupport from "source-map-support"
 sourceMapSupport.install(options)
 import path from "path"
 import { PerfTimer } from "./util/perf"
-<<<<<<< HEAD
-import { rimraf } from "rimraf"
-import { GlobbyFilterFunction, isGitIgnored } from "globby"
-import chalk from "chalk"
-=======
 import { rm } from "fs/promises"
 import { GlobbyFilterFunction, isGitIgnored } from "globby"
 import { styleText } from "util"
->>>>>>> upstream/v4
 import { parseMarkdown } from "./processors/parse"
 import { filterContent } from "./processors/filter"
 import { emitContent } from "./processors/emit"
@@ -73,11 +67,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   const release = await mut.acquire()
   perf.addEvent("clean")
-<<<<<<< HEAD
-  await rimraf(path.join(output, "*"), { glob: true })
-=======
   await rm(output, { recursive: true, force: true })
->>>>>>> upstream/v4
   console.log(`Cleaned output directory \`${output}\` in ${perf.timeSince("clean")}`)
 
   perf.addEvent("glob")
@@ -95,13 +85,9 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const filteredContent = filterContent(ctx, parsedFiles)
 
   await emitContent(ctx, filteredContent)
-<<<<<<< HEAD
-  console.log(chalk.green(`Done processing ${markdownPaths.length} files in ${perf.timeSince()}`))
-=======
   console.log(
     styleText("green", `Done processing ${markdownPaths.length} files in ${perf.timeSince()}`),
   )
->>>>>>> upstream/v4
   release()
 
   if (argv.watch) {
@@ -139,16 +125,10 @@ async function startWatching(
     ctx,
     mut,
     contentMap,
-<<<<<<< HEAD
-    ignored: (path) => {
-      if (gitIgnoredMatcher(path)) return true
-      const pathStr = path.toString()
-=======
     ignored: (fp) => {
       const pathStr = toPosixPath(fp.toString())
       if (pathStr.startsWith(".git/")) return true
       if (gitIgnoredMatcher(pathStr)) return true
->>>>>>> upstream/v4
       for (const pattern of cfg.configuration.ignorePatterns) {
         if (minimatch(pathStr, pattern)) {
           return true
@@ -209,11 +189,7 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
 
   const perf = new PerfTimer()
   perf.addEvent("rebuild")
-<<<<<<< HEAD
-  console.log(chalk.yellow("Detected change, rebuilding..."))
-=======
   console.log(styleText("yellow", "Detected change, rebuilding..."))
->>>>>>> upstream/v4
 
   // update changesSinceLastBuild
   for (const change of changes) {
@@ -275,18 +251,12 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
   // update allFiles and then allSlugs with the consistent view of content map
   ctx.allFiles = Array.from(contentMap.keys())
   ctx.allSlugs = ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath))
-<<<<<<< HEAD
-  const processedFiles = Array.from(contentMap.values())
-    .filter((file) => file.type === "markdown")
-    .map((file) => file.content)
-=======
   let processedFiles = filterContent(
     ctx,
     Array.from(contentMap.values())
       .filter((file) => file.type === "markdown")
       .map((file) => file.content),
   )
->>>>>>> upstream/v4
 
   let emittedFiles = 0
   for (const emitter of cfg.plugins.emitters) {
@@ -317,11 +287,7 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
   }
 
   console.log(`Emitted ${emittedFiles} files to \`${argv.output}\` in ${perf.timeSince("rebuild")}`)
-<<<<<<< HEAD
-  console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
-=======
   console.log(styleText("green", `Done rebuilding in ${perf.timeSince()}`))
->>>>>>> upstream/v4
   changes.splice(0, numChangesInBuild)
   clientRefresh()
   release()

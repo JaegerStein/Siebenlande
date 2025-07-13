@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import chalk from "chalk"
-=======
 import { styleText } from "util"
->>>>>>> upstream/v4
 import process from "process"
 import { isMainThread } from "workerpool"
 
@@ -15,15 +11,9 @@ export function trace(msg: string, err: Error) {
   lines.push("")
   lines.push(
     "\n" +
-<<<<<<< HEAD
-      chalk.bgRed.black.bold(" ERROR ") +
-      "\n\n" +
-      chalk.red(` ${msg}`) +
-=======
       styleText(["bgRed", "black", "bold"], " ERROR ") +
       "\n\n" +
       styleText("red", ` ${msg}`) +
->>>>>>> upstream/v4
       (err.message.length > 0 ? `: ${err.message}` : ""),
   )
 

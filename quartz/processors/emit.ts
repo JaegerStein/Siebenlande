@@ -4,11 +4,7 @@ import { ProcessedContent } from "../plugins/vfile"
 import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx } from "../util/ctx"
-<<<<<<< HEAD
-import chalk from "chalk"
-=======
 import { styleText } from "util"
->>>>>>> upstream/v4
 
 export async function emitContent(ctx: BuildCtx, content: ProcessedContent[]) {
   const { argv, cfg } = ctx
@@ -30,11 +26,7 @@ export async function emitContent(ctx: BuildCtx, content: ProcessedContent[]) {
             if (ctx.argv.verbose) {
               console.log(`[emit:${emitter.name}] ${file}`)
             } else {
-<<<<<<< HEAD
-              log.updateText(`${emitter.name} -> ${chalk.gray(file)}`)
-=======
               log.updateText(`${emitter.name} -> ${styleText("gray", file)}`)
->>>>>>> upstream/v4
             }
           }
         } else {
@@ -44,11 +36,7 @@ export async function emitContent(ctx: BuildCtx, content: ProcessedContent[]) {
             if (ctx.argv.verbose) {
               console.log(`[emit:${emitter.name}] ${file}`)
             } else {
-<<<<<<< HEAD
-              log.updateText(`${emitter.name} -> ${chalk.gray(file)}`)
-=======
               log.updateText(`${emitter.name} -> ${styleText("gray", file)}`)
->>>>>>> upstream/v4
             }
           }
         }

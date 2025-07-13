@@ -1,10 +1,6 @@
 .content-meta {
   margin-top: 0;
-<<<<<<< HEAD
-  color: var(--gray);
-=======
   color: var(--darkgray);
->>>>>>> upstream/v4
 
   &[show-comma="true"] {
     > *:not(:last-child) {

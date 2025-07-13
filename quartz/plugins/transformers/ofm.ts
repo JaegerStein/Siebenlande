@@ -41,10 +41,7 @@ export interface Options {
   enableYouTubeEmbed: boolean
   enableVideoEmbed: boolean
   enableCheckbox: boolean
-<<<<<<< HEAD
-=======
   disableBrokenWikilinks: boolean
->>>>>>> upstream/v4
 }
 
 const defaultOptions: Options = {
@@ -60,10 +57,7 @@ const defaultOptions: Options = {
   enableYouTubeEmbed: true,
   enableVideoEmbed: true,
   enableCheckbox: false,
-<<<<<<< HEAD
-=======
   disableBrokenWikilinks: false,
->>>>>>> upstream/v4
 }
 
 const calloutMapping = {
@@ -214,11 +208,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       return src
     },
-<<<<<<< HEAD
-    markdownPlugins(_ctx) {
-=======
     markdownPlugins(ctx) {
->>>>>>> upstream/v4
       const plugins: PluggableList = []
 
       // regex replacements
@@ -287,8 +277,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   // otherwise, fall through to regular link
                 }
 
-<<<<<<< HEAD
-=======
                 // treat as broken link if slug not in ctx.allSlugs
                 if (opts.disableBrokenWikilinks) {
                   const slug = slugifyFilePath(fp as FilePath)
@@ -301,7 +289,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   }
                 }
 
->>>>>>> upstream/v4
                 // internal link
                 const url = fp + anchor
 

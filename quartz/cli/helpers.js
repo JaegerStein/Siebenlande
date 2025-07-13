@@ -1,9 +1,5 @@
 import { isCancel, outro } from "@clack/prompts"
-<<<<<<< HEAD
-import chalk from "chalk"
-=======
 import { styleText } from "util"
->>>>>>> upstream/v4
 import { contentCacheFolder } from "./constants.js"
 import { spawnSync } from "child_process"
 import fs from "fs"
@@ -18,11 +14,7 @@ export function escapePath(fp) {
 
 export function exitIfCancel(val) {
   if (isCancel(val)) {
-<<<<<<< HEAD
-    outro(chalk.red("Exiting"))
-=======
     outro(styleText("red", "Exiting"))
->>>>>>> upstream/v4
     process.exit(0)
   } else {
     return val
@@ -44,15 +36,9 @@ export function gitPull(origin, branch) {
   const flags = ["--no-rebase", "--autostash", "-s", "recursive", "-X", "ours", "--no-edit"]
   const out = spawnSync("git", ["pull", ...flags, origin, branch], { stdio: "inherit" })
   if (out.stderr) {
-<<<<<<< HEAD
-    throw new Error(chalk.red(`Error while pulling updates: ${out.stderr}`))
-  } else if (out.status !== 0) {
-    throw new Error(chalk.red("Error while pulling updates"))
-=======
     throw new Error(styleText("red", `Error while pulling updates: ${out.stderr}`))
   } else if (out.status !== 0) {
     throw new Error(styleText("red", "Error while pulling updates"))
->>>>>>> upstream/v4
   }
 }
 

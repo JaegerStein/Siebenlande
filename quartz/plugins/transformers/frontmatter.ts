@@ -101,15 +101,11 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"])
 
             const created = coalesceAliases(data, ["created", "date"])
-<<<<<<< HEAD
-            if (created) data.created = created
-=======
             if (created) {
               data.created = created
               data.modified ||= created // if modified is not set, use created
             }
 
->>>>>>> upstream/v4
             const modified = coalesceAliases(data, [
               "modified",
               "lastmod",
