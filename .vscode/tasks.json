@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Quartz Build and Serve",
+            "label": "Quartz Build to Apache2",
             "type": "shell",
             "command": "npx",
             "args": [
@@ -10,11 +10,12 @@
                 "build",
                 "--directory",
                 "Siebenlande",
-                "--serve"
+                "--output",
+                "/var/www/html"
             ],
             "group": {
                 "kind": "build",
-                "isDefault": true
+                "isDefault": false
             },
             "presentation": {
                 "echo": true,
@@ -25,10 +26,7 @@
                 "clear": false
             },
             "problemMatcher": [],
-            "runOptions": {
-                "runOn": "default"
-            },
-            "detail": "Build and serve Quartz site from Siebenlande directory"
+            "detail": "Build Quartz site and output to Apache2 directory (/var/www/html)"
         }
     ]
 }
