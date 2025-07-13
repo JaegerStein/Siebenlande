@@ -95,7 +95,8 @@ button.desktop-explorer {
   background-color: transparent;
   border: none;
   text-align: left;
-  cursor: pointer;
+  // cursor: pointer;
+  cursor: default;
   padding: 0;
   color: var(--dark);
   display: flex;
@@ -105,6 +106,10 @@ button.desktop-explorer {
     font-size: 1rem;
     display: inline-block;
     margin: 0;
+  }
+
+  & svg {
+    display: none;
   }
 }
 
