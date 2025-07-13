@@ -26,6 +26,10 @@ import th from "./locales/th-TH"
 import lt from "./locales/lt-LT"
 import fi from "./locales/fi-FI"
 import no from "./locales/nb-NO"
+<<<<<<< HEAD
+=======
+import id from "./locales/id-ID"
+>>>>>>> upstream/v4
 
 export const TRANSLATIONS = {
   "en-US": enUs,
@@ -76,6 +80,10 @@ export const TRANSLATIONS = {
   "lt-LT": lt,
   "fi-FI": fi,
   "nb-NO": no,
+<<<<<<< HEAD
+=======
+  "id-ID": id,
+>>>>>>> upstream/v4
 } as const
 
 export const defaultTranslation = "en-US"

@@ -11,8 +11,12 @@ html {
   width: 100vw;
 }
 
+<<<<<<< HEAD
 body,
 section {
+=======
+body {
+>>>>>>> upstream/v4
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
@@ -91,7 +95,11 @@ a {
   color: var(--secondary);
 
   &:hover {
+<<<<<<< HEAD
     color: var(--tertiary) !important;
+=======
+    color: var(--tertiary);
+>>>>>>> upstream/v4
   }
 
   &.internal {
@@ -101,6 +109,18 @@ a {
     border-radius: 5px;
     line-height: 1.4rem;
 
+<<<<<<< HEAD
+=======
+    &.broken {
+      color: var(--secondary);
+      opacity: 0.5;
+      transition: opacity 0.2s ease;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
+>>>>>>> upstream/v4
     &:has(> img) {
       background-color: transparent;
       border-radius: 0;
@@ -123,16 +143,42 @@ a {
   }
 }
 
+<<<<<<< HEAD
 .desktop-only {
   display: initial;
   @media all and ($mobile) {
+=======
+.flex-component {
+  display: flex;
+}
+
+.desktop-only {
+  display: initial;
+  &.flex-component {
+    display: flex;
+  }
+  @media all and ($mobile) {
+    &.flex-component {
+      display: none;
+    }
+>>>>>>> upstream/v4
     display: none;
   }
 }
 
 .mobile-only {
   display: none;
+<<<<<<< HEAD
   @media all and ($mobile) {
+=======
+  &.flex-component {
+    display: none;
+  }
+  @media all and ($mobile) {
+    &.flex-component {
+      display: flex;
+    }
+>>>>>>> upstream/v4
     display: initial;
   }
 }
@@ -594,6 +640,10 @@ ol.overflow {
 }
 
 .katex-display {
+<<<<<<< HEAD
+=======
+  display: initial;
+>>>>>>> upstream/v4
   overflow-x: auto;
   overflow-y: hidden;
 }

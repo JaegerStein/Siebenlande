@@ -45,6 +45,11 @@ afterBody: [
       category: 'Announcements',
       // from data-category-id
       categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+<<<<<<< HEAD
+=======
+      // from data-lang
+      lang: 'en'
+>>>>>>> upstream/v4
     }
   }),
 ],
@@ -90,6 +95,13 @@ type Options = {
     // where to put the comment input box relative to the comments
     // defaults to 'bottom'
     inputPosition?: "top" | "bottom"
+<<<<<<< HEAD
+=======
+
+    // set your preference language here
+    // defaults to 'en'
+    lang?: string
+>>>>>>> upstream/v4
   }
 }
 ```

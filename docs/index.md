@@ -6,7 +6,11 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 
 ## 🪴 Get Started
 
+<<<<<<< HEAD
 Quartz requires **at least [Node](https://nodejs.org/) v20** and `npm` v9.3.1 to function correctly. Ensure you have this installed on your machine before continuing.
+=======
+Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
+>>>>>>> upstream/v4
 
 Then, in your terminal of choice, enter the following commands line by line:
 
