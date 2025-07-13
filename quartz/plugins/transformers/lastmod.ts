@@ -1,8 +1,13 @@
 import fs from "fs"
 import { Repository } from "@napi-rs/simple-git"
 import { QuartzTransformerPlugin } from "../types"
+<<<<<<< HEAD
 import chalk from "chalk"
 import path from "path"
+=======
+import path from "path"
+import { styleText } from "util"
+>>>>>>> upstream/v4
 
 export interface Options {
   priority: ("frontmatter" | "git" | "filesystem")[]
@@ -12,12 +17,31 @@ const defaultOptions: Options = {
   priority: ["frontmatter", "git", "filesystem"],
 }
 
+<<<<<<< HEAD
 function coerceDate(fp: string, d: any): Date {
+=======
+// YYYY-MM-DD
+const iso8601DateOnlyRegex = /^\d{4}-\d{2}-\d{2}$/
+
+function coerceDate(fp: string, d: any): Date {
+  // check ISO8601 date-only format
+  // we treat this one as local midnight as the normal
+  // js date ctor treats YYYY-MM-DD as UTC midnight
+  if (typeof d === "string" && iso8601DateOnlyRegex.test(d)) {
+    d = `${d}T00:00:00`
+  }
+
+>>>>>>> upstream/v4
   const dt = new Date(d)
   const invalidDate = isNaN(dt.getTime()) || dt.getTime() === 0
   if (invalidDate && d !== undefined) {
     console.log(
+<<<<<<< HEAD
       chalk.yellow(
+=======
+      styleText(
+        "yellow",
+>>>>>>> upstream/v4
         `\nWarning: found invalid date "${d}" in \`${fp}\`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format`,
       ),
     )
@@ -42,7 +66,14 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
               repositoryWorkdir = repo.workdir() ?? ctx.argv.directory
             } catch (e) {
               console.log(
+<<<<<<< HEAD
                 chalk.yellow(`\nWarning: couldn't find git repository for ${ctx.argv.directory}`),
+=======
+                styleText(
+                  "yellow",
+                  `\nWarning: couldn't find git repository for ${ctx.argv.directory}`,
+                ),
+>>>>>>> upstream/v4
               )
             }
           }
@@ -69,7 +100,12 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   modified ||= await repo.getFileLatestModifiedDateAsync(relativePath)
                 } catch {
                   console.log(
+<<<<<<< HEAD
                     chalk.yellow(
+=======
+                    styleText(
+                      "yellow",
+>>>>>>> upstream/v4
                       `\nWarning: ${file.data.filePath!} isn't yet tracked by git, dates will be inaccurate`,
                     ),
                   )

@@ -23,6 +23,10 @@ This plugin accepts the following configuration options:
 - `enableYouTubeEmbed`: If `true` (default), enables the embedding of YouTube videos and playlists using external image Markdown syntax.
 - `enableVideoEmbed`: If `true` (default), enables the embedding of video files.
 - `enableCheckbox`: If `true`, adds support for interactive checkboxes in content. Defaults to `false`.
+<<<<<<< HEAD
+=======
+- `disableBrokenWikilinks`: If `true`, replaces links to non-existent notes with a dimmed, disabled link. Defaults to `false`.
+>>>>>>> upstream/v4
 
 > [!warning]
 > Don't remove this plugin if you're using [[Obsidian compatibility|Obsidian]] to author the content!

@@ -41,6 +41,18 @@ Component.Flex({
 })
 ```
 
+<<<<<<< HEAD
+=======
+> [!note] Overriding behavior
+> Components inside `Flex` get an additional CSS class `flex-component` that add the `display: flex` property. If you want to override this behavior, you can add a `display` property to the component's CSS class in your custom CSS file.
+>
+> ```scss
+> .flex-component {
+>   display: block; // or any other display type
+> }
+> ```
+
+>>>>>>> upstream/v4
 ## `MobileOnly` Component
 
 The `MobileOnly` component is a wrapper that makes its child component only visible on mobile devices. This is useful for creating responsive layouts where certain components should only appear on smaller screens.

@@ -135,6 +135,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     `)
   } else if (cfg.analytics?.provider === "goatcounter") {
     componentResources.afterDOMLoaded.push(`
+<<<<<<< HEAD
       const goatcounterScript = document.createElement('script');
       goatcounterScript.src = "${cfg.analytics.scriptSrc ?? "https://gc.zgo.at/count.js"}";
       goatcounterScript.defer = true;
@@ -144,6 +145,21 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       );
       goatcounterScript.onload = () => {
         window.goatcounter = { no_onload: true };
+=======
+      const goatcounterScriptPre = document.createElement('script');
+      goatcounterScriptPre.textContent = \`
+        window.goatcounter = { no_onload: true };
+      \`;
+      document.head.appendChild(goatcounterScriptPre);
+
+      const endpoint = "https://${cfg.analytics.websiteId}.${cfg.analytics.host ?? "goatcounter.com"}/count";
+      const goatcounterScript = document.createElement('script');
+      goatcounterScript.src = "${cfg.analytics.scriptSrc ?? "https://gc.zgo.at/count.js"}";
+      goatcounterScript.defer = true;
+      goatcounterScript.setAttribute('data-goatcounter', endpoint);
+      goatcounterScript.onload = () => {
+        window.goatcounter.endpoint = endpoint;
+>>>>>>> upstream/v4
         goatcounter.count({ path: location.pathname });
         document.addEventListener('nav', () => {
           goatcounter.count({ path: location.pathname });
@@ -159,6 +175,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       posthog.init('${cfg.analytics.apiKey}', {
         api_host: '${cfg.analytics.host ?? "https://app.posthog.com"}',
         capture_pageview: false,
+<<<<<<< HEAD
       })\`
       posthogScript.onload = () => {
         posthog.capture('$pageview', { path: location.pathname });
@@ -167,6 +184,12 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
           posthog.capture('$pageview', { path: location.pathname });
         });
       };
+=======
+      });
+      document.addEventListener('nav', () => {
+        posthog.capture('$pageview', { path: location.pathname });
+      })\`
+>>>>>>> upstream/v4
 
       document.head.appendChild(posthogScript);
     `)
