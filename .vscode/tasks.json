@@ -4,14 +4,10 @@
         {
             "label": "Quartz Build to Apache2",
             "type": "shell",
-            "command": "npx",
+            "command": "bash",
             "args": [
-                "quartz",
-                "build",
-                "--directory",
-                "Siebenlande",
-                "--output",
-                "/var/www/html"
+                "-c",
+                "npx quartz build --directory Siebenlande --output /var/www/html && cp Siebenlande/.htaccess /var/www/html/.htaccess"
             ],
             "group": {
                 "kind": "build",
