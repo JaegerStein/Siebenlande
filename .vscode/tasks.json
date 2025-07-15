@@ -7,7 +7,7 @@
             "command": "bash",
             "args": [
                 "-c",
-                "npx quartz build --directory Siebenlande --output /var/www/html && cp Siebenlande/.htaccess /var/www/html/.htaccess"
+                "npx quartz build --directory Siebenlande --output /var/www/html && cp .htaccess /var/www/html/.htaccess"
             ],
             "group": {
                 "kind": "build",
