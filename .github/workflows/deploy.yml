@@ -1,0 +1,51 @@
+name: Deploy to Server
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm ci
+    
+    - name: Build Quartz site
+      run: npx quartz build --directory Siebenlande
+    
+    - name: Copy .htaccess to public directory
+      run: cp .htaccess public/.htaccess
+    
+    - name: Deploy to server
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.REMOTE_HOST }}
+        username: ${{ secrets.REMOTE_USER }}
+        password: ${{ secrets.SSH_PASSWORD }}
+        port: ${{ secrets.REMOTE_PORT || 22 }}
+        script: |
+          # Remove all files in the target directory (as Quartz build process expects)
+          find . -mindepth 1 -delete
+    
+    - name: Upload files to server
+      uses: appleboy/scp-action@v0.1.7
+      with:
+        host: ${{ secrets.REMOTE_HOST }}
+        username: ${{ secrets.REMOTE_USER }}
+        password: ${{ secrets.SSH_PASSWORD }}
+        port: ${{ secrets.REMOTE_PORT || 22 }}
+        source: "public/*"
+        target: "./"
+        strip_components: 1
