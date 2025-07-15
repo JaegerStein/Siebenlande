@@ -2,6 +2,30 @@
 
 // put your custom CSS here!
 
+// Missing links styling (Wikipedia-style)
+.missing-link {
+  color: #ba0000 !important;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: #ba0000;
+}
+
+.missing-link:hover {
+  background-color: rgba(186, 0, 0, 0.1);
+  color: #ba0000 !important;
+}
+
+// Dark mode styling for missing links
+[saved-theme="dark"] .missing-link {
+  color: #ff6b6b !important;
+  text-decoration-color: #ff6b6b;
+}
+
+[saved-theme="dark"] .missing-link:hover {
+  background-color: rgba(255, 107, 107, 0.1);
+  color: #ff6b6b !important;
+}
+
 /*
 button.desktop-explorer {
 	cursor: default;
