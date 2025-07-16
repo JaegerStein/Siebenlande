@@ -2,7 +2,29 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Quartz Build and Serve",
+            "label": "Quartz Build to Debian Apache2",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-c",
+                "npx quartz build --directory Siebenlande --output /var/www/html && cp .htaccess /var/www/html/.htaccess"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "detail": "Build Quartz site and output to Debian Apache2 directory (/var/www/html)"
+        }, {
+            "label": "Quartz Build and Serve Local",
             "type": "shell",
             "command": "npx",
             "args": [
@@ -25,10 +47,8 @@
                 "clear": false
             },
             "problemMatcher": [],
-            "runOptions": {
-                "runOn": "default"
-            },
-            "detail": "Build and serve Quartz site from Siebenlande directory"
+            "isBackground": true,
+            "detail": "Build and serve Quartz site locally for development"
         }
     ]
 }

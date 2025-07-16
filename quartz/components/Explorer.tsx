@@ -95,6 +95,7 @@ export default ((userOpts?: Partial<Options>) => {
           </svg>
         </button>
         <button
+          //disabled
           type="button"
           class="title-button explorer-toggle desktop-explorer"
           data-mobile={false}
