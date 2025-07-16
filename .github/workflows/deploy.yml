@@ -36,7 +36,8 @@ jobs:
         password: ${{ secrets.SSH_PASSWORD }}
         port: ${{ secrets.REMOTE_PORT || 22 }}
         script: |
-          # Remove all files in the target directory (as Quartz build process expects)
+          # Navigate to siebenlande subdirectory and clean it
+          cd siebenlande
           find . -mindepth 1 -delete
     
     - name: Upload files to server
@@ -47,5 +48,5 @@ jobs:
         password: ${{ secrets.SSH_PASSWORD }}
         port: ${{ secrets.REMOTE_PORT || 22 }}
         source: "public/*"
-        target: "./"
+        target: "./siebenlande/"
         strip_components: 1
