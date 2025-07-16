@@ -1,16 +1,17 @@
 RewriteEngine On
- 
+
+# Serve 404 page when a file or directory is not found
 ErrorDocument 404 /404.html
- 
-# Rewrite rule for .html extension removal (with directory check)
+
+# Serve the requested resource as .html if it exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html   
+
+# Serve index.html if it exists, otherwise rewrite to the file
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_URI}.html -f
-RewriteRule ^(.*)$ $1.html [L]
- 
-# Handle directory requests explicitly
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^(.*)/$ $1/index.html [L]
+RewriteRule ^ index.html
 
 # Enable Brotli Compression
 <IfModule mod_brotli.c>
@@ -21,4 +22,3 @@ RewriteRule ^(.*)/$ $1/index.html [L]
 <IfModule mod_deflate.c>
     AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
 </IfModule>
-
