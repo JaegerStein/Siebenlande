@@ -7,8 +7,7 @@ aliases:
   - Home
   - Start
   - Startseite
-cssclasses:
-  - wrap-table
+cssclasses: []
 ---
 # Übersicht
 
@@ -21,8 +20,8 @@ cssclasses:
 - [[Episode 3 - Von Geistern, Hexen und Teufeln]]
 - [[Episode 4 - Der Kult des Kosmos]]
 - [[Episode 5 - Auf den Spuren des Nekromanten]]
-- [[Episode 6]]
-- [[Episode 7]]
+- [[Episode 6 - Braucht noch einen Namen]]
+- Aktuell: [[Episode 7]]
 # Nützliche Einträge
 - [[Spielbare Völker]]
 # Nützliche Werkzeuge
