@@ -216,6 +216,9 @@
 
 - Die Gruppe kommt in Taly an und deckt sich erstmal mit Proviant ein
 - nach der nächsten Reise kommt die Gruppe an der Schule Bera Rodavist an hinter dieser sind riesige Gebirge die von den Zwergen bewacht werden
+
+45.03 im Jahr 49 Session 10.07 und 21.07.25
+
 - Das Boot der Gruppe legt am Hafen der Schule an, dieser ist allerdings mehr eine Ruine als ein Hafen
 - Die Gruppe läuft vorbei an einem Wäldchen und maroden Mauern die der Schule mal als Schutz dienen sollte hin bis zum Eingang als plötzlich ein alter Mann Namens Kasta sie aufhielt und empört frägt was wir hier machen
 - Ein Herr der Kirche Valker ves Hallander unterbricht Kasta direkt und ermahnt ihn das jeder Bewohner der Siebenlande das Recht hat jede Zauberschule der Welt zu besuchen
@@ -232,8 +235,39 @@
 - Norwa findet leider nichts über unseren Portalraum raus genauso wie Boma nichts über diesen dubiosen Gewürzhändler heraus findet
 - Fionn bekommt von Dusdremolin seine Rüstung verzaubert allerdings nicht so ganz wie er sich das gewünscht hatte sondern viel besser als er es erwartet hatte
 - Artheus versucht ein paar Studenten für unsere Burg abzuwerben diese dürfen allerdings erst die Burg verlassen wenn sie die Ausbildung an der Akademie abgeschlossen haben
-- Ein Lehrmeister namens Tömtö stellt sich der Gruppe vor Nyx fragt ihn woher er den Samen bekommen würde um das magische Kraut anzubauen
+- Ein Lehrmeister namens Tömto stellt sich der Gruppe vor Nyx fragt ihn woher er den Samen bekommen würde um das magische Kraut anzubauen
 - Artheus sucht in der Akademie nach der Bibliothek und findet sie tatsächlich, Artheus sucht in der Bibliothek nach einem Buch über den Wald
 - Fionn trifft im Gewächshaus auf Ilétlejn der Kräuterkundlerin und fragt sie über Norbert aus
 - Ilétlejn bekommt das Gespräch über unsere Knotenpunkte mit und erklärt uns das diese Schule auf jedenfall ein solcher Knotenpunkt ist da die Schule auf einer alten elfischen Ruine gebaut wurde
-- Nyx versucht von Ilétlejn zu überzeugen ihm zu sagen was das für ein Kraut ist das Tömto raucht nach langem hin und her beschwört sie einen großen Baum der Nyx vom Akademie Gelände schmeißt
+- Nyx versucht von Ilétlejn zu überzeugen ihm zu sagen was das für ein Kraut ist das Tömto raucht nach langem hin und her beschwört sie einen großen Baum der Nyx vom Akademie Gelände schmeißt 
+- Artheus findet etwas mehr über den Wald heraus und das dieser anscheinend sogar eine eigene Gottheit ist 
+- Sylvaris findet durch das kleine Wäldchen am Rande der Schule den weg in die Schule zurück
+- Artheus versucht es weiter bei den Studentinnen um angestellte für unsere Burg zu finden
+- Nyx kann nicht erkennen das irgendwo ein baum wäre der ihm was böses könnte 
+- Nyx überzeugt Boma dazu ein paar Körner der Gewächshäuser einzustecken damit die Gruppe diese in ihrer Burg anpflanzen und zum Handel benutzen können
+- Revésse ( eine Studentin ) fragt mit vorgespielter Interesse Boma warum sie den einfach hier Samen klaut 
+- Nyx stellt fest das sich die Haarfarbe von Revésse sich unter dem Zauberer Hut zu verschiedenen Grautönen wechselt und dies wahrscheinlich durch einen Zauber
+- Dursam untersucht den Astronomie Turm...
+- Die Freunde von Revésse sind Peietta, Almander und Maskor
+- Auch die Freunde von Revésse sagen nichts außer Almander dieser kam raus damit das Revésse ein Experiment missglückt ist
+- Revésse fragt Nyx warum wir einen Knotenpunkt suchen, Nyx möchte ganz ehrlich antworten wird allerdings von Boma mit Tritten und Schlägen davon abgehalten
+- Norwa führt das Gespräch weiter und wird allerdings von El emeno unterbrochen 
+- El emeno versammelt die Gruppe am äußersten Rand der Grünanlage um ihnen was im vertrauen zu sagen
+- El emeno geht zu den drei Studenten zurück um sie abzulenken während die anderem im Keller nach dem elfischen Portal suchen
+- Nyx und El emeno machen sich auf den Weg Dusdremolin zu sprechen
+- Norwa macht sich auf den Weg Meister Alpertinger zu finden
+- Boma und Norwa geht zu Ilétlejn und fragen dort nach wo Meister Alpertinger sein könnte
+- Artheus findet heraus das sich Alpertinger in Raum 11 befinden sollte
+- Boma berichtet Ilétlejn über das Debakel mit den verfluchten Beeren und fragt nach ob sie etwas über die elfischen Ruinen weis die sich hier befinden sollen
+- Auch Norwa und Boma finden auch heraus das Alpertinger sich angeblich in Raum 11 befinden sollte
+- Nyx und El emeno befragen den verrückten Dusdremolin und finden heraus das eventuell ein Lehrer der Schule der Wachhund zur elfischen Ruine seien könnte
+- Artheus trifft parallel auf Alpertinger dieser ist ein riesiger Braunbär auf zwei Pfoten 
+- Nyx befragt Dusdremolin nach seinem Zwergischem Metal und erfährt das dieses Adamant ist in einem kleinen Gerangel zwischen Nyx und Dusdremolin schafft Nyx es ihm eine Schriftrolle zu entreißen 
+- Auf dem Gang tauscht Nyx dann sein Fass gegen 5 Pfeifen Füllungen von Tömtos Kraut und läuft zurück zur Gruppe
+- Die Gruppe trifft Abends auf Alpertinger dieser kaut auf einem so wie es ausschaut getrocknetem Frosch rum
+- El emeno beginnt das Gespräch mit Alpertinger und fragt ihn nach den Ruinen der Elfen
+- Dieser weigert sich aber irgendwas der Gruppe zu verraten 
+- El emeno, Nyx und Artheus versuchen Alpertinger zu täuschen und ihm klar zu machen das wir beauftragt wurden mehr über diese Knotenpunkte heraus zu finden dieses gelingt allerdings nicht 
+- Alpertinger spuckt den Frosch aus und macht sich bereit zu kämpfen
+
+ 49.03 im Jahr 49 Session 82 
