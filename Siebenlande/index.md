@@ -1,6 +1,5 @@
 ---
 title: Startseite
-uid: home
 tags:
   - Meta
 aliases:
