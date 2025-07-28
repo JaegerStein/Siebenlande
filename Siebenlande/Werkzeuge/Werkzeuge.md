@@ -1,10 +1,12 @@
 ---
-aliases:
-  - Werkzeug
-  - Tool
-  - Tools
+description: Sammlung an Werkzeugen
 tags:
   - Meta
 ---
-> [!note] Callout test
-> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Diese Seite beinhaltet eine Auflistung und Links hilfreicher **Werkzeuge** für die Kampagne. Zumindest würde sie das, *if I could be arsed*.
+
+Hier habt ihr zumindest mal einen Download-Link zum Charakterbogen-Excel-File:
+![[Charakterbogen.xlsx]]
+**Geplant**:
+- Charakterbogen im Web
+- Karten-Generator für Inventar-Objekte

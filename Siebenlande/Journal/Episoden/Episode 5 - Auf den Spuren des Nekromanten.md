@@ -3,9 +3,8 @@ aliases:
   - Episode 5
 tags:
   - Episode
-uid: ep5
 ---
-Zurück zu [[Episode 4 - Der Kult des Kosmos|Episode 4]] | Weiter zu Episode [[Episode 5 - Auf den Spuren des Nekromanten|Episode 5]]
+Zurück zu [[Episode 4 - Der Kult des Kosmos|Episode 4]] | Weiter zu Episode [[Episode 6 - Braucht noch einen Namen|Episode 6]]
 
 **Dauer** 11 Sitzungen
 **14. bis 24. Morgenblüte des Jahres 49, E2 Z5** <sup>[[Zeitrechnung|?]]</sup>
