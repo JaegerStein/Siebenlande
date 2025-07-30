@@ -270,6 +270,62 @@
 - El emeno, Nyx und Artheus versuchen Alpertinger zu täuschen und ihm klar zu machen das wir beauftragt wurden mehr über diese Knotenpunkte heraus zu finden dieses gelingt allerdings nicht 
 - Alpertinger spuckt den Frosch aus und macht sich bereit zu kämpfen
 
- 49.03 im Jahr 49 Session 82 
- asncancaiounca
-  
+ 45.03 im Jahr 49 Session 82  30.07.25
+
+- Fionn sprintet Richtung Alpertinger dieser hebt seine Hand und hält ihn auf Abstand und erzeugt eine Nebelwand um ihn von der Gruppe abzutrennen
+- Der Rest der Gruppe macht sich bereit zu Angriff
+- Alpertinger setzt alles in einen Angriff und trifft Fionn kritisch und verängstigt ihn dadurch, Fionn seine Rüstung wirft ein Teil des Schadens zurück und fügt dadurch El emeno und Artheus lebensbedrohlichen Schaden zu 
+- Norwa schießt auf Alpertinger doch dieser benutzt seinen getrockneten Frosch um diesen abzuwehren
+- Dursam läuft zu El emeno und hilft ihm auf 
+- Artheus schafft es aus eigener Kraft und rafft sich wieder auf 
+- Nyx stellt seinen Leerenwandler beschützend vor Artheus und beschwört seine Succubus 
+- El emeno macht Alpertinger nur ein wenig Schaden
+- Boma läuft zu Artheus um ihn zu heilen
+- Alpertinger läuft durch die Nebelwand in Richtung der restlichen Gruppe
+- Norwa schießt erneut auf Alpertinger doch dieser schafft es erneut den Angriff mit seinem Kauspielzeug abzuwehren
+- Artheus springt Alpertinger an und macht einfach nichts, Alpertinger schaut ihn einfach nur unbeeindruckt an 
+- Dursam beginnt zu Zaubern und es passiert auch bei ihm nichts 
+- El emeno schafft es wieder Alpertinger ein wenig schaden zu machen
+- Boma heilt El emeno
+- Fionn nimmt Anlauf rennt im großen Bogen um die Nebelwand drum herum und sprintet Alpertinger an vergleicht seine Stärke mit ihm und schlägt ihn durch die Wand zurück
+- Alpertinger greift mit einem Flächenangriff an und fügt Artheus, Fionn und El emeno schaden zu Artheus ist zusätzlich verstummt
+- Norwa schießt Alpertinger ab und dieser wehrt natürlich wieder mit seinem Kauspielzeug ab 
+- Dursam durchforstet Alpertingers Gedanken und findet heraus das er und seine Bären Freunde einen abgrundtiefen hass gegen uns hegt
+- Artheus schafft es das er nicht mehr vor Alpertinger flüchten muss 
+- Nyx sein Leerenwandler versucht Alpertinger aufs Maul zu hauen allerdings ist er immer noch nicht beeindruckt 
+- El emeno schafft es wieder Alpertinger Schaden zuzufügen 
+- Boma flüchtet wieder und heilt El emeno
+- Fionn läuft wieder zu Alpertinger hin
+- Alpertinger erschafft Trugbilder von sich selbst versucht dann Boma anzugreifen allerdings ohne Erfolg
+- Norwa schießt erneut und erneut kommt der Frosch zum einsatz
+- Nyx läuft ein Stück hinter die Nebelwand damit er den anderen die genaue Position von Alpertinger sagen kann 
+- Auch El emeno läuft in Richtung Artheus um ihm mit seiner Blindheit zu helfen
+- Boma versucht Alpertinger einen Feuertrank an den Kopf zu werfen und schafft es auch mit Bravour allerdings wird leider der Leerenwandler in Mitleidenschaft gezogen 
+- Fionn sprintet erneut um die Wand herum und rennt Alpertinger ins Gesicht 
+- Alpertinger wutentbrannt wegen dem Feuertrank wirkt einen Zauber gegen Boma und verletzt diese
+- Norwa schießt erneut in Richtung Alpertinger und schafft es Fridolin zu zerstören Alpertinger vollkommen verstört lässt von Fionn ab und steckt Fridolin in den Brunnen um ihn wieder zum Leben zu erwecken
+- Dursam schafft es auch endlich einen Angriff gegen Alpertinger zu landen und sticht ihm mit seinem vergifteten Dolch in den Rücken
+- El emeno setzt zum letzten Schlag an und schafft es Alpertinger in die Flucht zu schlagen
+- kaum ist Alpertinger besiegt worden und die Studenten strömen nur so in den Innenhof rein
+- Dursam erzählt der Gruppe das Alpertinger alle Bären waren die sie angegriffen hatten
+- Dursam näht für Boma Fridolin wieder zusammen und gibt ihn ihr 
+- Da die ganze Schule so tut als wäre nie etwas passiert und als hätte Alpertinger nie existiert macht sich die Gruppe weiter auf die Suche nach dem Zugang zu dem Knotenpunkt 
+- El emeno findet in der Bücherei einen vollständigen und Detailgetreuen Bauplan der schule über einen alten ungenutzten Schulflügel
+- Die Gruppe macht eine Lange Rast
+- Während alle schlafen schleicht sich Asta in Artheus sein Zimmer und erinnert ihn an den Pakt er soll aber niemanden töten sondern er muss ein Leben retten, Asta beauftragt Artheus eine Studentin aus der Schule zu schleußen damit diese bei Asta in die Leere geht
+- Artheus stimmt der Forderung von Asta zu
+
+ 46.03 im Jahr 49 Session 82 30.07.25
+ 
+ - Am nächsten morgen berichtet Artheus den Auftrag der Gruppe und fragt ob jemand dabei wäre die Studentin zu "entführen"
+ - El emeno, Artheus und Nyx machen sich auf den weg die Rebellische Studentin zu finden
+ - Als sie zu der Studentin laufen gehen sie an dem Verlassenen Schulflügel vorbei und EL Emeno fällt auf das an diesem eine Art Schutzzauber angebracht ist 
+ - Peietta ist eine Musterschülerin die nur nach Regeln lebt und arbeitet, Almander ist dümmer als es scheint aber gut wenn er alles auf seine eigene Art machen kann, Maskor ist ein Streber technisch und theoretisch brillant aber immer Zaubern absolut scheiße allerdings in Meta Magie sehr begabt, Revésse ist ein Naturtalent ihr fällt alles super leicht interessiert sich allerdings nicht wirklich für Regeln und Ordnung (würde auch ein Tier quälen wenn es zum Ziel führt)
+ - Nach diesem langen Gespräch schlägt EL emeno allen vieren den Ausbruch vor und ob sie überhaupt Interesse daran hätten
+ - Almander ist sofort dafür und quasi Aufbruch bereit, Peietta ist eher davon abgeneigt weil es ja gegen die Regeln ist möchte aber auch nichts verpassen wenn sie nicht mit kommt, Maskor ist sehr unsicher und traut sich nicht wirklich zu gehen, bei Revésse ist es ein wenig schwieriger zu deuten was sie möchte da sich bei ihr nur die Haarfarbe wechselt und sie nicht genau sagt was sie den möchte oder ob sie überhaupt mit möchte
+ - Alle vier sind damit einverstanden zu gehen und sagen uns noch genauer ob sie mit uns möchten oder nicht 
+ - El emeno verabschiedet sich von der Gruppe und untersucht den Schutzzauber des Verlassenen Schulflügel
+ - Revesse öffnet als wäre es nichts die Tür und läuft hinein ihre Gruppe, Artheus, Norwa, El Emeno und Nyx gehen direkt hinter her 
+ - Dort erzählt sie das sie hier als lernen und heimlich Tömtos Kraut rauchen und Alkohol trinken
+ - Maskor erzählt das es hier einen versteckten Zugang hinter einem Bücherregal gibt und zeigt und diesen direkt indem er zwei Kerzenständer bewegt und sich das Bücherregal öffnet
+ - 
