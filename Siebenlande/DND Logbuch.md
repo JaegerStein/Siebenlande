@@ -328,4 +328,31 @@
  - Revesse öffnet als wäre es nichts die Tür und läuft hinein ihre Gruppe, Artheus, Norwa, El Emeno und Nyx gehen direkt hinter her 
  - Dort erzählt sie das sie hier als lernen und heimlich Tömtos Kraut rauchen und Alkohol trinken
  - Maskor erzählt das es hier einen versteckten Zugang hinter einem Bücherregal gibt und zeigt und diesen direkt indem er zwei Kerzenständer bewegt und sich das Bücherregal öffnet
- - 
+ -
+46.03 im Jahr 49 Session 83 06.08.25
+
+   - die Gruppe hat den Wachhund geweckt und kämpft jetzt gegen ihn 
+   - der wachhund läuft Richtung Dursam bekommt auf dem Weg aber noch von Fionn und dem Leerenwandler einen Schlag verpasst dieser lässt ihn aber komplett unbeeindruckt
+   - Der Wachhund schnappt nach Dursam und zwingt ihn fast in die Knie grad noch so schafft Dursam es den Schmerzen zu widerstehen
+   - Artheus stellt sich wagemutig vor den Wachhund und versucht ihn mit seinem Speer eine Stichwunde zu verpassen doch auch das lässt ihn relativ unbeeindruckt da stehen 
+   - Der Wachhund schaut weiterhin auf Norwa und Nyx die völlig und gedeckt in Reichweite stehen
+   - Norwa fällt das auf und schießt ihm einen Pfeil entgegen
+   - Nyx beschwört seine Succubus und schafft es so dem Hund ein klein bisschen Schaden zu machen seinen Leerenwandler stellt er schützend vor Norwa
+   - Der Wachhund schnappt nach der Succubus und verschlingt sie mit einem happen
+   - El emeno schmeißt dem Wachhund einen Zauber entgegen und verwundet ihn damit 
+   - Norwa schießt dem Wachhund nach dem sein Kopf gesprengt wurde einen letzten Pfeil in die Brust und schafft es damit den Hund zu erlegen
+   - Nyx schneidet Fionn das Horn des Höllenhundes als Trophäe ab
+   - Boma heilt nachdem Kampf alle verletzten hoch
+   - Die Studenten Gruppe rund um Revesse laufen der Gruppe hinterher und schließt uns die Tür zum nächstem Raum auf
+   - in dem nächsten Raum sieht es so aus als wäre alles voller Sand in dem verlorene Ausrüstung liegt
+   - In dem Raum hängen klingen von der Decke die sich in Richtung von Artheus bewegen je nach dem wie schnell er sich bewegt
+   - Fionn stellt fast das in dem Treibsand eine Plattform ist auf der man stehen kann ohne ein zu sinken
+   - Artheus schafft es mit seinem Speer die nächste Plattform herauszufinden
+   - Die Schwerter an der Decke scheinen auf die Klinge von Artheus zu reagieren
+   - Nyx sticht mit seinem Holzstab in den Sand und stellt fest das die Schwerter quasi Magnetisch sind 
+   - Artheus hebt schützend sein Schild über Nyx während dieser langsam mit seinem Holzstab im Sand rum stochert
+   - Artheus und Nyx schaffen es langsam aber stetig sich durch den Sand zu schlängeln
+   - Die beiden finden auf halbem weg einen Dolch/Schlüssel der warscheinlich zum Tor am Ende passen könnte sie lassen ihn aber erstmal liegen und laufen weiter richtung Tor
+   - Als die beiden dort angekommen sind macht sich Dursam auf den Weg zu dem Schlüssel um diesen genauer zu untersuchen
+   - Dursam untersucht noch ein Schwert und kommt mit seiner Fackel zu nah an den Sand um dann festzustellen das dieser sich komplett in Glas verwandelt 
+   - 
