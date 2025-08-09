@@ -78,9 +78,9 @@ main {
   --color-attention-fg: #d29922;
   --color-attention-muted: rgb(187 128 9 / 40%);
   --color-attention-subtle: rgb(187 128 9 / 15%);
-  --color-danger-fg: #f85149;
+  --color-danger-fg: #f85149; /* --danger */
   --color-danger-muted: rgb(248 81 73 / 40%);
-  --color-danger-subtle: rgb(248 81 73 / 10%);
+  --color-danger-subtle: rgb(248 81 73 / 10%); /* --dangerSubtle */
   --color-primer-shadow-inset: 0 0 transparent;
   --color-scale-gray-7: #21262d;
   --color-scale-blue-8: #0c2d6b;

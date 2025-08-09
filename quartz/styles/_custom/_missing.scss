@@ -1,0 +1,11 @@
+.missing-link {
+  color: var(--danger) !important;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: var(--danger);
+}
+
+.missing-link:hover {
+  background-color: var(--dangerSubtle);
+  color: var(--danger) !important;
+}
