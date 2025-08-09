@@ -43,15 +43,17 @@ export function JSResourceToScriptElement(resource: JSResource, preserve?: boole
   }
 }
 
-export function CSSResourceToStyleElement(resource: CSSResource, preserve?: boolean): JSX.Element {
+export function CSSResourceToStyleElement(resource: CSSResource, preserve?: boolean, buildId?: string): JSX.Element {
   const spaPreserve = preserve ?? resource.spaPreserve
   if (resource.inline ?? false) {
     return <style>{resource.content}</style>
   } else {
+    // Append buildId as query string for cache busting if available
+    const href = buildId ? `${resource.content}?v=${buildId}` : resource.content
     return (
       <link
         key={resource.content}
-        href={resource.content}
+        href={href}
         rel="stylesheet"
         type="text/css"
         spa-preserve={spaPreserve}
