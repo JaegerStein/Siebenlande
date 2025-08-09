@@ -8,6 +8,8 @@ export interface ColorScheme {
   tertiary: string
   highlight: string
   textHighlight: string
+  danger: string
+  dangerSubtle: string
 }
 
 interface Colors {
@@ -154,6 +156,8 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
+  --danger: ${theme.colors.lightMode.danger};
+  --dangerSubtle: ${theme.colors.lightMode.dangerSubtle};
 
   --titleFont: "${getFontSpecificationName(theme.typography.title || theme.typography.header)}", ${DEFAULT_SANS_SERIF};
   --headerFont: "${getFontSpecificationName(theme.typography.header)}", ${DEFAULT_SANS_SERIF};
@@ -171,6 +175,8 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+  --danger: ${theme.colors.darkMode.danger};
+  --dangerSubtle: ${theme.colors.darkMode.dangerSubtle};
 }
 `
 }
