@@ -5,6 +5,8 @@ tags:
 
 > [!INFO] Episoden
 > [[Episode 0 - Prolog]]
+> [[Episode 3 - Von Geistern, Hexen und Teufeln]]
+> [[Episode 5 - Auf den Spuren des Nekromanten]]
 
 Euer Mäzen [[Stevano von Latima]] hat euch aufgetragen, den Schwarzmagier [[Peretin]] zu jagen und zu besiegen. Als Belohnung versprachen er und der [[Phorials Tempel|Tempel des Phorials]] eine Belohnung von "[[Währung|100 Guldern]]", was ein beträchtliches Vermögen ist.
 
