@@ -75,7 +75,7 @@ cssclasses:
 - [[Ausperlend]]
 - [[Aussos]]
 - [[Ennelend]]
-- [[Questerei Fonte Latima|Fonte Latima]]
+- [[Streichelzoo|Fonte Latima]]
 - [[Guestalla]]
 - [[Hadorim]]
 - [[Malravien]]

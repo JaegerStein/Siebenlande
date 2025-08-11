@@ -1,6 +1,3 @@
----
-uid: m
----
 - steht mit [[Kartjan Hamsa]] in Verbindung
 - wird von [[Vredec|Vredecs]] Handelskarawane in Richtung [[Viasti]] mitgenommen, zieht dann weiter nach Süden
 - bietet den Abenteurern eine Arbeit an, da [[Hierophant Tionoberrum der Erste]] ihr etwas gestohlen haben soll

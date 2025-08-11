@@ -1,0 +1,6 @@
+---
+uid: "11"
+aliases:
+  - Dursam
+---
+Yespest, Teil der [[Streichelzoo|Abenteurergruppe]]

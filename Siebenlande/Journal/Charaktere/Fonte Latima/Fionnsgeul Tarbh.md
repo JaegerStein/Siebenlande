@@ -8,4 +8,4 @@ tags:
   - Minotaure
 uid: "12"
 ---
-Minotaure aus [[Mesra]], Teil der [[Questerei Fonte Latima|Abenteurergruppe]]
+Minotaure aus [[Mesra]], Teil der [[Streichelzoo|Abenteurergruppe]]
