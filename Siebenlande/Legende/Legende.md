@@ -7,7 +7,7 @@ In der Legende findet ihr Wissenswertes über die [[Geschichte]], [[Geografie|La
 
 Einträge in der Legende sind nicht zwangsläufig wahr, sondern beruhen auf Erzählungen, Sagen, und dem Glauben der Bewohner. Alle Informationen hier sind mit Vorsicht zu genießen.
 
-Link zu [[Journal]]
+Link zu [[Journal/index|Journal]]
 
 #### Reiche der Siebenlande:
 - [[Malravien]]
