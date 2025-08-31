@@ -1,0 +1,9 @@
+#card {
+	width: calc(512px / var(--pixel-ratio, 1));
+	height: calc(768px / var(--pixel-ratio, 1));
+	aspect-ratio: 2/3;
+
+	border-radius: 16px;
+
+	background-color: white;
+}
