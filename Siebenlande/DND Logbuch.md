@@ -246,12 +246,20 @@
 - Nyx kann nicht erkennen das irgendwo ein baum wäre der ihm was böses könnte 
 - Nyx überzeugt Boma dazu ein paar Körner der Gewächshäuser einzustecken damit die Gruppe diese in ihrer Burg anpflanzen und zum Handel benutzen können
 - Revésse ( eine Studentin ) fragt mit vorgespielter Interesse Boma warum sie den einfach hier Samen klaut 
+- Nyx versucht von Ilétlejn zu überzeugen ihm zu sagen was das für ein Kraut ist das Tömto raucht nach langem hin und her beschwört sie einen großen Baum der Nyx vom Akademie Gelände schmeißt
+- Artheus findet etwas mehr über den Wald heraus und das dieser anscheinend sogar eine eigene Gottheit ist
+- Sylvaris findet durch das kleine Wäldchen am Rande der Schule den weg in die Schule zurück
+- Artheus versucht es weiter bei den Studentinnen um angestellte für unsere Burg zu finden
+- Nyx kann nicht erkennen das irgendwo ein baum wäre der ihm was böses könnte
+- Nyx überzeugt Boma dazu ein paar Körner der Gewächshäuser einzustecken damit die Gruppe diese in ihrer Burg anpflanzen und zum Handel benutzen können
+- Revésse ( eine Studentin ) fragt mit vorgespielter Interesse Boma warum sie den einfach hier Samen klaut
 - Nyx stellt fest das sich die Haarfarbe von Revésse sich unter dem Zauberer Hut zu verschiedenen Grautönen wechselt und dies wahrscheinlich durch einen Zauber
 - Dursam untersucht den Astronomie Turm...
 - Die Freunde von Revésse sind Peietta, Almander und Maskor
 - Auch die Freunde von Revésse sagen nichts außer Almander dieser kam raus damit das Revésse ein Experiment missglückt ist
 - Revésse fragt Nyx warum wir einen Knotenpunkt suchen, Nyx möchte ganz ehrlich antworten wird allerdings von Boma mit Tritten und Schlägen davon abgehalten
 - Norwa führt das Gespräch weiter und wird allerdings von El emeno unterbrochen 
+- Norwa führt das Gespräch weiter und wird allerdings von El emeno unterbrochen
 - El emeno versammelt die Gruppe am äußersten Rand der Grünanlage um ihnen was im vertrauen zu sagen
 - El emeno geht zu den drei Studenten zurück um sie abzulenken während die anderem im Keller nach dem elfischen Portal suchen
 - Nyx und El emeno machen sich auf den Weg Dusdremolin zu sprechen
@@ -279,12 +287,32 @@
 - Dursam läuft zu El emeno und hilft ihm auf 
 - Artheus schafft es aus eigener Kraft und rafft sich wieder auf 
 - Nyx stellt seinen Leerenwandler beschützend vor Artheus und beschwört seine Succubus 
+- Artheus trifft parallel auf Alpertinger dieser ist ein riesiger Braunbär auf zwei Pfoten
+- Nyx befragt Dusdremolin nach seinem Zwergischem Metal und erfährt das dieses Adamant ist in einem kleinen Gerangel zwischen Nyx und Dusdremolin schafft Nyx es ihm eine Schriftrolle zu entreißen
+- Auf dem Gang tauscht Nyx dann sein Fass gegen 5 Pfeifen Füllungen von Tömtos Kraut und läuft zurück zur Gruppe
+- Die Gruppe trifft Abends auf Alpertinger dieser kaut auf einem so wie es ausschaut getrocknetem Frosch rum
+- El emeno beginnt das Gespräch mit Alpertinger und fragt ihn nach den Ruinen der Elfen
+- Dieser weigert sich aber irgendwas der Gruppe zu verraten
+- El emeno, Nyx und Artheus versuchen Alpertinger zu täuschen und ihm klar zu machen das wir beauftragt wurden mehr über diese Knotenpunkte heraus zu finden dieses gelingt allerdings nicht
+- Alpertinger spuckt den Frosch aus und macht sich bereit zu kämpfen
+
+45.03 im Jahr 49 Session 82 30.07.25
+
+- Fionn sprintet Richtung Alpertinger dieser hebt seine Hand und hält ihn auf Abstand und erzeugt eine Nebelwand um ihn von der Gruppe abzutrennen
+- Der Rest der Gruppe macht sich bereit zu Angriff
+- Alpertinger setzt alles in einen Angriff und trifft Fionn kritisch und verängstigt ihn dadurch, Fionn seine Rüstung wirft ein Teil des Schadens zurück und fügt dadurch El emeno und Artheus lebensbedrohlichen Schaden zu
+- Norwa schießt auf Alpertinger doch dieser benutzt seinen getrockneten Frosch um diesen abzuwehren
+- Dursam läuft zu El emeno und hilft ihm auf
+- Artheus schafft es aus eigener Kraft und rafft sich wieder auf
+- Nyx stellt seinen Leerenwandler beschützend vor Artheus und beschwört seine Succubus
 - El emeno macht Alpertinger nur ein wenig Schaden
 - Boma läuft zu Artheus um ihn zu heilen
 - Alpertinger läuft durch die Nebelwand in Richtung der restlichen Gruppe
 - Norwa schießt erneut auf Alpertinger doch dieser schafft es erneut den Angriff mit seinem Kauspielzeug abzuwehren
 - Artheus springt Alpertinger an und macht einfach nichts, Alpertinger schaut ihn einfach nur unbeeindruckt an 
 - Dursam beginnt zu Zaubern und es passiert auch bei ihm nichts 
+- Artheus springt Alpertinger an und macht einfach nichts, Alpertinger schaut ihn einfach nur unbeeindruckt an
+- Dursam beginnt zu Zaubern und es passiert auch bei ihm nichts
 - El emeno schafft es wieder Alpertinger ein wenig schaden zu machen
 - Boma heilt El emeno
 - Fionn nimmt Anlauf rennt im großen Bogen um die Nebelwand drum herum und sprintet Alpertinger an vergleicht seine Stärke mit ihm und schlägt ihn durch die Wand zurück
@@ -294,6 +322,11 @@
 - Artheus schafft es das er nicht mehr vor Alpertinger flüchten muss 
 - Nyx sein Leerenwandler versucht Alpertinger aufs Maul zu hauen allerdings ist er immer noch nicht beeindruckt 
 - El emeno schafft es wieder Alpertinger Schaden zuzufügen 
+- Norwa schießt Alpertinger ab und dieser wehrt natürlich wieder mit seinem Kauspielzeug ab
+- Dursam durchforstet Alpertingers Gedanken und findet heraus das er und seine Bären Freunde einen abgrundtiefen hass gegen uns hegt
+- Artheus schafft es das er nicht mehr vor Alpertinger flüchten muss
+- Nyx sein Leerenwandler versucht Alpertinger aufs Maul zu hauen allerdings ist er immer noch nicht beeindruckt
+- El emeno schafft es wieder Alpertinger Schaden zuzufügen
 - Boma flüchtet wieder und heilt El emeno
 - Fionn läuft wieder zu Alpertinger hin
 - Alpertinger erschafft Trugbilder von sich selbst versucht dann Boma anzugreifen allerdings ohne Erfolg
@@ -302,6 +335,10 @@
 - Auch El emeno läuft in Richtung Artheus um ihm mit seiner Blindheit zu helfen
 - Boma versucht Alpertinger einen Feuertrank an den Kopf zu werfen und schafft es auch mit Bravour allerdings wird leider der Leerenwandler in Mitleidenschaft gezogen 
 - Fionn sprintet erneut um die Wand herum und rennt Alpertinger ins Gesicht 
+- Nyx läuft ein Stück hinter die Nebelwand damit er den anderen die genaue Position von Alpertinger sagen kann
+- Auch El emeno läuft in Richtung Artheus um ihm mit seiner Blindheit zu helfen
+- Boma versucht Alpertinger einen Feuertrank an den Kopf zu werfen und schafft es auch mit Bravour allerdings wird leider der Leerenwandler in Mitleidenschaft gezogen
+- Fionn sprintet erneut um die Wand herum und rennt Alpertinger ins Gesicht
 - Alpertinger wutentbrannt wegen dem Feuertrank wirkt einen Zauber gegen Boma und verletzt diese
 - Norwa schießt erneut in Richtung Alpertinger und schafft es Fridolin zu zerstören Alpertinger vollkommen verstört lässt von Fionn ab und steckt Fridolin in den Brunnen um ihn wieder zum Leben zu erwecken
 - Dursam schafft es auch endlich einen Angriff gegen Alpertinger zu landen und sticht ihm mit seinem vergifteten Dolch in den Rücken
@@ -310,6 +347,8 @@
 - Dursam erzählt der Gruppe das Alpertinger alle Bären waren die sie angegriffen hatten
 - Dursam näht für Boma Fridolin wieder zusammen und gibt ihn ihr 
 - Da die ganze Schule so tut als wäre nie etwas passiert und als hätte Alpertinger nie existiert macht sich die Gruppe weiter auf die Suche nach dem Zugang zu dem Knotenpunkt 
+- Dursam näht für Boma Fridolin wieder zusammen und gibt ihn ihr
+- Da die ganze Schule so tut als wäre nie etwas passiert und als hätte Alpertinger nie existiert macht sich die Gruppe weiter auf die Suche nach dem Zugang zu dem Knotenpunkt
 - El emeno findet in der Bücherei einen vollständigen und Detailgetreuen Bauplan der schule über einen alten ungenutzten Schulflügel
 - Die Gruppe macht eine Lange Rast
 - Während alle schlafen schleicht sich Asta in Artheus sein Zimmer und erinnert ihn an den Pakt er soll aber niemanden töten sondern er muss ein Leben retten, Asta beauftragt Artheus eine Studentin aus der Schule zu schleußen damit diese bei Asta in die Leere geht
@@ -328,7 +367,7 @@
  - Revesse öffnet als wäre es nichts die Tür und läuft hinein ihre Gruppe, Artheus, Norwa, El Emeno und Nyx gehen direkt hinter her 
  - Dort erzählt sie das sie hier als lernen und heimlich Tömtos Kraut rauchen und Alkohol trinken
  - Maskor erzählt das es hier einen versteckten Zugang hinter einem Bücherregal gibt und zeigt und diesen direkt indem er zwei Kerzenständer bewegt und sich das Bücherregal öffnet
- -
+ 
 46.03 im Jahr 49 Session 83 06.08.25
 
    - die Gruppe hat den Wachhund geweckt und kämpft jetzt gegen ihn 
@@ -355,4 +394,97 @@
    - Die beiden finden auf halbem weg einen Dolch/Schlüssel der warscheinlich zum Tor am Ende passen könnte sie lassen ihn aber erstmal liegen und laufen weiter richtung Tor
    - Als die beiden dort angekommen sind macht sich Dursam auf den Weg zu dem Schlüssel um diesen genauer zu untersuchen
    - Dursam untersucht noch ein Schwert und kommt mit seiner Fackel zu nah an den Sand um dann festzustellen das dieser sich komplett in Glas verwandelt 
-   - 
+   
+46.03 im Jahr 49 Session 82 30.07.25
+
+- Am nächsten morgen berichtet Artheus den Auftrag der Gruppe und fragt ob jemand dabei wäre die Studentin zu "entführen"
+- El emeno, Artheus und Nyx machen sich auf den weg die Rebellische Studentin zu finden
+- Als sie zu der Studentin laufen gehen sie an dem Verlassenen Schulflügel vorbei und EL Emeno fällt auf das an diesem eine Art Schutzzauber angebracht ist
+- Peietta ist eine Musterschülerin die nur nach Regeln lebt und arbeitet, Almander ist dümmer als es scheint aber gut wenn er alles auf seine eigene Art machen kann, Maskor ist ein Streber technisch und theoretisch brillant aber immer Zaubern absolut scheiße allerdings in Meta Magie sehr begabt, Revésse ist ein Naturtalent ihr fällt alles super leicht interessiert sich allerdings nicht wirklich für Regeln und Ordnung (würde auch ein Tier quälen wenn es zum Ziel führt)
+- Nach diesem langen Gespräch schlägt EL emeno allen vieren den Ausbruch vor und ob sie überhaupt Interesse daran hätten
+- Almander ist sofort dafür und quasi Aufbruch bereit, Peietta ist eher davon abgeneigt weil es ja gegen die Regeln ist möchte aber auch nichts verpassen wenn sie nicht mit kommt, Maskor ist sehr unsicher und traut sich nicht wirklich zu gehen, bei Revésse ist es ein wenig schwieriger zu deuten was sie möchte da sich bei ihr nur die Haarfarbe wechselt und sie nicht genau sagt was sie den möchte oder ob sie überhaupt mit möchte
+- Alle vier sind damit einverstanden zu gehen und sagen uns noch genauer ob sie mit uns möchten oder nicht
+- El emeno verabschiedet sich von der Gruppe und untersucht den Schutzzauber des Verlassenen Schulflügel
+- Revesse öffnet als wäre es nichts die Tür und läuft hinein ihre Gruppe, Artheus, Norwa, El Emeno und Nyx gehen direkt hinter her
+- Dort erzählt sie das sie hier als lernen und heimlich Tömtos Kraut rauchen und Alkohol trinken
+- Maskor erzählt das es hier einen versteckten Zugang hinter einem Bücherregal gibt und zeigt und diesen direkt indem er zwei Kerzenständer bewegt und sich das Bücherregal öffnet
+
+46.03 im Jahr 49 Session 83 06.08.25
+
+- die Gruppe hat den Wachhund geweckt und kämpft jetzt gegen ihn
+- der wachhund läuft Richtung Dursam bekommt auf dem Weg aber noch von Fionn und dem Leerenwandler einen Schlag verpasst dieser lässt ihn aber komplett unbeeindruckt
+- Der Wachhund schnappt nach Dursam und zwingt ihn fast in die Knie grad noch so schafft Dursam es den Schmerzen zu widerstehen
+- Artheus stellt sich wagemutig vor den Wachhund und versucht ihn mit seinem Speer eine Stichwunde zu verpassen doch auch das lässt ihn relativ unbeeindruckt da stehen
+- Der Wachhund schaut weiterhin auf Norwa und Nyx die völlig und gedeckt in Reichweite stehen
+- Norwa fällt das auf und schießt ihm einen Pfeil entgegen
+- Nyx beschwört seine Succubus und schafft es so dem Hund ein klein bisschen Schaden zu machen seinen Leerenwandler stellt er schützend vor Norwa
+- Der Wachhund schnappt nach der Succubus und verschlingt sie mit einem happen
+- El emeno schmeißt dem Wachhund einen Zauber entgegen und verwundet ihn damit
+- Norwa schießt dem Wachhund nach dem sein Kopf gesprengt wurde einen letzten Pfeil in die Brust und schafft es damit den Hund zu erlegen
+- Nyx schneidet Fionn das Horn des Höllenhundes als Trophäe ab
+- Boma heilt nachdem Kampf alle verletzten hoch
+- Die Studenten Gruppe rund um Revesse laufen der Gruppe hinterher und schließt uns die Tür zum nächstem Raum auf
+- in dem nächsten Raum sieht es so aus als wäre alles voller Sand in dem verlorene Ausrüstung liegt
+- In dem Raum hängen klingen von der Decke die sich in Richtung von Artheus bewegen je nach dem wie schnell er sich bewegt
+- Fionn stellt fast das in dem Treibsand eine Plattform ist auf der man stehen kann ohne ein zu sinken
+- Artheus schafft es mit seinem Speer die nächste Plattform herauszufinden
+- Die Schwerter an der Decke scheinen auf die Klinge von Artheus zu reagieren
+- Nyx sticht mit seinem Holzstab in den Sand und stellt fest das die Schwerter quasi Magnetisch sind
+- Artheus hebt schützend sein Schild über Nyx während dieser langsam mit seinem Holzstab im Sand rum stochert
+- Artheus und Nyx schaffen es langsam aber stetig sich durch den Sand zu schlängeln
+- Die beiden finden auf halbem weg einen Dolch/Schlüssel der warscheinlich zum Tor am Ende passen könnte sie lassen ihn aber erstmal liegen und laufen weiter richtung Tor
+- Als die beiden dort angekommen sind macht sich Dursam auf den Weg zu dem Schlüssel um diesen genauer zu untersuchen
+- Dursam untersucht noch ein Schwert und kommt mit seiner Fackel zu nah an den Sand um dann festzustellen das dieser sich komplett in Glas verwandelt
+
+Session 84 13.08.25
+
+- Fionn lässt sich langsam durch den Sand runter und holt dann nach und nach die Gruppe nach unten 
+- unten angekommen steht die Gruppe vor einem Abrund in dem eine Art Schachbrett mit riesigen Figuren schwebt
+- Nyx wird von Revesse auf das Schachbrett bewegt und dieser wird sofort ein Teil des Spiels und muss nun diesen riesigen Spielfiguren Befehle geben um das Spiel zu gewinnen
+- Nyx rammt sich selber und wird von dem Brett teleportiert im gleichen Atemzug landet Boma drauf sie wird vom gegnerischen Turm gerammt und Dursam landet als nächstes auf dem Spielfeld 
+- Nach gefühlt einer Stunde ewigem hin und her Geschiebe der Figuren schafft es Revesse dem gegnerischen König den Gnadenstoß zu geben und damit das Spiel zu gewinnen
+- Die Gruppe versammelt sich und bereitet sich für den bevorstehenden Kampf vor 
+- 
+
+Session 86 10.09.25 47.03 im Jahr 49
+
+- Die Gruppe befragt die Wand nach allen Sachen die mit der Leitlinienstelle zu tun hat
+- Revesse meint das der elfische Spiegel was mit den Teleportknoten zu tun hat allerdings kann nur ein Elf diesen Spiegel benutzen
+- Nyx seine blutigen Hände aktivieren auf merkwürdige Art und Weise den Spiegel
+- Nyx steckt erst die Hand und dann den gesamten Kopf durch den Spiegel und wird plötzlich von einem Sog durch den Spiegel gezogen
+- Der Rest der Gruppe wartet noch ein wenig ob Nyx zurück kommt als er dies aber nicht tut springen sie durch den Spiegel hinterher 
+- Auf der anderen Seite angekommen taucht die Gruppe aus einem Teich wieder auf und sind in einer alten elfischen Ruine
+- Alle schauen sich um und untersuchen wo sie sind plötzlich stellen sie fest das Nyx fehlt aber an seiner Stelle ein Elf steht der sie vertraut anschaut 
+- Alle schauen sich fragend an und fragen den Elf wer er den ist dieser erklärt ihnen dann die ganze Geschichte und das er ja Nyx sei nur halt verflucht wurde
+- Die Gruppe zieht weiter auf dem Weg bekommt Norwa einen Geisterhund und sie treffen auf Asta die sich bei Artheus bedankt 
+- Gleichzeitig warnt sie alle vor das die Schule/Kirche Revesse nicht vergessen werden und sie suchen werden
+- Revesse ist nur ein Spitzname den Revesse ist die Prinzessin des Königreiches Ausoperlend und dieses wäre dann die 3 Partei die nach ihr suchen würden
+- Fionn fragt Asta nach einem Auftrag und bekommt eventuell einen Showkampf in der Hölle gegen Dämonen
+- Wir finden ein Fischerdorf in dem wir einen Fischer bezahlen der uns zum nächsten Ufer rüber bringt 
+- Dort angekommen stoßen wir auf ein neues Dorf das zwar bewirtet aber komplett leer aussieht 
+- leicht getrennt erforscht die Gruppe das dorf und findet in der Mitte des Dorfes einen Baum an dem alle Dorfbewohner tot an einer Art Schleim hängen 
+- Fionn, Artheus und Norwa untersuchen den Baum während Nyx einen verlassenen Schuppen untersucht
+- Plötzlich taucht auf dem Kirchen Dach ein bedrohlicher Schatten auf und im Dorf verteilt 3 kleine leuchtenden Stücke Materie 
+- Der Schatten ( Dark Terror ) prescht auf die Gruppe am Baum zu und erschafft eine betäubende Spähre die alles in ihr Stunt selbst Nyx im Schuppen ist betäubt
+- Das erste Stück Materie fliegt durch Dursam und LMNO durch und macht ihnen 1 mentalschaden und beginnt stärker zu leuchten
+- Beim Truhe durchsuchen eingefroren kann Nyx nichts machen allerdings beschwört sich sein Leerenwandler von alleine und steht Dark Terror gegenüber die beiden scheinen irgendwie vertraut zu sein kurz danach schnappt er sich Norwa und trägt ihn außerhalb der Spähre
+- Der Wirrenjäger holt aus und schlägt mit seiner Keule auf Fionn ein der da er sich nicht wehren kann sehr starken schaden nimmt dadurch hat Fionn mehrere tiefe Fleischwunden überall an seinem Körper
+- Norwa zielt auf den Wirrenjäger und schafft es ihm ein wenig Schaden zu machen
+- Fionn versucht mit einem lauten Gebrüll die Gegner einzuschüchtern die Gegner stehen einfach nur unbeeindruckt da als würden sie ihn nicht hören
+- Vor lauter Wut schlägt Fionn auf den Wirrwisch ein doch seine Faust geht einfach durch ihn hindurch und verletzt ihn nicht wirklich
+- Dursam läuft näher und macht sich für den Angriff bereit 
+- Boma läuft zu Fionn und schmeißt ihm so gut es geht ihren Heiltrank an den Kopf
+- Der Wirrenjäger schickt seinen Wirrwisch hinter Fionn und schafft durch die Verbindung zu ihm Fionn zu verlangsamen
+- Der Wirrenjäger selbst springt wieder von dem Kirchendach direkt vor Fionn
+- Norwa schießt wieder auf den Wirrenjäger leider auch nicht mit dem größten Erfolg das erste mal seit langem sieht ein Kampf für die Gruppe sehr aussichtslos aus 
+- Fionn versucht noch mal mit aller Kraft dem Wirrenjäger schaden zuzufügen und schafft es tatsächlich dem Wirrenjäger aufs Maul zu hauen
+- Die Wirrwische haben ihre Positionen geändert und der Wirrenjäger sprintet durch Norwa durch der jetzt verlangsamt ihn
+- Fionn, Dursam und Artheus versuchen den Wirrenjäger einzukesseln und ihn von 3 Seiten anzugreifen 
+- Elemeno geht an die Kirche ran und schafft es den Wirrwisch der sich in der Kirche versteckt hält dort raus zu schießen
+- Boma heilt blitz schnell die Wunden von Norwa zusätzlich erhält er eine magische Rüstung die ihn noch länger schützt
+- Nach einer gefühlten Ewigkeit erbarmt sich Almander auch endlich mal etwas zu tun und befördert einen der drei Wirrwische zurück in die Wirre wo sie herkommen
+- Die Gruppe findet heraus das die Wirrwische nicht mit physischem Schaden zu verletzen sind 
+- Der Wirrenjäger gefrustet von dem Verlust des Wirrwischts versucht Norwa und Dursam zu verletzen aber schafft es nicht seine Angriffe richtig gezielt zu setzen und schlägt einfach daneben 
+- Komplett von der Wut geleitet möchte der Wirrenjäger jemanden töten und vergreift sich nun an Almander und portet sich direkt neben Almander 
+- Dursam sieht das und fliegt sofort so schnell wie der Wind los und verfolgt den Wirrenjäger, greift ihn direkt an und schafft es den Wirrenjäger hinterrücks zu ermorden dieser verpufft einfach 
+- 
