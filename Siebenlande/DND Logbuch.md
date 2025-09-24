@@ -487,4 +487,26 @@ Session 86 10.09.25 47.03 im Jahr 49
 - Der Wirrenjäger gefrustet von dem Verlust des Wirrwischts versucht Norwa und Dursam zu verletzen aber schafft es nicht seine Angriffe richtig gezielt zu setzen und schlägt einfach daneben 
 - Komplett von der Wut geleitet möchte der Wirrenjäger jemanden töten und vergreift sich nun an Almander und portet sich direkt neben Almander 
 - Dursam sieht das und fliegt sofort so schnell wie der Wind los und verfolgt den Wirrenjäger, greift ihn direkt an und schafft es den Wirrenjäger hinterrücks zu ermorden dieser verpufft einfach 
-- 
+Session 87 24.09.25 47.03 im Jahr 49
+
+- Fionn und Sylvaris stellen fest das in dem Dorf in dem sie sind die Zeit verrückt spielt und an manchen Stellen die Zeit schneller vergeht und bei manchem viel zu lange braucht
+- Sylvaris hat ebenfalls festgestellt das BEX sein Leerenwandler sich nicht mehr wegschicken lässt und scheinbar normal mit ihm reisen möchte
+- Elemeno hat herausgefunden das in dem Dorf eine Art Magie Bombe gefallen ist die das Arkane Gewebe in dem Dorf stört und dadurch die Zeit Probleme aufgetreten sind 
+- Almander und Revesse haben außer Bauernbekleidung nichts gefunden
+- Die gesamte Gruppe überlässt das Dorf einfach seinem Schicksal und reist Richtung Heimat
+
+03.04 im Jahr 49
+- Auf dem Weg zum Burgtor erkennen wir einen Berg von Rüstung und Waffen auf dem Weg
+- Boma spricht mit Wallther aber dieser gibt keine Antwort was hier geschehen ist 
+- Kurz vor der Burg treffen wir einen alten Bekannten nämlich den Goblin der uns damals unser Zeug geklaut hat
+- Angekommen bei Wauta hören wir wie sie ihn Frudatta nennt benannt nach ihrem verstorbenen Mann oder Hund das weiß sie nicht genau 
+- Wauta beichtet das sie Frudatta aus dem Kerker geholt hat und ihn benutzt um die Burg aufrecht zu erhalten
+- Wir stellen Wauta Almander und Revesse vor und warum sie hier sind 
+- Als Wauta alle zum Essen ruft treffen wir auf einen alten Weg Begleiter und zwar Goddfliegd ( mit Augenklappe) nur Sylvaris und Elemno wissen nicht wer er ist und bekommen die Geschichte erzählt wie sie sich kennengelernt haben 
+- Elemno befragt Goddfliegd ob er weiß wo BEX herkommt oder weiß was es mit ihm zu tun hat
+- Fionn findet heraus das Frudatta ein Troll ist den man auf jeden fall nicht mit Fleisch füttern sollte und dies auch mit einer Null Toleranz Politik durchgeführt werden muss
+- Sylvaris studiert mit Goddfliegd BEX um heraus zu finden wie man ihn trainiert und mit ihm kommunizieren kann
+- Sylvaris zeigt Almander, Revesse und Elemeno ihre Zimmer
+- Eines Tages hören wir im vorderen Burghof wie ein kleiner Imp die Einladung für Fionn verkündet der in der Hölle gegen Dämonen und nutzlose Teufel kämpfen soll
+- Nach seiner Ansprache explodiert der Imp und bleibt als kleines Juwel (die Einladung) zurück
+- Die Questerei bekommt aus dem Dorf eine Quest das um das Dorf rum riesige Fußstapfen in Form eines Vogels aufgetaucht sind und diesen auf den Grund gehen sollen 
