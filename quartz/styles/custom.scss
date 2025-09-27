@@ -1,36 +1,6 @@
 @use "./base.scss";
 // put your custom CSS here!
-@use "./_custom/index";
-@use "./_custom/missing";
-
-@media (max-width: 420px) {
-	h2.page-title {
-		font-size: 1.5rem;
-	}
-}
-
-@media (max-width: 400px) {
-	h2.page-title {
-		font-size: 1.25rem;
-	}
-}
-
-@media (max-width: 380px) {
-	h2.page-title {
-		opacity: 1;
-		font-size: 1.75rem;
-		z-index: 100;
-		white-space: nowrap;
-		transform: translateY(0);
-
-		transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
-	}
-
-	.left.sidebar:has(.explorer.collapsed) {
-		h2.page-title {
-			opacity: 0;
-			pointer-events: none;
-			transform: translateY(-200%);
-		}
-	}
-}
+@use "./custom/index";
+@use "./custom/missing";
+@use "./custom/page-title";
+@use "./custom/iframe";
