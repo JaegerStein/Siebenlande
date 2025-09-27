@@ -18,17 +18,17 @@ function getScale(parent: HTMLElement): number {
 const Card: React.FC = () => {
 	const [scale, setScale] = useState(1);
 	const ref = useRef<HTMLDivElement | null>(null);
-	const timeout = useRef<number| null>(null);
 
 	useEffect(() => {
 		const parent = ref.current?.parentElement;
 		if (!parent) return;
 		setScale(getScale(parent));
 
+		let timeout: number | null = null;
 		const observer = new ResizeObserver(() => {
-			if (timeout.current) window.clearTimeout(timeout.current);
-			timeout.current = window.setTimeout(() => {
-				timeout.current = null;
+			if (timeout) window.clearTimeout(timeout);
+			timeout = window.setTimeout(() => {
+				timeout = null;
 				setScale(getScale(parent));
 			}, 100);
 		});
@@ -37,7 +37,7 @@ const Card: React.FC = () => {
 
 		return () => {
 			observer.disconnect();
-			if (timeout.current) window.clearTimeout(timeout.current);
+			if (timeout) window.clearTimeout(timeout);
 		}
 
 	}, []);
