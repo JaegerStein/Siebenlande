@@ -1,7 +1,18 @@
+$base-width: 1024px;
+$base-height: 1536px;
+
 #card {
-  aspect-ratio: 2 / 3;
-  width: 1024px;
-  height: 1536px;
+  min-width: $base-width;
+  width: $base-width;
+  max-width: $base-width;
+
+  min-height: $base-height;
+  height: $base-height;
+  max-height: $base-height;
+
   transform-origin: center;
-  background-color: #393639;
+
+  background: #333;
+
+  transition: transform .1s ease-in-out;
 }
