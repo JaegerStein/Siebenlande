@@ -23,6 +23,7 @@
 			align-self: stretch;
 
 			#title {
+				width: 100%;
 				color: #FAFAFA;
 				text-shadow: 0 0 8px rgba(0, 0, 0, 0.50), 0 0 4px rgba(0, 0, 0, 0.80);
 				-webkit-text-stroke-width: 1px;
@@ -33,6 +34,10 @@
 				font-weight: 400;
 				line-height: 48px; /* 75% */
 				letter-spacing: -3.2px;
+
+				&[contenteditable] {
+					outline: none;
+				}
 			}
 		}
 
