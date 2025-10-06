@@ -1,13 +1,18 @@
-import { useRef, type FocusEventHandler } from "react";
-import Icon from "./Icon";
 import './Header.scss';
+
+import Icon from "./Icon";
+import Editor from './Editor';
 
 const Header: React.FC = () => {
 	return (
 		<div id="header-wrapper">
 			<div id="header">
 				<div id="title-wrapper">
-					<h1 id="title">Titel der Karte</h1>
+					<Editor 
+						id="title" 
+						defaultValue="Titel der Karte"
+						placeholder="Enter title..."
+					/>
 				</div>
 				<Icon icon="gear" />
 			</div>

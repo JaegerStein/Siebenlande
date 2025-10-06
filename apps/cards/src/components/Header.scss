@@ -22,7 +22,8 @@
 			flex: 1 0 0;
 			align-self: stretch;
 
-			#title {
+			#title,
+			#title>.ql-editor {
 				width: 100%;
 				color: #FAFAFA;
 				text-shadow: 0 0 8px rgba(0, 0, 0, 0.50), 0 0 4px rgba(0, 0, 0, 0.80);
@@ -32,12 +33,8 @@
 				font-size: 64px;
 				font-style: normal;
 				font-weight: 400;
-				line-height: 48px; /* 75% */
+				line-height: 48px;
 				letter-spacing: -3.2px;
-
-				&[contenteditable] {
-					outline: none;
-				}
 			}
 		}
 
