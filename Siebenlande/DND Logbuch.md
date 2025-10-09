@@ -510,3 +510,32 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Eines Tages hören wir im vorderen Burghof wie ein kleiner Imp die Einladung für Fionn verkündet der in der Hölle gegen Dämonen und nutzlose Teufel kämpfen soll
 - Nach seiner Ansprache explodiert der Imp und bleibt als kleines Juwel (die Einladung) zurück
 - Die Questerei bekommt aus dem Dorf eine Quest das um das Dorf rum riesige Fußstapfen in Form eines Vogels aufgetaucht sind und diesen auf den Grund gehen sollen 
+
+
+07.04 im Jahr 49
+- Der Kampf zwischen Siallo und der Gruppe geht weiter diesmal tritt Boma in den Ring und schmeißt ihm einen Feuertrank ins Gesicht
+- Das Feuer des Tranks schmelzt Siallo das Gesicht weg steckt es aber scheinbar ohne sichtbaren Probleme weg und setz zum Gegenangriff bleibt direkt vor Boma stehen, schmeißt ihr brennendes Konfetti ins Gesicht auch das bleibt ohne sichtbaren Effekt
+- Boma versucht es nochmal mit einem Trank diesmal leert sie Siallo aber den Trank über den Kopf und die Gruppe kann langsam zuschauen wie er langsam zu Asche wird, doch man kann wenn man ganz genau hinsieht beobachten wie sich aus der gerade frisch verbrannten Asche langsam wieder Knochen und Haut bilden bis sogar wieder Kleidung an seinem Körper hängt, Siallo scheint wirklich der "Stärkste" Kämpfer zu sein da er scheinbar wirklich nicht sterben kann.
+- Als nächstes steigt Artheus gegen Siallo in den Ring und scheint Siallo tatsächlich keinen Schaden zu machen sondern es scheint so als würde er ihn heilen
+- Siallo sichtlich irritiert setzt zum Gegenangriff an zu Glühen ohne das etwas passiert
+- Völlig entblößt schmeißt Siallo Artheus seine Hose ins Gesicht um ihn zu blenden 
+- Artheus durchschaut alles und holt zum vernichtenden Schlag aus und schlägt Siallo in zwei
+- Keine fünf Minuten später setzen sich die zwei hälften wieder zusammen und er bedankt sich bei der gesamten Gruppe für die schönen Übungskämpfe 
+- Die Gruppe bietet ihm noch eine Übernachtungsmöglichkeit an damit er nicht draußen im freien schlafen muss
+- Siallo zieht sich in sein Schlafgemach zurück und regeneriert seinen Körper 
+- Sylvaris schaut Abends mit einem Beil nach Siallo ob er ihm helfen muss sich zusammen zu setzen, Zeit gleich wendet sich Revesse an den Rest der Questerei und fragt nach dem Portalraum warum
+- Nyx stellt Siallo zur Rede und schlägt ihm die Hand ab und hält sie fest um zu schauen was passiert nachdem nichts passiert schlägt Nyx ihm den Kopf ab und gibt ihm die Chance sich wieder herzustellen (allem Anscheins nach wurde Siallo verflucht)
+- Dursam zeigt Revesse den Keller und während sie unten stehen und sie ein Kommentar zu der Falle im Keller macht liest Dursam ihre Erinnerungen und sieht ihre Kindheit in der Stadt Atemidde
+- Dursam fasst das Bedienfeld an und fragt verschiedene Koordinaten der Leitlinienstellen ab und erwähnt ein paar Ereignisreiche Momente der Reise und es fangen neue Knotenpunkte auf der Wand an zu leuchten
+- Dursam schafft es ein Portal zu öffnen und landete in Ebben in der Arena in der einst Fionn kämpfte nur zum aktuellen Zeitpunkt 
+- Fionn bittet Dursam ein Portal zum nächsten Knotenpunkt in der Zukunft zu öffnen um zu sehen was passiert, Fionn streckt sein Kopf durch das Portal und sieht wie Wauta ihn mit dem Kopf Kochlöffel schlägt daraufhin schlussfolgert Fionn das der nächste große Kampf bei uns in der Burg oder zumindest auf unserem Grundstück befinden muss 
+- Fionn und Dursam schaffen es immer Knotenpunkte auf der Wand zum leuchten zu bringen
+- Am nächsten Tag macht sich die gesamte Questerei auf den Weg in die Hölle um Fionn bei seinem großen Kampf anzufeuern
+- In der Hölle angekommen hören sie eine Art Erzähler Stimme die ihnen erklärt das es verschiedene Portale und verschiedene Fragen die es zu beantworten gilt. 
+- langsam trauen sich alle nach vorne ohne zu bemerken das sich Peku und Cze auf den Weg zu ihnen machen 
+- Als alle an der Gabelung ankommen ist es leider schon zu spät und Peku und Cze schießen einen Feuerstrahl und Ball auf die eingeladenen Gäste
+- El Emeno fragt Cze ob die Lava heiß ist aber statt zu antworten kommt Cze angesprintet und gibt ihm eine Respektschelle
+- Fionn läuft nach vorne und fragt Peku die gleiche Frage aber komischer weise beantwortet Cze diese Frage und greift Fionn an
+- Wir finden heraus das egal wer fragt immer der nähere der beiden antwortet/angreift
+- 
+- 
