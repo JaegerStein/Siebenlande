@@ -530,6 +530,8 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Dursam schafft es ein Portal zu öffnen und landete in Ebben in der Arena in der einst Fionn kämpfte nur zum aktuellen Zeitpunkt 
 - Fionn bittet Dursam ein Portal zum nächsten Knotenpunkt in der Zukunft zu öffnen um zu sehen was passiert, Fionn streckt sein Kopf durch das Portal und sieht wie Wauta ihn mit dem Kopf Kochlöffel schlägt daraufhin schlussfolgert Fionn das der nächste große Kampf bei uns in der Burg oder zumindest auf unserem Grundstück befinden muss 
 - Fionn und Dursam schaffen es immer Knotenpunkte auf der Wand zum leuchten zu bringen
+
+08.04 im Jahr 49
 - Am nächsten Tag macht sich die gesamte Questerei auf den Weg in die Hölle um Fionn bei seinem großen Kampf anzufeuern
 - In der Hölle angekommen hören sie eine Art Erzähler Stimme die ihnen erklärt das es verschiedene Portale und verschiedene Fragen die es zu beantworten gilt. 
 - langsam trauen sich alle nach vorne ohne zu bemerken das sich Peku und Cze auf den Weg zu ihnen machen 
@@ -537,5 +539,34 @@ Session 87 24.09.25 47.03 im Jahr 49
 - El Emeno fragt Cze ob die Lava heiß ist aber statt zu antworten kommt Cze angesprintet und gibt ihm eine Respektschelle
 - Fionn läuft nach vorne und fragt Peku die gleiche Frage aber komischer weise beantwortet Cze diese Frage und greift Fionn an
 - Wir finden heraus das egal wer fragt immer der nähere der beiden antwortet/angreift
-- 
-- 
+- Artheus sagt Peku eine Wahrheit und versucht daraufhin ihn mit seinem Speer anzugreifen und das sogar mit Erfolg so bekommt die Gruppe endlich raus wie sie Peku schaden zufügen kann
+- Elemno erzählt Cze eine lüge und greift ihn an auch das klappt mit Erfolg da aber Peku der nähere von beiden war antwortet dieser und greift anschließend Elemno an 
+- Sylvaris packt seine Laute aus und und spielt so schräg wie möglich um Peku Schaden zu machen auch dies geht einfach ohne Probleme durch 
+- Fionn läuft ein gutes Stück davon um einen der beiden Teufel von der Gruppe zu locken allerdings geht das komplett nach hinten los und Cze stellt sich noch mehr in die Menge und Zaubert von dort einen Feuerstrahl auf Fionn
+- Nach ein paar Runden schafft es der Streichelzoo eins der zwei richtigen Portale rauszufiltern 
+- Artheus schafft es das Feuer auf seiner Kleidung auszuschlagen und holt zum Angriff aus leider prallt der komplette Angriff an der Rüstung von Peku ab
+- Nach längerem Gefrage schaffen wir es herauszufinden das hinter dem unteren richtigem Portal ein Kampf wartet wenn wir durch gehen
+- Dursam befragt Peku und bekommt direkt einen Feuerstahl als Gegenangriff ins Gesicht und seine Federn fangen auch an leicht zu brennen
+- Mittlerweile haben wir herausgefunden das hinter beiden Portalen kämpfe auf uns warten aber alle außer Nyx und Elemno das Losungswort kennen
+- Auch das zweite Portal konnten wir mittlerweile durch geschickte JA und NEIN Fragen heraus filtern, sogar das Losungswort für das zweite Portal kennen wir zum Teil
+- Durch mich haben wir herausgefunden das ein Name das Losungswort für ein Portal sein muss der aber Minimum aus zwei Wörtern bestehen muss
+- Peku und CZE schaffen es langsam aber stetig uns mit ihren Attacken in die enge zu treiben da auch unsere fragen leider nicht mehr viel Erfolg haben
+- mit einer geschickte Frage schafft es Artheus die Losung für das zweite Portal herauszufinden
+- Nyx, Dursam und Norwa versuchen in Richtung des zweiten Portals abzuhauen auf dem Weg dort hin versperrt Peku ihnen den Weg und greif Nyx mit seinem Feuerball an, Nyx fängt sofort Feuer und fällt vor den anderen auf den Boden und in Ohnmacht
+- El emeno schafft es durch eine Frage herauszufinden das die Gegner hinter dem Portal 2 Feuerresistenz haben
+- Dursam schafft es gerade so mit allen mühen Nyx an das Portal zu schleifen als sie versuchen durch das Portal zu schreiten fängt der Kommentator der Hölle frech an zu lachen und sagt uns das wir einen der beiden ( Peku, CZE ) töten müssen um an den Schlüssel für das Portal zu kommen
+- Fionn schafft es CZE von der Gruppe zu trennen damit sich der Rest in aller Ruhe um Peku kümmern kann
+- Boma heilt Fionn nochmal abschließend hoch und läuft dann auch langsam zum Rest der Gruppe
+- CZE versucht an Fionn vorbei zukommen, Fionn schafft es aber mit einem schnellen Griff ihn festzuhalten uns somit seine Bewegung zu stoppen 
+- Währenddessen klopfen die anderen immer noch auf PEKU ein
+- Da Nyx die ganze Zeit unbeobachtet rumliegt schafft er es langsam wieder zu sich zu kommen und sich ein wenig in Sicherheit zu schleppen
+- PEKU dreht sich um, zielt auf Boma und schießt ihr seinen Feuerlaser ins Gesicht auch sie fängt an zu brennen im gleichen Atemzug schießt auch CZE seinen Laser auf Boma sie wird zwar nicht bewusstlos geht aber vor lauter schmerzen ein wenig in die Knie
+- Artheus schafft es den letzten entscheidenden Schlag gegen Peku zu landen dieser platzt vor lauter schmerzen und alle um ihn herum bekommen noch mal ein wenig Schaden von seiner Explosion
+- In der Asche von Peku entdeckt die Gruppe sein Herz (der Schlüssel für das Portal), Artheus packt sich das Herz verbrennt sich und läuft damit zum Portal in dem Moment in dem er das Herz einsetzt saugt ihn das Portal ein und er verschwindet auf die andere Seite
+- El emeno läuft an dem brennenden Dursam vorbei und geht schnurstracks durch das Portal
+- Auch Nyx läuft zielstrebig Richtung Portal und springt hindurch
+- Auch Fionn schafft es gerade noch so der Lava zu entkommen und mit einem Hechtsprung durch das Portal zu springen
+- Auf der anderen Seite des Portals wartet auf die Gruppe eine riesiger Speisesaal und es erwartet sie Nyx seine alte Succubus die anscheinend von Asta aufgenommen wurde und sie als Gehilfin benutzt 
+- Die Succubus erklärt uns das wir Asta ihren Besitz von der Herrin Glases zurückbringen sollen
+- Scheinbar müssen wir Asta ihr geliebtes Haustier zurückbringen
+- Die Gruppe bekommt den richtigen Namen von Asta gesagt und alles erklärt was sie machen müssen und wie sie das Haustier zurück bekommen
