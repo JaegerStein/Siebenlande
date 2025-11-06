@@ -570,3 +570,18 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Die Succubus erklärt uns das wir Asta ihren Besitz von der Herrin Glases zurückbringen sollen
 - Scheinbar müssen wir Asta ihr geliebtes Haustier zurückbringen
 - Die Gruppe bekommt den richtigen Namen von Asta gesagt und alles erklärt was sie machen müssen und wie sie das Haustier zurück bekommen
+- Die tafelrunde verschwindet und wir landen auf einem sehr verschneiten Berg den wir anscheinend hang abwärts entlang gehen müssen zu einem Schloss am ende des Tals
+- Elemeno sieht das es noch einen dritten Weg gibt und zwar über die Bergkette in Richtung Ödland
+- Auf dem weg durch das Ödland kommen wir an ein paar Imps vorbei die vor einem sehr tiefen Loch stehen und darüber diskutieren wer als erstes nach unten geht
+- Als sie uns sehen verwickeln sie uns in ein Gespräch und berichten uns davon das sie mit Siallo unterwegs waren und dieser verrückte einfach in das Loch gesprungen ist
+- Während dem Gespräch schaffe ich es die Imps zu überreden mit uns mit zukommen und auch an unserer Seite zu kämpfen, kaum das Gespräch beendet wird ein einzeln stehender Imp in das Loch gezogen und hervor kommen drei Insekten ähnliche Wesen raus und zwingen uns zum Kampf
+- Lecker beschwört eine Eiswand zwischen uns und schafft es so die Gruppe zu trennen und ein paar von uns außerhalb des lodernden Steins zu bringen und Igitt erschafft ein Iglu artiges Ding um Boma und Fionn um das wärme spendende Artefakt zu isolieren
+- Ein Imp schafft es ein winziges Loch in das Iglu zu schießen und somit ein wenig wärme nach außen dringen kann
+- Dursam schlägt gegen das Iglo und schafft das ein komplettes drittel  davon rausbricht
+- Auch ich trage meinen Teil zum Kampf bei und schaffe es Insekt und Lecker Schallschaden zuzufügen, scheinbar bekommen diese Insekten artigen Wesen erheblichen Schaden davon
+- Igitt stellt sich mitten in das fast geschmolzene Iglu und schnappt zweimal nach Boma ( ja ich finde die Namen der drei auch absolut Banane aber was will man von Wesen erwarten die weder Insekt noch Teufel sind einfach abstoßend die drei ) einen der beiden angriffe schafft sie zu verteidigen doch bei dem zweiten muss sie leider Fridolin opfern um ihr eigenes Leben zu retten, Gott sei dank hat Boma bei der letzten Rast es geschafft eine Sicherheitsleine an ihn zu binden damit er nicht mehr gefressen werden kann
+- Mit seinem dritten Angriff greift Igitt Artheus an der schafft es aber mühelos diesen Angriff abzuwehren
+- Fionn bekommt das alles mit und schlägt Igitt voller Frust mit seinen Fäusten in die Fresse
+- Dursam stellt sich mit all seinem Mut vor Insekt ( ja immer noch dumme Namen) und sticht im mit seinem Dolch in die Magengrube und schafft es verheerenden Schaden zuzufügen
+- Der Imp den ich zu uns gelockt schafft es mit einem kleinen Nadelstich in den Nacken Lecker zu töten und feiert sich als wäre er der größte der Welt
+- Durch Bomas Heiltrank habe ich miese Halluzinationen und sehe überall Monster daraufhin nehme ich die Beine in die Hand und renne soweit von der Bedrohung weg und kauere mich völlig Angst eingeflößt in eine Ecke 
