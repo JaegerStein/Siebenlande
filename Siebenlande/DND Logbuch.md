@@ -1,4 +1,4 @@
-
+ 
 **1 Tagesreise = 25km = 10 Meilen kosten 1 Silber pro Person**
 1 Proviant = 30 Kupfer = 3 Personen = 90 Kupfer pro Tag
 
@@ -584,4 +584,20 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Fionn bekommt das alles mit und schlägt Igitt voller Frust mit seinen Fäusten in die Fresse
 - Dursam stellt sich mit all seinem Mut vor Insekt ( ja immer noch dumme Namen) und sticht im mit seinem Dolch in die Magengrube und schafft es verheerenden Schaden zuzufügen
 - Der Imp den ich zu uns gelockt schafft es mit einem kleinen Nadelstich in den Nacken Lecker zu töten und feiert sich als wäre er der größte der Welt
-- Durch Bomas Heiltrank habe ich miese Halluzinationen und sehe überall Monster daraufhin nehme ich die Beine in die Hand und renne soweit von der Bedrohung weg und kauere mich völlig Angst eingeflößt in eine Ecke 
+- Durch Bomas Heiltrank habe ich miese Halluzinationen und sehe überall Monster daraufhin nehme ich die Beine in die Hand und renne soweit von der Bedrohung weg und kauere mich völlig Angst eingeflößt in eine Ecke
+- Einer der beiden roten Imps fliegt näher an Insekt ran und versucht diesen anzugreifen leider gelingt ihm das nicht und trifft Dursam, da wir nicht gesagt haben das es kein Vertragsbruch ist wurde er einfach vor unseren Augen in Asche verwandelt
+- Fionn schlägt auf Igitt ein und schlagt so stark zu das er ihm die Gedärme aus der Magengrube haut, durch diesen Triumph schafft Boma es Fridolin wieder an seiner Leine zurück zu ziehen
+- Während alle anderen in der Gruppe weiterhin die Ameisen ähnlichen Teufel bekämpfen liege ich weiterhin mit den größten Halluzinationen jemals immer noch auf dem kleinen Hügel voller Eis und merke wie langsam meine Gliedmaßen einfrieren
+- Als der Kampf schon längst zu Ende ist schaffe ich es langsam Wahrheit von Lüge zu unterscheiden und laufe halb eingefroren zu Boma um mich aufzuwärmen
+- Weiter auf unserem Weg weiter zum nächsten Schlachtfeld sehen wir nicht allzu weit weg von uns ein Wolf artiges Wesen das alle viere von sich in die höhe streckt voll gefressen von all den Leichen die um ihn herum liegen
+- Das komische an ihm ist aber das er auf der Rückseite seines Körpers Tentakel artige Dinge sind die so aussehen als würden sie nach etwas greifen
+- Er stellt sich vor mit dem relativ offensichtlichen Namen Weiswolf (da er weiß ist und ein Wolf -.-), er sagt uns auch das er ebenfalls ein Teilnehmer des Turniers ist aber auch einverstanden beim turnier aufzugeben um uns Platz zu machen, alles was er dafür haben möchte ist ein Pakt/Vertrag mit einem von uns
+- Der Weiswolf fragt mich ob ich seine Fähigkeiten sehen möchte daraufhin schicke ich den triumphalen Imp nach vorne und dieser wird in einer Entfernung von 100 Fuß aufgefressen
+- Er schafft es auch das unsere Fähigkeiten quasi mit einander verschmelzen und stärker werden
+- Von Fionn und El emeno hätte ich den Segen diesen Pakt ihn als Patron zu nutzen allerdings möchte ich noch ein wenig bedenk zeit und habe ihm gesagt das ich ihn später rufen werde wenn ich soweit bin
+- Auf dem Schlachtfeld angekommen erwarten uns bereits zwei weitere Teufel die um ehrlich zu sein echt cool aussehen
+- sie haben uns gerade so gesehen stürmen sie schon auf uns los einer der beiden zeichnet merkwürdige Ringe in den Schnee und zieht sich danach ein Stück zurück, der andere stellt sich ein wenig versetzt von uns nach links
+- Artheus und Fionn sehen das und preschen direkt auf den Gebannten Teufel los ohne lang zu fackeln haut Fionn ihm direkt auf die Fresse
+- Der Rest von uns läuft stumpf Fionn und Boma hinterher 
+- Der gebannte Teufel sprintet auf den einen gemalten Kreis zu und wird dadurch mitten in unsere Gruppe teleportiert
+- 
