@@ -599,5 +599,18 @@ Session 87 24.09.25 47.03 im Jahr 49
 - sie haben uns gerade so gesehen stürmen sie schon auf uns los einer der beiden zeichnet merkwürdige Ringe in den Schnee und zieht sich danach ein Stück zurück, der andere stellt sich ein wenig versetzt von uns nach links
 - Artheus und Fionn sehen das und preschen direkt auf den Gebannten Teufel los ohne lang zu fackeln haut Fionn ihm direkt auf die Fresse
 - Der Rest von uns läuft stumpf Fionn und Boma hinterher 
-- Der gebannte Teufel sprintet auf den einen gemalten Kreis zu und wird dadurch mitten in unsere Gruppe teleportiert
+- Der gebannte Teufel sprintet auf den einen gemalten Kreis (türkis) zu und wird dadurch mitten in unsere Gruppe teleportiert
+- Der gebannte Teufel schafft es einfach mit einem schlag die halbe gruppe mit einem schlag niederzuschlagen und stark zu verwunden
+- Boma wirft mit einem äußerst gezielten Feuertrank auf die gezeichneten Bannkreise und schafft es einen von den drei direkt zu zerstören
+- Nach meinem Angriff hat mich der Gebannte Teufel direkt mit seinen Haaren gepackt und hält mich wie ein menschliches Schild vor sich und schützt sich so vor den angriffen der anderen
+- Artheus schneidet mich ganz vorsichtig mit seinem Speer aus den fangen des gebannten Teufels und befreit mich
+- Der gebannte Teufel durchsticht mit seinen haaren Dursam und ermordet ihn dadurch geschockt von dieser tat legt Norwa alles in seinen nächsten Schuss
+- auch Fionn völlig geschockt davon haut dem gebannten voll eins in die Fresse
+- Boma nimmt ihren ganzen Mut zusammen und wirft dem Bann-Teufel einen Feuertrank ins Gesicht
+- Völlig dem Blutrausch verfallen sticht der Gebannte Teufel als nächstes auf Fionn ein und schafft es fast Fionn in die Knie zu zwingen trotz das Fionn so stark verletzt ist geht er nicht zu Boden und atmet den Schmerz einfach weg man sieht förmlich die Kampfes Lust in seinen Augen
+- Der Bann Teufel zieht durch seinen Bann kreis Fionn und Boma zu Boden, Fionn immer noch im Kampfrausch ist davon sehr unbeeindruckt und schafft es auf magische weise fast alle seine Wunden verschwinden zu lassen und geht zum Gegenangriff über
+- Der Gebannte Teufel teleportiert sich erneut zu einem Bann Kreis und lässt diesen verschwinden
+- El emeno schafft es die beiden Teufel so abzulenken das Norwa ohne Probleme seine zwei Pfeile in Richtung des Gebannten Teufels zu schicken
+- Boma richtet sich wieder auf und heilt alle außer mich D:
+- 
 - 
