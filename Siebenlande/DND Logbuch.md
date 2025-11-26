@@ -612,5 +612,21 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Der Gebannte Teufel teleportiert sich erneut zu einem Bann Kreis und lässt diesen verschwinden
 - El emeno schafft es die beiden Teufel so abzulenken das Norwa ohne Probleme seine zwei Pfeile in Richtung des Gebannten Teufels zu schicken
 - Boma richtet sich wieder auf und heilt alle außer mich D:
+- Der gebannte Teufel schlägt mit seinen Haaren auf die Gruppe und schafft es Fionn und mich zu Boden zu schlagen
+- Artheus schafft es gerade so Boma davor zu bewahren zu Boden zu gehen
+- Artheus schafft es anschließend mit seinem nächsten Angriff den Bann-Teufel förmlich wegzuschmelzen dieser windet sich vor schmerzen und verschwindet
+- Der gebannte teleportiert sich zu mir und sticht mir mit seinen haaren mitten in den Bauch vor lauter Schmerz krümme ich mich zusammen und falle zu Boden 
+- die gesamte Gruppe stellt sich um den Teufel herum und schlagen im Kollektiv auf ihn ein
+- Fionn schafft es mit dem letzten aufgesparten Schlag die Maske von ihm zu zerschlagen und dadurch verfällt der Teufel
+- Nach dem Kampf taucht erneut der Weiswolf auf und ich versuche Boma einen Heiltrank zu klauen bekomme aber leider nur einen Schwebetrank
+- vor lauter Frust trinke ich selber einen und stürze mich mit starken Halluzinationen direkt auf den Wolf und gehe den Pakt ein
+- Für den Namen von Glasis und Asta würde ich meinem Patron Dursams Leiche zum verspeisen geben und lerne direkt das ich meine Wünsche bei ihm mit bedacht aussprechen muss
+- Nachdem er ihn verschlungen habe erhalte ich gleichzeitig auch noch die versteckten Fähigkeiten von Dursam allerdings muss ich dafür auch jedes mal ein Handel eingehen
+- Das Schlachtfeld durchdrungen kommen wir endlich in Glasis ihrem Schloss an und werden von einem untertan von ihr Empfangen um uns rum sind ganz viele Lemuren verteilt
+- Schnell schlägt Fionn den Plan vor das erhaltene Gift einzunehmen um unseren Tod vorzutäuschen da nur einer in den nächsten Raum darf
+- Fionn wird von dem Merkwürdigen Diener in den nächsten Raum begleitet dort trifft er auf seinen neuen Gegner und auf Siallo der völlig besiegt vom Boden gekratzt wird
+- Das Wesen vor Fionn hört auf den Namen Faercuin Gollamdir und möchte eigentlich gar nicht kämpfen und nur aus dieser verdammten Hölle entkommen
+- Nach einem ewigen Schlagabtausch schafft es Fionn Faercuin zu besiegen und zu überzeugen mit uns mitzukommen und erklärt ihm den kompletten Plan
+- Die beiden gehen zur Tür zurück und versuchen durch die Türe zu schauen, auf der anderen Seite der Tür wacht Boma langsam auf und sieht wie die Insekten von ein paar kämpfen vorher uns anderen einspinnen und als Larvenfutter wegschleifen
 - 
-- 
+
