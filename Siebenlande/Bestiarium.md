@@ -22,5 +22,12 @@ Insekten (Igitt usw) :
 	Herkunft: Gefunden auf den Schlachtfeldern in der Eis Hölle von Glasis
 	Effektiv: Schallschaden, Gleißend 
 	Schwach: 
+Gelugon (auch ein Insekt):
+	Herkunft: Glasys Schloss
+Asima:
+
+
+
+
 
 
