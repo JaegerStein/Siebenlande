@@ -628,5 +628,27 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Das Wesen vor Fionn hört auf den Namen Faercuin Gollamdir und möchte eigentlich gar nicht kämpfen und nur aus dieser verdammten Hölle entkommen
 - Nach einem ewigen Schlagabtausch schafft es Fionn Faercuin zu besiegen und zu überzeugen mit uns mitzukommen und erklärt ihm den kompletten Plan
 - Die beiden gehen zur Tür zurück und versuchen durch die Türe zu schauen, auf der anderen Seite der Tür wacht Boma langsam auf und sieht wie die Insekten von ein paar kämpfen vorher uns anderen einspinnen und als Larvenfutter wegschleifen
+- Fionn wird von Glasys ihrem Begleiter zu ihr geführt und sie führt ihn durch ihre hallen und zeigt ihm ein paar Räume die förmlich für sterbliche gemacht worden sind und macht ihm mehr oder weniger klar das er für ihre Armee rekrutiert wurde
+- um sie weiter sie durch das schloss gehen um so mehr kommt es Fionn vor das er sich in einem Spinnennest befindet nach kurzer zeit stellt er fest das nicht nur Spinnenweben um ihn herum sind sondern das auch überall an den Wänden verschieden Große Spinnenkokons hängen in dem allen Anschein nach verschiedene Kreaturen eingesponnen wurden
+- Am Ende des Flurs kommen sie in eine riesige von Spinnennetz überzogene Halle dort präsentiert Glasys Fionn ihren ganzen Stolz einen unglaublich großen Kokon in dem allen Anschein ein starker Menschen Körper mit Flügeln gefangen ist
+- Glasys erzählt Fionn die Hintergrunde Geschichte und das sie diesen Engel durch einen geschickten Vertag mit einem Gott errungen hat 
+- während der Führung bekommt Fionn mit wie die Insekten von Glasys alle Kokons seiner Freunde langsam nach oben Richtung Halle bringen
+- Fionn fragt nach einer Art Karte damit er sich in den riesigen Hallen Glasys zurecht findet und bekommt von ihrem Bediensteten eine Glocke mit denen er Lemuren beschwören kann die ihm dann quasi wie ein Kompass den weg zeigen 
+- Fionn geht zurück zu die ihm versprochene heilende Quelle um sich nach dem anstrengendem Kampf zu erfrischen
+- Sobald Fionn und der Rest den Raum verlassen beginnt Boma langsam sich aus ihrem Kokon frei zuschneiden
+- Nachdem sie sich selbst befreit hat befreit sie uns auch und gibt uns das Gegengift gegen den Scheintod
+- Boma hat es zwar nicht festgestellt aber Artheus konnte und mitteilen das dieses komische Geräusch scheinbar näher kommt
+- Zur gleichen Zeit stellt Fionn fest das dieser angebliche Jungbrunnen wirklich magische Eigenschaften hat und überlegt sich wie er am geschicktesten zu uns in die große Halle zurück kommt entscheidet sich aber lieber sich die Armee von Glasyas anzuschauen direkt wird er in eine unterirdische Höhle gebracht in der er verschiedenste Insekten Arten trifft 
+- Anschließend stellt er die Forderung das man ihn zu Glasys ihren Truppen bringt anschließend verhalten sich die Truppen sehr merkwürdig
+- In der zwischen Zeit ist ein Insekt Namens Gelugon aufgetaucht und greift uns an da ich ein Stück weiter er Gruppe mit befreit habe sehe ich nur grob aus der Entfernung was vorne passiert aber es sieht fast so aus als könnte Faercuin (der neue) sich klonen oder irgendwie vervielfältigen
+- Norwa wagemutig wie immer setzt direkt zum Angriff an und schießt auf Gelugon 
+- Boma beteiligt sich auch direkt am Kampf und wirft Gelugon einen Feuertrank an den Kopf sowohl er als auch die erschaffene Eiswand bekommen erheblichen schaden wobei die Eiswand komplett verschwindet
+- Endlich näher am geschehen kann ich es voll und ganz bestätigen das sich Faercuin tatsächlich verdreifachen kann und damit auch angreifen kann allerdings scheint es nicht so als wären diese oder er sehr stark ich frage mich sehr wie er allein gegen Fionn hätte ankommen sollen
+- Während des Kampfes wird Fionn aufgehalten und soll zu seiner Brigade gebracht werden zum Pech von uns allen führt dieser Weg leider weiter weg von uns
+- Ohne weitere Erklärung verschwindet unser Gegner einfach in der Senke und lässt und alleine an dem riesigen Kokon stehen
+- Ewigkeiten diskutieren wir hin und her was wir jetzt mit unserer gewonnen Zeit anstellen ein Teil von uns ist dafür den Kokon aufzuschneiden und ein paar möchten Fionn suchen gehen Faercuin sichtlich genervt läuft mit schüttelndem Kopf Richtung Ausgang
+- Währenddessen ist Fionn an seiner Brigade angekommen und findet ein Haufen von Imps, Succubus und eine Art Faunen
+- Mittendrin steht ein ganz besonderer Dämon mit dem Namen Avant dieser wollte sich von der Gruppe abwenden und einen anderen Auftrag ausführen Fionn erkennt das und schafft es ihn mit ein paar ernsten Worten in die Schranken zu weisen
+- Fionn schwingt eine fast schon erschreckend auswendig gelernte Rede und bringt die Truppe in reih und Glied und motiviert sie gleichzeitig anschließend beginnt er direkt mit ein paar Trainingskämpfen gleiches gegen gleiches
+- Parallel dazu tauchen bei uns in der großen Halle auf einmal 3 Insekten Gruppen mit einem lauten Geschrei auf der noch von einem viel schrillerem Geschrei aus dem Untergrund erwidert wird dieser ist so schrill das uns fast die Trommelfelle reißen
 - 
-
