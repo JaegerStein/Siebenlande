@@ -651,4 +651,22 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Mittendrin steht ein ganz besonderer Dämon mit dem Namen Avant dieser wollte sich von der Gruppe abwenden und einen anderen Auftrag ausführen Fionn erkennt das und schafft es ihn mit ein paar ernsten Worten in die Schranken zu weisen
 - Fionn schwingt eine fast schon erschreckend auswendig gelernte Rede und bringt die Truppe in reih und Glied und motiviert sie gleichzeitig anschließend beginnt er direkt mit ein paar Trainingskämpfen gleiches gegen gleiches
 - Parallel dazu tauchen bei uns in der großen Halle auf einmal 3 Insekten Gruppen mit einem lauten Geschrei auf der noch von einem viel schrillerem Geschrei aus dem Untergrund erwidert wird dieser ist so schrill das uns fast die Trommelfelle reißen
+- Wir alle entscheiden uns Fionn zu suchen da es zu riskant ist den Kokon zu zerschneiden während wir Richtung Ausgang laufen bewegen sich die Insekten zum Kokon hin
+- Auf der anderen Seite außerhalb unserer Sichtweite schafft Fionn es weiterhin Avant festzuhalten und ihn am flüchten zu hindern
+- Allerdings versucht Avant den Spieß umzudrehen und legt nun Fionn glühende Fesseln an
+- Die Insekten versuchen alles um den Kokon zu schützen und erschaffen Eismauern damit wir nicht mehr durch kommen
+- Fionn schafft es mit einer Wahrheit über sich selbst sich aus den Fesseln von Avant zu befreien
+- Mittlerweile haben wir uns doch entschieden gegen die Insekten zu kämpfen
+- Zwei von ihnen erschaffen immer mehr Eiswände und schirmen und so komplett von dem Kokon ab
+- Artheus benutzt die Fähigkeit seines Gottes und macht allen Gellugon um sich herum Schaden, völlig verwirrt muss ich feststellen das ich von diesem Zauber auch Schaden bekomme
+- Ich schaffe es gerade noch so dem Tod zu entkommen und humple weiter Richtung Ausgang als ich an einem Kokon stehen bleibe erkenne ich eine mir sehr bekannte Hand und zwar die Hand von Siallo sofort gebe ich Fäir bescheid damit wir Siallo mit im Kampf haben
+- Fäir über motiviert wie er leider nun mal ist häckselt den Kokon samt Siallo in kleine Fetzen nun ist auch dieser für den Kampf fast nicht mehr zu gebrauchen
+- Boma völlig verzweifelt weiß keinen Ausweg mehr und trinkt ihren schwerelosen Trank um irgendwie dieser aussichtslosen Situation zu entfliehen, von Angst getrieben stoßt sie sich vom Boden Richtung Decke ab
+- Plötzlich bebt die ganze Halle und es fühlt sich so an als würde etwas an den Spinnennetzen ziehen ein kurzer Moment vergeht und auf einmal steht Glasya vor uns völlig entsetzt fragt sie uns was wir hier machen und warum wir nicht mehr in unseren Kokons eingesponnen sind 
+- El emeno stellt sich nach vorne und versucht Glasya zu überzeugen das wir hier sind um ihr zu helfen und nicht um ihr zu Schaden leider übertreibt er es ein wenig mit seinem Theaterspiel und bekommt einen gewaltigen Angriff von Glasya ab 
+- Irgendwie schaffen wir es Glasya zu besänftigen und sie erlaubt uns zu ihrem Heer zu gehen diese kleine Verschnaufpause nutzen die anderen um sich ein wenig zu heilen
+- Nur mich wollen sie nicht heilen da sie Angst haben das meine Halluzinationen zu viel Einfluss auf unsere Reise haben
+- Aus der großen Halle raus kommen wir direkt zu Fionn dieser prügelt sich so wie es aussieht schon seit gefühlt einer Ewigkeit mit einem Dämon Namens Avant
+- Da wir jetzt quasi Fionn untergestellt sind und keiner in Frage stellt ob wir "böse" sind oder nicht dürfen wir jetzt solange Fionn bei uns in der Nähe ist frei bewegen
+- 
 - 
