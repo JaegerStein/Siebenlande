@@ -1,30 +1,36 @@
 Geister: 
-	Herkunft: Freie Emotionen oder Gedanken, sie leben und entspringen dem "psyonischen Gewebe"
+	Infos: Freie Emotionen oder Gedanken, sie leben und entspringen dem "psyonischen Gewebe"
 	Effektiv: göttlicher Segen
 	Schwach: Gift Schaden, meist Immun gegen physischen Schaden
 Barghest: 
-	Herkunft: Keine Aktuellen Informationen über vorkommen und Lebensort (wir wissen nur das sie sich klonen können)
-	Effektiv: nicht Giftimmun, 
+	Infos: Keine Aktuellen Informationen über vorkommen und Lebensort (wir wissen nur das sie sich klonen können)
+	Effektiv: Gift, 
 	Schwach: 
 Basilisk: 
-	Herkunft: Keine Aktuellen Informationen über vorkommen und Lebensort
+	Infos: Keine Aktuellen Informationen über vorkommen und Lebensort
 	Effektiv: --
 	Schwach:
 Der Weiswolf ( Patron von Sylvaris): 
-	Herkunft: Gefunden auf den Schlachtfeldern in der Eis Hölle von Glasis
+	Infos: Gefunden auf den Schlachtfeldern in der Eis Hölle von Glasis
 	Effektiv:
 	Schwach:
 Lemuren:
-	Herkunft: Nicht reinkarniert Seelen in den Höllen, aus ihnen werden Teufel erschaffen wenn ein starker Teufel sie formt
+	Infos: Nicht reinkarniert Seelen in den Höllen, aus ihnen werden Teufel erschaffen wenn ein starker Teufel sie formt
 	Effektiv: Gleißend, 
 	Schwach:
 Insekten (Igitt usw) : 
-	Herkunft: Gefunden auf den Schlachtfeldern in der Eis Hölle von Glasis
+	Infos: Gefunden auf den Schlachtfeldern in der Eis Hölle von Glasis
 	Effektiv: Schallschaden, Gleißend 
-	Schwach: 
+	Schwach: leicht Feuerresistent
 Gelugon (auch ein Insekt):
-	Herkunft: Glasys Schloss
-Asima:
+	Infos: Glasys Schloss
+	Effektiv: Schallschaden, Gleißend 
+	Schwach: leicht Feuerresistent 
+Asima: ( keine Infortmationen bekannt)
+Glasya (Herrin von Zygia):
+	Infos: das erste mal entdeckt in Glasyas Schloss
+	Effektiv:
+	Schwach:
 
 
 
