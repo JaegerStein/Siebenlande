@@ -1,6 +1,5 @@
 .sl-index {
-	$breakpoint-md: 930px;
-	$breakpoint-sm: 400px;
+	container-type: inline-size;
 
 	.callout {
 		&[data-callout="info"] {
@@ -15,14 +14,14 @@
 			&>.callout-content {
 				display: grid;
 				gap: 20px;
-				grid-template-columns: 1fr 1fr 1fr 1fr;
+				grid-template-columns: 1fr;
 
-				@media (max-width: $breakpoint-md) {
+				@container (min-width: 256px) {
 					grid-template-columns: 1fr 1fr;
 				}
 
-				@media (max-width: $breakpoint-sm) {
-					grid-template-columns: 1fr;
+				@container (min-width: 512px) {
+					grid-template-columns: 1fr 1fr 1fr 1fr;
 				}
 
 				&>.callout {
