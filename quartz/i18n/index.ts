@@ -29,7 +29,8 @@ import no from "./locales/nb-NO"
 <<<<<<< HEAD
 =======
 import id from "./locales/id-ID"
->>>>>>> upstream/v4
+import kk from "./locales/kk-KZ"
+import he from "./locales/he-IL"
 
 export const TRANSLATIONS = {
   "en-US": enUs,
@@ -83,7 +84,8 @@ export const TRANSLATIONS = {
 <<<<<<< HEAD
 =======
   "id-ID": id,
->>>>>>> upstream/v4
+  "kk-KZ": kk,
+  "he-IL": he,
 } as const
 
 export const defaultTranslation = "en-US"
