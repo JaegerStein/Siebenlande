@@ -1,5 +1,4 @@
 .sl-index {
-
 	$breakpoint-md: 930px;
 	$breakpoint-sm: 400px;
 
@@ -14,132 +13,128 @@
 			}
 
 			&>.callout-content {
+				display: grid;
+				gap: 20px;
+				grid-template-columns: 1fr 1fr 1fr 1fr;
 
-				&>.callout-content-inner {
+				@media (max-width: $breakpoint-md) {
+					grid-template-columns: 1fr 1fr;
+				}
 
-					display: grid;
-					gap: 20px;
-					grid-template-columns: 1fr 1fr 1fr 1fr;
+				@media (max-width: $breakpoint-sm) {
+					grid-template-columns: 1fr;
+				}
 
-					@media (max-width: $breakpoint-md) {
-						grid-template-columns: 1fr 1fr;
-					}
+				&>.callout {
+					&[data-callout="note"] {
+						border-radius: 10px;
+						border-color: transparent;
+						background-color: transparent;
+						overflow: visible;
+						position: relative;
 
-					@media (max-width: $breakpoint-sm) {
-						grid-template-columns: 1fr;
-					}
+						margin: 0;
+						min-height: calc(20px + 2.75rem + 10px + 22.4px + 20px);
 
-					&>.callout {
-						&[data-callout="note"] {
-							border-radius: 10px;
-							border-color: transparent;
-							background-color: transparent;
-							overflow: visible;
-							position: relative;
+						display: flex;
+						justify-content: center;
+						align-items: center;
 
-							margin: 0;
-							min-height: calc(20px + 2.75rem + 10px + 22.4px + 20px);
+						transition: background-color 0.1s ease;
 
-							display: flex;
-							justify-content: center;
-							align-items: center;
+						&>.callout-title {
 
-							transition: background-color 0.1s ease;
-
-							&>.callout-title {
-
-								&>.callout-icon {
-									display: none;
-								}
-
-								&>.callout-title-inner {
-									&>p {
-										display: flex;
-										flex-direction: column;
-										align-items: center;
-										justify-content: center;
-										gap: 1rem;
-									}
-
-									a {
-										color: var(--dark);
-
-										display: flex;
-										align-items: end;
-										justify-content: center;
-										padding-bottom: 20px;
-
-										position: absolute;
-										top: 0;
-										left: 0;
-										bottom: 0;
-										right: 0;
-										border-radius: 10px;
-
-										transition: all 0.1s ease;
-
-										&:hover {
-											outline: 1px solid var(--border);
-										}
-									}
-
-									svg {
-										width: 2.75rem;
-										height: 2.75rem;
-										color: var(--dark);
-										position: absolute;
-										top: 20px;
-										left: 50%;
-										transform: translateX(-50%);
-
-										transition: transform 0.2s ease;
-									}
-								}
+							&>.callout-icon {
+								display: none;
 							}
 
-							&:hover {
-								svg {
-									transform: translateX(-50%) translateY(10%) scale(1.25) !important;
+							&>.callout-title-inner {
+								&>p {
+									display: flex;
+									flex-direction: column;
+									align-items: center;
+									justify-content: center;
+									gap: 1rem;
 								}
 
 								a {
-									padding-bottom: 15px !important;
+									color: var(--dark);
+
+									display: flex;
+									align-items: end;
+									justify-content: center;
+									padding-bottom: 20px;
+
+									position: absolute;
+									top: 0;
+									left: 0;
+									bottom: 0;
+									right: 0;
+									border-radius: 10px;
+
+									transition: all 0.1s ease;
+
+									&:hover {
+										outline: 1px solid var(--border);
+									}
+								}
+
+								svg {
+									width: 2.75rem;
+									height: 2.75rem;
+									color: var(--dark);
+									position: absolute;
+									top: 20px;
+									left: 50%;
+									transform: translateX(-50%);
+
+									transition: transform 0.2s ease;
 								}
 							}
-
-							&:nth-child(1) {
-								background-color: rgba(100, 180, 255, 0.22); // soft blue
-
-								&:hover {
-									background-color: rgba(100, 180, 255, 0.32); // slightly darker blue on hover
-								}
-							}
-
-							&:nth-child(2) {
-								background-color: rgba(120, 220, 180, 0.22); // soft teal
-
-								&:hover {
-									background-color: rgba(120, 220, 180, 0.32); // slightly darker teal on hover
-								}
-							}
-
-							&:nth-child(3) {
-								background-color: rgba(255, 220, 120, 0.24); // soft yellow
-
-								&:hover {
-									background-color: rgba(255, 220, 120, 0.34); // slightly darker yellow on hover
-								}
-							}
-
-							&:nth-child(4) {
-								background-color: rgba(255, 140, 180, 0.23); // soft pink
-
-								&:hover {
-									background-color: rgba(255, 140, 180, 0.33); // slightly darker pink on hover
-								}
-							}
-
 						}
+
+						&:hover {
+							svg {
+								transform: translateX(-50%) translateY(10%) scale(1.25) !important;
+							}
+
+							a {
+								padding-bottom: 15px !important;
+							}
+						}
+
+						&:nth-child(1) {
+							background-color: rgba(100, 180, 255, 0.22); // soft blue
+
+							&:hover {
+								background-color: rgba(100, 180, 255, 0.32); // slightly darker blue on hover
+							}
+						}
+
+						&:nth-child(2) {
+							background-color: rgba(120, 220, 180, 0.22); // soft teal
+
+							&:hover {
+								background-color: rgba(120, 220, 180, 0.32); // slightly darker teal on hover
+							}
+						}
+
+						&:nth-child(3) {
+							background-color: rgba(255, 220, 120, 0.24); // soft yellow
+
+							&:hover {
+								background-color: rgba(255, 220, 120, 0.34); // slightly darker yellow on hover
+							}
+						}
+
+						&:nth-child(4) {
+							background-color: rgba(255, 140, 180, 0.23); // soft pink
+
+							&:hover {
+								background-color: rgba(255, 140, 180, 0.33); // slightly darker pink on hover
+							}
+						}
+
 					}
 				}
 			}
