@@ -668,5 +668,16 @@ Session 87 24.09.25 47.03 im Jahr 49
 - Nur mich wollen sie nicht heilen da sie Angst haben das meine Halluzinationen zu viel Einfluss auf unsere Reise haben
 - Aus der großen Halle raus kommen wir direkt zu Fionn dieser prügelt sich so wie es aussieht schon seit gefühlt einer Ewigkeit mit einem Dämon Namens Avant
 - Da wir jetzt quasi Fionn untergestellt sind und keiner in Frage stellt ob wir "böse" sind oder nicht dürfen wir jetzt solange Fionn bei uns in der Nähe ist frei bewegen
+- Fionn gibt uns das Amulett mit der eingesperrten Fee und ermöglicht es uns so aus der Hölle zu entkommen er allerdings möchte in der Hölle bleiben um seine Armee aufzubauen
+
+21.04 im Jahr 49
+ - Durch das Amulett sind wir wieder auf unserer Burg rausgekommen und mussten feststellen das scheinbar fremde Leute sie besetzt haben
+ - Dort angekommen hat Fäir erstmal sein Zimmer bekommen
+ - El emeno findet heraus das Wauta uns mit Frudatta angelogen hat und er scheinbar etwas anderes ist als er vor gibt
+ - Revesse war sehr verwirrt wo Dursam und Fionn sind außerdem hat sie und Elmeno irgendwas komisches besprochen von dem ich keine Ahnung habe
+ - Revesse erklärt uns was unsere Burg alles bräuchte und welche Angestellten wir brauchen
+ - Währenddem bekommt Fionn in der Hölle seine Belohnungen und bekommt auch seine Armee von sechs Leuten zugesprochen
+
+17.06 im Jahr 49
 - 
-- 
+ 
