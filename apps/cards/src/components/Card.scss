@@ -1,0 +1,24 @@
+$base-width: 1024px;
+$base-height: 1536px;
+
+#card {
+  min-width: $base-width;
+  width: $base-width;
+  max-width: $base-width;
+
+  min-height: $base-height;
+  height: $base-height;
+  max-height: $base-height;
+
+  transform-origin: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  
+  transition: transform .1s ease-in-out;
+  box-shadow: 0 0 128px 64px rgba(0, 0, 0, 0.25) inset;
+  
+  background: url(../assets/default-background.jpg) lightgray 50% / cover no-repeat;
+}
