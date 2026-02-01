@@ -1,5 +1,5 @@
 ---
-uid: mass
+
 aliases:
   - Fuß
 ---

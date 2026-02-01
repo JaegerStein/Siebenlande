@@ -1,5 +1,5 @@
 ---
-uid: "15"
+
 aliases:
   - Suðri
 ---

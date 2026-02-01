@@ -1,6 +1,4 @@
----
-uid: 2h
----
+
 **Rüstungen** bieten Schutz gegen verschiedene [[Schadensarten]], vornehmlich Schmetter- (Stärke), Schnitt- (Athletik) und Stichschaden (Geschick). Zudem können Rüstungen gewisse [[Resistenz|Resistenzwerte]] gegen sonstige Schadenstypen besitzen.
 
 Physische Rüstungen sind immer [[Allgemeine Begriffe|andauernd]] und permanent; durch [[Zauber]], [[Talent|Talent]], oder ähnliches hervorgerufene Rüstungen sind *meist* abbauend und nur temporär.

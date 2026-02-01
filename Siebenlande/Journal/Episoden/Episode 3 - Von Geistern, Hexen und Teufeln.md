@@ -3,7 +3,7 @@ aliases:
   - Episode 3
 tags:
   - Episode
-uid: ep3
+
 ---
 *[[Episode 2 - Der Rattenkönig|Zurück zu Episode 2]]*
 

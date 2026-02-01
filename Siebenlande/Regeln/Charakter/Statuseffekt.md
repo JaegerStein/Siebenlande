@@ -1,6 +1,4 @@
----
-uid: "23"
----
+
 Statuseffekte (oder Zustand) verändern die Fähigkeiten einer Kreatur auf unterschiedliche Weise und können durch [[Zauber]], [[Talent|Talente]], [[Eigenschaft|Eigenschaften]], bestimmte Attacken oder andere Effekte entstehen. Die meisten Statuseffekte, wie z.B. _blind_, sind Beeinträchtigungen, aber einige wenige, wie z.B. _unsichtbar_, können von Vorteil sein.
 
 Ein Zustand hält entweder so lange an, bis er aufgehoben wird (der Statuseffekt _liegend_ wird beispielsweise durch Aufstehen aufgehoben) oder für die festgelegte Dauer des Effektes. Abhängig vom Zustand kann diese Dauer auch unbegrenzt sein und dieser muss somit aktiv aufgehoben werden.

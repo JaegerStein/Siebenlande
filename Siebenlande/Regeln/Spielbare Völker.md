@@ -1,6 +1,3 @@
----
-uid: 1y
----
 # Menschen
 *↳ Hauptartikel: [[Mensch]]*
 ![[Mensch#Übersicht]]

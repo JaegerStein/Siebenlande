@@ -1,6 +1,4 @@
----
-uid: "26"
----
+
 **Eigenschaften** sind spezielle Statuswerte eines Charakters, die in der Regel passive [[Allgemeine Begriffe|Boni]] (oder Mali) in bestimmten Situationen geben können. Nach der Charaktererstellung haben Spieler keine direkte Kontrolle mehr darüber, welche Eigenschaften ihre Charaktere erhalten oder verlieren.
 
 # Übliche Eigenschaften

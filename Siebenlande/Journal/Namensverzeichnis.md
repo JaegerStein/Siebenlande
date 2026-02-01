@@ -1,7 +1,7 @@
 ---
 tags:
   - Journal
-uid: name
+
 cssclasses:
   - compact-list
 ---

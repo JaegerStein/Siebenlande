@@ -1,6 +1,4 @@
----
-uid: "20"
----
+
 Jedes Wesen verfügt analog zu klassischen Rollenspielen über **Ausdauer**, die *Lebenspunkten* entspricht und bestimmt, wie viele Treffer man im Kampf einstecken kann, bevor man kampfunfähig wird. Anders als üblich ist Ausdauer jedoch nicht bloß gleichzusetzen mit körperlicher Unversehrtheit, sondern ist als abstrakte Mischung verschiedene Modifikatoren zu verstehen, nämlich:
 
 - der Willenskraft zum Kampf,

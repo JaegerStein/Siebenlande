@@ -4,7 +4,7 @@ tags:
 aliases:
   - Beständiges Volk
   - Menschen
-uid: mens
+
 ---
 # Übersicht
 <span class="sl-img float-right">![[human.jpg|300]]</span>
