@@ -1,7 +1,7 @@
 ---
 tags:
-  - Queste
   - Queste/Persönlich
+  - Artheus
 ---
 > [!INFO] Episoden
 > [[Episode 6 - Braucht noch einen Namen]]

@@ -6,6 +6,7 @@ aliases:
   - Home
   - Start
   - Startseite
+  - Übersicht
 cssclasses:
   - sl-index
 ---
@@ -27,14 +28,12 @@ cssclasses:
 - [[Episode 4 - Der Kult des Kosmos]]
 - [[Episode 5 - Auf den Spuren des Nekromanten]]
 - [[Episode 6 - Braucht noch einen Namen]]
-- Aktuell: [[Episode 7]]
+- [[Episode 7]]
+- [[Episode 8]]
+- [[Episode 9]] ← Ihr seid hier
 
 # Questen
-Laufende [[Queste|Questen]]:
-- [[Im Dienste der Teufelin]]
-
-# Hilfreiche Einträge
-- [[Spielbare Völker]]
+Siehe eine Liste aller laufenden [[Journal/Questen/index|Questen]]
 
 # Werkzeuge
 [[Charakterbogen.xlsx]]

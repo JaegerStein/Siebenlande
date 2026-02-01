@@ -1,0 +1,231 @@
+---
+aliases:
+  - Episode 8
+tags:
+  - Episode
+---
+Zurück zu [[Episode 7]] | Weiter zu [[Episode 9]]
+
+Session 86 10.09.25 47.03 im Jahr 49
+
+- Die Gruppe befragt die Wand nach allen Sachen die mit der Leitlinienstelle zu tun hat
+- Revesse meint das der elfische Spiegel was mit den Teleportknoten zu tun hat allerdings kann nur ein Elf diesen Spiegel benutzen
+- Nyx seine blutigen Hände aktivieren auf merkwürdige Art und Weise den Spiegel
+- Nyx steckt erst die Hand und dann den gesamten Kopf durch den Spiegel und wird plötzlich von einem Sog durch den Spiegel gezogen
+- Der Rest der Gruppe wartet noch ein wenig ob Nyx zurück kommt als er dies aber nicht tut springen sie durch den Spiegel hinterher 
+- Auf der anderen Seite angekommen taucht die Gruppe aus einem Teich wieder auf und sind in einer alten elfischen Ruine
+- Alle schauen sich um und untersuchen wo sie sind plötzlich stellen sie fest das Nyx fehlt aber an seiner Stelle ein Elf steht der sie vertraut anschaut 
+- Alle schauen sich fragend an und fragen den Elf wer er den ist dieser erklärt ihnen dann die ganze Geschichte und das er ja Nyx sei nur halt verflucht wurde
+- Die Gruppe zieht weiter auf dem Weg bekommt Norwa einen Geisterhund und sie treffen auf Asta die sich bei Artheus bedankt 
+- Gleichzeitig warnt sie alle vor das die Schule/Kirche Revesse nicht vergessen werden und sie suchen werden
+- Revesse ist nur ein Spitzname den Revesse ist die Prinzessin des Königreiches Ausoperlend und dieses wäre dann die 3 Partei die nach ihr suchen würden
+- Fionn fragt Asta nach einem Auftrag und bekommt eventuell einen Showkampf in der Hölle gegen Dämonen
+- Wir finden ein Fischerdorf in dem wir einen Fischer bezahlen der uns zum nächsten Ufer rüber bringt 
+- Dort angekommen stoßen wir auf ein neues Dorf das zwar bewirtet aber komplett leer aussieht 
+- leicht getrennt erforscht die Gruppe das dorf und findet in der Mitte des Dorfes einen Baum an dem alle Dorfbewohner tot an einer Art Schleim hängen 
+- Fionn, Artheus und Norwa untersuchen den Baum während Nyx einen verlassenen Schuppen untersucht
+- Plötzlich taucht auf dem Kirchen Dach ein bedrohlicher Schatten auf und im Dorf verteilt 3 kleine leuchtenden Stücke Materie 
+- Der Schatten ( Dark Terror ) prescht auf die Gruppe am Baum zu und erschafft eine betäubende Spähre die alles in ihr Stunt selbst Nyx im Schuppen ist betäubt
+- Das erste Stück Materie fliegt durch Dursam und LMNO durch und macht ihnen 1 mentalschaden und beginnt stärker zu leuchten
+- Beim Truhe durchsuchen eingefroren kann Nyx nichts machen allerdings beschwört sich sein Leerenwandler von alleine und steht Dark Terror gegenüber die beiden scheinen irgendwie vertraut zu sein kurz danach schnappt er sich Norwa und trägt ihn außerhalb der Spähre
+- Der Wirrenjäger holt aus und schlägt mit seiner Keule auf Fionn ein der da er sich nicht wehren kann sehr starken schaden nimmt dadurch hat Fionn mehrere tiefe Fleischwunden überall an seinem Körper
+- Norwa zielt auf den Wirrenjäger und schafft es ihm ein wenig Schaden zu machen
+- Fionn versucht mit einem lauten Gebrüll die Gegner einzuschüchtern die Gegner stehen einfach nur unbeeindruckt da als würden sie ihn nicht hören
+- Vor lauter Wut schlägt Fionn auf den Wirrwisch ein doch seine Faust geht einfach durch ihn hindurch und verletzt ihn nicht wirklich
+- Dursam läuft näher und macht sich für den Angriff bereit 
+- Boma läuft zu Fionn und schmeißt ihm so gut es geht ihren Heiltrank an den Kopf
+- Der Wirrenjäger schickt seinen Wirrwisch hinter Fionn und schafft durch die Verbindung zu ihm Fionn zu verlangsamen
+- Der Wirrenjäger selbst springt wieder von dem Kirchendach direkt vor Fionn
+- Norwa schießt wieder auf den Wirrenjäger leider auch nicht mit dem größten Erfolg das erste mal seit langem sieht ein Kampf für die Gruppe sehr aussichtslos aus 
+- Fionn versucht noch mal mit aller Kraft dem Wirrenjäger schaden zuzufügen und schafft es tatsächlich dem Wirrenjäger aufs Maul zu hauen
+- Die Wirrwische haben ihre Positionen geändert und der Wirrenjäger sprintet durch Norwa durch der jetzt verlangsamt ihn
+- Fionn, Dursam und Artheus versuchen den Wirrenjäger einzukesseln und ihn von 3 Seiten anzugreifen 
+- Elemeno geht an die Kirche ran und schafft es den Wirrwisch der sich in der Kirche versteckt hält dort raus zu schießen
+- Boma heilt blitz schnell die Wunden von Norwa zusätzlich erhält er eine magische Rüstung die ihn noch länger schützt
+- Nach einer gefühlten Ewigkeit erbarmt sich Almander auch endlich mal etwas zu tun und befördert einen der drei Wirrwische zurück in die Wirre wo sie herkommen
+- Die Gruppe findet heraus das die Wirrwische nicht mit physischem Schaden zu verletzen sind 
+- Der Wirrenjäger gefrustet von dem Verlust des Wirrwischts versucht Norwa und Dursam zu verletzen aber schafft es nicht seine Angriffe richtig gezielt zu setzen und schlägt einfach daneben 
+- Komplett von der Wut geleitet möchte der Wirrenjäger jemanden töten und vergreift sich nun an Almander und portet sich direkt neben Almander 
+- Dursam sieht das und fliegt sofort so schnell wie der Wind los und verfolgt den Wirrenjäger, greift ihn direkt an und schafft es den Wirrenjäger hinterrücks zu ermorden dieser verpufft einfach 
+Session 87 24.09.25 47.03 im Jahr 49
+
+- Fionn und Sylvaris stellen fest das in dem Dorf in dem sie sind die Zeit verrückt spielt und an manchen Stellen die Zeit schneller vergeht und bei manchem viel zu lange braucht
+- Sylvaris hat ebenfalls festgestellt das BEX sein Leerenwandler sich nicht mehr wegschicken lässt und scheinbar normal mit ihm reisen möchte
+- Elemeno hat herausgefunden das in dem Dorf eine Art Magie Bombe gefallen ist die das Arkane Gewebe in dem Dorf stört und dadurch die Zeit Probleme aufgetreten sind 
+- Almander und Revesse haben außer Bauernbekleidung nichts gefunden
+- Die gesamte Gruppe überlässt das Dorf einfach seinem Schicksal und reist Richtung Heimat
+
+03.04 im Jahr 49
+- Auf dem Weg zum Burgtor erkennen wir einen Berg von Rüstung und Waffen auf dem Weg
+- Boma spricht mit Wallther aber dieser gibt keine Antwort was hier geschehen ist 
+- Kurz vor der Burg treffen wir einen alten Bekannten nämlich den Goblin der uns damals unser Zeug geklaut hat
+- Angekommen bei Wauta hören wir wie sie ihn Frudatta nennt benannt nach ihrem verstorbenen Mann oder Hund das weiß sie nicht genau 
+- Wauta beichtet das sie Frudatta aus dem Kerker geholt hat und ihn benutzt um die Burg aufrecht zu erhalten
+- Wir stellen Wauta Almander und Revesse vor und warum sie hier sind 
+- Als Wauta alle zum Essen ruft treffen wir auf einen alten Weg Begleiter und zwar Goddfliegd ( mit Augenklappe) nur Sylvaris und Elemno wissen nicht wer er ist und bekommen die Geschichte erzählt wie sie sich kennengelernt haben 
+- Elemno befragt Goddfliegd ob er weiß wo BEX herkommt oder weiß was es mit ihm zu tun hat
+- Fionn findet heraus das Frudatta ein Troll ist den man auf jeden fall nicht mit Fleisch füttern sollte und dies auch mit einer Null Toleranz Politik durchgeführt werden muss
+- Sylvaris studiert mit Goddfliegd BEX um heraus zu finden wie man ihn trainiert und mit ihm kommunizieren kann
+- Sylvaris zeigt Almander, Revesse und Elemeno ihre Zimmer
+- Eines Tages hören wir im vorderen Burghof wie ein kleiner Imp die Einladung für Fionn verkündet der in der Hölle gegen Dämonen und nutzlose Teufel kämpfen soll
+- Nach seiner Ansprache explodiert der Imp und bleibt als kleines Juwel (die Einladung) zurück
+- Die Questerei bekommt aus dem Dorf eine Quest das um das Dorf rum riesige Fußstapfen in Form eines Vogels aufgetaucht sind und diesen auf den Grund gehen sollen 
+
+
+07.04 im Jahr 49
+- Der Kampf zwischen Siallo und der Gruppe geht weiter diesmal tritt Boma in den Ring und schmeißt ihm einen Feuertrank ins Gesicht
+- Das Feuer des Tranks schmelzt Siallo das Gesicht weg steckt es aber scheinbar ohne sichtbaren Probleme weg und setz zum Gegenangriff bleibt direkt vor Boma stehen, schmeißt ihr brennendes Konfetti ins Gesicht auch das bleibt ohne sichtbaren Effekt
+- Boma versucht es nochmal mit einem Trank diesmal leert sie Siallo aber den Trank über den Kopf und die Gruppe kann langsam zuschauen wie er langsam zu Asche wird, doch man kann wenn man ganz genau hinsieht beobachten wie sich aus der gerade frisch verbrannten Asche langsam wieder Knochen und Haut bilden bis sogar wieder Kleidung an seinem Körper hängt, Siallo scheint wirklich der "Stärkste" Kämpfer zu sein da er scheinbar wirklich nicht sterben kann.
+- Als nächstes steigt Artheus gegen Siallo in den Ring und scheint Siallo tatsächlich keinen Schaden zu machen sondern es scheint so als würde er ihn heilen
+- Siallo sichtlich irritiert setzt zum Gegenangriff an zu Glühen ohne das etwas passiert
+- Völlig entblößt schmeißt Siallo Artheus seine Hose ins Gesicht um ihn zu blenden 
+- Artheus durchschaut alles und holt zum vernichtenden Schlag aus und schlägt Siallo in zwei
+- Keine fünf Minuten später setzen sich die zwei hälften wieder zusammen und er bedankt sich bei der gesamten Gruppe für die schönen Übungskämpfe 
+- Die Gruppe bietet ihm noch eine Übernachtungsmöglichkeit an damit er nicht draußen im freien schlafen muss
+- Siallo zieht sich in sein Schlafgemach zurück und regeneriert seinen Körper 
+- Sylvaris schaut Abends mit einem Beil nach Siallo ob er ihm helfen muss sich zusammen zu setzen, Zeit gleich wendet sich Revesse an den Rest der Questerei und fragt nach dem Portalraum warum
+- Nyx stellt Siallo zur Rede und schlägt ihm die Hand ab und hält sie fest um zu schauen was passiert nachdem nichts passiert schlägt Nyx ihm den Kopf ab und gibt ihm die Chance sich wieder herzustellen (allem Anscheins nach wurde Siallo verflucht)
+- Dursam zeigt Revesse den Keller und während sie unten stehen und sie ein Kommentar zu der Falle im Keller macht liest Dursam ihre Erinnerungen und sieht ihre Kindheit in der Stadt Atemidde
+- Dursam fasst das Bedienfeld an und fragt verschiedene Koordinaten der Leitlinienstellen ab und erwähnt ein paar Ereignisreiche Momente der Reise und es fangen neue Knotenpunkte auf der Wand an zu leuchten
+- Dursam schafft es ein Portal zu öffnen und landete in Ebben in der Arena in der einst Fionn kämpfte nur zum aktuellen Zeitpunkt 
+- Fionn bittet Dursam ein Portal zum nächsten Knotenpunkt in der Zukunft zu öffnen um zu sehen was passiert, Fionn streckt sein Kopf durch das Portal und sieht wie Wauta ihn mit dem Kopf Kochlöffel schlägt daraufhin schlussfolgert Fionn das der nächste große Kampf bei uns in der Burg oder zumindest auf unserem Grundstück befinden muss 
+- Fionn und Dursam schaffen es immer Knotenpunkte auf der Wand zum leuchten zu bringen
+
+08.04 im Jahr 49
+- Am nächsten Tag macht sich die gesamte Questerei auf den Weg in die Hölle um Fionn bei seinem großen Kampf anzufeuern
+- In der Hölle angekommen hören sie eine Art Erzähler Stimme die ihnen erklärt das es verschiedene Portale und verschiedene Fragen die es zu beantworten gilt. 
+- langsam trauen sich alle nach vorne ohne zu bemerken das sich Peku und Cze auf den Weg zu ihnen machen 
+- Als alle an der Gabelung ankommen ist es leider schon zu spät und Peku und Cze schießen einen Feuerstrahl und Ball auf die eingeladenen Gäste
+- El Emeno fragt Cze ob die Lava heiß ist aber statt zu antworten kommt Cze angesprintet und gibt ihm eine Respektschelle
+- Fionn läuft nach vorne und fragt Peku die gleiche Frage aber komischer weise beantwortet Cze diese Frage und greift Fionn an
+- Wir finden heraus das egal wer fragt immer der nähere der beiden antwortet/angreift
+- Artheus sagt Peku eine Wahrheit und versucht daraufhin ihn mit seinem Speer anzugreifen und das sogar mit Erfolg so bekommt die Gruppe endlich raus wie sie Peku schaden zufügen kann
+- Elemno erzählt Cze eine lüge und greift ihn an auch das klappt mit Erfolg da aber Peku der nähere von beiden war antwortet dieser und greift anschließend Elemno an 
+- Sylvaris packt seine Laute aus und und spielt so schräg wie möglich um Peku Schaden zu machen auch dies geht einfach ohne Probleme durch 
+- Fionn läuft ein gutes Stück davon um einen der beiden Teufel von der Gruppe zu locken allerdings geht das komplett nach hinten los und Cze stellt sich noch mehr in die Menge und Zaubert von dort einen Feuerstrahl auf Fionn
+- Nach ein paar Runden schafft es der Streichelzoo eins der zwei richtigen Portale rauszufiltern 
+- Artheus schafft es das Feuer auf seiner Kleidung auszuschlagen und holt zum Angriff aus leider prallt der komplette Angriff an der Rüstung von Peku ab
+- Nach längerem Gefrage schaffen wir es herauszufinden das hinter dem unteren richtigem Portal ein Kampf wartet wenn wir durch gehen
+- Dursam befragt Peku und bekommt direkt einen Feuerstahl als Gegenangriff ins Gesicht und seine Federn fangen auch an leicht zu brennen
+- Mittlerweile haben wir herausgefunden das hinter beiden Portalen kämpfe auf uns warten aber alle außer Nyx und Elemno das Losungswort kennen
+- Auch das zweite Portal konnten wir mittlerweile durch geschickte JA und NEIN Fragen heraus filtern, sogar das Losungswort für das zweite Portal kennen wir zum Teil
+- Durch mich haben wir herausgefunden das ein Name das Losungswort für ein Portal sein muss der aber Minimum aus zwei Wörtern bestehen muss
+- Peku und CZE schaffen es langsam aber stetig uns mit ihren Attacken in die enge zu treiben da auch unsere fragen leider nicht mehr viel Erfolg haben
+- mit einer geschickte Frage schafft es Artheus die Losung für das zweite Portal herauszufinden
+- Nyx, Dursam und Norwa versuchen in Richtung des zweiten Portals abzuhauen auf dem Weg dort hin versperrt Peku ihnen den Weg und greif Nyx mit seinem Feuerball an, Nyx fängt sofort Feuer und fällt vor den anderen auf den Boden und in Ohnmacht
+- El emeno schafft es durch eine Frage herauszufinden das die Gegner hinter dem Portal 2 Feuerresistenz haben
+- Dursam schafft es gerade so mit allen mühen Nyx an das Portal zu schleifen als sie versuchen durch das Portal zu schreiten fängt der Kommentator der Hölle frech an zu lachen und sagt uns das wir einen der beiden ( Peku, CZE ) töten müssen um an den Schlüssel für das Portal zu kommen
+- Fionn schafft es CZE von der Gruppe zu trennen damit sich der Rest in aller Ruhe um Peku kümmern kann
+- Boma heilt Fionn nochmal abschließend hoch und läuft dann auch langsam zum Rest der Gruppe
+- CZE versucht an Fionn vorbei zukommen, Fionn schafft es aber mit einem schnellen Griff ihn festzuhalten uns somit seine Bewegung zu stoppen 
+- Währenddessen klopfen die anderen immer noch auf PEKU ein
+- Da Nyx die ganze Zeit unbeobachtet rumliegt schafft er es langsam wieder zu sich zu kommen und sich ein wenig in Sicherheit zu schleppen
+- PEKU dreht sich um, zielt auf Boma und schießt ihr seinen Feuerlaser ins Gesicht auch sie fängt an zu brennen im gleichen Atemzug schießt auch CZE seinen Laser auf Boma sie wird zwar nicht bewusstlos geht aber vor lauter schmerzen ein wenig in die Knie
+- Artheus schafft es den letzten entscheidenden Schlag gegen Peku zu landen dieser platzt vor lauter schmerzen und alle um ihn herum bekommen noch mal ein wenig Schaden von seiner Explosion
+- In der Asche von Peku entdeckt die Gruppe sein Herz (der Schlüssel für das Portal), Artheus packt sich das Herz verbrennt sich und läuft damit zum Portal in dem Moment in dem er das Herz einsetzt saugt ihn das Portal ein und er verschwindet auf die andere Seite
+- El emeno läuft an dem brennenden Dursam vorbei und geht schnurstracks durch das Portal
+- Auch Nyx läuft zielstrebig Richtung Portal und springt hindurch
+- Auch Fionn schafft es gerade noch so der Lava zu entkommen und mit einem Hechtsprung durch das Portal zu springen
+- Auf der anderen Seite des Portals wartet auf die Gruppe eine riesiger Speisesaal und es erwartet sie Nyx seine alte Succubus die anscheinend von Asta aufgenommen wurde und sie als Gehilfin benutzt 
+- Die Succubus erklärt uns das wir Asta ihren Besitz von der Herrin Glases zurückbringen sollen
+- Scheinbar müssen wir Asta ihr geliebtes Haustier zurückbringen
+- Die Gruppe bekommt den richtigen Namen von Asta gesagt und alles erklärt was sie machen müssen und wie sie das Haustier zurück bekommen
+- Die tafelrunde verschwindet und wir landen auf einem sehr verschneiten Berg den wir anscheinend hang abwärts entlang gehen müssen zu einem Schloss am ende des Tals
+- Elemeno sieht das es noch einen dritten Weg gibt und zwar über die Bergkette in Richtung Ödland
+- Auf dem weg durch das Ödland kommen wir an ein paar Imps vorbei die vor einem sehr tiefen Loch stehen und darüber diskutieren wer als erstes nach unten geht
+- Als sie uns sehen verwickeln sie uns in ein Gespräch und berichten uns davon das sie mit Siallo unterwegs waren und dieser verrückte einfach in das Loch gesprungen ist
+- Während dem Gespräch schaffe ich es die Imps zu überreden mit uns mit zukommen und auch an unserer Seite zu kämpfen, kaum das Gespräch beendet wird ein einzeln stehender Imp in das Loch gezogen und hervor kommen drei Insekten ähnliche Wesen raus und zwingen uns zum Kampf
+- Lecker beschwört eine Eiswand zwischen uns und schafft es so die Gruppe zu trennen und ein paar von uns außerhalb des lodernden Steins zu bringen und Igitt erschafft ein Iglu artiges Ding um Boma und Fionn um das wärme spendende Artefakt zu isolieren
+- Ein Imp schafft es ein winziges Loch in das Iglu zu schießen und somit ein wenig wärme nach außen dringen kann
+- Dursam schlägt gegen das Iglo und schafft das ein komplettes drittel  davon rausbricht
+- Auch ich trage meinen Teil zum Kampf bei und schaffe es Insekt und Lecker Schallschaden zuzufügen, scheinbar bekommen diese Insekten artigen Wesen erheblichen Schaden davon
+- Igitt stellt sich mitten in das fast geschmolzene Iglu und schnappt zweimal nach Boma ( ja ich finde die Namen der drei auch absolut Banane aber was will man von Wesen erwarten die weder Insekt noch Teufel sind einfach abstoßend die drei ) einen der beiden angriffe schafft sie zu verteidigen doch bei dem zweiten muss sie leider Fridolin opfern um ihr eigenes Leben zu retten, Gott sei dank hat Boma bei der letzten Rast es geschafft eine Sicherheitsleine an ihn zu binden damit er nicht mehr gefressen werden kann
+- Mit seinem dritten Angriff greift Igitt Artheus an der schafft es aber mühelos diesen Angriff abzuwehren
+- Fionn bekommt das alles mit und schlägt Igitt voller Frust mit seinen Fäusten in die Fresse
+- Dursam stellt sich mit all seinem Mut vor Insekt ( ja immer noch dumme Namen) und sticht im mit seinem Dolch in die Magengrube und schafft es verheerenden Schaden zuzufügen
+- Der Imp den ich zu uns gelockt schafft es mit einem kleinen Nadelstich in den Nacken Lecker zu töten und feiert sich als wäre er der größte der Welt
+- Durch Bomas Heiltrank habe ich miese Halluzinationen und sehe überall Monster daraufhin nehme ich die Beine in die Hand und renne soweit von der Bedrohung weg und kauere mich völlig Angst eingeflößt in eine Ecke
+- Einer der beiden roten Imps fliegt näher an Insekt ran und versucht diesen anzugreifen leider gelingt ihm das nicht und trifft Dursam, da wir nicht gesagt haben das es kein Vertragsbruch ist wurde er einfach vor unseren Augen in Asche verwandelt
+- Fionn schlägt auf Igitt ein und schlagt so stark zu das er ihm die Gedärme aus der Magengrube haut, durch diesen Triumph schafft Boma es Fridolin wieder an seiner Leine zurück zu ziehen
+- Während alle anderen in der Gruppe weiterhin die Ameisen ähnlichen Teufel bekämpfen liege ich weiterhin mit den größten Halluzinationen jemals immer noch auf dem kleinen Hügel voller Eis und merke wie langsam meine Gliedmaßen einfrieren
+- Als der Kampf schon längst zu Ende ist schaffe ich es langsam Wahrheit von Lüge zu unterscheiden und laufe halb eingefroren zu Boma um mich aufzuwärmen
+- Weiter auf unserem Weg weiter zum nächsten Schlachtfeld sehen wir nicht allzu weit weg von uns ein Wolf artiges Wesen das alle viere von sich in die höhe streckt voll gefressen von all den Leichen die um ihn herum liegen
+- Das komische an ihm ist aber das er auf der Rückseite seines Körpers Tentakel artige Dinge sind die so aussehen als würden sie nach etwas greifen
+- Er stellt sich vor mit dem relativ offensichtlichen Namen Weiswolf (da er weiß ist und ein Wolf -.-), er sagt uns auch das er ebenfalls ein Teilnehmer des Turniers ist aber auch einverstanden beim turnier aufzugeben um uns Platz zu machen, alles was er dafür haben möchte ist ein Pakt/Vertrag mit einem von uns
+- Der Weiswolf fragt mich ob ich seine Fähigkeiten sehen möchte daraufhin schicke ich den triumphalen Imp nach vorne und dieser wird in einer Entfernung von 100 Fuß aufgefressen
+- Er schafft es auch das unsere Fähigkeiten quasi mit einander verschmelzen und stärker werden
+- Von Fionn und El emeno hätte ich den Segen diesen Pakt ihn als Patron zu nutzen allerdings möchte ich noch ein wenig bedenk zeit und habe ihm gesagt das ich ihn später rufen werde wenn ich soweit bin
+- Auf dem Schlachtfeld angekommen erwarten uns bereits zwei weitere Teufel die um ehrlich zu sein echt cool aussehen
+- sie haben uns gerade so gesehen stürmen sie schon auf uns los einer der beiden zeichnet merkwürdige Ringe in den Schnee und zieht sich danach ein Stück zurück, der andere stellt sich ein wenig versetzt von uns nach links
+- Artheus und Fionn sehen das und preschen direkt auf den Gebannten Teufel los ohne lang zu fackeln haut Fionn ihm direkt auf die Fresse
+- Der Rest von uns läuft stumpf Fionn und Boma hinterher 
+- Der gebannte Teufel sprintet auf den einen gemalten Kreis (türkis) zu und wird dadurch mitten in unsere Gruppe teleportiert
+- Der gebannte Teufel schafft es einfach mit einem schlag die halbe gruppe mit einem schlag niederzuschlagen und stark zu verwunden
+- Boma wirft mit einem äußerst gezielten Feuertrank auf die gezeichneten Bannkreise und schafft es einen von den drei direkt zu zerstören
+- Nach meinem Angriff hat mich der Gebannte Teufel direkt mit seinen Haaren gepackt und hält mich wie ein menschliches Schild vor sich und schützt sich so vor den angriffen der anderen
+- Artheus schneidet mich ganz vorsichtig mit seinem Speer aus den fangen des gebannten Teufels und befreit mich
+- Der gebannte Teufel durchsticht mit seinen haaren Dursam und ermordet ihn dadurch geschockt von dieser tat legt Norwa alles in seinen nächsten Schuss
+- auch Fionn völlig geschockt davon haut dem gebannten voll eins in die Fresse
+- Boma nimmt ihren ganzen Mut zusammen und wirft dem Bann-Teufel einen Feuertrank ins Gesicht
+- Völlig dem Blutrausch verfallen sticht der Gebannte Teufel als nächstes auf Fionn ein und schafft es fast Fionn in die Knie zu zwingen trotz das Fionn so stark verletzt ist geht er nicht zu Boden und atmet den Schmerz einfach weg man sieht förmlich die Kampfes Lust in seinen Augen
+- Der Bann Teufel zieht durch seinen Bann kreis Fionn und Boma zu Boden, Fionn immer noch im Kampfrausch ist davon sehr unbeeindruckt und schafft es auf magische weise fast alle seine Wunden verschwinden zu lassen und geht zum Gegenangriff über
+- Der Gebannte Teufel teleportiert sich erneut zu einem Bann Kreis und lässt diesen verschwinden
+- El emeno schafft es die beiden Teufel so abzulenken das Norwa ohne Probleme seine zwei Pfeile in Richtung des Gebannten Teufels zu schicken
+- Boma richtet sich wieder auf und heilt alle außer mich D:
+- Der gebannte Teufel schlägt mit seinen Haaren auf die Gruppe und schafft es Fionn und mich zu Boden zu schlagen
+- Artheus schafft es gerade so Boma davor zu bewahren zu Boden zu gehen
+- Artheus schafft es anschließend mit seinem nächsten Angriff den Bann-Teufel förmlich wegzuschmelzen dieser windet sich vor schmerzen und verschwindet
+- Der gebannte teleportiert sich zu mir und sticht mir mit seinen haaren mitten in den Bauch vor lauter Schmerz krümme ich mich zusammen und falle zu Boden 
+- die gesamte Gruppe stellt sich um den Teufel herum und schlagen im Kollektiv auf ihn ein
+- Fionn schafft es mit dem letzten aufgesparten Schlag die Maske von ihm zu zerschlagen und dadurch verfällt der Teufel
+- Nach dem Kampf taucht erneut der Weiswolf auf und ich versuche Boma einen Heiltrank zu klauen bekomme aber leider nur einen Schwebetrank
+- vor lauter Frust trinke ich selber einen und stürze mich mit starken Halluzinationen direkt auf den Wolf und gehe den Pakt ein
+- Für den Namen von Glasis und Asta würde ich meinem Patron Dursams Leiche zum verspeisen geben und lerne direkt das ich meine Wünsche bei ihm mit bedacht aussprechen muss
+- Nachdem er ihn verschlungen habe erhalte ich gleichzeitig auch noch die versteckten Fähigkeiten von Dursam allerdings muss ich dafür auch jedes mal ein Handel eingehen
+- Das Schlachtfeld durchdrungen kommen wir endlich in Glasis ihrem Schloss an und werden von einem untertan von ihr Empfangen um uns rum sind ganz viele Lemuren verteilt
+- Schnell schlägt Fionn den Plan vor das erhaltene Gift einzunehmen um unseren Tod vorzutäuschen da nur einer in den nächsten Raum darf
+- Fionn wird von dem Merkwürdigen Diener in den nächsten Raum begleitet dort trifft er auf seinen neuen Gegner und auf Siallo der völlig besiegt vom Boden gekratzt wird
+- Das Wesen vor Fionn hört auf den Namen Faercuin Gollamdir und möchte eigentlich gar nicht kämpfen und nur aus dieser verdammten Hölle entkommen
+- Nach einem ewigen Schlagabtausch schafft es Fionn Faercuin zu besiegen und zu überzeugen mit uns mitzukommen und erklärt ihm den kompletten Plan
+- Die beiden gehen zur Tür zurück und versuchen durch die Türe zu schauen, auf der anderen Seite der Tür wacht Boma langsam auf und sieht wie die Insekten von ein paar kämpfen vorher uns anderen einspinnen und als Larvenfutter wegschleifen
+- Fionn wird von Glasys ihrem Begleiter zu ihr geführt und sie führt ihn durch ihre hallen und zeigt ihm ein paar Räume die förmlich für sterbliche gemacht worden sind und macht ihm mehr oder weniger klar das er für ihre Armee rekrutiert wurde
+- um sie weiter sie durch das schloss gehen um so mehr kommt es Fionn vor das er sich in einem Spinnennest befindet nach kurzer zeit stellt er fest das nicht nur Spinnenweben um ihn herum sind sondern das auch überall an den Wänden verschieden Große Spinnenkokons hängen in dem allen Anschein nach verschiedene Kreaturen eingesponnen wurden
+- Am Ende des Flurs kommen sie in eine riesige von Spinnennetz überzogene Halle dort präsentiert Glasys Fionn ihren ganzen Stolz einen unglaublich großen Kokon in dem allen Anschein ein starker Menschen Körper mit Flügeln gefangen ist
+- Glasys erzählt Fionn die Hintergrunde Geschichte und das sie diesen Engel durch einen geschickten Vertag mit einem Gott errungen hat 
+- während der Führung bekommt Fionn mit wie die Insekten von Glasys alle Kokons seiner Freunde langsam nach oben Richtung Halle bringen
+- Fionn fragt nach einer Art Karte damit er sich in den riesigen Hallen Glasys zurecht findet und bekommt von ihrem Bediensteten eine Glocke mit denen er Lemuren beschwören kann die ihm dann quasi wie ein Kompass den weg zeigen 
+- Fionn geht zurück zu die ihm versprochene heilende Quelle um sich nach dem anstrengendem Kampf zu erfrischen
+- Sobald Fionn und der Rest den Raum verlassen beginnt Boma langsam sich aus ihrem Kokon frei zuschneiden
+- Nachdem sie sich selbst befreit hat befreit sie uns auch und gibt uns das Gegengift gegen den Scheintod
+- Boma hat es zwar nicht festgestellt aber Artheus konnte und mitteilen das dieses komische Geräusch scheinbar näher kommt
+- Zur gleichen Zeit stellt Fionn fest das dieser angebliche Jungbrunnen wirklich magische Eigenschaften hat und überlegt sich wie er am geschicktesten zu uns in die große Halle zurück kommt entscheidet sich aber lieber sich die Armee von Glasyas anzuschauen direkt wird er in eine unterirdische Höhle gebracht in der er verschiedenste Insekten Arten trifft 
+- Anschließend stellt er die Forderung das man ihn zu Glasys ihren Truppen bringt anschließend verhalten sich die Truppen sehr merkwürdig
+- In der zwischen Zeit ist ein Insekt Namens Gelugon aufgetaucht und greift uns an da ich ein Stück weiter er Gruppe mit befreit habe sehe ich nur grob aus der Entfernung was vorne passiert aber es sieht fast so aus als könnte Faercuin (der neue) sich klonen oder irgendwie vervielfältigen
+- Norwa wagemutig wie immer setzt direkt zum Angriff an und schießt auf Gelugon 
+- Boma beteiligt sich auch direkt am Kampf und wirft Gelugon einen Feuertrank an den Kopf sowohl er als auch die erschaffene Eiswand bekommen erheblichen schaden wobei die Eiswand komplett verschwindet
+- Endlich näher am geschehen kann ich es voll und ganz bestätigen das sich Faercuin tatsächlich verdreifachen kann und damit auch angreifen kann allerdings scheint es nicht so als wären diese oder er sehr stark ich frage mich sehr wie er allein gegen Fionn hätte ankommen sollen
+- Während des Kampfes wird Fionn aufgehalten und soll zu seiner Brigade gebracht werden zum Pech von uns allen führt dieser Weg leider weiter weg von uns
+- Ohne weitere Erklärung verschwindet unser Gegner einfach in der Senke und lässt und alleine an dem riesigen Kokon stehen
+- Ewigkeiten diskutieren wir hin und her was wir jetzt mit unserer gewonnen Zeit anstellen ein Teil von uns ist dafür den Kokon aufzuschneiden und ein paar möchten Fionn suchen gehen Faercuin sichtlich genervt läuft mit schüttelndem Kopf Richtung Ausgang
+- Währenddessen ist Fionn an seiner Brigade angekommen und findet ein Haufen von Imps, Succubus und eine Art Faunen
+- Mittendrin steht ein ganz besonderer Dämon mit dem Namen Avant dieser wollte sich von der Gruppe abwenden und einen anderen Auftrag ausführen Fionn erkennt das und schafft es ihn mit ein paar ernsten Worten in die Schranken zu weisen
+- Fionn schwingt eine fast schon erschreckend auswendig gelernte Rede und bringt die Truppe in reih und Glied und motiviert sie gleichzeitig anschließend beginnt er direkt mit ein paar Trainingskämpfen gleiches gegen gleiches
+- Parallel dazu tauchen bei uns in der großen Halle auf einmal 3 Insekten Gruppen mit einem lauten Geschrei auf der noch von einem viel schrillerem Geschrei aus dem Untergrund erwidert wird dieser ist so schrill das uns fast die Trommelfelle reißen
+- Wir alle entscheiden uns Fionn zu suchen da es zu riskant ist den Kokon zu zerschneiden während wir Richtung Ausgang laufen bewegen sich die Insekten zum Kokon hin
+- Auf der anderen Seite außerhalb unserer Sichtweite schafft Fionn es weiterhin Avant festzuhalten und ihn am flüchten zu hindern
+- Allerdings versucht Avant den Spieß umzudrehen und legt nun Fionn glühende Fesseln an
+- Die Insekten versuchen alles um den Kokon zu schützen und erschaffen Eismauern damit wir nicht mehr durch kommen
+- Fionn schafft es mit einer Wahrheit über sich selbst sich aus den Fesseln von Avant zu befreien
+- Mittlerweile haben wir uns doch entschieden gegen die Insekten zu kämpfen
+- Zwei von ihnen erschaffen immer mehr Eiswände und schirmen und so komplett von dem Kokon ab
+- Artheus benutzt die Fähigkeit seines Gottes und macht allen Gellugon um sich herum Schaden, völlig verwirrt muss ich feststellen das ich von diesem Zauber auch Schaden bekomme
+- Ich schaffe es gerade noch so dem Tod zu entkommen und humple weiter Richtung Ausgang als ich an einem Kokon stehen bleibe erkenne ich eine mir sehr bekannte Hand und zwar die Hand von Siallo sofort gebe ich Fäir bescheid damit wir Siallo mit im Kampf haben
+- Fäir über motiviert wie er leider nun mal ist häckselt den Kokon samt Siallo in kleine Fetzen nun ist auch dieser für den Kampf fast nicht mehr zu gebrauchen
+- Boma völlig verzweifelt weiß keinen Ausweg mehr und trinkt ihren schwerelosen Trank um irgendwie dieser aussichtslosen Situation zu entfliehen, von Angst getrieben stoßt sie sich vom Boden Richtung Decke ab
+- Plötzlich bebt die ganze Halle und es fühlt sich so an als würde etwas an den Spinnennetzen ziehen ein kurzer Moment vergeht und auf einmal steht Glasya vor uns völlig entsetzt fragt sie uns was wir hier machen und warum wir nicht mehr in unseren Kokons eingesponnen sind 
+- El emeno stellt sich nach vorne und versucht Glasya zu überzeugen das wir hier sind um ihr zu helfen und nicht um ihr zu Schaden leider übertreibt er es ein wenig mit seinem Theaterspiel und bekommt einen gewaltigen Angriff von Glasya ab 
+- Irgendwie schaffen wir es Glasya zu besänftigen und sie erlaubt uns zu ihrem Heer zu gehen diese kleine Verschnaufpause nutzen die anderen um sich ein wenig zu heilen
+- Nur mich wollen sie nicht heilen da sie Angst haben das meine Halluzinationen zu viel Einfluss auf unsere Reise haben
+- Aus der großen Halle raus kommen wir direkt zu Fionn dieser prügelt sich so wie es aussieht schon seit gefühlt einer Ewigkeit mit einem Dämon Namens Avant
+- Da wir jetzt quasi Fionn untergestellt sind und keiner in Frage stellt ob wir "böse" sind oder nicht dürfen wir jetzt solange Fionn bei uns in der Nähe ist frei bewegen
+- Fionn gibt uns das Amulett mit der eingesperrten Fee und ermöglicht es uns so aus der Hölle zu entkommen er allerdings möchte in der Hölle bleiben um seine Armee aufzubauen

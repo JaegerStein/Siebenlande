@@ -1,6 +1,9 @@
 ---
 tags:
   - Kategorie
+title: Questen
+aliases:
+  - Questen
 ---
 # Hauptquesten
 Drachen töten
