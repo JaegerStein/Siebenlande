@@ -36,7 +36,7 @@ Verletzungen passieren, wenn Spielercharaktere beim Verteidigen eine **1** werfe
 Immer, wenn Spielercharaktere beim Verteidigen eine **1** werfen, erleiden sie eine Verletzung in Höhe des erlittenen Schadens. Verletzung bedeutet sofortigen Schaden auf die Maximale Ausdauer. Auch außerhalb eines Kampfes können Spielercharaktere im Ermessen des Spielleiters Verletzungen erleiden, wenn dies narrativ passend ist.
 ## Medizinische Behandlung
 [[Fähigkeiten#Heilkunde|Heilkunde]]-Wurf Ergebnis über 10 in W4 (wie Bogenschießen), max 1 pro Tag.
-Selbstbehandlung nicht mehr möglich nach 10 Punkten Verletzung
+Selbstbehandlung ist nur möglich, wenn man einen KON-RW 10 + Verletzung besteht.
 Kritischer Erfolg: 1W4 Extra
 ## Natürliche Wundheilung
 Zu Beginn der [[Rast#Lange Rast|Langen Rast]] muss der verletze Charakter einen [[Attribute#Konstitution|Konstitutions]]-[[Rettungswurf]] bestehen, um die **Maximale Ausdauer** um **1W4** + [[Fähigkeiten#Widerstand|Widerstandsbonus]] zu heilen (Kritischer Erfolg: 1W4 Extra). Der **RW** errechnet sich:
