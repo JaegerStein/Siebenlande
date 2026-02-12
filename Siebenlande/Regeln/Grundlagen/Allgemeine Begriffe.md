@@ -38,6 +38,8 @@ Die Initiative bestimmt die Kampfreihenfolge der Kämpfer und wird über einen A
 ## Konzentration
 Wenn eine Kreatur bei einem Zauber gestört wird, der Konzentration erfordert, oder etwa durch eine [[Reaktion]] beim Zaubern behindert wird, muss dieser einen Konzentrationswurf mit dem für den Zauber benutzten Attribut bestehen.
 
+Konzentration brechen: SG = 10 + Schaden vs. Zauber-Attribut
+
 ---
 
 ## **Kreatur**:

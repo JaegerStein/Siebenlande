@@ -33,13 +33,20 @@ Nimmt der Charakter Schaden in Höhe der Gesamtausdauer aus einer einzigen Quell
 # Verletzungen
 Verletzungen passieren, wenn Spielercharaktere beim Verteidigen eine **1** werfen und dadurch Schaden kassieren. Verletzungen senken temporär die maximale Ausdauer und müssen außerhalb des Kampfes behandelt werden, ansonsten können sie schlimmer werden.
 
-Immer, wenn Spielercharaktere beim Verteidigen eine **1** werfen, erleiden sie eine Verletzung in Höhe des erlittenen Schadens. Auch außerhalb eines Kampfes können Spielercharaktere im Ermessen des Spielleiters Verletzungen erleiden, wenn dies narrativ passend ist. Ein Charakter kann auch mehrere Wunden gleichzeitig haben, die separat behandelt werden müssen.
+Immer, wenn Spielercharaktere beim Verteidigen eine **1** werfen, erleiden sie eine Verletzung in Höhe des erlittenen Schadens. Verletzung bedeutet sofortigen Schaden auf die Maximale Ausdauer. Auch außerhalb eines Kampfes können Spielercharaktere im Ermessen des Spielleiters Verletzungen erleiden, wenn dies narrativ passend ist.
+## Medizinische Behandlung
+[[Fähigkeiten#Heilkunde|Heilkunde]]-Wurf Ergebnis über 10 in W4 (wie Bogenschießen), max 1 pro Tag.
+Selbstbehandlung nicht mehr möglich nach 10 Punkten Verletzung
+Kritischer Erfolg: 1W4 Extra
+## Natürliche Wundheilung
+Zu Beginn der [[Rast#Lange Rast|Langen Rast]] muss der verletze Charakter einen [[Attribute#Konstitution|Konstitutions]]-[[Rettungswurf]] bestehen, um die **Maximale Ausdauer** um **1W4** + [[Fähigkeiten#Widerstand|Widerstandsbonus]] zu heilen (Kritischer Erfolg: 1W4 Extra). Der **RW** errechnet sich:
 
-Bei jeder [[Rast|Langen Rast]] können Verletzungen entweder schlimmer werden, ihren Status beibehalten, oder besser werden. Für jede Verletzung wird separat ein Zähigkeits-Rettungswurf geworfen, der 2 **SG** besitzt: Damit die Wunde sich um **+1** verbessert ist der **SG 10 + Wundstufe**; damit die Wunde gleich bleibt ist der **SG 10**. Besteht man diesen Rettungswurf nicht, verschlechtert sich die Wunde um **-1**.
+```
+10 + Verletzung
+```
 
-Versuche der Wundbehandlung, etwa durch *Heilkunde*, zählen als Bonus auf den Rettungswurf des Verletzten in Höhe des **Heilkunde-Wurfes über 10**. Bei erfolgreicher Wundbehandlung und gelungenem Rettungswurf errechnet sich der Grad der Wundheilung durch **1W4** statt einer bloßen **+1**. Auch hierfür muss für jede Wunde einzeln geworfen werden.
+Bei einem *Kritischen Versagen* verdoppelt sich der Schaden durch die Verletzung, bis zu einem Minimum von 1 verbleibender Maximaler Ausdauer. Ab diesem Punkt beginnen normale Todesrettungswürfe zu Beginn jeder Langen Rast.
 
-Wurde eine Verletzung **3-mal** erfolgreich behandelt und hat sich währenddessen nicht verschlechtert, regeneriert sie ab sofort automatisch **1W4** pro Langer Rast, auch ohne Rettungswürfe.
 
 # Tod
 Ein Spielercharakter stirbt, wenn dessen Ausdauer auf den Negativwert der normalen Ausdauer sinkt, die maximale Ausdauer auf 0 sinkt, oder ein Attribut den Wert 0 annimmt.

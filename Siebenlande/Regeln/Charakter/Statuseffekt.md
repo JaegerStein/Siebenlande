@@ -28,10 +28,14 @@ Die Kreatur verliert die Fähigkeit zu hören und versagt automatisch bei Wahrne
 _Siehe auch **Schlaf** unter [[Rast]], WIP_
 
 ## Verängstigt
-
 Die Kreatur ist bei Fähigkeitswürfen und Angriffen im Nachteil. Außerdem kann sich die Kreatur der Quelle ihrer Angst nicht nähren.
 
 ## Gepackt
+*Formerly known as Grappled*
+
+Eine gepackte Kreatur kann sich nicht mehr frei bewegen, kann aber gegen ihren Willen vom Verursacher bewegt werden. Um sich zu befreien, muss die Kreatur einen Stärkevergleich gegen ihren Widersacher bestehen. Die Kreatur kann auch befreit werden, wenn entweder sie oder der Verursacher von einer äußeren Kraft gewaltsam bewegt werden - in diesem Fall wird ein erneuter Stärkevergleich gefordert. 
+Die betroffene Kreatur hat Nachteil auf Angriffs- und Verteidigungswürfe.
+Der Verursacher hat Nachteil auf Angriffswürfe auf andere Kreaturen, die er nicht gerade gepackt hat.
 
 ## Kampfunfähig
 

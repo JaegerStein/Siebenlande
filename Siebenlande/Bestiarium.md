@@ -1,5 +1,4 @@
 # Geister:
-
 Infos: Freie Emotionen oder Gedanken, sie leben und entspringen dem "psyonischen Gewebe"
 	Effektiv: göttlicher Segen
 	Schwach: Gift Schaden, meist Immun gegen physischen Schaden

@@ -1,3 +1,6 @@
+---
+title: Spielbare Völker
+---
 # Menschen
 *↳ Hauptartikel: [[Mensch]]*
 ![[Mensch#Übersicht]]
