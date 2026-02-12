@@ -1,6 +1,41 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 // put your custom CSS here!
 @use "./custom/index";
 @use "./custom/missing";
 //@use "./custom/page-title";
 @use "./custom/iframe";
+
+.left.sidebar,
+.center,
+.right.sidebar,
+.right.sidebar>.graph {
+	max-width: calc(100vw - 2rem);
+}
+
+@media all and (max-width: 420px) {
+	h2.page-title {
+		font-size: 1.5rem;
+	}
+}
+
+@media all and (max-width: 800px) {
+	.left.sidebar > .flex-component > :last-child {
+		display: none;
+	}
+}
+
+@media all and not ($desktop) {
+	.readermode {
+		display: none;
+	}
+
+	:root[reader-mode="on"] {
+		& .sidebar.left,
+		& .sidebar.right {
+			opacity: 1;
+			transition: none;
+		}
+	}
+}
+
