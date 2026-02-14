@@ -55,6 +55,44 @@ Siebenlande/
 - **Keine Inhaltserstellung** - Ich schreibe keine Lore, Regeln oder Story-Content
 - Nur auf explizite Anfrage kreativ werden
 
+## Design-Standards
+
+### Episode-Struktur
+
+**Template-Datei**: `Siebenlande/_templates/_Episode.md`
+**Referenz-Beispiel**: `Siebenlande/Journal/Episoden/Episode 0 - Prolog.md`
+
+Episoden folgen einem standardisierten Format:
+
+1. **Frontmatter**
+   - Tags: `#Episode`
+   - Aliases: Episodennummer + Kurzname/Titel
+   - Optional: `draft: true` für Work-in-Progress
+
+2. **Navigation**
+   - Bidirektionale Links zu vorheriger/nächster Episode
+   - Oben: Vorwärts-Link | Unten: Vorwärts + Rückwärts-Link
+
+3. **Metadaten**
+   - Dauer in Sitzungen
+   - In-Game Zeitraum mit Zeitrechnungs-Link
+
+4. **Narrativer Haupttext**
+   - Zusammenhängende Prosa (keine Stichpunkte)
+   - Extensive Wiki-Verlinkung ([[Charaktere]], [[Orte]], [[Konzepte]])
+   - Lesbar wie eine Kurzgeschichte
+
+5. **Strukturierte Schnellübersicht** (am Ende)
+   - **Getroffene Charaktere** - NPCs mit Kurzbeschreibung
+   - **Besuchte Orte** - Locations mit Kontext
+   - **Erhaltene Artefakte** - Items, Schätze, wichtige Gegenstände
+   - **Anmerkungen** - Verluste + Sonstiges (Cliffhanger, Quest-Fortschritte)
+
+**Verwendung:**
+- Für neue Episoden: Template in Obsidian verwenden, Platzhalter `{PLATZHALTER}` ersetzen
+- Für Aufbereitung: Bestehende Episoden nach diesem Muster strukturieren
+- Obsidian-Kommentare: `%% Kommentar %%` (nicht HTML-Kommentare)
+
 ## Sprachgebrauch-Regel (WICHTIG!)
 
 ### 🇩🇪 Deutsch = Rollenspiel-Inhalt
