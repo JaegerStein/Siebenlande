@@ -3,7 +3,7 @@ tags:
   - Geografie
   - Padrinal
   - Stadt
-uid: "4"
+
 ---
 Stadt in [[Padrinal]], in der die [[Abenteurergruppe]] nach ihrer Reise mit Vredecs Karawane angekommen ist. 
 

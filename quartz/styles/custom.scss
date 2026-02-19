@@ -1,36 +1,41 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 // put your custom CSS here!
-@use "./_custom/index";
-@use "./_custom/missing";
+@use "./custom/index";
+@use "./custom/missing";
+//@use "./custom/page-title";
+@use "./custom/iframe";
 
-@media (max-width: 420px) {
+.left.sidebar,
+.center,
+.right.sidebar,
+.right.sidebar>.graph {
+	max-width: calc(100vw - 2rem);
+}
+
+@media all and (max-width: 420px) {
 	h2.page-title {
 		font-size: 1.5rem;
 	}
 }
 
-@media (max-width: 400px) {
-	h2.page-title {
-		font-size: 1.25rem;
+@media all and (max-width: 800px) {
+	.left.sidebar > .flex-component > :last-child {
+		display: none;
 	}
 }
 
-@media (max-width: 380px) {
-	h2.page-title {
-		opacity: 1;
-		font-size: 1.75rem;
-		z-index: 100;
-		white-space: nowrap;
-		transform: translateY(0);
-
-		transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+@media all and not ($desktop) {
+	.readermode {
+		display: none;
 	}
 
-	.left.sidebar:has(.explorer.collapsed) {
-		h2.page-title {
-			opacity: 0;
-			pointer-events: none;
-			transform: translateY(-200%);
+	:root[reader-mode="on"] {
+		& .sidebar.left,
+		& .sidebar.right {
+			opacity: 1;
+			transition: none;
 		}
 	}
 }
+

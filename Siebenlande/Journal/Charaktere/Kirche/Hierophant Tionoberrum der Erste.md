@@ -6,7 +6,7 @@ aliases:
 tags:
   - Charakter
   - Kirche
-uid: "18"
+
 ---
 **Argus Tionoberrum** war [[Weitseher]] der [[Diadolceniska|Kirche]] in [[Viasti]], bevor her nach dem Tod des vorigen [[Hierophant|Hierophanten]]
 - wird in einem von der Gruppe abgefangenen Brief von [[Wister Mergen]] beauftragt, [[Artheus Panti|Artheus]]‘ Speer wiederzubeschaffen

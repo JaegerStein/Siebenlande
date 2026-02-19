@@ -4,7 +4,7 @@ aliases:
   - Gnome
 tags:
   - Volk
-uid: gnom
+
 ---
 <span class="img-right">![[gnome.jpg|300]]</span>
 Die **Halblinge** scheinen ein Volk voller Widersprüche zu sein; Fremden gegenüber zeigen sie sich oft unnahbar und argwöhnisch, Freunden und Familienmitgliedern hingegen begegnen sie mit einer Herzlichkeit und Loyalität, die ihresgleichen suchen. Das Vertrauen eines Gnoms zu gewinnen wirkt wie ein schier unüberwindliche Aufgabe, doch winkt als Belohnung eine lebenslange Freundschaft.

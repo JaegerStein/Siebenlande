@@ -1,6 +1,4 @@
----
-uid: "25"
----
+
 **Zauber** gehören stets zu einer [[Zauberschule|Schule]] und werden über eines der drei [[Attribute]] <font color="aquamarine">Intelligenz</font>, <font color="steelblue">Weisheit</font>, oder <font color="mediumorchid">Charisma</font> gewirkt, abhängig von der Art des Zaubers und des Ursprungs der Zauberkraft.
 
 # Arten von Zaubern

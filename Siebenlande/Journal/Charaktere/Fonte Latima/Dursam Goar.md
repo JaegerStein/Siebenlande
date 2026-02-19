@@ -1,5 +1,5 @@
 ---
-uid: "11"
+
 aliases:
   - Dursam
 ---

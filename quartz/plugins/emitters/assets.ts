@@ -14,7 +14,8 @@ const filesToCopy = async (argv: Argv, cfg: QuartzConfig) => {
 const copyFile = async (argv: Argv, fp: FilePath) => {
   const src = joinSegments(argv.directory, fp) as FilePath
 
-  const name = slugifyFilePath(fp)
+  // allow html files to keep their name
+  const name = path.extname(fp) === ".html" ? fp : slugifyFilePath(fp);
   const dest = joinSegments(argv.output, name) as FilePath
 
   // ensure dir exists

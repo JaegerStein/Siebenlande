@@ -3,7 +3,7 @@ aliases:
   - Episode 2
 tags:
   - Episode
-uid: ep2
+
 ---
 *[[Episode 1 - Eine Neue Zeit|Zurück zu Episode 1]]*
 

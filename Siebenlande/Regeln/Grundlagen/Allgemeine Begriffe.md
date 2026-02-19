@@ -1,6 +1,4 @@
----
-uid: "27"
----
+
 ## Abbauend/Andauernd
 Abbauend oder Andauernd beschreibt eine Eigenschaft von magischen [[Resistenz]] oder [[Rüstung|Rüstungen]].
 -   Eine abbauende Resistenz, wie etwa Schmerzresistenz, sinkt mit jedem eingesteckten Treffer und fungiert somit wie ein zusätzlicher [[Ausdauer]] und muss mit Zaubern, Tränken oder [[Rast|Langer Rast]] wieder aufgefüllt werden.
@@ -39,6 +37,8 @@ Die Initiative bestimmt die Kampfreihenfolge der Kämpfer und wird über einen A
 
 ## Konzentration
 Wenn eine Kreatur bei einem Zauber gestört wird, der Konzentration erfordert, oder etwa durch eine [[Reaktion]] beim Zaubern behindert wird, muss dieser einen Konzentrationswurf mit dem für den Zauber benutzten Attribut bestehen.
+
+Konzentration brechen: SG = 10 + Schaden vs. Zauber-Attribut
 
 ---
 

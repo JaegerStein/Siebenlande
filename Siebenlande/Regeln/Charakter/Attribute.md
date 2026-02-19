@@ -1,6 +1,4 @@
----
-uid: 1z
----
+
 Jeder Charakter besitzt **8 Attribute**, die dessen körperlichen und geistigen Fähigkeiten beschreiben. Jedes Attribut kann einen Wert von **1** bis **20** annehmen und abhängig davon das Ergebnis betroffener Würfe verschlechtern oder verbessern. Der Standardwert eines jeden Attributs ist **10** und gibt keine Boni auf Würfe.
 
 ## Stärke

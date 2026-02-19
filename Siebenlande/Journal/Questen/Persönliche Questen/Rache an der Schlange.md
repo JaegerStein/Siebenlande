@@ -1,7 +1,7 @@
 ---
 tags:
   - Queste/Persönlich
-  - Queste
+  - Fionn
 ---
 > [!INFO] Episoden
 > [[Episode 4 - Der Kult des Kosmos]]

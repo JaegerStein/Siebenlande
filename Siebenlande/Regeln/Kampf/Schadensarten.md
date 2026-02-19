@@ -1,6 +1,4 @@
----
-uid: 2i
----
+
 ## Physischer Schaden
 - **Schmetterschaden**: Stumpfe Waffen, Keulen, Kampfstäbe, Stumpfe Geschosse
 - **Schnittschaden**: Klingen, Schwerter, Äxte, Wurfsterne

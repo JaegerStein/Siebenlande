@@ -1,6 +1,4 @@
----
-uid: 2j
----
+
 **Schadensdurchdringung** beschreibt die Reihenfolge, in der Schaden in Abhängigkeit vorhandener Modifikatoren berechnet wird. Diese Reihenfolge ist:
 
 1. Magische [[Rüstung|Rüstung]]

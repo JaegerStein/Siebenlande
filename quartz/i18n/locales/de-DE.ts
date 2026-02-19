@@ -15,7 +15,7 @@ export default {
       success: "Erfolg",
       question: "Frage",
       warning: "Warnung",
-      failure: "Misserfolg",
+      failure: "Fehlgeschlagen",
       danger: "Gefahr",
       bug: "Fehler",
       example: "Beispiel",
@@ -68,7 +68,7 @@ export default {
     error: {
       title: "Nicht gefunden",
       notFound: "Diese Seite ist entweder nicht öffentlich oder existiert nicht.",
-      home: "Zurück zur Startseite",
+      home: "Zur Startseite",
     },
     folderContent: {
       folder: "Ordner",

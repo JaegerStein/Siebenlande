@@ -1,5 +1,5 @@
 ---
-uid: "14"
+
 aliases:
   - Norwa
 ---

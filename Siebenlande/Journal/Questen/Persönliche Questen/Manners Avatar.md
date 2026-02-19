@@ -1,7 +1,7 @@
 ---
 tags:
-  - Queste
   - Queste/Persönlich
+  - Artheus
 ---
 > [!INFO] Episoden
 > [[Episode 5 - Auf den Spuren des Nekromanten]]

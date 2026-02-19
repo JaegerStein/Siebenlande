@@ -3,7 +3,7 @@ aliases:
   - Klein
   - Mittel
   - Groß
-uid: groe
+
 ---
 **Größenkategorien** beeinflussen die [[Ausdauer|Basisausdauer]] einer Kreatur, Boni auf [[Attribute#Stärke|Stärke]] und [[Fähigkeiten#Heimlichkeit|Heimlichkeit]], sowie die Chance von [[Fernkampf|Fernkampfangriffen]] getroffen zu werden.
 

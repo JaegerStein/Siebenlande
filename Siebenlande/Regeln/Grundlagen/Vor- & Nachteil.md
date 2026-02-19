@@ -1,5 +1,5 @@
 ---
-uid: vona
+
 aliases:
   - Vorteil
   - Nachteil

@@ -4,7 +4,7 @@ aliases:
   - Zwerge
 tags:
   - Volk
-uid: zwer
+
 ---
 <span class="img-right">![[dwarf.jpg|300]]</span>
 Für die **Zwerge** der [[Siebenlande]] stehen Gemeinschaft und Solidarität an erster Stelle. Obwohl sie ebenso für ihre herzliche Gastfreundschaft bekannt sind, haben sie den zweifelhaften Ruf, aufbrausend, jähzornig und mitunter rachsüchtig zu sein. Zwerge sind unerschütterlich in ihren Grundsätzen - spitze Zungen mögen ihnen sogar eine renitente Starrsinnigkeit nachsagen. Sie sind robust, unnachgiebig, sowie Freunde von starkem Bier und scharfem Essen. Zwerge werden auch als das _Trotzige Volk_ bezeichnet.

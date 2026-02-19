@@ -1,3 +1,8 @@
+---
+draft: true
+---
+Siehe [[Episode 9]] und die Episoden davor, auch von der [[index|Startseite]] erreichbar
+
  
 **1 Tagesreise = 25km = 10 Meilen kosten 1 Silber pro Person**
 1 Proviant = 30 Kupfer = 3 Personen = 90 Kupfer pro Tag
@@ -699,3 +704,4 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Nach einem kleinem Austausch der Geschichten haben wir erfahren das Fionn in der Hölle eine Armee auf die Beine gestellt hat die er jeder Zeit zu einem Teil beschwören kann und das Norwa im Wilderer Lager ertappt wurde und anscheinend von einer Magierin/Druidin angegriffen wurde 
 - Kaum in der Burg angekommen stellt Fionn schon wieder nur Forderungen und führt sich auf als wäre er unser Kommandant ich muss leider sagen das die Zeit in der Hölle ihm anscheinend nicht gut getan hat
 - 
+
