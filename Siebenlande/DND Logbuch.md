@@ -678,6 +678,24 @@ Session 87 24.09.25 47.03 im Jahr 49
  - Revesse erklärt uns was unsere Burg alles bräuchte und welche Angestellten wir brauchen
  - Währenddem bekommt Fionn in der Hölle seine Belohnungen und bekommt auch seine Armee von sechs Leuten zugesprochen
 
+Zwischen dem 21.04 und dem 17.06 im Jahr 49
+- Nach der großen Schlaft in der Hölle in der Fionn mit seinen Kommandanten kämpfte kam er in den Thronsaal von Glasys dort gibt sie ihm drei neue Aufträge
+- Glasys erklärt Fionn warum die wilde Jagd die Hölle gestürmt hat um ihren ehemaligen Anführer Oskorai der Sohn eines Gottes den sie in einem Kokon gefangen hält zurück holen
+- Glasys erwähnt auch das ein Spitzel die wilde Jagd in die Hölle gebracht haben muss und Fionn ihn unbedingt ausfindig machen und zurück in die Hölle bringen soll
+- Glasys brüllt laut AB NACH UNTEN MIT DIR und sticht mit einem Eis Dolch auf Fionn ein und schickt ihn dadurch zurück in die Siebenlande
+- Zur gleichen Zeit stellt sich bei uns in der Burg ein Zauberer Namens Hofer vor er kam mit der Absicht sich bei uns als Verzauberungsmeister zu bewerben
+- Hofer sagte das er der Kirche auch nicht wirklich gut gesinnt ist und bei uns Zuflucht sucht er erzählt auch das er auf der Zauberschule Peperuda war und dort sein Handwerk gelernt hat
+- Er hat auch nebenbei erwähnt das er nicht gerne mit Flüchen hantieren möchte da man davon Haarverlust bekommt
+- Nach einer Besprechung mit der gesamten Questerei sind wir auf den Entschluss gekommen Hofer bei uns aufzunehmen solang er nicht die Aufmerksamkeit der Kirche oder anderen Feinden auf sich zieht
+
 17.06 im Jahr 49
+- Norwa erzählt uns das er eine Fährte zu den Wilderen gefunden hat
+- Norwa, Fäir und ich machen uns gemeinsam auf den Weg in Richtung des Lagers der Wilderer nach ungefähr einer Stunde bemerken wir das der Nebel um uns rum sich immer mehr zu zieht
+- Kurz darauf stellen Norwa und ich fest das Fäir verschwunden ist und gehen auf die Suche nach ihm nach 15 Minuten geben wir die Suche auf und gehen weiter 
+- Ein paar Meter weiter habe ich Norwa plötzlich verloren in der Hoffnung das er auch mich wieder suchen würde habe ich mich direkt hingesetzt und warte das er zurück kommt
+- Norwa allerdings denkt nicht mal darüber nach und geht direkt weiter, ungefähr 20min später kommt er an dem vermutlichen Basislager der Wilderer an und stellt fest das es ca. über 20 Wilderer sein müssen
+- Plötzlich höre ich in der Nähe im Nebel ein Minotauren Gebrüll da es außer Fionn keine anderen Minotauren geben sollte bin ich sofort in Richtung brüllen gerannt und tatsächlich steht da Fionn vor mir als wäre nicht gewesen 
+- Aus dem nichts rennt Norwa panisch in unserer Richtung er ist von Kopf bis Fuß mit Kratzern versehen die so aussehen als hätte ein riesiger Schwarm Raben ihn angegriffen
+- Nach einem kleinem Austausch der Geschichten haben wir erfahren das Fionn in der Hölle eine Armee auf die Beine gestellt hat die er jeder Zeit zu einem Teil beschwören kann und das Norwa im Wilderer Lager ertappt wurde und anscheinend von einer Magierin/Druidin angegriffen wurde 
+- Kaum in der Burg angekommen stellt Fionn schon wieder nur Forderungen und führt sich auf als wäre er unser Kommandant ich muss leider sagen das die Zeit in der Hölle ihm anscheinend nicht gut getan hat
 - 
- 
