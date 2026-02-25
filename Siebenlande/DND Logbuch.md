@@ -703,5 +703,5 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Aus dem nichts rennt Norwa panisch in unserer Richtung er ist von Kopf bis Fuß mit Kratzern versehen die so aussehen als hätte ein riesiger Schwarm Raben ihn angegriffen
 - Nach einem kleinem Austausch der Geschichten haben wir erfahren das Fionn in der Hölle eine Armee auf die Beine gestellt hat die er jeder Zeit zu einem Teil beschwören kann und das Norwa im Wilderer Lager ertappt wurde und anscheinend von einer Magierin/Druidin angegriffen wurde 
 - Kaum in der Burg angekommen stellt Fionn schon wieder nur Forderungen und führt sich auf als wäre er unser Kommandant ich muss leider sagen das die Zeit in der Hölle ihm anscheinend nicht gut getan hat
-- 
+- test test
 
