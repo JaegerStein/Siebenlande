@@ -703,5 +703,22 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Aus dem nichts rennt Norwa panisch in unserer Richtung er ist von Kopf bis Fuß mit Kratzern versehen die so aussehen als hätte ein riesiger Schwarm Raben ihn angegriffen
 - Nach einem kleinem Austausch der Geschichten haben wir erfahren das Fionn in der Hölle eine Armee auf die Beine gestellt hat die er jeder Zeit zu einem Teil beschwören kann und das Norwa im Wilderer Lager ertappt wurde und anscheinend von einer Magierin/Druidin angegriffen wurde 
 - Kaum in der Burg angekommen stellt Fionn schon wieder nur Forderungen und führt sich auf als wäre er unser Kommandant ich muss leider sagen das die Zeit in der Hölle ihm anscheinend nicht gut getan hat
-- test test
+- Nachdem Norwa uns erzählt hat was er sah haben wir einen Plan geschmiedet wie wir dieses Lager stürmen
+- Nach ein paar Stunden schlaf werden wir plötzlich von der Wache geweckt diese hat uns gesagt das ein Hund auf zwei Beinen anscheinend einen Bauern verschleppt hat 
+- Wir brechen sofort auf uns laufen der Blut Spur nach um den Bauern zu suchen, grad am Rand des Waldes angekommen läuft und plötzlich der besagte Bauer über den Weg und erzählt uns das er gerade so mit seinem Leben davon gekommen ist weil der Wolfshund wie er sagte ihn sanft abgesetzt hat und er davon rennen konnte
+- Im Wald angekommen versucht Norwa mit voller Überzeugung den Wolf zu rufen leider ohne Erfolg er bekommt aber raus das die Blut Spur zu dem kleinen Teich im Wald führen sollte
+- Fäir und Norwa wollten sich eigentlich anschleichen und den Wolfshund überraschen doch Artheus war von der Idee gar nicht überzeugt und prescht einfach direkt nach vorne
+- Kaum sieht der Wolf Artheus beginnt er schon direkt wegzurennen uns sprintet weiter in das dichte Dickicht des Waldes
+- Ich nehme meinen ganzen Mut zusammen uns laufe direkt zu dem Teich an dem der Wolf gesehen wurde und schaue ob er irgendwas von dem Bauern zurück gelassen hat 
+- Nacheinander versuchen wir den Wolf in die enge zu treiben und gehen in 2er Teams die drei Wege im Wald entlang 
+- Fionn ist natürlich mal wieder der erste der angegriffen wird, der Wolf springt ihn an und Fionn schafft es ihn im Flug abzufangen und haut ihn direkt mit seiner Faust ins Gesicht und schleudert ihn dadurch zurück und er sprintet sofort wieder weg
+- Nach ein kleiner Verfolgungsjagd schaffen wir es den Wolf zu stellen und mit ihm ein paar Worte zu wechseln
+- Wir schaffen es die Werwölfe auf unsere Seite zu ziehen und einen Pakt mit ihnen zu schließen damit sie uns helfen die Wilderer/Nekromanten auszurotten ( ja es sind Nekromanten wir waren sehr überrascht)
+- In der Burg wieder angekommen stellen wir Fionn Hofer vor und erwischen ihn dabei wie er eine Forschung an den Arkanen Fäden durchführt 
+- Elemno misstraut Hofer und fordert ihn zu einer Wette heraus in der Hofer eine Rune zeichnen soll und Elemno Veränderung der Magie feststellen muss, dies schafft er erstaunlicher weise auch ohne Probleme. Elemno hätte es fast geschafft Hofer durch die Wette die Arbeit an seinen Ritualen zu verbieten allerdings hatte Artheus die letzte Stimme und hat damit Hofer die Arbeit erlaubt.
+- Auf dem Weg nach unten um Hofer die Räumlichkeiten im Keller zu zeigen spricht uns Wauta an und erwähnt nochmals das wir ja ihr Labor in Ruhe lassen sollen
+- Nachdem wir festgestellt haben das Wauta ein Beschwörungskreis für was auch immer in ihrem Labor hat lockt Elemno Hofer in den Raum in dem Frudatta eingesperrt war wartet bis er weit genug drin ist und sperrt dann die Türe hinter ihm zu
+- In der Zwischenzeit beschäftigen wir uns mit Wautas Labor da keiner irgendeine Ahnung hat was hier drin ab geht und Artheus ungeduldig wird rennt Norwa hoch und versucht Wauta nach unten zu holen um Artheus daran zu hindern den Beschwörungskreis mit seinem Speer zu zerstören
+- Während dem
+- Artheus kratzt nur leicht mit seinem Speer auf der Scheibe und innerhalb einer Nano Sekunde breitet sich ein Feuerball von 20Fuß aus und blendet alle die im Raum stehen
 
