@@ -721,4 +721,16 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - In der Zwischenzeit beschäftigen wir uns mit Wautas Labor da keiner irgendeine Ahnung hat was hier drin ab geht und Artheus ungeduldig wird rennt Norwa hoch und versucht Wauta nach unten zu holen um Artheus daran zu hindern den Beschwörungskreis mit seinem Speer zu zerstören
 - Während dem
 - Artheus kratzt nur leicht mit seinem Speer auf der Scheibe und innerhalb einer Nano Sekunde breitet sich ein Feuerball von 20Fuß aus und blendet alle die im Raum stehen
+- Kaum steckt der Speer drin taucht eine seltsame vermummte Gestalt auf und verhindert die Explosion des Beschwörungskreises in dem er alles was raus kommt grad wieder rein stopft
+- Durch die Explosion ist Boma den halben Tag geblendet
+- Elemno findet heraus das die vermummte Gestalt anscheinend etwas mit unserem Portalraum zu tun haben muss
+- Im Portalraum stellt sich der vermummte vor sein Name ist anscheinend 4A4 Reversible Valenz er ist von dem Orden der Mythologen (die Mythologen spinnen) und macht uns dafür verantwortlich was geschehen ist und belehrt uns das wir kurz davor waren rohes Mana zu beschwören und dies die Zerstörung der gesamten Welt zu Folge hat
+- Artheus macht sich alleine auf die Suche nach den Wilderern da er allerdings den Weg nicht kennt verirrt er sich erstmal in dem dichten Nebel
+- Nach einer Zeit trifft Artheus auf die Wilderer und wird von der Anführerin Narán empfangen sie erklärt ihm das dies natürlich nicht ihr richtiger Name ist aber es leichter ist wenn alle denken das sie eine Elfe ist
+- Artheus schlägt Narán einen Tauschhandel über Information vor bei diesem Angebot wird sie direkt hellhörig und willigt ein sich den Vorschlag anzuhören als Artheus erklärt das er das Waldherz von Wallther möchte um damit den Wald der Dryaden abzufackeln wirkt sie noch begeisterter als zuvor schon
+- Narán erklärt ihm das sie anscheinend das gleiche Ziel verfolgen und sie es interessant findet einen weiteren Alben zu treffen mit den gleichen Beweggründen wie sie
+- Artheus und Narán tüfteln einen Plan aus wie sie es gemeinsam hinbekommen die Questerei zu überreden das Waldherz friedlich raus zugeben und ob es möglich wäre wenn Narán für das geschlachtete Vieh bezahlen würde wir dann wieder besänftigt wären
+- Artheus stellt Narán zur rede zwecks den Vorwürfen der Nekromantie darauf zeigt sie ihm das verrottete Fleisch und das Ergebnisse ihrer Versuche und zeigt ihm das es sich wirklich um Nekromantie handelt
+- Narán möchte Artheus eine ihrer Vertrauten mitgeben um Informationen aus dem inneren unsere Gruppe zu erlangen und um es vielleicht hinzubekommen den Golem zu stürzen
+- Nach einer gefühlten Ewigkeit kommt Artheus gemeinsam mit einer Mysteriösen Frau zurück und behauptet sie auf dem Weg zurück zur Burg aufgegabelt zuhaben  
 
