@@ -684,7 +684,7 @@ Session 87 24.09.25 47.03 im Jahr 49
  - Währenddem bekommt Fionn in der Hölle seine Belohnungen und bekommt auch seine Armee von sechs Leuten zugesprochen
 
 Zwischen dem 21.04 und dem 17.06 im Jahr 49
-- Nach der großen Schlaft in der Hölle in der Fionn mit seinen Kommandanten kämpfte kam er in den Thronsaal von Glasys dort gibt sie ihm drei neue Aufträge
+- Nach der großen Schlacht in der Hölle in der Fionn mit seinen Kommandanten kämpfte kam er in den Thronsaal von Glasys dort gibt sie ihm drei neue Aufträge
 - Glasys erklärt Fionn warum die wilde Jagd die Hölle gestürmt hat um ihren ehemaligen Anführer Oskorai der Sohn eines Gottes den sie in einem Kokon gefangen hält zurück holen
 - Glasys erwähnt auch das ein Spitzel die wilde Jagd in die Hölle gebracht haben muss und Fionn ihn unbedingt ausfindig machen und zurück in die Hölle bringen soll
 - Glasys brüllt laut AB NACH UNTEN MIT DIR und sticht mit einem Eis Dolch auf Fionn ein und schickt ihn dadurch zurück in die Siebenlande
@@ -693,7 +693,7 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Er hat auch nebenbei erwähnt das er nicht gerne mit Flüchen hantieren möchte da man davon Haarverlust bekommt
 - Nach einer Besprechung mit der gesamten Questerei sind wir auf den Entschluss gekommen Hofer bei uns aufzunehmen solang er nicht die Aufmerksamkeit der Kirche oder anderen Feinden auf sich zieht
 
-17.06 im Jahr 49
+18.06 im Jahr 49
 - Norwa erzählt uns das er eine Fährte zu den Wilderen gefunden hat
 - Norwa, Fäir und ich machen uns gemeinsam auf den Weg in Richtung des Lagers der Wilderer nach ungefähr einer Stunde bemerken wir das der Nebel um uns rum sich immer mehr zu zieht
 - Kurz darauf stellen Norwa und ich fest das Fäir verschwunden ist und gehen auf die Suche nach ihm nach 15 Minuten geben wir die Suche auf und gehen weiter 
@@ -732,5 +732,15 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Artheus und Narán tüfteln einen Plan aus wie sie es gemeinsam hinbekommen die Questerei zu überreden das Waldherz friedlich raus zugeben und ob es möglich wäre wenn Narán für das geschlachtete Vieh bezahlen würde wir dann wieder besänftigt wären
 - Artheus stellt Narán zur rede zwecks den Vorwürfen der Nekromantie darauf zeigt sie ihm das verrottete Fleisch und das Ergebnisse ihrer Versuche und zeigt ihm das es sich wirklich um Nekromantie handelt
 - Narán möchte Artheus eine ihrer Vertrauten mitgeben um Informationen aus dem inneren unsere Gruppe zu erlangen und um es vielleicht hinzubekommen den Golem zu stürzen
-- Nach einer gefühlten Ewigkeit kommt Artheus gemeinsam mit einer Mysteriösen Frau zurück und behauptet sie auf dem Weg zurück zur Burg aufgegabelt zuhaben  
+- Nach einer gefühlten Ewigkeit kommt Artheus gemeinsam mit einer Mysteriösen Frau zurück und behauptet sie auf dem Weg zurück zur Burg aufgegabelt zuhaben ihr Name ist Elyshke (Páijal)
+- Artheus erzählt den anderen das er Elyshke anscheinend tief im Nebel vor dem Wald der Wilderer aufgelesen hat er behauptet auch das sie dort völlig verwirrt umher gelaufen ist und er sie deshalb mitgenommen hat
+- Nach einer kleinen Vorstellungsrunde holt Norwa mich an meinem Zimmer ab damit wir uns auf den Weg zu den Wilderern machen können
+- Nachdem ich Elyshke auch kennengelernt habe und festgestellt habe das sie für uns erstmal keinen Mehrwert für uns hat und in der Burg alleine ist das sie von jemandem überwacht wird also haben wir sie in die Obhut von Almander gegeben 
+- Da nun alles geklärt ist machen wir uns endlich auf den Weg zu den Wilderern um sie in die Flucht zu schlagen im besagten Wald angekommen fangen wir an die Gegend auszukundschaften bis wir uns mit den Werwölfen zusammen tun 
+- Wir beschließen alle am Anfang des Waldes stehen zu bleiben damit wir nicht ins offene Messer rennen und schicken Elemno und Artheus alleine vor damit sie mit den Wilderern/Nekromanten zu reden um sie bis zum Sonnenuntergang hinzuhalten um gemeinsam mit den Wölfen vorzurücken
+- Durch den dichten Nebel ist es mir leider nicht möglich genau zu sehen was die zwei so tief im Wald machen
+- Artheus und Elemno tauchen aus dem nichts wieder auf und erzählen uns wie viele Feinde sie gesehen haben nach einer kurzen Denkpause stichelt Fäir Fionn mit ein zwei Sprüchen an dadurch wird dieser noch heißer auf den Kampf und möchte sofort losstürmen
+- Kurz bevor wir wirklich aufbrechen hören wir relativ nah bei uns zwei Wilderer die sich scheinbar Lautstark im Dickicht streiten dies sehen wir als perfekte Gelegenheit für einen Angriff und sprinten auf sie los
+- Ein Teil der dort positionierten Bogenschützen haben uns bereits erwarten und fangen an auf Fionn zu schießen
+- 
 
