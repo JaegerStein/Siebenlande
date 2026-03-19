@@ -742,5 +742,12 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Artheus und Elemno tauchen aus dem nichts wieder auf und erzählen uns wie viele Feinde sie gesehen haben nach einer kurzen Denkpause stichelt Fäir Fionn mit ein zwei Sprüchen an dadurch wird dieser noch heißer auf den Kampf und möchte sofort losstürmen
 - Kurz bevor wir wirklich aufbrechen hören wir relativ nah bei uns zwei Wilderer die sich scheinbar Lautstark im Dickicht streiten dies sehen wir als perfekte Gelegenheit für einen Angriff und sprinten auf sie los
 - Ein Teil der dort positionierten Bogenschützen haben uns bereits erwarten und fangen an auf Fionn zu schießen
-- 
+- Artheus scheint völlig uninteressiert an unserem Kampf und läuft sehr langsam in der Gegend rum
+- Fäir hingegen sprintet sofort in das geschehen und beschwört voller Hoffnung seine Doppelgänger und greift damit die zweite Gruppe der Bogenschützen an leider sind alle seine Angriffe nicht wirklich erfolgreich
+- Elemno legt auch direkt los und tötet den Armbrustschützen mit einem Schuss
+- Alle von uns schaffen es bisher denn Gegnern gut Schaden zu verursachen Boma hat es sogar  mit einem Präzisen Wurf von einem Feuertrank geschafft einen Bogenschütze direkt zu erledigen
+- Fionn wie man ihn kennt sprintet direkt in die Gegner Massen und haut gleich 3 von ihnen um auch den Anführer hat es nur nach ein paar Runden aus den Latschen gehauen
+- Es stellt sich heraus das Boma in diesem Kampf unentbehrlich ist da sie egal wenn sie mit ihren Feuertränken trifft sofort zu Staub verwandelt
+- Aus den Leichen erheben sich plötzlich Fleischartige Wesen die uns direkt in einen Kampf verwickeln
+- Der Kampf scheint sehr aussichtslos da sobald wir einen sogenannten Jäger töten erscheinen noch mehr Kriecher und machen wir der Brut Schaden oder töten sie tauchen auch mehr Kriecher auf was bedeutet das mittlerweile das gesamte Schlachtfeld voll mit diesen ekelhaften Kriechern
 
