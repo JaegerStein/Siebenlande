@@ -23,7 +23,8 @@
             },
             "problemMatcher": [],
             "detail": "Build Quartz site and output to Debian Apache2 directory (/var/www/html)"
-        }, {
+        },
+        {
             "label": "Quartz Build and Serve Local",
             "type": "shell",
             "command": "npx",
@@ -49,6 +50,55 @@
             "problemMatcher": [],
             "isBackground": true,
             "detail": "Build and serve Quartz site locally for development"
+        },
+        {
+            "label": "Quartz Build Local",
+            "type": "shell",
+            "command": "npx",
+            "args": [
+                "quartz",
+                "build",
+                "--directory",
+                "Siebenlande"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "detail": "Build Quartz site locally without serving"
+        },
+        {
+            "label": "Quartz Serve Local",
+            "type": "shell",
+            "command": "npx",
+            "args": [
+                "serve",
+                "public"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "dedicated",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "isBackground": true,
+            "detail": "Serve the built Quartz site locally - no rebuilt, no file watching"
         }
     ]
 }
