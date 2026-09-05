@@ -18,7 +18,7 @@
 ---
 # Sonderregelungen
 ## Abbauende u. Andauernde Resistenzen
-**Abbauende Resistenzen** sinken im Kampf mit jedem absorbierten Treffer, bis diese aufgebraucht sind. Diese Art der Resistenz fungiert somit als zusätzliche [[Ausdauer]] gegen bestimmte Angriffsarten. Abbauende Resistenzen regenerieren während der [[Lange Rast|Langen Rast]] oder können über [[Zauber]] und [[Talent|Talent]] erhöht werden. Diese Resistenzen sind stapelbar.
+**Abbauende Resistenzen** sinken im Kampf mit jedem absorbierten Treffer, bis diese aufgebraucht sind. Diese Art der Resistenz fungiert somit als zusätzliche [[Ausdauer]] gegen bestimmte Angriffsarten. Abbauende Resistenzen regenerieren während der [[Lange Rast|Langen Rast]] oder können über [[Magie]] und [[Talent|Talent]] erhöht werden. Diese Resistenzen sind stapelbar.
 
 **Andauernde Resistenzen** bleiben währende des gesamten Kampfes vorhanden und reduzieren jeden entsprechenden Schaden um die Höhe der Resistenz. Diese Art der Resistenz ähnelt somit der Funktionsweise von [[Rüstung|Rüstungen]]. Andauernde Resistenzen lassen sich nur einmalig pro Quelle anwenden; hierbei wird stets der größte Resistenzwert verwendet. Erlaubte Quellen sind:
 

@@ -7,7 +7,7 @@ Abbauend oder Andauernd beschreibt eine Eigenschaft von magischen [[Resistenz]] 
 ---
 
 ## Aktion
-Eine Aktion ist eine bestimmte Zeiteinheit in einer Kampfrunde. Charaktere müssen Aktionen ausführen, um ihre [[Talent|Talent]] einzusetzen, [[Zauber|Zauber]] zu wirken oder anzugreifen. Es gibt verschiedene Arten von Aktionen: Standard-Aktionen, Bewegungsaktionen, Bonusaktionen, freie Aktionen und volle Aktionen.
+Eine Aktion ist eine bestimmte Zeiteinheit in einer Kampfrunde. Charaktere müssen Aktionen ausführen, um ihre [[Talent|Talent]] einzusetzen, [[Magie|Zauber]] zu wirken oder anzugreifen. Es gibt verschiedene Arten von Aktionen: Standard-Aktionen, Bewegungsaktionen, Bonusaktionen, freie Aktionen und volle Aktionen.
 
 ---
 

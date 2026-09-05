@@ -1,12 +1,18 @@
 
-**Zauber** gehören stets zu einer [[Zauberschule|Schule]] und werden über eines der drei [[Attribute]] <font color="aquamarine">Intelligenz</font>, <font color="steelblue">Weisheit</font>, oder <font color="mediumorchid">Charisma</font> gewirkt, abhängig von der Art des Zaubers und des Ursprungs der Zauberkraft.
+**Magie** gehören stets zu einer [[Zauberschule|Schule]] und wird über eines der drei [[Attribute]] <font color="aquamarine">Intelligenz</font>, <font color="steelblue">Weisheit</font>, oder <font color="mediumorchid">Charisma</font> gewirkt, abhängig von der Art der Magie und deren Ursprung.
 
-# Arten von Zaubern
+# Übersicht
 
-| | **Studierte Magie** | **Intuitive Magie** |
-|---|---|---|
-| **Intrinsische Magie** | <font color="steelblue">Akademische</font> <font color="aquamarine">Magie</font> | <font color="aquamarine">Natürliche Magie</font> |
-| **Extrinsische Magie** | <font color="steelblue">Ritualistische Magie</font> | <font color="mediumorchid">Patronale Magie</font> |
+|                        | **Studierte Magie**                                                                        | **Intuitive Magie**                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Intrinsische Magie** | <font color="steelblue">Akademische</font> <font color="aquamarine">Magie</font>, Zauberei | <font color="aquamarine">Natürliche Magie</font>, Mystik    |
+| **Extrinsische Magie** | <font color="steelblue">Ritualistische Magie</font>, Ritual                                | <font color="mediumorchid">Patronale Magie</font>, Anrufung |
+
+|                    | Stufen-Magie | Komponenten-Magie |
+| ------------------ | ------------ | ----------------- |
+| Spontane Magie     | Zaubereri    | Mystik            |
+| Vorbereitete Magie | Anrufung     | Ritual            |
+
 
 ## Akademische Magie
 **Akademische Magie** wird für gewöhnlich als **Zauberei** bezeichnet; Zauberer wirken ihre Magie selbstständig und müssen sich auf keine höheren Mächte verlassen, ihre Künste müssen aber studiert und regelmäßig geübt werden, um sie zuverlässig einsetzen zu können.
@@ -29,6 +35,7 @@ Für *spontane Zauber* hingegen wird <font color="aquamarine">Intelligenz</font>
 **Patronale Magie** wird auch als **Anrufung** bezeichnet. Die Quelle der Magie ist ein mächtiger Patron, der im Namen seines Schützlings Zauber wirkt.
 
 **Anrufungen** verwenden <font color="mediumorchid">Charisma</font>.
+
 
 # Zauberstufen
 ![[zauberstufen.bmp]]
