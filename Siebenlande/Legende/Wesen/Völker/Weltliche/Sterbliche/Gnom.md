@@ -4,10 +4,9 @@ aliases:
   - Gnome
 tags:
   - Volk
-
+thumbnail: "[[gnom.jpg]]"
 ---
-<span class="img-right">![[gnom.jpg|300]]</span>
-Die **Halblinge** scheinen ein Volk voller Widersprüche zu sein; Fremden gegenüber zeigen sie sich oft unnahbar und argwöhnisch, Freunden und Familienmitgliedern hingegen begegnen sie mit einer Herzlichkeit und Loyalität, die ihresgleichen suchen. Das Vertrauen eines Gnoms zu gewinnen wirkt wie ein schier unüberwindliche Aufgabe, doch winkt als Belohnung eine lebenslange Freundschaft.
+![[gnom.jpg|float-right|256]] Die **Halblinge** scheinen ein Volk voller Widersprüche zu sein; Fremden gegenüber zeigen sie sich oft unnahbar und argwöhnisch, Freunden und Familienmitgliedern hingegen begegnen sie mit einer Herzlichkeit und Loyalität, die ihresgleichen suchen. Das Vertrauen eines Gnoms zu gewinnen wirkt wie ein schier unüberwindliche Aufgabe, doch winkt als Belohnung eine lebenslange Freundschaft.
 
 Halblinge sind berühmt für ihren Fleiß und Produktivität, legen aber ebenso viel Wert auf Müßiggang; für sie ist die Arbeit nur ein Mittel zum Zweck, nicht das Ziel ihres Lebens. Kunst und Kreativität zählen ebenso zu ihren Talenten wie das praktische Handwerk.
 

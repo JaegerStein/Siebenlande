@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Karten
+    filters:
+      and:
+        - file.tags.contains("Volk")
+        - "!thumbnail.isEmpty()"
+    image: note.thumbnail
+    imageAspectRatio: 1.5

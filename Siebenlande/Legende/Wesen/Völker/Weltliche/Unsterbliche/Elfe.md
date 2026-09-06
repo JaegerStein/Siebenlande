@@ -5,11 +5,10 @@ aliases:
   - Elfen
 tags:
   - Volk
-
+thumbnail: "[[elfe.jpg]]"
 ---
 # Übersicht
-<span class="sl-img float-right">![[elfe.jpg|300]]</span>
-Die unsterblichen **Elfen** zählen zu den ältesten Völkern der [[Siebenlande]] und werden aufgrund ihres Alters von vielen als weise und edel angesehen. Ihre Schönheit ist legendär und ihre Kunstfertigkeit gilt als unübertroffen. Mit dieser gefühlten Überlegenheit geht aber auch ein gewisses Maß an Arroganz einher. Viele Elfen meiden den Kontakt zu sterblichen Völkern, um nicht Generation für Generation Zeugen der Vergänglichkeit ihrer Freunde werden zu müssen. Man nennt sie auch das _Überdauernde Volk_.
+![[elfe.jpg|float-right|256]] Die unsterblichen **Elfen** zählen zu den ältesten Völkern der [[Siebenlande]] und werden aufgrund ihres Alters von vielen als weise und edel angesehen. Ihre Schönheit ist legendär und ihre Kunstfertigkeit gilt als unübertroffen. Mit dieser gefühlten Überlegenheit geht aber auch ein gewisses Maß an Arroganz einher. Viele Elfen meiden den Kontakt zu sterblichen Völkern, um nicht Generation für Generation Zeugen der Vergänglichkeit ihrer Freunde werden zu müssen. Man nennt sie auch das _Überdauernde Volk_.
 # Merkmale
 **Lebenserwartung** Unsterblich
 **Basisausdauer** 20
