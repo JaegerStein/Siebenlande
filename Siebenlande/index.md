@@ -20,16 +20,16 @@ cssclasses:
 >> [!note] <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-drafting-compass-icon lucide-drafting-compass"><path d="m12.99 6.74 1.93 3.44"/><path d="M19.136 12a10 10 0 0 1-14.271 0"/><path d="m21 21-2.16-3.84"/><path d="m3 21 8.02-14.26"/><circle cx="12" cy="5" r="2"/></svg> [[Werkzeuge/index|Werkzeuge]]
 
 # Episodenliste
-- [[Episode 0 - Prolog]]
-- [[Episode 1 - Eine Neue Zeit]]
-- [[Episode 2 - Der Rattenkönig]]
-- [[Episode 3 - Von Geistern, Hexen und Teufeln]]
-- [[Episode 4 - Der Kult des Kosmos]]
-- [[Episode 5 - Auf den Spuren des Nekromanten]]
-- [[Episode 6 - Braucht noch einen Namen]]
-- [[Episode 7]]
-- [[Episode 8]]
-- [[Episode 9]] ← Ihr seid hier
+- [[Staffel 0 - Prolog]]
+- [[Staffel 1 - Eine Neue Zeit]]
+- [[Staffel 2 - Der Rattenkönig]]
+- [[Staffel 3 - Von Geistern, Hexen und Teufeln]]
+- [[Staffel 4 - Der Kult des Kosmos]]
+- [[Staffel 5 - Auf den Spuren des Nekromanten]]
+- [[Staffel 6 - Die Burg]]
+- [[Staffel 7 - Die Zauberschule]]
+- [[Staffel 8 - Der Höllen Herrin]]
+- [[Staffel 9 - Die Nekromantin]]
 
 # Questen
 Siehe eine Liste aller laufenden [[Journal/Questen/index|Questen]]

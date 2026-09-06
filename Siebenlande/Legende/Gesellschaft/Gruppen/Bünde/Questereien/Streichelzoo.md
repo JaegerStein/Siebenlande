@@ -30,8 +30,8 @@ In [[Viasti]] schloss sich der Schleim [[Walthmeistr]] der Gruppe an, während [
 ---
 
 Für ihre Abenteuer, siehe:
-- [[Episode 0 - Prolog|Episode 0]] über ihre letzte Mission im vierten Zeitalter
-- [[Episode 1 - Eine Neue Zeit|Episode 1]] über ihre Wiedergeburt und ihr Tun in Studemont
-- [[Episode 2 - Der Rattenkönig|Episode 2]] über ihr Aufenthalt in Guestalla
-- [[Episode 3 - Von Geistern, Hexen und Teufeln|Episode 3]] über ihre Taten in Viasti
-- [[Episode 4 - Der Kult des Kosmos|Episode 4]] über ihre Ankunft in Aussos, Merin 
+- [[Staffel 0 - Prolog|Episode 0]] über ihre letzte Mission im vierten Zeitalter
+- [[Staffel 1 - Eine Neue Zeit|Episode 1]] über ihre Wiedergeburt und ihr Tun in Studemont
+- [[Staffel 2 - Der Rattenkönig|Episode 2]] über ihr Aufenthalt in Guestalla
+- [[Staffel 3 - Von Geistern, Hexen und Teufeln|Episode 3]] über ihre Taten in Viasti
+- [[Staffel 4 - Der Kult des Kosmos|Episode 4]] über ihre Ankunft in Aussos, Merin 

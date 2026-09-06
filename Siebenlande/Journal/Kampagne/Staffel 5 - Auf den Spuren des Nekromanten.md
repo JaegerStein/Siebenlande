@@ -4,7 +4,7 @@ aliases:
 tags:
   - Episode
 ---
-Zurück zu [[Episode 4 - Der Kult des Kosmos|Episode 4]] | Weiter zu Episode [[Episode 6 - Braucht noch einen Namen|Episode 6]]
+Zurück zu [[Staffel 4 - Der Kult des Kosmos|Episode 4]] | Weiter zu Episode [[Staffel 6 - Die Burg|Episode 6]]
 
 **Dauer** 11 Sitzungen
 **14. bis 24. Morgenblüte des Jahres 49, E2 Z5** <sup>[[Zeitrechnung|?]]</sup>

@@ -4,7 +4,7 @@ tags:
 aliases:
   - Episode 7
 ---
-Zurück zu [[Episode 6 - Braucht noch einen Namen|Episode 6]] | Weiter zu [[Episode 8]]
+Zurück zu [[Staffel 6 - Die Burg|Episode 6]] | Weiter zu [[Staffel 8 - Der Höllen Herrin]]
 
 **26.03 im Jahr 49**
 

@@ -4,8 +4,8 @@ tags:
   - Dursam
 ---
 > [!INFO] Episoden
-> [[Episode 3 - Von Geistern, Hexen und Teufeln]]
-> [[Episode 7]]
+> [[Staffel 3 - Von Geistern, Hexen und Teufeln]]
+> [[Staffel 7 - Die Zauberschule]]
 
 [[Dursam Goar|Dursam]] erfuhr in der Stadt [[Viasti]] gerüchteweise von dem Aufenthaltsort eines Artefaktes seines [[Volk|Volkes]], dem [[Waldherz|Waldherzen]].
 

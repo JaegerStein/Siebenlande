@@ -5,7 +5,7 @@ aliases:
 tags:
   - Episode
 ---
-[[Episode 1 - Eine Neue Zeit|Weiter zu Episode 1]] ⮞
+[[Staffel 1 - Eine Neue Zeit|Weiter zu Episode 1]] ⮞
 
 **Dauer** 6 Sitzungen
 **6. bis 11. Schneeschmelze des Jahres 68, [[Zeitrechnung|E9 Z4]]**
@@ -24,7 +24,7 @@ steht bevor. Allesamt sind sie Mitglieder der [[Questerei]] **[[Streichelzoo|Fon
 
 In dem Grabmal fand die Gruppe eine Reihe an Steintafeln vor - manch einer würde ihren Inhalt als Heldentaten der alten [[Mensch|Menschen]] glorifizieren, andere wiederum sehen darin einen Genozid an allen anderen [[Volk|Völkern]]. Ferner haben die Abenteurer verschiedene nekromantische Schriftrollen entdeckt, die laut Fion aus [[Mesra]] stammen sollen, sowie sieben Goldmünzen mit jeweils verschiedenen Skelettköpfen, die sie unter sich aufteilten. Nachdem sie alles erkundet hatten, machten sie sich auf den Rückweg durch Malravien. In einem Dorf vor der Zwergenfestung Hadorim, welche den Zugang zu den [[Siebenlande|Siebenlanden]] bewacht, verschlug sie es zur nächtlichen Rast in eine Taverne. Doch noch bevor die Abenteurer ihre Augen zum Schlaf verschließen konnten, vernahmen sie den Glockenalarm der Zwerge. Sie stürzten auf die Straße, nur um zu sehen, wie das [[Matarvuld|weißbrennende Feuer]] eines [[Drache|Drachen]] mit gigantischer Spannweite ganze Häuser und ihre Bewohner verschluckte... und das war auch das Letzte, was sie sahen.
 
-[[Episode 1 - Eine Neue Zeit|Weiter zu Episode 1]] ⮞
+[[Staffel 1 - Eine Neue Zeit|Weiter zu Episode 1]] ⮞
 
 ---
 
@@ -59,4 +59,4 @@ In dem Grabmal fand die Gruppe eine Reihe an Steintafeln vor - manch einer würd
 
 ---
 
-[[Episode 1 - Eine Neue Zeit|Weiter zu Episode 1]] ⮞
+[[Staffel 1 - Eine Neue Zeit|Weiter zu Episode 1]] ⮞

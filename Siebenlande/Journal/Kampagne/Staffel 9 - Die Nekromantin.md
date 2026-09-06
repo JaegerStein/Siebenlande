@@ -4,7 +4,7 @@ aliases:
 tags:
   - Episode
 ---
-⮜ [[Episode 8|Zurück zu Episode 8]]
+⮜ [[Staffel 8 - Der Höllen Herrin|Zurück zu Episode 8]]
 
 ---
 
@@ -25,4 +25,4 @@ tags:
 
 ---
 
-⮜ [[Episode 8|Zurück zu Episode 8]]
+⮜ [[Staffel 8 - Der Höllen Herrin|Zurück zu Episode 8]]

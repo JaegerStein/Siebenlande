@@ -4,7 +4,7 @@ tags:
 aliases:
   - Episode 6
 ---
-Zurück zu [[Episode 5 - Auf den Spuren des Nekromanten|Episode 5]] | Weiter zu Episode [[Episode 7|Episode 7]]
+Zurück zu [[Staffel 5 - Auf den Spuren des Nekromanten|Episode 5]] | Weiter zu Episode [[Staffel 7 - Die Zauberschule|Episode 7]]
 
 Nach dem Sieg über den [[Nekromanten]] [[Sewalth]] und dem Verlust ihres Kameraden [[Suðri Þorinul|Suðri]], entscheidet sich die Gruppe, nach Norden weiterzureisen, auf den Spuren der [[Minotaure|Minotauren]] und dem [[Waldherz|Waldherzen]].
 # Reise durch den Bergpass

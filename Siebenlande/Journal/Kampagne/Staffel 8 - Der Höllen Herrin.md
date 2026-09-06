@@ -4,7 +4,7 @@ aliases:
 tags:
   - Episode
 ---
-Zurück zu [[Episode 7]] | Weiter zu [[Episode 9]]
+Zurück zu [[Staffel 7 - Die Zauberschule]] | Weiter zu [[Staffel 9 - Die Nekromantin]]
 
 Session 86 10.09.25 47.03 im Jahr 49
 

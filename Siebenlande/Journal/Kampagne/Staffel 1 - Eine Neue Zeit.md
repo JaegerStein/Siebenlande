@@ -5,7 +5,7 @@ aliases:
 tags:
   - Episode
 ---
-⮜ [[Episode 0 - Prolog|Zurück zu Episode 0]] | [[Episode 2 - Der Rattenkönig|Weiter zu Episode 2]] ⮞
+⮜ [[Staffel 0 - Prolog|Zurück zu Episode 0]] | [[Staffel 2 - Der Rattenkönig|Weiter zu Episode 2]] ⮞
 
 **Dauer** 4 Sitzungen
 **12. bis 14. Schneeschmelze des Jahres 49, [[Zeitrechnung|E2 Z5]]**
@@ -18,7 +18,7 @@ Hier befand sich also unsere Gruppe: wiederauferstanden nach etwa 126 Jahren am 
 
 Am darauffolgenden Morgen begab sich Boma auf der Suche nach Arbeit zu einem nahegelegenen Hexenhaus. Dort fand sie nicht nur die Kräuterkundlerin vor, sondern auch einen benommenen Artheus. Als Boma daraufhin mit Fionn zurückkehrte, war auch die Hexe auf dem Speer aufgespießt und Artheus erwacht. Während Boma und Artheus zusammen mit Norwa das Hexenhaus untersuchten, verbrachten Dursam, Fionn und Suðri den Tag in der Stadt. Fliegdnich hingegen traf im Wald vor der Stadt auf einen [[Gnoll]], der sicherlich kein Verbündeter war. Zwar konnte Fliegdnich ihm entkommen, doch war der Geruchssinn des Gnolls so stark ausgeprägt, dass dieser in Lage war, zunächst Dursam und anschließend Fionn und Suðri in der Stadt aufzuspüren. Er stellte sich ihnen als **[[Watzen]]**, dem Begleiter des Detektivs Kartjan Hamsa vor, der auf der Suche nach einem Vampir-Kenku und einem menschlichen Halbdämon war. Natürlich verrieten sie ihm keine Informationen über ihre Kameraden… zumindest nicht direkt, denn dass sie zur selben Gruppe gehörten, hatte der Gnoll bereits ohne Probleme olfaktorisch feststellen können. Am Abend versammelten sich die sieben Abenteurer im Hexenhaus und berieten über das weitere Vorgehen. Ihr Entschluss: Sie mussten die Stadt mit der Morgendämmerung verlassen, doch erst sollte Fliegdnich in der Nacht noch taugliche Waffen für Norwa und Suðri von den Stadtwachen stehlen.
 
-⮜ [[Episode 0 - Prolog|Zurück zu Episode 0]] | [[Episode 2 - Der Rattenkönig|Weiter zu Episode 2]] ⮞
+⮜ [[Staffel 0 - Prolog|Zurück zu Episode 0]] | [[Staffel 2 - Der Rattenkönig|Weiter zu Episode 2]] ⮞
 
 ---
 
@@ -78,4 +78,4 @@ Am darauffolgenden Morgen begab sich Boma auf der Suche nach Arbeit zu einem nah
 
 ---
 
-⮜ [[Episode 0 - Prolog|Zurück zu Episode 0]] | [[Episode 2 - Der Rattenkönig|Weiter zu Episode 2]] ⮞
+⮜ [[Staffel 0 - Prolog|Zurück zu Episode 0]] | [[Staffel 2 - Der Rattenkönig|Weiter zu Episode 2]] ⮞

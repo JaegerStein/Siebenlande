@@ -5,7 +5,7 @@ tags:
   - Episode
 
 ---
-*[[Episode 2 - Der Rattenkönig|Zurück zu Episode 2]]*
+*[[Staffel 2 - Der Rattenkönig|Zurück zu Episode 2]]*
 
 **Dauer:** 20 Sitzungen
 

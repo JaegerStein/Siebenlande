@@ -5,7 +5,7 @@ tags:
   - Episode
 
 ---
-*[[Episode 3 - Von Geistern, Hexen und Teufeln|Zurück zu Episode 3]]*
+*[[Staffel 3 - Von Geistern, Hexen und Teufeln|Zurück zu Episode 3]]*
 
 **Dauer:** x Sitzungen
 

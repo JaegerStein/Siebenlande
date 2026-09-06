@@ -5,7 +5,7 @@ tags:
   - Episode
 
 ---
-*[[Episode 1 - Eine Neue Zeit|Zurück zu Episode 1]]*
+*[[Staffel 1 - Eine Neue Zeit|Zurück zu Episode 1]]*
 
 **Dauer:** 7 Sitzungen
 
