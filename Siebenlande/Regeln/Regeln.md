@@ -1,7 +1,6 @@
 ---
 tags:
   - Meta
-title: Regeln
 aliases:
   - Regeln
   - Regelwerk
