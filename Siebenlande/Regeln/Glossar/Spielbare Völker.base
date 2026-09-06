@@ -7,3 +7,4 @@ views:
         - "!thumbnail.isEmpty()"
     image: note.thumbnail
     imageAspectRatio: 1.5
+    cardSize: 120
