@@ -14,33 +14,67 @@
 - Features: Dark Mode, Volltext-Suche, Graph-Visualisierung, Wiki-Links
 
 ### Content-Struktur
+
+Die Lore hängt vollständig unter `Legende/`, damit die vierteilige
+Website-Navigation (Journal | Legende | Regeln | Werkzeuge) erhalten bleibt.
+
 ```
 Siebenlande/
-├── Legende/           # Worldbuilding - Lore der Spielwelt
-│   ├── Geografie/     # Orte, Regionen, Reiche
-│   ├── Gruppierungen/ # Organisationen (Kulte, Sekten, Orden, etc.)
-│   ├── Wesen/         # Völker, Kreaturen, Bestien
-│   ├── Personen/      # NPCs und wichtige Figuren
-│   └── Kultur/        # Währungen, Traditionen, etc.
-├── Regeln/            # Spielsystem - Mechaniken & Regelwerk
-│   ├── Charakter/     # Charaktererstellung & -entwicklung
-│   ├── Grundlagen/    # Basis-Spielmechaniken
-│   ├── Kampf/         # Kampfsystem (Nah-, Fernkampf, Rüstung)
-│   └── Spielbare Völker/ # Rasseneigenschaften
-├── Journal/           # Kampagnen-Tracking - Laufende Spielsitzungen
-│   ├── Charaktere/    # Spieler-Charaktere & wichtige NPCs
-│   ├── Episoden/      # Chronologische Spielsitzungen
-│   └── Questen/       # Kampagnen- & Personal-Quests
-└── Werkzeuge/         # Spielhilfen - Praktische Tools für Spielleitung
+├── Legende/               # Worldbuilding - Lore der Spielwelt
+│   ├── Welt/              # die Welt als Sache
+│   │   └── Geografie/     # Gebiete/ (Rangstufen), Landschaften/, Orte/
+│   ├── Wesen/             # die Handelnden
+│   │   ├── Charaktere/    # Individuen, nach Volk; Unbekannt/ wo ungeklärt
+│   │   ├── Kreaturen/     # Wesensarten ohne Individualität
+│   │   └── Völker/        # Weltliche/{Sterbliche,Unsterbliche,Variationen}
+│   ├── Gesellschaft/      # das Gemachte
+│   │   ├── Herrschaft/    # 1 Sitze … 5 Reiche (politisch, nicht geografisch)
+│   │   ├── Gruppen/       # Bünde/, Kirchen/
+│   │   ├── Kultur/        # Maße/, Philosophie/Glaube/
+│   │   └── Geschichte/    # Zeitrechnung/
+│   └── Mythologie/        # Mythen/Geschöpfe/Idole/ (Götter etc.)
+├── Regeln/                # Spielsystem - Mechaniken & Regelwerk
+│   ├── Charakter/         # Charaktererstellung & -entwicklung
+│   ├── Grundlagen/        # Basis-Spielmechaniken
+│   ├── Kampf/             # Kampfsystem (Nah-, Fernkampf, Rüstung)
+│   └── Spielbare Völker/  # Rasseneigenschaften
+├── Journal/               # Kampagnen-Tracking - Laufende Spielsitzungen
+│   ├── Die Questerei/     # Spielercharaktere, dazu Begleiter/ und Ehemals/
+│   ├── Kampagne/          # chronologische Spielsitzungen (Episoden)
+│   └── Questen/           # Kampagnen- & Personal-Quests
+└── Werkzeuge/             # Spielhilfen - Praktische Tools für Spielleitung
 ```
 
-### Aktueller Stand (Stand: Februar 2026)
-- **Legende**: ~57 Dateien - 7 etablierte Königreiche
+Drei Regeln tragen den Baum:
+
+- **Wesen werden nach dem Kenntnisstand der Spielergruppe einsortiert.** Dieses
+  Repo ist öffentlich, und der Ablageort ist genauso sichtbar wie der Notiztext -
+  er ist deshalb Teil der Darstellung, nicht bloß Ablage. Was die Gruppe über ein
+  Wesen weiß, entscheidet, wo es liegt.
+  - Maßgeblich ist der Kenntnisstand am Spieltisch, nicht der Notiztext - die
+    Notizen hinken hinterher. Aus dem Fehlen einer Angabe folgt also nichts.
+  - **Bei Wesen niemals aus einer anderen Quelle als diesem Repo ergänzen, und im
+    Zweifel den Spielleiter fragen statt selbst zu schließen.** Bei Angaben ohne
+    erzählerisches Gewicht - Herkunftsland eines Menschen etwa - ist Ergänzen
+    unkritisch.
+  - `Charaktere/Unbekannt/` ist für Wesen, deren Art am Tisch nie geklärt wurde.
+    Es ist kein Fach für eigene Zweifel.
+- **Journal vs. Legende** - im Journal steht nur, was die Gruppe selbst ist und
+  tut; alle NSCs, Orte, Reiche und Kreaturen liegen in der Legende, auch wenn die
+  Gruppe ihnen begegnet ist.
+- **Geografie vs. Herrschaft** - `Welt/Geografie/` ist rein physisch, politische
+  Einheiten (Königreiche, Grafschaften, Provinzen) hängen unter
+  `Gesellschaft/Herrschaft/`. Ein Reich ist kein Ort.
+
+`_attachments/` spiegelt diese Struktur; Obsidian löst `![[Datei.jpg]]` aber
+vaultweit über den Dateinamen auf, der Ablageort ist also unkritisch.
+
+### Aktueller Stand (Stand: September 2026)
+- **Legende**: ~55 Dateien - 7 etablierte Königreiche
 - **Regeln**: ~28 Dateien - Vollständiges Charaktersystem mit Stufen & Talenten
-- **Journal**: ~57 Dateien
+- **Journal**: ~33 Dateien
   - Episoden: Prolog bis Episode 9
-  - Mehrere Spieler-Charaktere & Fraktionen dokumentiert
-  - Aktive Kampagne: "Fäulnis in Malravien" + Personal-Quests
+  - Spielercharaktere, Begleiter und laufende Questen
 - **Werkzeuge**: Excel-Charakterbogen (50KB), Preisliste
 
 ## Meine Rolle & Aufgaben
@@ -60,7 +94,7 @@ Siebenlande/
 ### Episode-Struktur
 
 **Template-Datei**: `Siebenlande/_templates/_Episode.md`
-**Referenz-Beispiel**: `Siebenlande/Journal/Episoden/Episode 0 - Prolog.md`
+**Referenz-Beispiel**: `Siebenlande/Journal/Kampagne/Episode 0 - Prolog.md`
 
 Episoden folgen einem standardisierten Format:
 
