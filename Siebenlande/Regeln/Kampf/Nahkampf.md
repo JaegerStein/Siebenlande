@@ -1,6 +1,6 @@
 
 # Flankieren
-![[flank1.png|300]]![[flank2.png|300]]
+![[flankieren.png|300]]![[flankieren-diagonal.png|300]]
 Frontal (grün): Angriffe sind unbeeinflusst.  
 Seitlich (gelb): Der erhält [[Vor- & Nachteil|Nachteil]].  
 Von Hinten (rot): Der Verteidiger erhält Nachteil, der Angreifer Vorteil
