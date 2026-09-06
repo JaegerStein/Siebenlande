@@ -12,7 +12,7 @@ Die folgenden Definitionen geben an, was mit einer Kreatur geschieht, während s
 ## Blind
 
 Die Kreatur verliert die Fähigkeit zu sehen und versagt automatisch bei jedem [[Attribute|Wahrnehmungswurf]], der Sicht erfordert.  
-Die Kreatur hat zudem [[Vor- & Nachteil|Nachteil]] im [[Kampf]], während Gegner im Kampf gegen diese Kreatur Vorteil haben. Der [[Schwierigkeitsgrad]] für [[Fernkampf|Fernkampfangriffe]] steigt zudem um **_+10_**.
+Die Kreatur hat zudem [[Vor- & Nachteil|Nachteil]] im [[Kampf]], während Gegner im Kampf gegen diese Kreatur Vorteil haben. Der [[Probe]] für [[Fernkampf|Fernkampfangriffe]] steigt zudem um **_+10_**.
 
 ## Betört
 

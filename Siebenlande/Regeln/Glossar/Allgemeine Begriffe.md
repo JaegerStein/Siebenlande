@@ -59,7 +59,7 @@ Eine Kreatur ist jedes Wesen, dass die Welt um sich herum aktiv beeinflussen kan
 
 ---
 
-## [[Schwierigkeitsgrad]]:
+## [[Probe]]:
 Immer wenn eine Kreatur eine Aktion ausführen will, deren Erfolg nicht garantiert ist, muss sie einen Wurf bestehen (meist ein Fähigkeitswurf). Das Ergebnis dieses Wurfs muss mindestens so hoch wie der angegebene Schwierigkeitsgrad sein, damit die Handlung erfolgreich ist.
 
 ---

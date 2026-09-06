@@ -10,7 +10,7 @@ Der [[Schadensarten|Schadenstyp]] ist unabhängig davon und basiert auf der Art 
 - Äxte, Wurfsterne und sonstige geworfene Klingenwaffen verursachen *Schnittschaden*;
 - Steine, Metallkugeln und sonstige stumpfe Geschosse verursachen *Schmetterschaden*.
 
-Um einen Gegner zu treffen, muss der Schütze einen unverteidigten Angriffswurf mit festgelegtem **[[Schwierigkeitsgrad|SG]]** bestehen, der abhängig von der Entfernung zum Ziel und der verwendeten Waffe ist.
+Um einen Gegner zu treffen, muss der Schütze einen unverteidigten Angriffswurf mit festgelegtem **[[Probe|SG]]** bestehen, der abhängig von der Entfernung zum Ziel und der verwendeten Waffe ist.
 
 Die nachfolgende Tabelle gibt die maximale (inklusive) Reichweite in [[Maßeinheiten|Fuß]] pro Waffenart für jeden Schwierigkeitsgrad an:
 

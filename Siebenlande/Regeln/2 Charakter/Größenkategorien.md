@@ -9,7 +9,7 @@ aliases:
 
 *Je nach Kreatur können all diese Werte auch unabhängig von der Größe schwanken; das ist eher ein genereller Richtwert, keine kategorische Regel.*
 
-| Kategorie  | Basisausdauer | Stärke | Heimlichkeit | [[Schwierigkeitsgrad\|SG]] zum Treffen | Seitenlänge |
+| Kategorie  | Basisausdauer | Stärke | Heimlichkeit | [[Probe\|SG]] zum Treffen | Seitenlänge |
 | ---------- | ------------- | ------ | ------------ | -------------------------------------- | ----------- |
 | Winzig     | 10            | -8     | +8           | +8                                     | 1/2         |
 | Klein      | 15            | -4     | +4           | +4                                     | 1           |

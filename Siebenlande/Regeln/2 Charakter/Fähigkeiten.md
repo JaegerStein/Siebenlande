@@ -91,7 +91,7 @@ In **Heilkunde** geübte Charaktere kennen sich mit dem (un)menschlichen Körper
 - **Schauspiel**, und
 - **Tanzen**.
 ### Einschüchtern
-**Einschüchtern** lässt Feinde demoralisiert zurück, sichert die Fügsamkeit von zart Besaiteten, und überzeugt andere vom eigenen Standpunkt ohne deren Einverständnis. Rückständige Barbaren mit der Eloquenz eines Wildtieres können durch die [[Eigenschaft|Eigenschaft]] *Bedrohlich* oder ein entsprechendes Talent statt Charisma auch Stärke für diese Fähigkeit nutzen. Im Kampf kann Einschüchtern genutzt werden, um Gegner zu [[Statuseffekt#Verängstigt|verängstigen]]. (1 Runde, wiederholbar)
+**Einschüchtern** lässt Feinde demoralisiert zurück, sichert die Fügsamkeit von zart Besaiteten, und überzeugt andere vom eigenen Standpunkt ohne deren Einverständnis. Rückständige Barbaren mit der Eloquenz eines Wildtieres können durch die [[Eigenschaft|Eigenschaft]] *Bedrohlich* oder ein entsprechendes Talent statt Charisma auch Stärke für diese Fähigkeit nutzen. Im Kampf kann Einschüchtern genutzt werden, um Gegner zu [[Zustände#Verängstigt|verängstigen]]. (1 Runde, wiederholbar)
 ### Mit Kreaturen Umgehen
 **Mit Kreaturen Umgehen** erleichtert es, verängstigte Pferde zu beruhigen, bissige Hunde zu besänftigen, wilde Wölfe zu verschrecken, und amoklaufende Golems umzuleiten. Diese Fähigkeit fungiert zudem als Bonus auf **alle Attributswürfe** von permanenten Begleitern (die nicht intelligent sind).
 ### Täuschen
