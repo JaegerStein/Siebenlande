@@ -809,7 +809,7 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 
 30.06 im Jahr 49
 - Nach 11 Tagen reise sind wir endlich an der Miene angekommen stellt er uns noch seinen Geschäftspartner eines Geschäftspartner von einem Geschäftspartner vor.
-- Ebenso erklärt er uns das es im Dort einen Vorarbeiter Namens Gradst gibt der vielleicht mehr über die Miene weiß nach längerem bearbeiten und überzeugen erzählt er uns doch das die Miene einen angeblich dazu zwingt Dinge zu machen die keiner aussprechen würde
+- Ebenso erklärt er uns das es im Dort einen Vorarbeiter Namens [[Gradst]] gibt der vielleicht mehr über die Miene weiß nach längerem bearbeiten und überzeugen erzählt er uns doch das die Miene einen angeblich dazu zwingt Dinge zu machen die keiner aussprechen würde
 - Der Geschäftspartner der uns vorgestellt wurde heißt Bivid Othrom er hat uns erklärt das er eigentlich nur hier ist da er irgendeine Schuld abarbeiten muss geht aber nicht genauer darauf ein, er meinte nur das er für uns vielleicht nützlich sein kann und helfen möchte da er alleine in der Miene nichts ausrichten kann
 - Kaum in der Miene drin sehen wir schon einen dieser merkwürdigen Mottenschwärmen sie fühlen verhalten sich nicht wie normale Motten außer das sie von Fionns Laternen angezogen werden
 - Ich habe herausgefunden das Eis Schaden sehr effektiv gegen die Motten ist und laufe dadurch direkt neben Fionn her um die mottenschwärme zu vernichten.
