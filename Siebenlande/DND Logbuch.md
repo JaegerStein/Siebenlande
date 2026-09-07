@@ -750,4 +750,71 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Es stellt sich heraus das Boma in diesem Kampf unentbehrlich ist da sie egal wenn sie mit ihren Feuertränken trifft sofort zu Staub verwandelt
 - Aus den Leichen erheben sich plötzlich Fleischartige Wesen die uns direkt in einen Kampf verwickeln
 - Der Kampf scheint sehr aussichtslos da sobald wir einen sogenannten Jäger töten erscheinen noch mehr Kriecher und machen wir der Brut Schaden oder töten sie tauchen auch mehr Kriecher auf was bedeutet das mittlerweile das gesamte Schlachtfeld voll mit diesen ekelhaften Kriechern
+- Mitten im Kampf habe ich herausgefunden wie mein Lied auf der Laute richtig geht und schaffe es so meine Kameraden noch besser mit Unterstützungszaubern helfen dadurch sieht der Kampf gar nicht mehr so aussichtslos aus wie er es anfangs tat
+- Durch meine Unterstützung rennen Fionn und Fäir gefühlt wie im Kampfrausch durch die Gegner Massen durch und hauen einen nach dem anderen zu Brei
+- Nach den Angriffen versteinert sich Fäir und wird dadurch leider direkt das Ziel der nächsten Angriffe auch um mich haben sich leider ein paar Kriecher versammelt die mir an den Kragen wollen
+- Zum Glück hat Boma mich während dem Kampf geheilt Schade nur das die Halluzinationen diesmal nicht solang gehalten haben
+- Obwohl der Jäger direkt neben mir steht und durch mich durch rennt schaffe ich es mich erfolgreich gegen seinen Angriff zu verteidigen
 
+-Selber Tag später Nachmittag
+
+- Nach dem Kampf läuft Falken durch unsere Gruppe und heilt uns alle ein wenig er erzählt uns ebenfalls das er an den Gott Phorial glaub dieser ist der Gott des Großmutes das aus drei Aspekten besteht...
+- Nach einer kleinen Verschnaufpause von dem harten Kampf machen wir uns weiter auf in Richtung der Wilderer leider ist es immer noch nicht spät genug damit die Werwölfe zu uns dazu stoßen könnten
+- Am Eingang des Lagers der Wilderer entdeckt Fionn einen Kadaver eines Söldners dem gerade von ein paar Kriechern Gedärme und Fleischreste abgerissen werden sowie es aussieht stecken sich die Kriecher das abgerissene Fleisch in ihren eigenen Körper wie als könnten sie dadurch wachsen
+- weiter von meinen Halluzinationen geplagt versuche ich tiefer in den Sumpf vorzudringen, aus irgendeinem Grund verschwindet die Sirene dich ich sah und ein Wasserbüffel erscheint 
+- Als ich zu dem Wasserbüffel lief sprang Elemeno los um mich aufzuhalten allerdings ohne Erfolg und er landete mit dem Gesicht voran im Sumpf da er es nicht schaffte mich aufzuhalten fragte er seinen Patron ob er es schaffen würde ihn aus dieser Situation zu befreien
+- Und auf einmal verschwand er vor meinen Augen...
+- Währenddessen auf der anderen Seite des Schlachtfeldes kämpft Fäir gegen den brennenden Reiter, Boma verkriecht sich unter einem Tisch, Artheus läuft in Richtung Irrgarten, Fionn und Norwa machen sich mit Falken auf den Weg das Feld von hinten aufzuräumen
+- Da Elemno vor meinen Augen verschwunden ist und ich immer noch denke das er mein Hund ist fange ich langsam an auf den Knien mit meinen Händen im Sumpf nach ihm zu suchen mit der Befürchtung das er evtl. ertrunken ist
+- Der Reiter stellt sich zwischen Fäir und Boma und und holt mit seinen Hufen aus, Fäir schafft es ohne Probleme seinen Angriff abzuwehren Boma allerdings bekommt die Hufe so hart gegen denn Kopf das sogar ihre Hörner abbrechen. 
+- Als Fäir wieder die Aufmerksamkeit des Reiters hat schafft Boma es sich wieder vollständig zu heilen und mit einem von ihr Improvisierten Klebstoff ihre Hörner wieder provisorisch festzukleben
+- Währenddem das alles passiert sind wir anscheinend parallel in einer Art Traumwelt in der wir in einer Taverne mehreren Bauern und dem ominösen Wasserbüffel unser Geschichte auf dem Schlachtfeld erzählen
+- Elemno fällt auf das die Gesichter der Gäste in der Taverne leicht verschwommen sind, mir fiel auf das in dem angeblichen Bier das wir bekommen Finger und andere Körperteile herumschwimmen und so deckten wir auf das diese ganze "Traumwelt" scheinbar nur eine Täuschung ist
+- Relativ weit weg steht eine mysteriöse Gestalt als wir uns zu dieser auf den Weg machten beginnt er an zu Flüchten, ohne das die Gruppe es bemerkte umzingelten uns die Bauern in der Taverne 
+- Fionn schafft es grad noch so ihn festzuhalten und unter dem Gewand stand Elyshke (Páijal) von der wir dachten das sie in der Festung sei 
+- Zur selben Zeit in der "normalen" Welt kämpfen sich Fionn und Norwa immer noch ihren weg zu dem anscheinend letzten Obelisken durch, während Fäir und Boma gegen den Herold kämpfen, Artheus und Elemno gehen tiefer in das Rosenbusch Labyrinth nur ich bin absolut nutzlos immer noch "geplagt" von meinen Halluzinationen und halbtot versuche ich immer noch verzweifelt Elemno hinterherzurennen mit der Vermutung das er mein verschollener Hund ist
+- Plötzlich tauchte neben mir und dem Wasserbüffel auf nach kurzem hin und her verschwand der Büffel und ließ mich einfach im Stich, ich nahm meine Beine in die Hand und sprintete völlig verwirrt in Richtung Elemno, gerade dort angekommen bemerke ich wie mir die Brut aus dem Labyrinth einen gezielten Fernangriff verpasst der mich so hart aus meinen mit Sumpfwasser durchtränkten Schuhen haut das es mich überschlägt und ich Bewusstlos neben Elemno zu Boden gehe
+- Wieder in der Traumwelt
+- Da Páijal nicht auf Fionns fragen antwortet zielt Norwa mit seinem Bogen auf sie und schießt ihr Brutal beide Ohren ab, die Pfeile bleiben mit aufgespießten Ohren hinter ihr in der Wand der Taverne stecken
+- Währenddessen im Sumpf
+- Elemno weckt mich auf und hilft mir hoch daraufhin trinke ich in voller Hoffnung das Mysteriöse Gebräu in meiner Tasche mit dem Gedanken das er mich vielleicht retten kann aber alles was passiert ist das ich unfassbar hässlich bin und mir ein dritter Arm aus dem Rücken wächst 
+- völlig geschockt von diesem Anblick verkrieche ich mich in die Richtung eines Gebäudes das halb zerfallen am Wegesrand steht
+- Artheus ist mit einem gezielten Sprung in die Mitte des Labyrinths auf einen Obelisken gesprungen und beginnt dort gegen ihn zu kämpfen
+- In der Taverne sticht Elemno Páijal in die Brust sticht aber tatsächlich Narran dadurch löst sich die Traumwelt auf und alles handelt nur noch in der "richten" Welt ab, Narran sackt voller Schmerzen zu Boden, Blut fließt aus ihrem Mund 
+- Páijal hält sie in den armen und spricht voller tränen ständig etwas davon das dies nicht der Plan war, eigentlich hätte sie sterben sollen um Narran den Weg zu ebnen
+- Narran (chrtia) spricht mit letzter Kraft zu ihr und sagt das sie es nicht übers Herz bringen würde wenn sie ihre eigene Tochter in den Tod schicken würde nur um ihren verschwunden Vater zu finden, während sie diese Worte ausspricht verblutet Narran qualvoll
+- Der Nebel über dem Sumpf lichtet sich auch alle erschaffenen Wesen zerfallen auf der Stelle, Páijal verschwindet in dem gleichen Moment in dem Narran ihren letzten Atemzug nimmt
+- Auf dem Weg zur Burg laufen wir den Werwölfen über den weg so wie es scheint sind sie uns nicht mehr friedlich gesonnen und gehen uns aus dem weg
+- Fionn versucht alleine mit ihnen zu sprechen und schafft es auch sich ihnen zu nähern sie geben ihm zu verstehen das anscheinend ein Schlächter oder ein uraltes Monster unter uns weilt 
+- In der Burg wieder angekommen klärt uns Kjomme darüber auf das unsere Speisekammer immer noch mehr füllt als leert und sie nicht wissen warum
+- Im Burghof treffen wir Valenz er läuft unsere Burgmauern klopfend ab als würde er etwas suchen ich entschließe mich daneben zu stellen und ihm bei der suche zu helfen nach kurzer zeit teilt er den Raum in den Mauern und entdeckt in der Mauer ein Wesen Namens "Phier" das gemütlich da sitzt und auf einer Nuss knabbert
+- Ich konnte meine Frage nicht mal zu ende sagen hat Valenz das kleine Phier schon in staub aufgelöst er erklärt uns die Geschichte der Phier und das sie einer Gottheit Namens Der Sammler angehören
+- Frudatta kann Valenz auch sehen er steht nur kurz vor ihm und Valenz möchte ihn direkt fangen da er anscheinend ein paar Phier unter seinem Mantel versteckt nach einer kleinen Runde fangen im Burghof schaffe ich es Frudatta zu fangen und aus seinem Mantel fallen 15 Phier heraus
+- Vier davon tötet Valenz sofort zehn entkommen in den Mauern unserer Burg und einen schafft Fäir festzuhalten diesen gebe ich meinem Patron zu fressen in der Hoffnung mehr über die Phier und diesen Sammler herauszufinden allerdings sind die Phier so dumm das sie keine brauchbaren Informationen zu dem gesuchten Gegenstand oder dem Sammler haben
+- Elemno ist währenddessen auf dem Weg in Hofers Zimmer und findet ihn dort ermordet auf dem Boden er stellt fest das er schon eine weile tot sein muss da sein Blut schon geronnen ist Norwa hat den Tatort untersucht und konnte nur feststellen das der Täter deutlich kleiner war als Hofer
+- Als wir die Leiche von Hofer untersuchen finden wir leider auch nichts hilfreiches
+- Ich frage meinen Patron aus über die Münze die Narran bei ihrem Tod fallen lassen hat er erklärt mir das diese Münzen etwas mit einem anderen Patron Namens Perretin zu tun haben und das alle Anhänger Perretins so eine Münze erhalten und man sie für ein Ritual braucht um Perretin wieder zu erwecken
+- Wir beschließen gemeinsam das wir Hofer statt zu beerdigen verbrennen müssen da wir glauben das er mit den Nekromanten unter einer Decke steckt und nicht möchten das die Nekromanten ihn wiederbeleben können 
+- Unserer Gefolgschaft erzählen wir das wir seinen Leichnam vor den Nekromanten schützen möchten und seine Asche würdevoll begraben
+- Nach der ganzen Planung begeben wir uns alle in unsere Zimmer komischerweise öffne ich meine Tür und lande in einer Raumschleife ich sehe mich quasi selbst von hinten wie ich durch die Türe gehe selbst wenn ich versuche zu rennen oder rückwärts durch die Tür zu gehen macht mein anderes ich alles gleich erst als ich die erste Türe schließe und wieder öffne kann ich normal durch die Türen durch laufen 
+- In meinem Zimmer angekommen verbarrikadiere ich alle vorhanden Zugänge mit Schränken und Kommoden in der Hoffnung das Boma es nicht schafft mich in meinem Schlaf zu besuchen da ich Angst habe das sie irgendwelche verrückten Experimente an mir machen möchte
+- Bei Boma sind die Phier aufgetaucht und wollten ihr kleine Gaben geben als sie diese nicht annehmen wollte sind sie verschwunden und ein paar Sekunden mit einer anderen Sache aufgetaucht teilweise mit nützlichen Sachen oft aber auch nur mit Blättern oder Müll einmal kam sogar einer komplett mit Mehl bedeckt da er nicht mehr wusste was er anbieten soll der letzte der sich getraut hat vorbei zukommen brachte einen Feuertrank den er vor lauter Tollpatschigkeit hat fallen lassen und sich selbst in Flammen gesteckt hat nach diesem Vorfall haben die Phier sich nicht mehr getraut Boma zu besuchen 
+
+19.06 im Jahr 49
+- Am nächsten Morgen versammeln wir uns in der Festhalle und tauschen uns gegenseitig über unsere Erlebnisse aus scheinbar hatte jeder so komische Vorfälle mit den Türen wie ich wir vermuten das dies an den Phier liegt die sich in unserer Burg verstecken
+- Anschließend besprechen wir was wir als nächstes machen wollen und wie es mit unserer Burg weiter gehen soll 
+- Fionn schlägt vor ein paar mehr kleinere Aufträge anzunehmen oder den Bürgern der Stadt zu helfen um unser ansehen zu steigern und so vielleicht ein bisschen mehr Anhänger und oder besser Aufträge zu bekommen
+- Elemeno sagt uns in diesem Gespräch auch das er sich leider zur Ruhe setzen möchte und sich nur noch aktiv um die Burg und ihre Verträge kümmern möchte was bedeutet das er zwar unser Weggefährte bleibt allerdings nicht mehr mit uns in die Schlacht zieht sondern sich nur noch in der Burg aufhält und dort als Verwalter fungiert
+- Zudem kommt auch Horath Trenke zu uns und berichtet uns das er weiter im Süden vom Nebelwald eine still gelegte Kohlemiene erstanden, seine Arbeiter haben die Arbeit in der Miene verweigert mit der Begründung dort drin solle es spucken
+
+30.06 im Jahr 49
+- Nach 11 Tagen reise sind wir endlich an der Miene angekommen stellt er uns noch seinen Geschäftspartner eines Geschäftspartner von einem Geschäftspartner vor.
+- Ebenso erklärt er uns das es im Dort einen Vorarbeiter Namens Gradst gibt der vielleicht mehr über die Miene weiß nach längerem bearbeiten und überzeugen erzählt er uns doch das die Miene einen angeblich dazu zwingt Dinge zu machen die keiner aussprechen würde
+- Der Geschäftspartner der uns vorgestellt wurde heißt Bivid Othrom er hat uns erklärt das er eigentlich nur hier ist da er irgendeine Schuld abarbeiten muss geht aber nicht genauer darauf ein, er meinte nur das er für uns vielleicht nützlich sein kann und helfen möchte da er alleine in der Miene nichts ausrichten kann
+- Kaum in der Miene drin sehen wir schon einen dieser merkwürdigen Mottenschwärmen sie fühlen verhalten sich nicht wie normale Motten außer das sie von Fionns Laternen angezogen werden
+- Ich habe herausgefunden das Eis Schaden sehr effektiv gegen die Motten ist und laufe dadurch direkt neben Fionn her um die mottenschwärme zu vernichten.
+- Ein paar der eingefrorenen Motten stecke ich für spätere Forschungen in meinen Trinkschlauch während dem aufheben der Motten bemerke ich erneut einen komischen Schatten der sich vor uns in der Höhle bewegt.
+- Zur gleichen Zeit erkunden Norwa, Artheus und Bivid den ersten Raum an dem wir vorbei kommen, Norwa erkennt einen weißen Kokon gezielt schießt er auf diesen und zerstört ihn, kaum zerstört erscheinen direkt sechs Mottenschwärme mit Fokus auf Fionns Laternen
+- Irgendwie schaffen es die Motten in dem sie auf ihm rumfliegen Fionn zum fürchten zu bringen, ich stelle mich in den Raum der Motten und versuche gezielt die Motten mit einem Eis Kegel zu vernichten leider treffe ich damit aus versehen auch Fionn 
+- Langsam erkunden wir relativ getrennt die ersten Abschnitte der Miene bis auf ein paar Mottenschwärmen und komischen Bewegungen die wir wahrnehmen finden wir aktuell nichts was auf eine verfluchte Miene hinweisen könnte
+- 

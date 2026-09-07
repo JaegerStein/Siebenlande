@@ -36,9 +36,18 @@ Infos: Entdeckt im Wald in der Nähe unserer Burg ist im Grunde nur ein Normaler
 	Effektiv: Silber, Magische Waffen
 	Schwach:
 
-%%
-Formatierung ist nicht schwer
-%%
+Jäger
+Infos: entdeckt im Kampf gegen die Jäger/Nekromanten im Wald nahe unserer Burg
+	Effektiv:
+	Schwach:
+Kriecher
+Infos: entdeckt im Kampf gegen die Jäger/Nekromanten im Wald nahe unserer Burg
+	Effektiv:
+	Schwach:
+Brut
+Infos: entdeckt im Kampf gegen die Jäger/Nekromanten im Wald nahe unserer Burg
+	Effektiv:
+	Schwach:
 
 
 
