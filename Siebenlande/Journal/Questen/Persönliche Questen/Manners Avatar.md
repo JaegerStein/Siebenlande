@@ -4,8 +4,8 @@ tags:
   - Artheus
 ---
 > [!INFO] Episoden
-> [[Episode 5 - Auf den Spuren des Nekromanten]]
-> [[Episode 7]]
+> [[Staffel 5 - Auf den Spuren des Nekromanten]]
+> [[Staffel 7 - Die Zauberschule]]
 
 Der [[Gott]] [[Manner]] hat [[Artheus Panti|Artheus]] zu seinem [[Avatar]] erhoben, und ihm einen Auftrag von enormer Tragweite erteilt:
 

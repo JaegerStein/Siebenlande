@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-Siehe [[Episode 9]] und die Episoden davor, auch von der [[index|Startseite]] erreichbar
+Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[index|Startseite]] erreichbar
 
  
 **1 Tagesreise = 25km = 10 Meilen kosten 1 Silber pro Person**

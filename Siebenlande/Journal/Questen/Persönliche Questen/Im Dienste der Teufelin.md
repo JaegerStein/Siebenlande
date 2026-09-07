@@ -4,8 +4,8 @@ tags:
   - Artheus
 ---
 > [!INFO] Episoden
-> [[Episode 6 - Braucht noch einen Namen]]
-> [[Episode 7]]
+> [[Staffel 6 - Die Burg]]
+> [[Staffel 7 - Die Zauberschule]]
 
 Im Gegenzug für die Ermordung eines Adeligen, muss [[Artheus Panti|Artheus]] eine Aufgabe für die [[Teufel|Teufelin]] [[Asta]] erfüllen:
 

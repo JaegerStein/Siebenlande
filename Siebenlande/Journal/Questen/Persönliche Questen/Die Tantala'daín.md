@@ -4,9 +4,9 @@ tags:
   - Fionn
 ---
 > [!INFO] Episoden
-> [[Episode 4 - Der Kult des Kosmos]]
-> [[Episode 5 - Auf den Spuren des Nekromanten]]
-> [[Episode 6 - Braucht noch einen Namen]]
+> [[Staffel 4 - Der Kult des Kosmos]]
+> [[Staffel 5 - Auf den Spuren des Nekromanten]]
+> [[Staffel 6 - Die Burg]]
 
 [[Fionnsgeul Tarbh|Fionn]] ließ die letzten Überlebenden seines Stammes - fünf kleine Minotauren-Kälber - in der Obhut der [[Tantala'daín]], einem anderen Minotauren-Stamm in [[Ennelend]].
 
