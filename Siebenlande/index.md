@@ -40,5 +40,4 @@ Siehe eine Liste aller laufenden [[Journal/Questen/index|Questen]]
 
 ---
 # GitHub
-
-[![[repo.png|600]]](https://github.com/JaegerStein/Siebenlande)
+[![](https://opengraph.githubassets.com/1/JaegerStein/Siebenlande)](https://github.com/JaegerStein/Siebenlande)
