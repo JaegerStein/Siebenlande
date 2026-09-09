@@ -56,6 +56,112 @@ Die **Anwendung** beschreibt, wie sich die Magie konkret im Kampf nutzen lässt,
 ## Effekt-Stufen
 
 ## Effekt-Komponenten
+Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten erstellt werden. Die Kosten des Effektes summieren sich aus den Komponenten und steigen bei Wiederholung bereits verwendeter Komponenten. Wiederholungen kosten entsprechend der Gaußschen Summenformel.
+
+**Beispiele**
+> 3 verschiedene Kleine Komponenten, 2 verschiedene Mittlere, und 1 Große Komponente
+> ```1 + 1 + 1 + 2 + 2 + 3 = 10```
+> entsprechen einem Stufe-10 Zauber.
+
+>3 identische Kleine Komponenten und 1 Große Komponente
+>```1 + 2 + 3 + 3 = 9```
+>entsprechen einem Stufe 9 Zauber.
+
+> 3 identische Mittlere Komponenten und 1 Große Komponente
+> ```2 + 4 + 6 + 3 = 15```
+> entsprechen einem Stufe 15 Zauber.
+### Kleine Komponenten
+Kleine Komponenten kosten 1 Punkt.
+
+| Kurzform          | Beschreibung                                                     |
+| ----------------- | ---------------------------------------------------------------- |
+| 30 Fuß Reichweite | Wirkt den Effekt an einem Punkt innerhalb von 30 Fuß Reichweite. |
+| 15 Fuß Länge      | Wirkt den Effekt über eine Länge von 15 Fuß.                     |
+| 45° Breite        | Wirkt den Effekt in einem 45° Kegel.                             |
+
+| Kurzform        | Beschreibung                   |
+| --------------- | ------------------------------ |
+| 15 Fuß Bewegung | Gibt dem Ziel 15 Fuß Bewegung. |
+
+| Kurzform     | Beschreibung                                                                              |
+| ------------ | ----------------------------------------------------------------------------------------- |
+| Schadensart  | Legt das Element des Schadens fest. Jedes Element ist eine eigenständige Komponente.      |
+| Resistenzart | Legt das Element des Resistenzbonus Fest. Jedes Element ist eine eigeständige Komponente. |
+| Attribut     | Legt das Attribut des Attributs- oder Rettungswurf-Bonus fest.                            |
+| Fähigkeit    | Legt die Fähigkeit für den Bonus fest.                                                    |
+
+| Kurzform               | Beschreibung                                       |
+| ---------------------- | -------------------------------------------------- |
+| 1W4 Temporäre Ausdauer | Gibt dem Ziel 1W4 Temporäre Ausdauer.              |
+
+| Kurzform      | Beschreibung                                                      |
+| ------------- | ----------------------------------------------------------------- |
+| Würfel \^1    | Erhört den Würfel um eine Stufe.                                  |
+| Würfel +1     | Erhöht die Anzahl der Würfel um 1.                                |
+| +1            | Erhöht einen flachen Wert um 1, oder fügt einem Würfel  +1 hinzu. |
+| Konzentration | Erlaubt es, den Effekt durch Konzentration aufrecht zu erhalten.  |
+
+### Mittlerer Komponenten
+Mittlere Komponenten kosten 2 Punkte.
+
+| Kurzform          | Beschreibung                                                   |
+| ----------------- | -------------------------------------------------------------- |
+| 60 Fuß Reichweite | Wirkt den Effekt an einem Punkt innerhalb von 60 Fuß Reichweit |
+| 30 Fuß Länge      | Wirkt den Effekt über eine Länge von 30 Fuß.                   |
+| 90° Breite        | Wirkt den Effekt in einem 90° Kegel.                           |
+| 5 Fuß Radius      | Wirkt den Effekt in einem 5 Fuß Radius um ein Feld.            |
+
+| Kurzform            | Beschreibung                                                                     |
+| ------------------- | -------------------------------------------------------------------------------- |
+| +2 Resistenz        | Gibt dem Ziel +2 Resistenz der ausgewählten **Resistenzart**.                    |
+| +1 Attribut         | Gibt dem Ziel +1 auf das ausgewählte **Attribut**.                               |
+| 1W4 Schaden         | Verursacht am Ziel 1W4 Schaden der ausgewählten **Schadensart**.                 |
+| +1W4 Rettungswurf   | Gibt dem Ziel +1W4 Bonus auf eine Rettungswurf in dem ausgewählten **Attribut**. |
+| +1W4 Fähigkeitswurf | Gibt dem Ziel +1W4 Bonus auf eine Fähigkeitswurf der ausgewählten **Fähigkeit**. |
+| 1W4 Ausdauer        | Heilt das Ziel um 1W4 Ausdauer.                                                  |
+
+| Kurzform   | Beschreibung                                                      |
+| ---------- | ----------------------------------------------------------------- |
+| Würfel \^2 | Erhört den Würfel um 2  Stufen.                                   |
+| Würfel +2  | Erhöht die Anzahl der Würfel um 2.                                |
+| +2         | Erhöht einen flachen Wert um 2, oder fügt einem Würfel  +2 hinzu. |
+
+| Kurform         | Beschreibung                              |
+| --------------- | ----------------------------------------- |
+| Bonusaktion     | Gibt dem Ziel eine Bonusaktion.           |
+| Reaktion        | Gibt dem Ziele eine zusätzliche Reaktion. |
+| 30 Fuß Bewegung | Gibt dem Ziel 30 Fuß Bewegung.            |
+
+### Große Komponenten
+Große Komponenten kosten 3 Punkte und können nicht wiederholt werden.
+
+| Kurzform          | Beschreibung                                                   |
+| ----------------- | -------------------------------------------------------------- |
+| 90 Fuß Reichweite | Wirkt den Effekt an einem Punkt innerhalb von 90 Fuß Reichweit |
+| 45 Fuß Länge      | Wirkt den Effekt über eine Länge von 45 Fuß.                   |
+| 135° Breite       | Wirkt den Effekt in einem 135° Kegel.                          |
+| 10 Fuß Radius     | Wirkt den Effekt in einem 10 Fuß Radius um ein Feld.           |
+| +1 Ziel           | Wirkt den Effekt auf ein weiteres Ziel.                        |
+
+| Kurzform         | Beschreibung                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| +3 Resistenz     | Gibt dem Ziel +3 Resistenz der ausgewählten **Resistenzart**.                                    |
+| +2 Attribut      | Gibt dem Ziel +2 auf das ausgewählte **Attribut**.                                               |
+| Abbauender Bonus | Boni des Effektes werden abbauend angewendet - sie bleiben bestehen, bis sie verbraucht werden.  |
+
+| Kurzform   | Beschreibung                                                      |
+| ---------- | ----------------------------------------------------------------- |
+| Würfel \^3 | Erhört den Würfel um 3 Stufen.                                    |
+| Würfel +3  | Erhöht die Anzahl der Würfel um 3.                                |
+| +3         | Erhöht einen flachen Wert um 3, oder fügt einem Würfel  +3 hinzu. |
+| 1 Runde    | Lässt den Effekt 1 Runde lang andauern.                           |
+
+| Kurzform        | Beschreibung                   |
+| --------------- | ------------------------------ |
+| Aktion          | Gibt dem Ziel eine Aktion.     |
+| 45 Fuß Bewegung | Gibt dem Ziel 45 Fuß Bewegung. |
+| Vorteil         | Gibt dem Ziel Vorteil.         |
+| Nachteil        | Gibt dem Ziel Nachteil.        |
 
 # Zauberstufen Beispiel (alt)
 ![[zauberstufen.bmp]]
