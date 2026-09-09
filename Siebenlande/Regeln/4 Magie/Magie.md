@@ -56,7 +56,7 @@ Die **Anwendung** beschreibt, wie sich die Magie konkret im Kampf nutzen lässt,
 ## Effekt-Stufen
 
 ## Effekt-Komponenten
-Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten erstellt werden. Die Kosten des Effektes summieren sich aus den Komponenten und steigen bei Wiederholung bereits verwendeter Komponenten. Wiederholungen kosten entsprechend der Gaußschen Summenformel.
+Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten erstellt werden. Die Kosten des Effektes summieren sich aus den Komponenten und steigen bei Wiederholung bereits verwendeter Komponenten.
 
 **Beispiele**
 > 3 verschiedene Kleine Komponenten, 2 verschiedene Mittlere, und 1 Große Komponente
