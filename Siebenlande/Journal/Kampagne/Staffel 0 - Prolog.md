@@ -12,10 +12,10 @@ tags:
 
 Die nächste Reise unserer siebenköpfigen Abenteurergruppe, bestehend aus
 
-- dem [[Halbdämon]]-[[Dunkelelfe|Dunkelelfen]] **[[Artheus Panti]]**,
+- dem [[Halbdämon]]-[[Dunkelelfe|Dunkelelfen]] **[[Journal/Die Questerei/Artheus Panti]]**,
 - der [[Llekampa]] **[[Boma]]**,
 - dem [[Yespest]] **[[Dursam Goar]]**,
-- dem [[Minotaure|Minotauren]] **[[Fionnsgeul Tarbh]]**,
+- dem [[Minotaure|Minotauren]] **[[Journal/Die Questerei/Fionnsgeul Tarbh]]**,
 - dem [[Kenku]] **[[Fliegdnich]]**,
 - dem [[Weswam]]-[[Gnom]] **[[Norwa Solis]]**
 - und dem [[Zwerg]] **[[Suðri Þorinul]]**,

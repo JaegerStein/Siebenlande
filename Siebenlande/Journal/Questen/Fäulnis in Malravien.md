@@ -14,6 +14,6 @@ Ihr seid Peretin bis jenseits der [[Bastion|Zwergenfestung]] [[Hadorim]] in die 
 
 Ihr habt das Grabmal betreten, in dem sich euch untote Skelette und Nekromanten entgegenstellten.
 
-Während eures Kampfes durch die Katakomben habt ihr einige Ritus-Schriftrollen gefunden, welche Symbole aufwiesen, die [[Fionnsgeul Tarbh|Fionn]] schon bei den Totenbeschwörern in [[Mesra]] gesehen hat.
+Während eures Kampfes durch die Katakomben habt ihr einige Ritus-Schriftrollen gefunden, welche Symbole aufwiesen, die [[Journal/Die Questerei/Fionnsgeul Tarbh|Fionn]] schon bei den Totenbeschwörern in [[Mesra]] gesehen hat.
 
 Die Nekromanten scheinen nicht nur Untote beschworen zu haben, sondern auch groteske Fleischgolem, für deren Erschaffung sie ihr eigenes Leben gaben.

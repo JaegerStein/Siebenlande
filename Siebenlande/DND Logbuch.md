@@ -7,6 +7,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 **1 Tagesreise = 25km = 10 Meilen kosten 1 Silber pro Person**
 1 Proviant = 30 Kupfer = 3 Personen = 90 Kupfer pro Tag
 
+# ***Tagebuch von Sylvaris Nyx**
 
 **05.03im Jahr** 49 der zweiten Epoche des fünften Zeitalters
 
@@ -783,38 +784,49 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - In der Taverne sticht Elemno Páijal in die Brust sticht aber tatsächlich Narran dadurch löst sich die Traumwelt auf und alles handelt nur noch in der "richten" Welt ab, Narran sackt voller Schmerzen zu Boden, Blut fließt aus ihrem Mund 
 - Páijal hält sie in den armen und spricht voller tränen ständig etwas davon das dies nicht der Plan war, eigentlich hätte sie sterben sollen um Narran den Weg zu ebnen
 - Narran (chrtia) spricht mit letzter Kraft zu ihr und sagt das sie es nicht übers Herz bringen würde wenn sie ihre eigene Tochter in den Tod schicken würde nur um ihren verschwunden Vater zu finden, während sie diese Worte ausspricht verblutet Narran qualvoll
-- Der Nebel über dem Sumpf lichtet sich auch alle erschaffenen Wesen zerfallen auf der Stelle, Páijal verschwindet in dem gleichen Moment in dem Narran ihren letzten Atemzug nimmt
+- Der Nebel über dem Sumpf lichtet sich auch alle erschaffenen Wesen zerfallen auf der Stelle, [[Páijal]] verschwindet in dem gleichen Moment in dem Narran ihren letzten Atemzug nimmt
 - Auf dem Weg zur Burg laufen wir den Werwölfen über den weg so wie es scheint sind sie uns nicht mehr friedlich gesonnen und gehen uns aus dem weg
 - Fionn versucht alleine mit ihnen zu sprechen und schafft es auch sich ihnen zu nähern sie geben ihm zu verstehen das anscheinend ein Schlächter oder ein uraltes Monster unter uns weilt 
-- In der Burg wieder angekommen klärt uns Kjomme darüber auf das unsere Speisekammer immer noch mehr füllt als leert und sie nicht wissen warum
+- In der Burg wieder angekommen klärt uns [[Kjomme]] darüber auf das unsere Speisekammer immer noch mehr füllt als leert und sie nicht wissen warum
 - Im Burghof treffen wir Valenz er läuft unsere Burgmauern klopfend ab als würde er etwas suchen ich entschließe mich daneben zu stellen und ihm bei der suche zu helfen nach kurzer zeit teilt er den Raum in den Mauern und entdeckt in der Mauer ein Wesen Namens "Phier" das gemütlich da sitzt und auf einer Nuss knabbert
-- Ich konnte meine Frage nicht mal zu ende sagen hat Valenz das kleine Phier schon in staub aufgelöst er erklärt uns die Geschichte der Phier und das sie einer Gottheit Namens Der Sammler angehören
-- Frudatta kann Valenz auch sehen er steht nur kurz vor ihm und Valenz möchte ihn direkt fangen da er anscheinend ein paar Phier unter seinem Mantel versteckt nach einer kleinen Runde fangen im Burghof schaffe ich es Frudatta zu fangen und aus seinem Mantel fallen 15 Phier heraus
+- Ich konnte meine Frage nicht mal zu ende sagen hat Valenz das kleine Phier schon in staub aufgelöst er erklärt uns die Geschichte der Phier und das sie einer Gottheit Namens [[Der Sammler]] angehören
+- [[Frudatta]] kann [[Valenz]] auch sehen er steht nur kurz vor ihm und Valenz möchte ihn direkt fangen da er anscheinend ein paar Phier unter seinem Mantel versteckt nach einer kleinen Runde fangen im Burghof schaffe ich es Frudatta zu fangen und aus seinem Mantel fallen 15 Phier heraus
 - Vier davon tötet Valenz sofort zehn entkommen in den Mauern unserer Burg und einen schafft Fäir festzuhalten diesen gebe ich meinem Patron zu fressen in der Hoffnung mehr über die Phier und diesen Sammler herauszufinden allerdings sind die Phier so dumm das sie keine brauchbaren Informationen zu dem gesuchten Gegenstand oder dem Sammler haben
 - Elemno ist währenddessen auf dem Weg in Hofers Zimmer und findet ihn dort ermordet auf dem Boden er stellt fest das er schon eine weile tot sein muss da sein Blut schon geronnen ist Norwa hat den Tatort untersucht und konnte nur feststellen das der Täter deutlich kleiner war als Hofer
 - Als wir die Leiche von Hofer untersuchen finden wir leider auch nichts hilfreiches
-- Ich frage meinen Patron aus über die Münze die Narran bei ihrem Tod fallen lassen hat er erklärt mir das diese Münzen etwas mit einem anderen Patron Namens Perretin zu tun haben und das alle Anhänger Perretins so eine Münze erhalten und man sie für ein Ritual braucht um Perretin wieder zu erwecken
+- Ich frage meinen Patron aus über die Münze die [[Narran]] bei ihrem Tod fallen lassen hat er erklärt mir das diese Münzen etwas mit einem anderen Patron Namens Perretin zu tun haben und das alle Anhänger Perretins so eine Münze erhalten und man sie für ein Ritual braucht um Perretin wieder zu erwecken
 - Wir beschließen gemeinsam das wir Hofer statt zu beerdigen verbrennen müssen da wir glauben das er mit den Nekromanten unter einer Decke steckt und nicht möchten das die Nekromanten ihn wiederbeleben können 
 - Unserer Gefolgschaft erzählen wir das wir seinen Leichnam vor den Nekromanten schützen möchten und seine Asche würdevoll begraben
 - Nach der ganzen Planung begeben wir uns alle in unsere Zimmer komischerweise öffne ich meine Tür und lande in einer Raumschleife ich sehe mich quasi selbst von hinten wie ich durch die Türe gehe selbst wenn ich versuche zu rennen oder rückwärts durch die Tür zu gehen macht mein anderes ich alles gleich erst als ich die erste Türe schließe und wieder öffne kann ich normal durch die Türen durch laufen 
 - In meinem Zimmer angekommen verbarrikadiere ich alle vorhanden Zugänge mit Schränken und Kommoden in der Hoffnung das Boma es nicht schafft mich in meinem Schlaf zu besuchen da ich Angst habe das sie irgendwelche verrückten Experimente an mir machen möchte
-- Bei Boma sind die Phier aufgetaucht und wollten ihr kleine Gaben geben als sie diese nicht annehmen wollte sind sie verschwunden und ein paar Sekunden mit einer anderen Sache aufgetaucht teilweise mit nützlichen Sachen oft aber auch nur mit Blättern oder Müll einmal kam sogar einer komplett mit Mehl bedeckt da er nicht mehr wusste was er anbieten soll der letzte der sich getraut hat vorbei zukommen brachte einen Feuertrank den er vor lauter Tollpatschigkeit hat fallen lassen und sich selbst in Flammen gesteckt hat nach diesem Vorfall haben die Phier sich nicht mehr getraut Boma zu besuchen 
+- Bei [[Boma]] sind die Phier aufgetaucht und wollten ihr kleine Gaben geben als sie diese nicht annehmen wollte sind sie verschwunden und ein paar Sekunden mit einer anderen Sache aufgetaucht teilweise mit nützlichen Sachen oft aber auch nur mit Blättern oder Müll einmal kam sogar einer komplett mit Mehl bedeckt da er nicht mehr wusste was er anbieten soll der letzte der sich getraut hat vorbei zukommen brachte einen Feuertrank den er vor lauter Tollpatschigkeit hat fallen lassen und sich selbst in Flammen gesteckt hat nach diesem Vorfall haben die Phier sich nicht mehr getraut Boma zu besuchen 
 
 19.06 im Jahr 49
-- Am nächsten Morgen versammeln wir uns in der Festhalle und tauschen uns gegenseitig über unsere Erlebnisse aus scheinbar hatte jeder so komische Vorfälle mit den Türen wie ich wir vermuten das dies an den Phier liegt die sich in unserer Burg verstecken
+- Am nächsten Morgen versammeln wir uns in der Festhalle und tauschen uns gegenseitig über unsere Erlebnisse aus scheinbar hatte jeder so komische Vorfälle mit den Türen wie ich wir vermuten das dies an den [[Phier]] liegt die sich in unserer Burg verstecken
 - Anschließend besprechen wir was wir als nächstes machen wollen und wie es mit unserer Burg weiter gehen soll 
 - Fionn schlägt vor ein paar mehr kleinere Aufträge anzunehmen oder den Bürgern der Stadt zu helfen um unser ansehen zu steigern und so vielleicht ein bisschen mehr Anhänger und oder besser Aufträge zu bekommen
-- Elemeno sagt uns in diesem Gespräch auch das er sich leider zur Ruhe setzen möchte und sich nur noch aktiv um die Burg und ihre Verträge kümmern möchte was bedeutet das er zwar unser Weggefährte bleibt allerdings nicht mehr mit uns in die Schlacht zieht sondern sich nur noch in der Burg aufhält und dort als Verwalter fungiert
-- Zudem kommt auch Horath Trenke zu uns und berichtet uns das er weiter im Süden vom Nebelwald eine still gelegte Kohlemiene erstanden, seine Arbeiter haben die Arbeit in der Miene verweigert mit der Begründung dort drin solle es spucken
+- [[Elemeno]] sagt uns in diesem Gespräch auch das er sich leider zur Ruhe setzen möchte und sich nur noch aktiv um die Burg und ihre Verträge kümmern möchte was bedeutet das er zwar unser Weggefährte bleibt allerdings nicht mehr mit uns in die Schlacht zieht sondern sich nur noch in der Burg aufhält und dort als Verwalter fungiert
+- Zudem kommt auch [[Horath Trenke]] zu uns und berichtet uns das er weiter im Süden vom Nebelwald eine still gelegte Kohlemiene erstanden, seine Arbeiter haben die Arbeit in der Miene verweigert mit der Begründung dort drin solle es spucken
 
 30.06 im Jahr 49
 - Nach 11 Tagen reise sind wir endlich an der Miene angekommen stellt er uns noch seinen Geschäftspartner eines Geschäftspartner von einem Geschäftspartner vor.
 - Ebenso erklärt er uns das es im Dort einen Vorarbeiter Namens [[Gradst]] gibt der vielleicht mehr über die Miene weiß nach längerem bearbeiten und überzeugen erzählt er uns doch das die Miene einen angeblich dazu zwingt Dinge zu machen die keiner aussprechen würde
 - Der Geschäftspartner der uns vorgestellt wurde heißt Bivid Othrom er hat uns erklärt das er eigentlich nur hier ist da er irgendeine Schuld abarbeiten muss geht aber nicht genauer darauf ein, er meinte nur das er für uns vielleicht nützlich sein kann und helfen möchte da er alleine in der Miene nichts ausrichten kann
 - Kaum in der Miene drin sehen wir schon einen dieser merkwürdigen Mottenschwärmen sie fühlen verhalten sich nicht wie normale Motten außer das sie von Fionns Laternen angezogen werden
-- Ich habe herausgefunden das Eis Schaden sehr effektiv gegen die Motten ist und laufe dadurch direkt neben Fionn her um die mottenschwärme zu vernichten.
+- Ich habe herausgefunden das Eis Schaden sehr effektiv gegen die Motten ist und laufe dadurch direkt neben [[Zu sortieren/Fionnsgeul Tarbh]] her um die mottenschwärme zu vernichten.
 - Ein paar der eingefrorenen Motten stecke ich für spätere Forschungen in meinen Trinkschlauch während dem aufheben der Motten bemerke ich erneut einen komischen Schatten der sich vor uns in der Höhle bewegt.
-- Zur gleichen Zeit erkunden Norwa, Artheus und Bivid den ersten Raum an dem wir vorbei kommen, Norwa erkennt einen weißen Kokon gezielt schießt er auf diesen und zerstört ihn, kaum zerstört erscheinen direkt sechs Mottenschwärme mit Fokus auf Fionns Laternen
+- Zur gleichen Zeit erkunden [[Norwa]], [[Zu sortieren/Artheus Panti]] und [[Bivid Othrom]] den ersten Raum an dem wir vorbei kommen, Norwa erkennt einen weißen Kokon gezielt schießt er auf diesen und zerstört ihn, kaum zerstört erscheinen direkt sechs Mottenschwärme mit Fokus auf Fionns Laternen
 - Irgendwie schaffen es die Motten in dem sie auf ihm rumfliegen Fionn zum fürchten zu bringen, ich stelle mich in den Raum der Motten und versuche gezielt die Motten mit einem Eis Kegel zu vernichten leider treffe ich damit aus versehen auch Fionn 
 - Langsam erkunden wir relativ getrennt die ersten Abschnitte der Miene bis auf ein paar Mottenschwärmen und komischen Bewegungen die wir wahrnehmen finden wir aktuell nichts was auf eine verfluchte Miene hinweisen könnte
+- Völlig durchzogen von Angst sprintet Artheus alleine in die Gänge vor uns und trifft auf mehrere Mottenschwärmen und rennt sofort wieder von den Schwärmen davon 
+- [[Faercuin Gollamdir]], Norwa und Artheus machen sich auf den Weg Richtung Ausgang der Miene, um zu untersuchen ob die negativen Effekte die auf uns liegen verschwinden wenn wir sie verlassen
+- Fionn, Bivid und Nyx allerdings laufen noch tiefer in die Miene hinein um dem Spuk auf die Spur zu gehen
+- Etwas tiefer in der Miene entdecke ich erneut einen Schatten etwas weiter in einem Gang den ich untersuchte, merkwürdiger weise bin ich seitdem Fionn gegenüber ein wenig skeptisch eingestellt 
+- In dem Moment als Fionn mit gegenübersteht greifen mich seine Motten sofort an dadurch beginne ich sofort an allen meinen Entscheidungen zu zweifeln
+- Als Boma zu uns stößt erkenne ich in ihr nur ein Monster und bitte Bivid sofort mit mir zu flüchten, nach langer Überzeugungsarbeit schafft Bivid mich und Boma zu überzeugen das sie und ich keine Monster sind 
+- Da ich Boma allerdings immer noch nicht traue weigere ich mich die Miene mit Boma zusammen verlassen, Fionn und Bivid völlig genervt von dieser Diskussion schnappen uns getrennt und schleppen uns aus der Miene
+- Vor der Miene spricht uns Horath darauf an ob wir den Fluch/Spuk der Kohlemiene gelöst haben 
+- Fionn und Bivid erklären ihm alles was wir innen drin erlebt haben und machen ihm klar das die ausgemachte Bezahlung für diese Quest nicht reicht und wir erst für mehr Bezahlung am nächsten Tag erneut hinein gehen und den Rest untersuchen 
+- Wir begeben uns alle in die Taverne des nahen gelegenem Dorfes jeder sucht sich einen Schlafplatz aus und legt sich zu Bett
+- Während wir im Bett liegen erscheinen bei Boma, Artheus und mir Schatten die sich an uns anschleichen um gegen uns zu kämpfen, Artheus ist der einzige der es schafft den Schatten rechtzeitig zu erkennen
 - 

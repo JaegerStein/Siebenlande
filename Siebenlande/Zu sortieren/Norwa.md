@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Nyx
-  - Sylvaris
+  - Norwa
+  - Solis
 ---
-Elf Barde
+Gnom Jäger
 Teil der Questerei
