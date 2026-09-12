@@ -1,13 +1,3 @@
-blockquote.transclude[data-embed-alias] {
-
-	&>h1,
-	&>h2,
-	&>h3,
-	&>h4,
-	&>h5,
-	&>h6 {
-		&:first-child:first-of-type {
-			display: none;
-		}
-	}
+blockquote.transclude> :is(h1, h2, h3, h4, h5, h6):first-child {
+	display: none;
 }
