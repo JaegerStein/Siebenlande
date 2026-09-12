@@ -6,14 +6,14 @@ article .markdown-rendered img {
 		margin-top: 0;
 	}
 
-	& [alt~="float-left"] {
+	&[alt~="float-left"] {
 		float: left;
 		margin-right: 1rem;
 		margin-bottom: 1rem;
 		margin-top: 0;
 	}
 
-	& [alt~="center"] {
+	&[alt~="center"] {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;

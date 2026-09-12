@@ -6,8 +6,11 @@
 @use "./custom/images";
 @use "./custom/embed-title";
 
+.center {
+	max-width: min(100%, calc(100vw - 2rem));
+}
+
 .left.sidebar,
-.center,
 .right.sidebar,
 .right.sidebar>.graph {
 	max-width: calc(100vw - 2rem);

@@ -88,11 +88,6 @@ var styles_default = `.slim-properties {
 }
 .slim-properties .description {
   color: var(--gray);
-}
-.slim-properties hr {
-  margin: 0.75rem 0 0.5rem;
-  border: none;
-  border-top: 1px solid var(--lightgray);
 }`;
 
 // src/index.tsx
