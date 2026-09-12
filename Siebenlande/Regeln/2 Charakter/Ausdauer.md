@@ -39,7 +39,7 @@ Immer, wenn Spielercharaktere beim Verteidigen eine **1** werfen, erleiden sie e
 Selbstbehandlung ist nur möglich, wenn man einen KON-RW 10 + Verletzung besteht.
 Kritischer Erfolg: 1W4 Extra
 ## Natürliche Wundheilung
-Zu Beginn der [[Rast#Lange Rast|Langen Rast]] muss der verletze Charakter einen [[Attribute#Konstitution|Konstitutions]]-[[Rettungswürfe]] bestehen, um die **Maximale Ausdauer** um **1W4** + [[Fähigkeiten#Widerstand|Widerstandsbonus]] zu heilen (Kritischer Erfolg: 1W4 Extra). Der **RW** errechnet sich:
+Zu Beginn der [[Rast#Lange Rast|Langen Rast]] muss der verletze Charakter einen [[Attribute#Konstitution|Konstitutions]]-[[Rettungswürfe|RW]] bestehen, um die **Maximale Ausdauer** um **1W4** + [[Fähigkeiten#Widerstand|Widerstandsbonus]] zu heilen (Kritischer Erfolg: 1W4 Extra). Der **RW** errechnet sich:
 
 ```
 10 + Verletzung
