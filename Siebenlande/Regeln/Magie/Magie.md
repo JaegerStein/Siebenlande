@@ -2,6 +2,7 @@
 aliases:
   - Arkane Kunst
 title: 4 - Magie
+description: Beispiel Beschreibung
 ---
 **Magie** gehören stets zu einer [[Zauberschule|Schule]] und wird über eines der drei [[Attribute]] **Intelligenz**, **Weisheit**, oder **Charisma** gewirkt, abhängig von der Art der Magie und deren Ursprung.
 
@@ -106,6 +107,7 @@ Wirkungs-Komponenten sind primäre Komponenten eines Effektes, die durch andere 
 |       SG erschweren |  +1   |   +2   |  +3  | SG, Flach                | Erhöht den SG des *Zustand verursachen*-RW.                                                                                                                                                                                                                                                                                     |
 |             Vorteil |       |        |  ✓   |                          | Gibt dem Ziel Vorteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                       |
 |            Nachteil |       |        |  ✓   |                          | Gibt dem Ziel Nachteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                      |
+
 \**Erfordert eine Bezugs-Komponente.*
 \*\**Benötigt keine Abbauend-Komponente. Ignoriert den Effekt der Abbauend-Komponente.*
 
