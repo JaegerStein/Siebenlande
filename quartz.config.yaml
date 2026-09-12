@@ -130,6 +130,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+    options:
+      prefixTags: true
   - source: "@quartz-community/explorer"
     enabled: true
     options:
