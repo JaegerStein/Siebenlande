@@ -1,6 +1,6 @@
 
 ## Physischer Schaden
-- **Schmetterschaden**: Stumpfe Waffen, Keulen, Kampfstäbe, Stumpfe Geschosse
+- **Wuchtschaden**: Stumpfe Waffen, Keulen, Kampfstäbe, Stumpfe Geschosse
 - **Schnittschaden**: Klingen, Schwerter, Äxte, Wurfsterne
 - **Stichschaden**: Lanzen, Speere, spitze Geschosse
 ## Elementarer Schaden
@@ -12,8 +12,8 @@
 - Gift
 - Nekrotisch
 ## Durchdringender Schaden
-- Druckwellen / Macht
+- Macht
 - Schall
 ## Mystischer Schaden
 - Mental
-- Strahlend
+- Gleißend / Strahlend

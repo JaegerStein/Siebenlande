@@ -111,40 +111,40 @@ Wirkungs-Komponenten sind primäre Komponenten eines Effektes, die durch andere 
 ### Bezug
 Bezugs-Komponenten sind für manche Wirkungs-Komponenten erforderlich, um deren Effekt festzulegen.
 
-|           Effekt | Klein | Mittel | Groß | Art                | Beschreibung                                                   |
-| ---------------: | :---: | :----: | :--: | ------------------ | -------------------------------------------------------------- |
-|         Attribut |       |        |      | Attribut, RW       | Legt das Attribut des Attributs- oder Rettungswurf-Bonus fest. |
-|        1. Stärke |   ✓   |        |      | "                  |                                                                |
-|      2. Athletik |   ✓   |        |      | "                  |                                                                |
-|      3. Geschick |   ✓   |        |      | "                  |                                                                |
-|      4. Ausdauer |   ✓   |        |      | "                  |                                                                |
-|   5. Wahrnehmung |   ✓   |        |      | "                  |                                                                |
-|   6. Intelligenz |   ✓   |        |      | "                  |                                                                |
-|      7. Weisheit |   ✓   |        |      | "                  |                                                                |
-|      8. Charisma |   ✓   |        |      | "                  |                                                                |
-|        Fähigkeit |       |        |      | Fähigkeit          |                                                                |
-|       1.1 Etc... |   ✓   |        |      | "                  | Legt die Fähigkeit für den Bonus auf den Fähigkeitswurf fest.  |
-|      Schadensart |       |        |      | Schaden, Resistenz | Legt die Schadensart fest.                                     |
-|      1. Physisch |       |        |  ✓   | "                  | Legt alle physischen Schadensarten fest.                       |
-|        1.1 Wucht |   ✓   |        |      | "                  |                                                                |
-|      1.2 Schnitt |   ✓   |        |      | "                  |                                                                |
-|        1.3 Stich |   ✓   |        |      | "                  |                                                                |
-|     2. Elementar |       |        |  ✓   | "                  | Legt alle elementaren Schadensarten fest.                      |
-|          2.1 Eis |   ✓   |        |      | "                  |                                                                |
-|        2.2 Feuer |   ✓   |        |      | "                  |                                                                |
-|        2.3 Blitz |   ✓   |        |      | "                  |                                                                |
-|    3. Verschleiß |       |        |  ✓   | "                  | Legt alle verschleißenden Schadensarten fest.                  |
-|        3.1 Säure |   ✓   |        |      | "                  |                                                                |
-|         3.2 Gift |   ✓   |        |      | "                  |                                                                |
-|   3.3 Nekrotisch |   ✓   |        |      | "                  |                                                                |
-| 4. Durchdringend |       |   ✓    |      | "                  | Legt alle durchdringenden Schadensarten fest.                  |
-|        4.1 Macht |   ✓   |        |      | "                  |                                                                |
-|       4.2 Schall |   ✓   |        |      | "                  |                                                                |
-|      5. Mystisch |       |   ✓    |      | "                  | Legt alle mystischen Schadensarten fest.                       |
-|       5.1 Mental |   ✓   |        |      | "                  |                                                                |
-|     5.2 Gleißend |   ✓   |        |      | "                  |                                                                |
-|          Zustand |       |        |  ✓   | Zustände           | Legt sämtliche Zustände fest.                                  |
-|       1.1 Etc... |   ✓   |        |      | Zustand            | Legt einen Zustand fest.                                       |
+|           Effekt | Klein | Mittel | Groß | Art                | Beschreibung                                                                   |
+| ---------------: | :---: | :----: | :--: | ------------------ | ------------------------------------------------------------------------------ |
+|         Attribut |       |        |      | Attribut, RW       | Legt das [[Attribute\|Attribut]] des Attributs- oder Rettungswurf-Bonus fest.  |
+|        1. Stärke |   ✓   |        |      | "                  |                                                                                |
+|      2. Athletik |   ✓   |        |      | "                  |                                                                                |
+|      3. Geschick |   ✓   |        |      | "                  |                                                                                |
+|  4. Konstitution |   ✓   |        |      | "                  |                                                                                |
+|   5. Wahrnehmung |   ✓   |        |      | "                  |                                                                                |
+|   6. Intelligenz |   ✓   |        |      | "                  |                                                                                |
+|      7. Weisheit |   ✓   |        |      | "                  |                                                                                |
+|      8. Charisma |   ✓   |        |      | "                  |                                                                                |
+|        Fähigkeit |       |        |      | Fähigkeit          |                                                                                |
+|       1.1 Etc... |   ✓   |        |      | "                  | Legt die [[Fähigkeiten\|Fähigkeit]] für den Bonus auf den Fähigkeitswurf fest. |
+|      Schadensart |       |        |      | Schaden, Resistenz | Legt die Schadensart fest.                                                     |
+|      1. Physisch |       |        |  ✓   | "                  | Legt alle physischen Schadensarten fest.                                       |
+|        1.1 Wucht |   ✓   |        |      | "                  |                                                                                |
+|      1.2 Schnitt |   ✓   |        |      | "                  |                                                                                |
+|        1.3 Stich |   ✓   |        |      | "                  |                                                                                |
+|     2. Elementar |       |        |  ✓   | "                  | Legt alle elementaren Schadensarten fest.                                      |
+|          2.1 Eis |   ✓   |        |      | "                  |                                                                                |
+|        2.2 Feuer |   ✓   |        |      | "                  |                                                                                |
+|        2.3 Blitz |   ✓   |        |      | "                  |                                                                                |
+|    3. Verschleiß |       |        |  ✓   | "                  | Legt alle verschleißenden Schadensarten fest.                                  |
+|        3.1 Säure |   ✓   |        |      | "                  |                                                                                |
+|         3.2 Gift |   ✓   |        |      | "                  |                                                                                |
+|   3.3 Nekrotisch |   ✓   |        |      | "                  |                                                                                |
+| 4. Durchdringend |       |   ✓    |      | "                  | Legt alle durchdringenden Schadensarten fest.                                  |
+|        4.1 Macht |   ✓   |        |      | "                  |                                                                                |
+|       4.2 Schall |   ✓   |        |      | "                  |                                                                                |
+|      5. Mystisch |       |   ✓    |      | "                  | Legt alle mystischen Schadensarten fest.                                       |
+|       5.1 Mental |   ✓   |        |      | "                  |                                                                                |
+|     5.2 Gleißend |   ✓   |        |      | "                  |                                                                                |
+|          Zustand |       |        |  ✓   | Zustände           | Legt sämtliche Zustände fest.                                                  |
+|       1.1 Etc... |   ✓   |        |      | Zustand            | Legt einen individuellen [[Zustände\|Zustand]] fest.                           |
 
 ### Handlung
 Handlungs-Komponenten geben dem Ziel mehr Handlungsmöglichkeiten.
