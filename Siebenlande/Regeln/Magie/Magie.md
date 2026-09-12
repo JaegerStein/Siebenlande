@@ -1,3 +1,8 @@
+---
+aliases:
+  - Arkane Kunst
+title: 4 - Magie
+---
 **Magie** gehören stets zu einer [[Zauberschule|Schule]] und wird über eines der drei [[Attribute]] **Intelligenz**, **Weisheit**, oder **Charisma** gewirkt, abhängig von der Art der Magie und deren Ursprung.
 
 > *Der Begriff 'Effekt' oder 'magischer Effekt' wird im nachfolgenden stellvertretend für 'Spell' verwendet, damit ich nicht 'Zauber' schreiben muss, denn das wäre mehrdeutig.*
@@ -91,9 +96,10 @@ Kleine Komponenten kosten 1 Punkt.
 | Attribut     | Legt das Attribut des Attributs- oder Rettungswurf-Bonus fest.                            |
 | Fähigkeit    | Legt die Fähigkeit für den Bonus fest.                                                    |
 
-| Kurzform         | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Zustand          | Verursacht einen [[Zustände\|Zustand]] am Ziel. Das [[Rettungswürfe\|RW]]-Attribut ist narrativ abhängig vom Zustand und wie dieser ausgelöst wird. Der RW beträgt initial `10 + Effekt-Stufe - 1`. Jeder Zustand ist eine eigenständige Komponente.                                                                                                                                                    
+| Kurzform | Beschreibung                                                                                                                                                                                                                                         |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zustand  | Verursacht einen [[Zustände\|Zustand]] am Ziel. Das [[Rettungswürfe\|RW]]-Attribut ist narrativ abhängig vom Zustand und wie dieser ausgelöst wird. Der RW beträgt initial `10 + Effekt-Stufe - 1`. Jeder Zustand ist eine eigenständige Komponente. |
+|          |                                                                                                                                                                                                                                                      |
 
 | Kurzform               | Beschreibung                                       |
 | ---------------------- | -------------------------------------------------- |
