@@ -51,7 +51,6 @@ Eine Kreatur ist jedes Wesen, dass die Welt um sich herum aktiv beeinflussen kan
 
 ---
 # Rettungswürfe
-
 ![[Rettungswürfe]]
 
 ---

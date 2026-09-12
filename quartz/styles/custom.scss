@@ -2,9 +2,9 @@
 
 // put your custom CSS here!
 @use "./custom/index";
-//@use "./custom/page-title";
 @use "./custom/iframe";
 @use "./custom/images";
+@use "./custom/embed-title";
 
 .left.sidebar,
 .center,

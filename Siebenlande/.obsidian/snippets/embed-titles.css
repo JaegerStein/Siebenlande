@@ -1,0 +1,51 @@
+div.embed-title.markdown-embed-title {
+	display: none;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h1 {
+	display: none;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h1 + div > :first-child {
+	margin-top: .5rem;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h2 {
+	display: none;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h2 + div > :first-child {
+	margin-top: .5rem;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h3 {
+	display: none;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h3 + div > :first-child {
+	margin-top: .5rem;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h4 {
+	display: none;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h4 + div > :first-child {
+	margin-top: .5rem;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h5 {
+	display: none;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h5 + div > :first-child {
+	margin-top: .5rem;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h6 {
+	display: none;
+}
+
+div.markdown-embed-content .mod-header.mod-ui + div.el-h6 + div > :first-child {
+	margin-top: .5rem;
+}
