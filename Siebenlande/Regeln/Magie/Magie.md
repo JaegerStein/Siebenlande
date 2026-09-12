@@ -2,7 +2,6 @@
 aliases:
   - Arkane Kunst
 title: 4 - Magie
-description: Beispiel Beschreibung
 ---
 **Magie** gehören stets zu einer [[Zauberschule|Schule]] und wird über eines der drei [[Attribute]] **Intelligenz**, **Weisheit**, oder **Charisma** gewirkt, abhängig von der Art der Magie und deren Ursprung.
 
