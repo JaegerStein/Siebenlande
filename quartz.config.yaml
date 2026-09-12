@@ -239,10 +239,16 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
+    layout:
+      position: beforeBody
+      priority: 15
+      display: all
+  - source: ./plugins/slim-properties
+    enabled: true
     layout:
       position: beforeBody
       priority: 15

@@ -1,0 +1,28 @@
+{
+  "name": "slim-properties",
+  "version": "0.1.0",
+  "description": "Compact display of description, aliases and tags below the page title",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "esbuild src/index.tsx --bundle --format=esm --platform=node --jsx=automatic --jsx-import-source=preact --external:preact --outfile=dist/index.js"
+  },
+  "quartz": {
+    "name": "slim-properties",
+    "displayName": "Slim Properties",
+    "category": ["component"],
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "components": {
+      "SlimProperties": {
+        "displayName": "Slim Properties",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 15
+      }
+    }
+  }
+}

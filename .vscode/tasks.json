@@ -2,7 +2,29 @@
     "version": "2.0.0",
     "tasks": [
         {
+            "label": "Quartz Install Plugins",
+            "type": "shell",
+            "command": "npx",
+            "args": [
+                "quartz",
+                "plugin",
+                "install",
+                "--from-config"
+            ],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "detail": "Install plugins referenced in quartz.config.yaml that are not installed yet (links local plugins into .quartz/plugins)"
+        },
+        {
             "label": "Quartz Build to Debian Apache2",
+            "dependsOn": "Quartz Install Plugins",
             "type": "shell",
             "command": "bash",
             "args": [
@@ -26,6 +48,7 @@
         },
         {
             "label": "Quartz Build and Serve Local",
+            "dependsOn": "Quartz Install Plugins",
             "type": "shell",
             "command": "npx",
             "args": [
@@ -53,6 +76,7 @@
         },
         {
             "label": "Quartz Build Local",
+            "dependsOn": "Quartz Install Plugins",
             "type": "shell",
             "command": "npx",
             "args": [
