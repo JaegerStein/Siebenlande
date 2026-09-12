@@ -1,0 +1,183 @@
+// The palette is laid out as the rule tables are: one row per component row,
+// one chip per filled size cell. That keeps the "eine Zelle = eine Komponente"
+// invariant visible instead of hiding it behind a flat list.
+
+.palette__group + .palette__group {
+  margin-top: 1.1rem;
+}
+
+.palette__group-head {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--surface);
+  padding: 0.35rem 0 0.4rem;
+  border-bottom: 1px solid var(--border);
+
+  h3 {
+    font-size: 0.92rem;
+  }
+
+  p {
+    margin: 0.15rem 0 0;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+}
+
+.palette__section {
+  margin-top: 0.7rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--text-faint);
+  font-family: var(--font-header);
+}
+
+.palette__row {
+  display: grid;
+  grid-template-columns: minmax(6.5rem, 9rem) 1fr;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0.28rem 0;
+  border-bottom: 1px dashed var(--border);
+}
+
+.palette__row-label {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-align: right;
+  overflow-wrap: anywhere;
+}
+
+.palette__cells {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+// --- chip ------------------------------------------------------------------
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.26rem 0.55rem;
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--chip-accent, var(--border-strong));
+  border-radius: var(--radius);
+  background: var(--surface);
+  font-size: 0.84rem;
+  touch-action: none;
+  transition:
+    background 0.12s ease,
+    border-color 0.12s ease,
+    transform 0.12s ease;
+
+  &[data-size="klein"] {
+    --chip-accent: var(--size-klein);
+  }
+  &[data-size="mittel"] {
+    --chip-accent: var(--size-mittel);
+  }
+  &[data-size="gross"] {
+    --chip-accent: var(--size-gross);
+  }
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--chip-accent);
+    background: var(--c-highlight);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--c-secondary);
+    outline-offset: 2px;
+  }
+
+  &[data-affinity="erforderlich"] {
+    border-color: var(--affinity-required);
+    background: var(--affinity-required-bg);
+    box-shadow: 0 0 0 1px var(--affinity-required);
+  }
+
+  &[data-affinity="synergie"] {
+    border-color: var(--affinity-synergy);
+    background: var(--affinity-synergy-bg);
+  }
+
+  &[data-affinity="verwandt"] {
+    background: var(--affinity-related-bg);
+  }
+
+  // Dimmed only while something is selected, so an untouched palette stays calm.
+  &[data-dimmed="true"] {
+    opacity: 0.45;
+  }
+}
+
+.chip__value {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+}
+
+.chip__cost {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  padding: 0.05rem 0.3rem;
+  border-radius: 999px;
+  background: var(--chip-accent);
+  color: #fff;
+  line-height: 1.4;
+}
+
+:root[data-theme="dark"] .chip__cost {
+  color: #16161a;
+}
+
+.chip__repeat {
+  font-size: 0.68rem;
+  color: var(--text-faint);
+  font-family: var(--font-mono);
+}
+
+// --- legend ----------------------------------------------------------------
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.9rem;
+  font-size: 0.76rem;
+  color: var(--text-muted);
+}
+
+.legend__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.legend__swatch {
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 3px;
+  border: 1px solid var(--border-strong);
+
+  &[data-kind="klein"] {
+    background: var(--size-klein);
+  }
+  &[data-kind="mittel"] {
+    background: var(--size-mittel);
+  }
+  &[data-kind="gross"] {
+    background: var(--size-gross);
+  }
+  &[data-kind="erforderlich"] {
+    background: var(--affinity-required-bg);
+    border-color: var(--affinity-required);
+  }
+  &[data-kind="synergie"] {
+    background: var(--affinity-synergy-bg);
+    border-color: var(--affinity-synergy);
+  }
+}

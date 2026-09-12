@@ -1,0 +1,74 @@
+// Palette and typography mirror quartz.config.yaml so the app reads as part of
+// siebenlande.de whether it is opened standalone or embedded in an article.
+
+:root {
+  --c-light: #faf8f8;
+  --c-lightgray: #e5e5e5;
+  --c-gray: #b8b8b8;
+  --c-darkgray: #4e4e4e;
+  --c-dark: #2b2b2b;
+  --c-secondary: #284b63;
+  --c-tertiary: #84a59d;
+  --c-highlight: rgba(143, 159, 169, 0.15);
+
+  --surface: #fff;
+  --surface-sunken: var(--c-light);
+  --border: var(--c-lightgray);
+  --border-strong: var(--c-gray);
+  --text: var(--c-dark);
+  --text-muted: var(--c-darkgray);
+  --text-faint: var(--c-gray);
+
+  --size-klein: #6a8f6b;
+  --size-mittel: #3d6e8f;
+  --size-gross: #9a6b33;
+
+  --affinity-required: #b5651d;
+  --affinity-required-bg: rgba(181, 101, 29, 0.12);
+  --affinity-synergy: #4f7f6f;
+  --affinity-synergy-bg: rgba(79, 127, 111, 0.14);
+  --affinity-related-bg: rgba(143, 159, 169, 0.14);
+  --warning: #a4472c;
+
+  --font-header: "Schibsted Grotesk", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Source Sans 3", "Source Sans Pro", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", "Cascadia Mono", ui-monospace, monospace;
+
+  --radius: 6px;
+  --radius-lg: 10px;
+  --gap: 0.75rem;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 4px 12px rgba(0, 0, 0, 0.05);
+  --shadow-lift: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+
+:root[data-theme="dark"] {
+  --c-light: #161618;
+  --c-lightgray: #393639;
+  --c-gray: #646464;
+  --c-darkgray: #d4d4d4;
+  --c-dark: #ebebec;
+  --c-secondary: #7b97aa;
+  --c-tertiary: #84a59d;
+
+  --surface: #1e1e21;
+  --surface-sunken: #161618;
+  --border: #393639;
+  --border-strong: #4d4a4d;
+  --text: #ebebec;
+  --text-muted: #b6b6b8;
+  --text-faint: #7d7d80;
+
+  --size-klein: #8fb38f;
+  --size-mittel: #7ba7c4;
+  --size-gross: #c9a063;
+
+  --affinity-required: #d9944f;
+  --affinity-required-bg: rgba(217, 148, 79, 0.16);
+  --affinity-synergy: #8fc4b0;
+  --affinity-synergy-bg: rgba(143, 196, 176, 0.14);
+  --affinity-related-bg: rgba(143, 159, 169, 0.12);
+  --warning: #e08a6d;
+
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-lift: 0 8px 24px rgba(0, 0, 0, 0.55);
+}

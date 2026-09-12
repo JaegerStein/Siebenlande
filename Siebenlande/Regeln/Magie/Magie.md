@@ -106,6 +106,7 @@ Wirkungs-Komponenten sind primäre Komponenten eines Effektes, die durch andere 
 |       SG erschweren |  +1   |   +2   |  +3  | SG, Flach                | Erhöht den SG des *Zustand verursachen*-RW.                                                                                                                                                                                                                                                                                     |
 |             Vorteil |       |        |  ✓   |                          | Gibt dem Ziel Vorteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                       |
 |            Nachteil |       |        |  ✓   |                          | Gibt dem Ziel Nachteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                      |
+
 \**Erfordert eine Bezugs-Komponente.*
 \*\**Benötigt keine Abbauend-Komponente. Ignoriert den Effekt der Abbauend-Komponente.*
 

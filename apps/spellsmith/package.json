@@ -1,0 +1,32 @@
+{
+  "name": "spellsmith",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive builder for component magic effects of the Siebenlande rule set",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "publish": "npm run test && tsc --noEmit && vite build --outDir ../../quartz/static/spellsmith --emptyOutDir",
+    "preview": "vite preview",
+    "check": "tsc --noEmit",
+    "test": "npm run test:engine && npm run test:render",
+    "test:engine": "tsx scripts/check-engine.ts",
+    "test:render": "tsx scripts/check-render.tsx"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^30.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "jsdom": "^29.1.1",
+    "sass": "^1.93.0",
+    "tsx": "^4.23.13",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.0"
+  }
+}

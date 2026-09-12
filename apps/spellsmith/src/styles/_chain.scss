@@ -1,0 +1,215 @@
+.chain {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 0.4rem;
+  min-height: 5.5rem;
+  padding: 0.7rem;
+  border: 1px dashed var(--border-strong);
+  border-radius: var(--radius);
+  background: var(--surface-sunken);
+  transition:
+    border-color 0.15s ease,
+    background 0.15s ease;
+
+  &[data-drop-active="true"] {
+    border-color: var(--c-secondary);
+    background: var(--c-highlight);
+  }
+}
+
+.chain__empty {
+  margin: auto;
+  text-align: center;
+  color: var(--text-faint);
+  font-size: 0.85rem;
+  max-width: 34ch;
+}
+
+.chain__marker {
+  width: 3px;
+  align-self: stretch;
+  border-radius: 2px;
+  background: var(--c-secondary);
+}
+
+.slot {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.35rem 0.5rem;
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--chip-accent, var(--border-strong));
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  touch-action: none;
+  position: relative;
+  min-width: 5rem;
+
+  &[data-size="klein"] {
+    --chip-accent: var(--size-klein);
+  }
+  &[data-size="mittel"] {
+    --chip-accent: var(--size-mittel);
+  }
+  &[data-size="gross"] {
+    --chip-accent: var(--size-gross);
+  }
+
+  &[data-dragged="true"] {
+    opacity: 0.35;
+  }
+
+  &[data-state="warn"] {
+    border-color: var(--warning);
+  }
+
+  &[data-state="modifier"] {
+    background: var(--affinity-synergy-bg);
+  }
+}
+
+.slot__top {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.slot__name {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.slot__value {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.slot__meta {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.68rem;
+  color: var(--text-faint);
+  font-family: var(--font-mono);
+}
+
+.slot__bind {
+  font-family: var(--font-body);
+  color: var(--affinity-synergy);
+}
+
+.slot__warn {
+  font-family: var(--font-body);
+  color: var(--warning);
+}
+
+.slot__remove {
+  position: absolute;
+  top: -0.45rem;
+  right: -0.45rem;
+  width: 1.15rem;
+  height: 1.15rem;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  border: 1px solid var(--border-strong);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 0;
+  opacity: 0;
+  transition: opacity 0.12s ease;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--warning);
+    border-color: var(--warning);
+  }
+}
+
+.slot:hover .slot__remove,
+.slot:focus-within .slot__remove {
+  opacity: 1;
+}
+
+.slot__label-input {
+  width: 100%;
+  min-width: 6rem;
+  font: inherit;
+  font-size: 0.75rem;
+  padding: 0.1rem 0.25rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--surface-sunken);
+  color: var(--text);
+
+  &::placeholder {
+    color: var(--text-faint);
+  }
+}
+
+.chain__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.6rem;
+}
+
+.button {
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  background: var(--surface);
+  font-size: 0.8rem;
+  transition:
+    background 0.12s ease,
+    border-color 0.12s ease;
+
+  &:hover:not(:disabled) {
+    background: var(--c-highlight);
+    border-color: var(--c-secondary);
+  }
+
+  &:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--c-secondary);
+    outline-offset: 2px;
+  }
+}
+
+// --- drag ghost ------------------------------------------------------------
+
+.ghost {
+  position: fixed;
+  z-index: 100;
+  pointer-events: none;
+  transform: translate(-50%, -50%) rotate(-1.5deg);
+  padding: 0.35rem 0.6rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--chip-accent, var(--border-strong));
+  border-left: 3px solid var(--chip-accent, var(--border-strong));
+  background: var(--surface);
+  box-shadow: var(--shadow-lift);
+  font-size: 0.82rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+
+  &[data-size="klein"] {
+    --chip-accent: var(--size-klein);
+  }
+  &[data-size="mittel"] {
+    --chip-accent: var(--size-mittel);
+  }
+  &[data-size="gross"] {
+    --chip-accent: var(--size-gross);
+  }
+}
