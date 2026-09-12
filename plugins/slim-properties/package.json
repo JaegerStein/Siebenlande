@@ -9,7 +9,7 @@
     "./components": "./dist/index.js"
   },
   "scripts": {
-    "build": "esbuild src/index.tsx --bundle --format=esm --platform=node --jsx=automatic --jsx-import-source=preact --external:preact --outfile=dist/index.js"
+    "build": "node build.mjs"
   },
   "quartz": {
     "name": "slim-properties",

@@ -51,24 +51,24 @@ function resolveRelative(current, target) {
   return res;
 }
 
-// src/index.tsx
-import { Fragment, jsx, jsxs } from "preact/jsx-runtime";
-var style = `
-.slim-properties {
-  margin: 0.5rem 0 1rem;
-  font-size: 0.9rem;
+// src/styles.scss
+var styles_default = `.slim-properties {
+  margin: 0.25rem 0 0;
 }
-.slim-properties dl {
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  gap: 0.3rem 1rem;
-  margin: 0;
+.slim-properties > p,
+.slim-properties > ul {
+  margin: 0 0 0.5rem;
 }
-.slim-properties dt {
+.slim-properties .aliases {
+  font-size: 1.3rem;
+  line-height: 1.3;
   color: var(--gray);
 }
-.slim-properties dd {
-  margin: 0;
+.slim-properties .aliases .alias:hover {
+  color: var(--darkgray);
+}
+.slim-properties .aliases .separator {
+  color: color-mix(in srgb, var(--gray) 60%, black);
 }
 .slim-properties .tags {
   list-style: none;
@@ -76,7 +76,6 @@ var style = `
   flex-wrap: wrap;
   gap: 0.4rem;
   padding-left: 0;
-  margin: 0;
 }
 .slim-properties .tags > li {
   margin: 0;
@@ -87,7 +86,17 @@ var style = `
   background-color: var(--highlight);
   padding: 0.2rem 0.4rem;
 }
-`;
+.slim-properties .description {
+  color: var(--gray);
+}
+.slim-properties hr {
+  margin: 0.75rem 0 0.5rem;
+  border: none;
+  border-top: 1px solid var(--lightgray);
+}`;
+
+// src/index.tsx
+import { Fragment, jsx, jsxs } from "preact/jsx-runtime";
 function toStringList(value) {
   if (value === null || value === void 0) return [];
   const items = Array.isArray(value) ? value : [value];
@@ -100,23 +109,17 @@ var SlimProperties = () => {
     const description = typeof frontmatter.description === "string" ? frontmatter.description.trim() : "";
     const aliases = toStringList(frontmatter.aliases);
     const tags = toStringList(frontmatter.tags);
-    if (!description && aliases.length === 0 && tags.length === 0) return null;
-    return /* @__PURE__ */ jsx("div", { class: `slim-properties ${displayClass ?? ""}`, children: /* @__PURE__ */ jsxs("dl", { children: [
-      description && /* @__PURE__ */ jsxs(Fragment, { children: [
-        /* @__PURE__ */ jsx("dt", { children: "Beschreibung" }),
-        /* @__PURE__ */ jsx("dd", { children: description })
-      ] }),
-      aliases.length > 0 && /* @__PURE__ */ jsxs(Fragment, { children: [
-        /* @__PURE__ */ jsx("dt", { children: "Aliase" }),
-        /* @__PURE__ */ jsx("dd", { children: aliases.join(", ") })
-      ] }),
-      tags.length > 0 && /* @__PURE__ */ jsxs(Fragment, { children: [
-        /* @__PURE__ */ jsx("dt", { children: "Tags" }),
-        /* @__PURE__ */ jsx("dd", { children: /* @__PURE__ */ jsx("ul", { class: "tags", children: tags.map((tag) => /* @__PURE__ */ jsx("li", { children: /* @__PURE__ */ jsx("a", { class: "internal tag-link", href: resolveRelative(slug2, `tags/${tag}`), children: tag }) })) }) })
-      ] })
-    ] }) });
+    return /* @__PURE__ */ jsxs("div", { class: `slim-properties ${displayClass ?? ""}`, children: [
+      aliases.length > 0 && /* @__PURE__ */ jsx("p", { class: "aliases", children: aliases.map((alias, i) => /* @__PURE__ */ jsxs(Fragment, { children: [
+        i > 0 && /* @__PURE__ */ jsx("span", { class: "separator", children: ", " }),
+        /* @__PURE__ */ jsx("span", { class: "alias", children: alias })
+      ] })) }),
+      tags.length > 0 && /* @__PURE__ */ jsx("ul", { class: "tags", children: tags.map((tag) => /* @__PURE__ */ jsx("li", { children: /* @__PURE__ */ jsx("a", { class: "internal tag-link", href: resolveRelative(slug2, `tags/${tag}`), children: tag }) })) }),
+      description && /* @__PURE__ */ jsx("p", { class: "description", children: description }),
+      /* @__PURE__ */ jsx("hr", {})
+    ] });
   };
-  Component.css = style;
+  Component.css = styles_default;
   return Component;
 };
 export {
