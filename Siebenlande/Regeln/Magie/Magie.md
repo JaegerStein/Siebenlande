@@ -76,17 +76,17 @@ Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten 
 > `2 + 4 + 6 + 3 = 15`
 > entsprechen einem Stufe 15 Zauber.
 
-Komponenten von verwandter Art können sich gegenseitig modifizieren. Komponenten ohne übergreifende Art werden nur mit Komponenten der gleichen Spalte modifiziert, oder haben besondere Interaktionen, die in der Beschreibung erklärt sind.
+Komponenten von verwandter Art können sich gegenseitig modifizieren. Komponenten ohne übergreifende Art werden meist nur mit Komponenten der gleichen Zeile modifiziert, oder haben besondere Interaktionen, die in der Beschreibung erklärt sind.
 ### Form
 Form-Komponenten beschreiben, in welcher Fläche und auf welche Ziele ein Effekt wirkt.
 
-|   Effekt | Klein  | Mittel |  Groß   | Art   | Beschreibung                                                                                                     |
-| -------: | :----: | :----: | :-----: | :---- | :--------------------------------------------------------------------------------------------------------------- |
-| Reiweite | 30 Fuß | 60 Fuß | 90 Fuß  |       | Wirkt den Effekt an einem Punkt innerhalb der Reichweite.                                                        |
-|    Länge | 15 Fuß | 30 Fuß | 45 Fuß  |       | Wirkt den Effekt auf allen Feldern über die Länge. Hat der Effekt keine Breite, ist die Breite der Länge 1 Feld. |
-|   Breite |  45°   |  90°   |  135°   |       | Wirkt den Effekt in einer Kegelfläche dieses Winkels. Hat der Effekt keine Länge, ist der Kegel nur 1 Feld tief. |
-|   Radius |        | 5 Fuß  | 10 Fuß  |       | Wirkt den Effekt in dem Radius um ein Feld.                                                                      |
-|    Ziele |        |        | +1 Ziel | Flach | Wirkt den Effekt auf ein weiteres Ziel.                                                                          |
+|     Effekt | Klein  | Mittel |  Groß   | Art   | Beschreibung                                                                                                     |
+| ---------: | :----: | :----: | :-----: | :---- | :--------------------------------------------------------------------------------------------------------------- |
+| Reichweite | 30 Fuß | 60 Fuß | 90 Fuß  |       | Wirkt den Effekt an einem Punkt innerhalb der Reichweite.                                                        |
+|      Länge | 15 Fuß | 30 Fuß | 45 Fuß  |       | Wirkt den Effekt auf allen Feldern über die Länge. Hat der Effekt keine Breite, ist die Breite der Länge 1 Feld. |
+|     Breite |  45°   |  90°   |  135°   |       | Wirkt den Effekt in einer Kegelfläche dieses Winkels. Hat der Effekt keine Länge, ist der Kegel nur 1 Feld tief. |
+|     Radius |        | 5 Fuß  | 10 Fuß  |       | Wirkt den Effekt in dem Radius um ein Feld.                                                                      |
+|      Ziele |        |        | +1 Ziel | Flach | Wirkt den Effekt auf ein weiteres Ziel.                                                                          |
 
 ### Wirkung
 Wirkungs-Komponenten sind primäre Komponenten eines Effektes, die durch andere Komponenten modifiziert und verbessert werden können. Viele Wirkungs-Komponenten benötigen eine [[Magie#Bezug|Bezugs-Komponente]], um zu funktionieren.
@@ -106,7 +106,7 @@ Wirkungs-Komponenten sind primäre Komponenten eines Effektes, die durch andere 
 |             Vorteil |       |        |  ✓   |                          | Gibt dem Ziel Vorteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                    |
 |            Nachteil |       |        |  ✓   |                          | Gibt dem Ziel Nachteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                   |
 \**Erfordert eine Bezugs-Komponente.*
-\*\**Benötigt keine Abbauend-Komponente Ignoriert den Effekt der Abbauend-Komponente.*
+\*\**Benötigt keine Abbauend-Komponente. Ignoriert den Effekt der Abbauend-Komponente.*
 
 ### Bezug
 Bezugs-Komponenten sind für manche Wirkungs-Komponenten erforderlich, um deren Effekt festzulegen.
@@ -120,7 +120,7 @@ Bezugs-Komponenten sind für manche Wirkungs-Komponenten erforderlich, um deren 
 |      4. Ausdauer |   ✓   |        |      | "                  |                                                                |
 |   5. Wahrnehmung |   ✓   |        |      | "                  |                                                                |
 |   6. Intelligenz |   ✓   |        |      | "                  |                                                                |
-|       7. Weiheit |   ✓   |        |      | "                  |                                                                |
+|      7. Weisheit |   ✓   |        |      | "                  |                                                                |
 |      8. Charisma |   ✓   |        |      | "                  |                                                                |
 |        Fähigkeit |       |        |      | Fähigkeit          |                                                                |
 |       1.1 Etc... |   ✓   |        |      | "                  | Legt die Fähigkeit für den Bonus auf den Fähigkeitswurf fest.  |
@@ -136,7 +136,7 @@ Bezugs-Komponenten sind für manche Wirkungs-Komponenten erforderlich, um deren 
 |    3. Verschleiß |       |        |  ✓   | "                  | Legt alle verschleißenden Schadensarten fest.                  |
 |        3.1 Säure |   ✓   |        |      | "                  |                                                                |
 |         3.2 Gift |   ✓   |        |      | "                  |                                                                |
-|  3.3. Nekrotisch |   ✓   |        |      | "                  |                                                                |
+|   3.3 Nekrotisch |   ✓   |        |      | "                  |                                                                |
 | 4. Durchdringend |       |   ✓    |      | "                  | Legt alle durchdringenden Schadensarten fest.                  |
 |        4.1 Macht |   ✓   |        |      | "                  |                                                                |
 |       4.2 Schall |   ✓   |        |      | "                  |                                                                |
@@ -163,15 +163,15 @@ Steigerungs-Komponenten verbessern die Effekte anderer Komponenten, haben allein
 | -------------: | :---: | :----: | :--: | :----- | ------------------------------------------------------------------------------------- |
 | Bessere Würfel |  \^1  |  \^2   | \^3  | Würfel | Verbessert den Würfel um die angegebenen Grade (W4 -> W6 -> W8 -> W10 -> W12 -> W20). |
 |    Mehr Würfel |  +1   |   +2   |  +3  | Würfel | Erhöht die Anzahl der Würfel.                                                         |
-|   Flacher Wert |  +1   |   +2   |  +3  | Flach  | Verbessert einen flachen Wert                                                         |
+|   Flacher Wert |  +1   |   +2   |  +3  | Flach  | Verbessert einen flachen Wert.                                                        |
 ### Dauer
 Dauer-Komponenten erlauben es, den Effekt über einen Zeitraum aufrecht zu erhalten. *Konzentration* und *Runden* gelten dabei für den gesamten Effekt, *Abbauend* für alles, was verbraucht werden kann.
 
-|        Effekt | Klein | Mittel | Groß | Art   | Beschreibung                                                        |
-| ------------: | :---: | :----: | :--: | :---- | ------------------------------------------------------------------- |
-| Konzentration |   ✓   |        |      |       | Erlaubt es, den Effekt mittels Konzentration aufrecht zu erhalten.  |
-|        Runden |       |        |  +1  | Flach | Erhält den Effekt nach dem Wirken automatisch  eine Runde aufrecht. |
-|      Abbauend |       |        |  ✓   |       |                                                                     |
+|        Effekt | Klein | Mittel | Groß | Art   | Beschreibung                                                                                                                      |
+| ------------: | :---: | :----: | :--: | :---- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Konzentration |   ✓   |        |      |       | Erlaubt es, den Effekt mittels Konzentration aufrecht zu erhalten.                                                                |
+|        Runden |       |        |  +1  | Flach | Erhält den Effekt nach dem Wirken automatisch eine Runde aufrecht.                                                                |
+|      Abbauend |       |        |  ✓   |       | Effekte mit Zahlwert verfallen erst, wenn sie verbraucht werden/genutzt werden, und bleiben ansonsten auf unbestimmte Zeit aktiv. |
 
 
 # Zauberstufen Beispiel (alt)
