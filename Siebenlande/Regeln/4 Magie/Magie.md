@@ -1,4 +1,4 @@
-**Magie** gehören stets zu einer [[Zauberschule|Schule]] und wird über eines der drei [[Attribute]] <font color="aquamarine">Intelligenz</font>, <font color="steelblue">Weisheit</font>, oder <font color="mediumorchid">Charisma</font> gewirkt, abhängig von der Art der Magie und deren Ursprung.
+**Magie** gehören stets zu einer [[Zauberschule|Schule]] und wird über eines der drei [[Attribute]] **Intelligenz**, **Weisheit**, oder **Charisma** gewirkt, abhängig von der Art der Magie und deren Ursprung.
 
 > *Der Begriff 'Effekt' oder 'magischer Effekt' wird im nachfolgenden stellvertretend für 'Spell' verwendet, damit ich nicht 'Zauber' schreiben muss, denn das wäre mehrdeutig.*
 
@@ -9,10 +9,11 @@ Magie lässt über zwei Achsen betrachten, dem Ursprung und der Anwendung.
 ---
 Der **Ursprung** bestimmt, woher der Magier seine macht erhält, wie er die Magie erlernt, und welches Attribut zum Wirken genutzt wird.
 
-|                        | **Studierte Magie**                                                                       | **Intuitive Magie**                                    |
-| ---------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| **Intrinsische Magie** | **[[Zauberei]]** <font color="steelblue">WEI</font> (<font color="aquamarine">INT</font>) | **[[Mystik]]** <font color="aquamarine">INT</font>     |
-| **Extrinsische Magie** | **[[Ritus]]** <font color="steelblue">WEI</font>                                          | **[[Anrufung]]** <font color="mediumorchid">CHA</font> |
+|                        | **Studierte Magie**            | **Intuitive Magie**  |
+| ---------------------- | ------------------------------ | -------------------- |
+| **Intrinsische Magie** | [[Zauberei]] **WEI** (**INT**) | [[Mystik]] **INT**   |
+| **Extrinsische Magie** | [[Ritus]] **WEI**              | [[Anrufung]] **CHA** |
+
 ### Intrinsische Magie
 **Zauberei** und **Mystik**: Die Macht des Magier entstammt dem Inneren, und benötigt keine Hilfe eines übernatürlichen Wesens von Außen.
 
@@ -60,15 +61,15 @@ Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten 
 
 **Beispiele**
 > 3 verschiedene Kleine Komponenten, 2 verschiedene Mittlere, und 1 Große Komponente
-> ```1 + 1 + 1 + 2 + 2 + 3 = 10```
+> `1 + 1 + 1 + 2 + 2 + 3 = 10`
 > entsprechen einem Stufe-10 Zauber.
 
 >3 identische Kleine Komponenten und 1 Große Komponente
->```1 + 2 + 3 + 3 = 9```
+>`1 + 2 + 3 + 3 = 9`
 >entsprechen einem Stufe 9 Zauber.
 
 > 3 identische Mittlere Komponenten und 1 Große Komponente
-> ```2 + 4 + 6 + 3 = 15```
+> `2 + 4 + 6 + 3 = 15`
 > entsprechen einem Stufe 15 Zauber.
 ### Kleine Komponenten
 Kleine Komponenten kosten 1 Punkt.
@@ -89,6 +90,10 @@ Kleine Komponenten kosten 1 Punkt.
 | Resistenzart | Legt das Element des Resistenzbonus Fest. Jedes Element ist eine eigeständige Komponente. |
 | Attribut     | Legt das Attribut des Attributs- oder Rettungswurf-Bonus fest.                            |
 | Fähigkeit    | Legt die Fähigkeit für den Bonus fest.                                                    |
+
+| Kurzform         | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Zustand          | Verursacht einen [[Zustände\|Zustand]] am Ziel. Das [[Rettungswürfe\|RW]]-Attribut ist narrativ abhängig vom Zustand und wie dieser ausgelöst wird. Der RW beträgt initial `10 + Effekt-Stufe - 1`. Jeder Zustand ist eine eigenständige Komponente.                                                                                                                                                    
 
 | Kurzform               | Beschreibung                                       |
 | ---------------------- | -------------------------------------------------- |
@@ -126,6 +131,11 @@ Mittlere Komponenten kosten 2 Punkte.
 | Würfel +2  | Erhöht die Anzahl der Würfel um 2.                                |
 | +2         | Erhöht einen flachen Wert um 2, oder fügt einem Würfel  +2 hinzu. |
 
+| Kurzform         | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Zustand aufheben | Ermöglicht es, das Ziel von einem bestimmten [[Zustände\|Zustand]] zu befreien. Entspricht die `Effekt-Stufe + 10` dem [[Rettungswürfe\|RW]], wird das Ziel automatisch vom Zustand befreit. Liegt die Effekt-Stufe darunter, kann das Ziel augenblicklich den RW erneut versuchen - der neue RW-Wert beträgt `Original-RW - Effekt-Stufe`. Jeder 'Zustand aufheben' ist eine eigenständige Komponente. |
+
+
 | Kurform         | Beschreibung                              |
 | --------------- | ----------------------------------------- |
 | Bonusaktion     | Gibt dem Ziel eine Bonusaktion.           |
@@ -148,6 +158,10 @@ Große Komponenten kosten 3 Punkte und können nicht wiederholt werden.
 | +3 Resistenz     | Gibt dem Ziel +3 Resistenz der ausgewählten **Resistenzart**.                                    |
 | +2 Attribut      | Gibt dem Ziel +2 auf das ausgewählte **Attribut**.                                               |
 | Abbauender Bonus | Boni des Effektes werden abbauend angewendet - sie bleiben bestehen, bis sie verbraucht werden.  |
+
+| Kurzform          | Beschreibung                                                                                                                                                                                                                                             |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zustände aufheben | Verhält sich identisch zur **Zustand aufheben** Komponente, wirkt aber universell auf alle [[Zustände]] des Ziels. Leidet das Ziel an mehreren Zuständen aus mehreren Quellen, gilt die [[Rettungswürfe\|RW]]-Rechnung für den jeden Zustand individuell. |
 
 | Kurzform   | Beschreibung                                                      |
 | ---------- | ----------------------------------------------------------------- |

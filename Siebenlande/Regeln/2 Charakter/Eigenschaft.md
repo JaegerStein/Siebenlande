@@ -11,7 +11,7 @@ Du kannst in einem Umkreis von 60 Fuß/12 Feldern bei [[Helligkeit|schwachem Lic
 ### Überlegene Dunkelsicht
 In einem Umkreis von 60 Fuß nimmst du jede Lichtstufe als Tageslicht wahr. Bis 120 Fuß gelten die Regeln normaler Dunkelsicht.
 ## Giftresistenz
-Du hast bei [[Rettungswurf|Rettungswürfen]] gegen Vergiftung [[Allgemeine Begriffe|Vorteil]] und erhältst eine natürliche **+4** [[Resistenz]] gegen [[Schadensarten|Giftattacken]].
+Du hast bei [[Rettungswürfe|Rettungswürfen]] gegen Vergiftung [[Allgemeine Begriffe|Vorteil]] und erhältst eine natürliche **+4** [[Resistenz]] gegen [[Schadensarten|Giftattacken]].
 ## Immunität
 Du bist enorm resistent gegen Gifte, Krankheiten und ähnliches, und erhältst einen **+10 Bonus** auf Konstitutions-Rettungswürfe dagegen. Im Kampf hast du **+8** Resistenz gegen Giftschaden.
 Versucht man, dich mit herkömmlichen Heilmitteln zu behandeln, die nicht spezifisch für dein Volk gedacht oder magischen Ursprungs sind, erhält dieser Heilungsversuch einen *Malus* von **-10**.

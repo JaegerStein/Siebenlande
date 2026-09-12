@@ -1,3 +1,10 @@
+---
+aliases:
+  - Zustand
+  - Statuseffekte
+  - Statuseffekt
+  - Status
+---
 
 Statuseffekte (oder Zustand) verändern die Fähigkeiten einer Kreatur auf unterschiedliche Weise und können durch [[Magie]], [[Talent|Talente]], [[Eigenschaft|Eigenschaften]], bestimmte Attacken oder andere Effekte entstehen. Die meisten Statuseffekte, wie z.B. _blind_, sind Beeinträchtigungen, aber einige wenige, wie z.B. _unsichtbar_, können von Vorteil sein.
 

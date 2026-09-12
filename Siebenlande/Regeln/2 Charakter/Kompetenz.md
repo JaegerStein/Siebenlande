@@ -1,4 +1,4 @@
-**Kompetenzen** können in [[Fähigkeiten]] und [[Rettungswurf|Rettungswürfe]] je [[Attribute|Attribut]] investiert werden, bis uns was besseres einfällt.
+**Kompetenzen** können in [[Fähigkeiten]] und [[Rettungswürfe|Rettungswürfe]] je [[Attribute|Attribut]] investiert werden, bis uns was besseres einfällt.
 
 Kompetenz verleiht bei entsprechenden Würfen einen zusätzlichen Würfel entsprechend der Kompetenz-Stufe in dieser Fähigkeit/diesem Attribut:
 
