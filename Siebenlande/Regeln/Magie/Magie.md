@@ -57,12 +57,11 @@ Die **Anwendung** beschreibt, wie sich die Magie konkret im Kampf nutzen lässt,
 
 # Magische Effekte
 
-## Effekt-Plätze
+## Ladungen
 
-## Effekt-Stufen
-
-## Effekt-Komponenten
-Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten erstellt werden. Die Kosten des Effektes summieren sich aus den Komponenten und steigen bei Wiederholung bereits verwendeter Komponenten.
+## Stufen
+## Komponenten
+Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten erstellt werden. Die Kosten des Effektes summieren sich aus den Komponenten und steigen bei Wiederholung bereits verwendeter Komponenten. Kleine Komponenten kosten jeweils 1 Stufe, Mittlere Komponenten 2, und Große Komponenten 3 Stufen.
 
 **Beispiele**
 > 3 verschiedene Kleine Komponenten, 2 verschiedene Mittlere, und 1 Große Komponente
@@ -76,112 +75,104 @@ Effekte von Komponenten-Magie können durch beliebige Anordnung von Komponenten 
 > 3 identische Mittlere Komponenten und 1 Große Komponente
 > `2 + 4 + 6 + 3 = 15`
 > entsprechen einem Stufe 15 Zauber.
-### Kleine Komponenten
-Kleine Komponenten kosten 1 Punkt.
 
-| Kurzform          | Beschreibung                                                     |
-| ----------------- | ---------------------------------------------------------------- |
-| 30 Fuß Reichweite | Wirkt den Effekt an einem Punkt innerhalb von 30 Fuß Reichweite. |
-| 15 Fuß Länge      | Wirkt den Effekt über eine Länge von 15 Fuß.                     |
-| 45° Breite        | Wirkt den Effekt in einem 45° Kegel.                             |
+Komponenten von verwandter Art können sich gegenseitig modifizieren. Komponenten ohne übergreifende Art werden nur mit Komponenten der gleichen Spalte modifiziert, oder haben besondere Interaktionen, die in der Beschreibung erklärt sind.
+### Form
+Form-Komponenten beschreiben, in welcher Fläche und auf welche Ziele ein Effekt wirkt.
 
-| Kurzform        | Beschreibung                   |
-| --------------- | ------------------------------ |
-| 15 Fuß Bewegung | Gibt dem Ziel 15 Fuß Bewegung. |
+|   Effekt | Klein  | Mittel |  Groß   | Art   | Beschreibung                                                                                                     |
+| -------: | :----: | :----: | :-----: | :---- | :--------------------------------------------------------------------------------------------------------------- |
+| Reiweite | 30 Fuß | 60 Fuß | 90 Fuß  |       | Wirkt den Effekt an einem Punkt innerhalb der Reichweite.                                                        |
+|    Länge | 15 Fuß | 30 Fuß | 45 Fuß  |       | Wirkt den Effekt auf allen Feldern über die Länge. Hat der Effekt keine Breite, ist die Breite der Länge 1 Feld. |
+|   Breite |  45°   |  90°   |  135°   |       | Wirkt den Effekt in einer Kegelfläche dieses Winkels. Hat der Effekt keine Länge, ist der Kegel nur 1 Feld tief. |
+|   Radius |        | 5 Fuß  | 10 Fuß  |       | Wirkt den Effekt in dem Radius um ein Feld.                                                                      |
+|    Ziele |        |        | +1 Ziel | Flach | Wirkt den Effekt auf ein weiteres Ziel.                                                                          |
 
-| Kurzform     | Beschreibung                                                                              |
-| ------------ | ----------------------------------------------------------------------------------------- |
-| Schadensart  | Legt das Element des Schadens fest. Jedes Element ist eine eigenständige Komponente.      |
-| Resistenzart | Legt das Element des Resistenzbonus Fest. Jedes Element ist eine eigeständige Komponente. |
-| Attribut     | Legt das Attribut des Attributs- oder Rettungswurf-Bonus fest.                            |
-| Fähigkeit    | Legt die Fähigkeit für den Bonus fest.                                                    |
+### Wirkung
+Wirkungs-Komponenten sind primäre Komponenten eines Effektes, die durch andere Komponenten modifiziert und verbessert werden können. Viele Wirkungs-Komponenten benötigen eine [[Magie#Bezug|Bezugs-Komponente]], um zu funktionieren.
 
-| Kurzform | Beschreibung                                                                                                                                                                                                                                         |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Zustand  | Verursacht einen [[Zustände\|Zustand]] am Ziel. Das [[Rettungswürfe\|RW]]-Attribut ist narrativ abhängig vom Zustand und wie dieser ausgelöst wird. Der RW beträgt initial `10 + Effekt-Stufe - 1`. Jeder Zustand ist eine eigenständige Komponente. |
-|          |                                                                                                                                                                                                                                                      |
+|              Effekt | Klein | Mittel | Groß | Art                      | Beschreibung                                                                                                                                                                                                                                                                                                                 |
+| ------------------: | :---: | :----: | :--: | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             Schaden |       |  1W4   |      | Schaden, Würfel, Flach   | Verursacht 1W4 Schaden am Ziel. \*                                                                                                                                                                                                                                                                                           |
+|   Ausdauer (heilen) |       |  1W4   |      | Würfel, Flach            | Heilt das Ziel um 1W4 Ausdauer. \*\*                                                                                                                                                                                                                                                                                         |
+| Ausdauer (temporär) |  1W4  |        |      | Würfel, Flach            | Gibt dem Ziel 1W4 temporäre Ausdauer. \*\*                                                                                                                                                                                                                                                                                   |
+|      Attributsbonus |       |   +1   |  +2  | Attribut, Flach          | Gibt dem Ziel Bonus auf einen Attributswurf. \*                                                                                                                                                                                                                                                                              |
+|           Resistenz |       |   +2   |  +3  | Resistenz, Flach         | Gibt dem Ziel Resistenz. \*                                                                                                                                                                                                                                                                                                  |
+|     RW unterstützen |       |  1W4   |      | RW, Würfel, Flach        | Gibt dem Ziel einen Bonus auf einen Rettungswurf. \*                                                                                                                                                                                                                                                                         |
+|      Fähigkeitswurf |       |  1W4   |      | Fähigkeit, Würfel, Flach | Gibt dem Ziel einen Bonus auf einen Fähigkeitswurf. \*                                                                                                                                                                                                                                                                       |
+| Zustand verursachen |   ✓   |        |      | Zustand, RW              | Löst einen [[Zustände\|Zustand]] beim Ziel aus. Dem Zustand kann mittels eines [[Rettungswürfe\|RW]] widerstanden werden. Das [[Rettungswürfe\|RW]]-Attribut wird vom Wirkenden gewählt und erfordert keinen *Bezug*. Der RW beträgt initial `10 + Effekt-Stufe - 1`.                                                        |
+|    Zustand aufheben |       |   ✓    |      | Zustand, Zustände, RW    | Ermöglicht es, das Ziel von [[Zustände\|Zuständen]] zu befreien. Entspricht die `Effekt-Stufe + 10` dem [[Rettungswürfe\|RW]], wird das Ziel automatisch vom Zustand befreit. Liegt die Effekt-Stufe darunter, kann das Ziel augenblicklich den RW erneut versuchen - der neue RW-Wert beträgt `Original-RW - Effekt-Stufe`. |
+|       RW erschweren |  +1   |   +2   |  +3  | RW, Flach                | Erhöht den SG des *Zustand verursachen*-RW.                                                                                                                                                                                                                                                                                  |
+|             Vorteil |       |        |  ✓   |                          | Gibt dem Ziel Vorteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                    |
+|            Nachteil |       |        |  ✓   |                          | Gibt dem Ziel Nachteil auf einen W20-Wurf.                                                                                                                                                                                                                                                                                   |
+\**Erfordert eine Bezugs-Komponente.*
+\*\**Benötigt keine Abbauend-Komponente Ignoriert den Effekt der Abbauend-Komponente.*
 
-| Kurzform               | Beschreibung                                       |
-| ---------------------- | -------------------------------------------------- |
-| 1W4 Temporäre Ausdauer | Gibt dem Ziel 1W4 Temporäre Ausdauer.              |
+### Bezug
+Bezugs-Komponenten sind für manche Wirkungs-Komponenten erforderlich, um deren Effekt festzulegen.
 
-| Kurzform      | Beschreibung                                                      |
-| ------------- | ----------------------------------------------------------------- |
-| Würfel \^1    | Erhört den Würfel um eine Stufe.                                  |
-| Würfel +1     | Erhöht die Anzahl der Würfel um 1.                                |
-| +1            | Erhöht einen flachen Wert um 1, oder fügt einem Würfel  +1 hinzu. |
-| Konzentration | Erlaubt es, den Effekt durch Konzentration aufrecht zu erhalten.  |
+|           Effekt | Klein | Mittel | Groß | Art                | Beschreibung                                                   |
+| ---------------: | :---: | :----: | :--: | ------------------ | -------------------------------------------------------------- |
+|         Attribut |       |        |      | Attribut, RW       | Legt das Attribut des Attributs- oder Rettungswurf-Bonus fest. |
+|        1. Stärke |   ✓   |        |      | "                  |                                                                |
+|      2. Athletik |   ✓   |        |      | "                  |                                                                |
+|      3. Geschick |   ✓   |        |      | "                  |                                                                |
+|      4. Ausdauer |   ✓   |        |      | "                  |                                                                |
+|   5. Wahrnehmung |   ✓   |        |      | "                  |                                                                |
+|   6. Intelligenz |   ✓   |        |      | "                  |                                                                |
+|       7. Weiheit |   ✓   |        |      | "                  |                                                                |
+|      8. Charisma |   ✓   |        |      | "                  |                                                                |
+|        Fähigkeit |       |        |      | Fähigkeit          |                                                                |
+|       1.1 Etc... |   ✓   |        |      | "                  | Legt die Fähigkeit für den Bonus auf den Fähigkeitswurf fest.  |
+|      Schadensart |       |        |      | Schaden, Resistenz | Legt die Schadensart fest.                                     |
+|      1. Physisch |       |        |  ✓   | "                  | Legt alle physischen Schadensarten fest.                       |
+|        1.1 Wucht |   ✓   |        |      | "                  |                                                                |
+|      1.2 Schnitt |   ✓   |        |      | "                  |                                                                |
+|        1.3 Stich |   ✓   |        |      | "                  |                                                                |
+|     2. Elementar |       |        |  ✓   | "                  | Legt alle elementaren Schadensarten fest.                      |
+|          2.1 Eis |   ✓   |        |      | "                  |                                                                |
+|        2.2 Feuer |   ✓   |        |      | "                  |                                                                |
+|        2.3 Blitz |   ✓   |        |      | "                  |                                                                |
+|    3. Verschleiß |       |        |  ✓   | "                  | Legt alle verschleißenden Schadensarten fest.                  |
+|        3.1 Säure |   ✓   |        |      | "                  |                                                                |
+|         3.2 Gift |   ✓   |        |      | "                  |                                                                |
+|  3.3. Nekrotisch |   ✓   |        |      | "                  |                                                                |
+| 4. Durchdringend |       |   ✓    |      | "                  | Legt alle durchdringenden Schadensarten fest.                  |
+|        4.1 Macht |   ✓   |        |      | "                  |                                                                |
+|       4.2 Schall |   ✓   |        |      | "                  |                                                                |
+|      5. Mystisch |       |   ✓    |      | "                  | Legt alle mystischen Schadensarten fest.                       |
+|       5.1 Mental |   ✓   |        |      | "                  |                                                                |
+|     5.2 Gleißend |   ✓   |        |      | "                  |                                                                |
+|          Zustand |       |        |  ✓   | Zustände           | Legt sämtliche Zustände fest.                                  |
+|       1.1 Etc... |   ✓   |        |      | Zustand            | Legt einen Zustand fest.                                       |
 
-### Mittlerer Komponenten
-Mittlere Komponenten kosten 2 Punkte.
+### Handlung
+Handlungs-Komponenten geben dem Ziel mehr Handlungsmöglichkeiten.
 
-| Kurzform          | Beschreibung                                                   |
-| ----------------- | -------------------------------------------------------------- |
-| 60 Fuß Reichweite | Wirkt den Effekt an einem Punkt innerhalb von 60 Fuß Reichweit |
-| 30 Fuß Länge      | Wirkt den Effekt über eine Länge von 30 Fuß.                   |
-| 90° Breite        | Wirkt den Effekt in einem 90° Kegel.                           |
-| 5 Fuß Radius      | Wirkt den Effekt in einem 5 Fuß Radius um ein Feld.            |
+|      Effekt | Klein  | Mittel |  Groß  | Art | Beschreibung                                |
+| ----------: | :----: | :----: | :----: | :-- | :------------------------------------------ |
+|    Bewegung | 15 Fuß | 30 Fuß | 45 Fuß |     | Gibt dem Ziel zusätzliche Bewegung.         |
+|    Reaktion |        |   ✓    |        |     | Gibt dem Ziel eine zusätzliche Reaktion.    |
+| Bonusaktion |        |   ✓    |        |     | Gibt dem Ziel eine zusätzliche Bonusaktion. |
+|      Aktion |        |        |   ✓    |     | Gibt dem Ziel eine zusätzliche Aktion.      |
 
-| Kurzform            | Beschreibung                                                                     |
-| ------------------- | -------------------------------------------------------------------------------- |
-| +2 Resistenz        | Gibt dem Ziel +2 Resistenz der ausgewählten **Resistenzart**.                    |
-| +1 Attribut         | Gibt dem Ziel +1 auf das ausgewählte **Attribut**.                               |
-| 1W4 Schaden         | Verursacht am Ziel 1W4 Schaden der ausgewählten **Schadensart**.                 |
-| +1W4 Rettungswurf   | Gibt dem Ziel +1W4 Bonus auf eine Rettungswurf in dem ausgewählten **Attribut**. |
-| +1W4 Fähigkeitswurf | Gibt dem Ziel +1W4 Bonus auf eine Fähigkeitswurf der ausgewählten **Fähigkeit**. |
-| 1W4 Ausdauer        | Heilt das Ziel um 1W4 Ausdauer.                                                  |
+### Steigerung
+Steigerungs-Komponenten verbessern die Effekte anderer Komponenten, haben alleinstehend aber keine Wirkung.
 
-| Kurzform   | Beschreibung                                                      |
-| ---------- | ----------------------------------------------------------------- |
-| Würfel \^2 | Erhört den Würfel um 2  Stufen.                                   |
-| Würfel +2  | Erhöht die Anzahl der Würfel um 2.                                |
-| +2         | Erhöht einen flachen Wert um 2, oder fügt einem Würfel  +2 hinzu. |
+|         Effekt | Klein | Mittel | Groß | Art    | Beschreibung                                                                          |
+| -------------: | :---: | :----: | :--: | :----- | ------------------------------------------------------------------------------------- |
+| Bessere Würfel |  \^1  |  \^2   | \^3  | Würfel | Verbessert den Würfel um die angegebenen Grade (W4 -> W6 -> W8 -> W10 -> W12 -> W20). |
+|    Mehr Würfel |  +1   |   +2   |  +3  | Würfel | Erhöht die Anzahl der Würfel.                                                         |
+|   Flacher Wert |  +1   |   +2   |  +3  | Flach  | Verbessert einen flachen Wert                                                         |
+### Dauer
+Dauer-Komponenten erlauben es, den Effekt über einen Zeitraum aufrecht zu erhalten. *Konzentration* und *Runden* gelten dabei für den gesamten Effekt, *Abbauend* für alles, was verbraucht werden kann.
 
-| Kurzform         | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Zustand aufheben | Ermöglicht es, das Ziel von einem bestimmten [[Zustände\|Zustand]] zu befreien. Entspricht die `Effekt-Stufe + 10` dem [[Rettungswürfe\|RW]], wird das Ziel automatisch vom Zustand befreit. Liegt die Effekt-Stufe darunter, kann das Ziel augenblicklich den RW erneut versuchen - der neue RW-Wert beträgt `Original-RW - Effekt-Stufe`. Jeder 'Zustand aufheben' ist eine eigenständige Komponente. |
+|        Effekt | Klein | Mittel | Groß | Art   | Beschreibung                                                        |
+| ------------: | :---: | :----: | :--: | :---- | ------------------------------------------------------------------- |
+| Konzentration |   ✓   |        |      |       | Erlaubt es, den Effekt mittels Konzentration aufrecht zu erhalten.  |
+|        Runden |       |        |  +1  | Flach | Erhält den Effekt nach dem Wirken automatisch  eine Runde aufrecht. |
+|      Abbauend |       |        |  ✓   |       |                                                                     |
 
-
-| Kurform         | Beschreibung                              |
-| --------------- | ----------------------------------------- |
-| Bonusaktion     | Gibt dem Ziel eine Bonusaktion.           |
-| Reaktion        | Gibt dem Ziele eine zusätzliche Reaktion. |
-| 30 Fuß Bewegung | Gibt dem Ziel 30 Fuß Bewegung.            |
-
-### Große Komponenten
-Große Komponenten kosten 3 Punkte und können nicht wiederholt werden.
-
-| Kurzform          | Beschreibung                                                   |
-| ----------------- | -------------------------------------------------------------- |
-| 90 Fuß Reichweite | Wirkt den Effekt an einem Punkt innerhalb von 90 Fuß Reichweit |
-| 45 Fuß Länge      | Wirkt den Effekt über eine Länge von 45 Fuß.                   |
-| 135° Breite       | Wirkt den Effekt in einem 135° Kegel.                          |
-| 10 Fuß Radius     | Wirkt den Effekt in einem 10 Fuß Radius um ein Feld.           |
-| +1 Ziel           | Wirkt den Effekt auf ein weiteres Ziel.                        |
-
-| Kurzform         | Beschreibung                                                                                     |
-| ---------------- | ------------------------------------------------------------------------------------------------ |
-| +3 Resistenz     | Gibt dem Ziel +3 Resistenz der ausgewählten **Resistenzart**.                                    |
-| +2 Attribut      | Gibt dem Ziel +2 auf das ausgewählte **Attribut**.                                               |
-| Abbauender Bonus | Boni des Effektes werden abbauend angewendet - sie bleiben bestehen, bis sie verbraucht werden.  |
-
-| Kurzform          | Beschreibung                                                                                                                                                                                                                                             |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Zustände aufheben | Verhält sich identisch zur **Zustand aufheben** Komponente, wirkt aber universell auf alle [[Zustände]] des Ziels. Leidet das Ziel an mehreren Zuständen aus mehreren Quellen, gilt die [[Rettungswürfe\|RW]]-Rechnung für den jeden Zustand individuell. |
-
-| Kurzform   | Beschreibung                                                      |
-| ---------- | ----------------------------------------------------------------- |
-| Würfel \^3 | Erhört den Würfel um 3 Stufen.                                    |
-| Würfel +3  | Erhöht die Anzahl der Würfel um 3.                                |
-| +3         | Erhöht einen flachen Wert um 3, oder fügt einem Würfel  +3 hinzu. |
-| 1 Runde    | Lässt den Effekt 1 Runde lang andauern.                           |
-
-| Kurzform        | Beschreibung                   |
-| --------------- | ------------------------------ |
-| Aktion          | Gibt dem Ziel eine Aktion.     |
-| 45 Fuß Bewegung | Gibt dem Ziel 45 Fuß Bewegung. |
-| Vorteil         | Gibt dem Ziel Vorteil.         |
-| Nachteil        | Gibt dem Ziel Nachteil.        |
 
 # Zauberstufen Beispiel (alt)
 ![[zauberstufen.bmp]]
