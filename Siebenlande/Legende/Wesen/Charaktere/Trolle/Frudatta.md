@@ -1,6 +1,9 @@
 ---
 aliases:
-  - Frudatta
+tags:
+  - Charakter
+  - Troll
+  - Psarat
 ---
 Troll? glaub ich zumindest
 mehr oder weniger ein Teil unserer Questerei 

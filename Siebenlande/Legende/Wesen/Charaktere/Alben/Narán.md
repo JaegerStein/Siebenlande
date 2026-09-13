@@ -1,7 +1,13 @@
 ---
 aliases:
-  - Narran
-  - Chrtia
+  - Ght'Hiyaa
+  - Naran
+tags:
+  - Charakter
+  - Albe
+  - Magier
+  - Ritualist
+  - Nekromant
 ---
 Mensch Nekromant 
 Feind der Questerei (verstorben)

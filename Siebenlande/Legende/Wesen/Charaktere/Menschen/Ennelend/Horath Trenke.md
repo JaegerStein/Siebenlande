@@ -2,6 +2,10 @@
 aliases:
   - Horath
   - Trenke
+tags:
+  - Charakter
+  - Mensch
+  - Ennisch
 ---
 Mensch
 Neuer Besitzer der Miene im Süden vom Nebelwald 

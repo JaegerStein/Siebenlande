@@ -1,3 +1,7 @@
+---
+tags:
+  - Kreatur
+---
 In Bestiarium eintragen
 
 Spezies unbekannt 

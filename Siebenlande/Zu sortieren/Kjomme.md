@@ -1,2 +1,0 @@
-Mensch
-Quartiermeister unserer Burg

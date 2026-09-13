@@ -1,7 +1,0 @@
----
-aliases:
-  - Nyx
-  - Sylvaris
----
-Elf Barde
-Teil der Questerei
