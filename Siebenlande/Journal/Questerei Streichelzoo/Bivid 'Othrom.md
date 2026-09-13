@@ -10,5 +10,6 @@ tags:
   - Magier
   - Ritualist
 ---
+Er ist ein [[Faun]].
 Faun/Sartyr Glücksspieler/Trickbetrüger/Spielsüchtig
 Teil der Questerei
