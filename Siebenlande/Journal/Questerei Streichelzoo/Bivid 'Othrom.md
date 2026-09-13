@@ -9,7 +9,8 @@ tags:
   - Streichelzoo
   - Magier
   - Ritualist
+thumbnail: "[[bivid_othrom.jpg]]"
 ---
-Er ist ein [[Faun]].
+![[bivid_othrom.jpg|float-right|256]] Er ist ein [[Faun]].
 Faun/Sartyr Glücksspieler/Trickbetrüger/Spielsüchtig
 Teil der Questerei
