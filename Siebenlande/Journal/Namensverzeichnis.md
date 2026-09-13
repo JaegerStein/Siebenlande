@@ -7,7 +7,7 @@ cssclasses:
 ---
 # Bekannte Personen
 *Wichtige und weniger bedeutsame Persönlichkeiten, die ihr auf eurer Reise getroffen habt.*
-- [[Journal/Die Questerei/Artheus Panti]]
+- [[Artheus Panti]]
 - [[Asta]]
 - [[Báfurr]]
 - [[Boma]]
@@ -17,7 +17,7 @@ cssclasses:
 - [[Dursam Goar]]
 - [[Eladio]]
 - [[Èmghäl]]
-- [[Journal/Die Questerei/Fionnsgeul Tarbh]]
+- [[Journal/Questerei Streichelzoo/Fionnsgeul Tarbh]]
 - [[Fliegdnich]]
 - [[Gloim]]
 - [[Goddfliegd]]

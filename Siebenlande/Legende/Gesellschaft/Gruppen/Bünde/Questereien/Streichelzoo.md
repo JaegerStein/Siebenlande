@@ -17,10 +17,10 @@ Die nächste Etappe ihrer Reise brachte sie über die Stadt [[Padéra ul Forma]]
 ---
 
 Zur ursprünglichen Gruppe gehören:
-- der Halbdämon-Dunkelelfen [[Journal/Die Questerei/Artheus Panti]]
+- der Halbdämon-Dunkelelfen [[Artheus Panti]]
 - der Llekampa [[Boma]]
 - der Yespest [[Dursam Goar]]
-- der Minotaure [[Journal/Die Questerei/Fionnsgeul Tarbh]]
+- der Minotaure [[Journal/Questerei Streichelzoo/Fionnsgeul Tarbh]]
 - der Kenku [[Fliegdnich]]
 - der Weswam-Gnom [[Norwa Solis]]
 - und der Zwerg [[Suðri Þorinul]].
