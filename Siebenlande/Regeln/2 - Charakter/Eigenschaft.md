@@ -1,15 +1,52 @@
+**Eigenschaften** sind Veranlagungen eines Wesens, die in der Regel passive Effekte in bestimmten Situationen, aber auch [[Talent|Talente]] geben können. Der konkrete Unterschied zwischen einer Eigenschaft und einem Talent ist, dass eine Eigenschaft nicht optional ist - anders als bei Talenten kann der Spieler sich nicht dazu entscheiden, die Effekte einer Eigenschaft zu ignorieren, wenn deren Bedingungen erfüllt sind.
+Dazu kommt, dass Spieler sich nur während der [[Charaktererstellung]] selbst Eigenschaften zuweisen können. Nach Spielbeginn ändern sich diese nur noch durch äußere Begebenheiten.
 
-**Eigenschaften** sind spezielle Statuswerte eines Charakters, die in der Regel passive [[Allgemeine Begriffe|Boni]] (oder Mali) in bestimmten Situationen geben können. Nach der Charaktererstellung haben Spieler keine direkte Kontrolle mehr darüber, welche Eigenschaften ihre Charaktere erhalten oder verlieren.
+# Gewöhnliche Eigenschaften
+Viele Eigenschaften sind nicht einmalig, sondern treten in einer Reihe von unterschiedlichen Wesen auf.
 
-# Übliche Eigenschaften
+## Sinne
+Eigenschaft, welche die Sicht, das Gehör, und andere Sinne betreffen.
+
+### Dunkelsicht
+Lichtquellen haben die **doppelte** Reichweite.
+
+Licht, das zu schwach ist, um als Lichtquelle zu dienen, erhöht dennoch die [[Helligkeit]] um **2 Stufen** in einem **10 [[Maßeinheiten|Fuß]] Radius** und um **1 Stufe** in einem **20 Fuß Radius**. Die maximale daraus resultierende Helligkeit ist *Hell*.In diesem Licht kann keine Farbe wahrgenommen werden, nur Grautöne.
+
+**[[Attribute#Weisheit|WEI]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-2**.
+
+### Überlegene Dunkelsicht
+Lichtquellen haben die **vierfache** Reichweite.
+
+Licht, das zu schwach ist, um als Lichtquelle zu dienen, erhöht dennoch die [[Helligkeit]] um **2 Stufen** in einem **20 [[Maßeinheiten|Fuß]] Radius** und um **1 Stufe** in einem **40 Fuß Radius**. Die maximale daraus resultierende Helligkeit ist *Hell*. In diesem Licht kann keine Farbe wahrgenommen werden, nur Grautöne.
+
+**[[Attribute#Weisheit|WEI]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-4**.
+
+### Nachtsicht
+Lichtquellen haben die **sechsfache** Reichweite.
+
+Licht, das zu schwach ist, um als Lichtquelle zu dienen, erhöht dennoch die [[Helligkeit]] um **2 Stufen** in einem **40 [[Maßeinheiten|Fuß]] Radius** und um **1 Stufe** in einem **80 Fuß Radius**. Die maximale daraus resultierende Helligkeit ist *Hell*. In diesem Licht kann keine Farbe wahrgenommen werden, nur Grautöne.
+
+**[[Attribute#Weisheit|WEI]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-8**.
+
+**[[Attribute#Wahrnehmung|WAH]]**-Würfe, die bei mindestens *hellem Licht* auf Sicht erfolgen, haben [[Vor- & Nachteil|Nachteil]].
+
+### Konstruktsicht
+Lichtquellen haben keinen Einfluss auf die Sicht.
+
+Das Wesen kann bis zu **60 Fuß** normal sehen, vorausgesetzt die Sicht ist nicht [[Helligkeit|verschleiert]], und bis zu **120 Fuß**, als ob es *dunkel* wäre.
+
+### Überlegene Konstruktsicht
+Lichtquellen haben keinen Einfluss auf die Sicht.
+
+Das Wesen kann bis zu **90 Fuß** normal sehen, vorausgesetzt die Sicht ist nicht [[Helligkeit|verschleiert]], und bis zu **180 Fuß**, als ob es *düster* wäre.
+
 ## Bedrohlich
-Statt deines [[Attribute|Charismawertes]] kannst du zum [[Fähigkeiten|Einschüchtern]] Stärke verwenden. 
+Statt [[Attribute#Charisma|CHA]] wird zum [[Fähigkeiten|Einschüchtern]] [[Attribute#Stärke|STÄ]] verwenden. 
+
+# TODO zu überarbeiten
 ## Beidhändigkeit
 Du bist nicht nur in der Lage, beide Hände gleich gut zu gebrauchen, sondern hast auch eine ausgeprägte Hand-Auge-Koordination, die es dir erlaubt, sie gleichzeitig für unterschiedliche Aufgaben effektiv einzusetzen, auch im Kampf. Angriffe mit der Zweithand haben keinen [[Allgemeine Begriffe|Nachteil]].
-## Dunkelsicht
-Du kannst in einem Umkreis von 60 Fuß/12 Feldern bei [[Helligkeit|schwachem Licht]] sehen, als ob Tageslicht herrscht, und bei Dunkelheit, als ob schwaches Licht herrscht. Hierbei kannst du keine Farben wahrnehmen, nur Grautöne. Bei echtem Tageslicht ist die Farbwahrnehmung natürlich nicht beeinträchtigt.
-### Überlegene Dunkelsicht
-In einem Umkreis von 60 Fuß nimmst du jede Lichtstufe als Tageslicht wahr. Bis 120 Fuß gelten die Regeln normaler Dunkelsicht.
+
 ## Giftresistenz
 Du hast bei [[Rettungswürfe|Rettungswürfen]] gegen Vergiftung [[Allgemeine Begriffe|Vorteil]] und erhältst eine natürliche **+4** [[Resistenz]] gegen [[Schadensarten|Giftattacken]].
 ## Immunität
