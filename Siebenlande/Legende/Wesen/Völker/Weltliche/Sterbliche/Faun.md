@@ -6,9 +6,9 @@ tags:
   - Volk
   - Waldvolk
   - Sterblich
-thumbnail: "[[faun.jpg]]"
+thumbnail: "[[faun_2.jpg]]"
 ---
-![[faun.jpg|float-right|256]] **Faune**, oft auch **Satyre** genannt, sind eines der zahlreichsten [[Volk|Völker]] des [[Dëat Gláddan]] und zählen somit zu den [[Waldvolk|Waldvölkern]]. Ebenso zahlreich findet man sie in den Truppen der [[Freischärler]].
+![[faun_2.jpg|float-right|256]] **Faune**, oft auch **Satyre** genannt, sind eines der zahlreichsten [[Volk|Völker]] des [[Dëat Gláddan]] und zählen somit zu den [[Waldvolk|Waldvölkern]]. Ebenso zahlreich findet man sie in den Truppen der [[Freischärler]].
 Innerhalb der [[Mensch|menschlichen]] [[Reich|Reiche]] der [[Siebenlande]] sind sie außergewöhnlich selten anzutreffen, bevorzugen sie doch die stille Geborgenheit von Wäldern und die exklusive Gesellschaft von [[Dryade|Dryaden]].
 
 Die meisten Faune sprechen primär [[Dreys]]. 

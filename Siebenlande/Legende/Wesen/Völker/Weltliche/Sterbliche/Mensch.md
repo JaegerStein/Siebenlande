@@ -1,26 +1,29 @@
 ---
 tags:
   - Volk
+  - Sterblich
 aliases:
   - Beständiges Volk
   - Menschen
 thumbnail: "[[mensch.jpg]]"
 ---
-# Übersicht
 ![[mensch.jpg|float-right|256]] Die **Menschen** zählen zu den jüngsten Völker der [[Siebenlande]], dennoch konnten sie sich innerhalb kürzester Zeit zur vorherrschenden Macht des Kontinents aufschwingen. Obwohl ältere Völker sie gelegentlich als simpel und unkultiviert abtun, sind Menschen äußerst anpassungs- und widerstandsfähig. Es gibt keine Umgebung, die sie sich nicht zu Untertan machen können. Menschen sind ständig bestrebt, ihren Einfluss auszubreiten und zählen Diplomatie wie Kriegsführung gleichermaßen zu ihrem Repertoire. Sie werden auch als das _Beständige Volk_ bezeichnet.
+
 # Merkmale
 **Lebenserwartung** 60 Jahre
 **Basisausdauer** 20
-**Größe** 5 bis 6 [[Maßeinheiten|Fuß]], [[Größenkategorien|Mittelgroß]]
-**Bewegungsrate** 30 Fuß, 6 Felder
+**Größe** 5 bis 6 [[Maßeinheiten|Fuß]], [[Größenkategorien|Mittel]]
+**Bewegungsrate** 30 Fuß
 
 | STÄ | ATH | GES | KON | WAH | INT | WEI | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |
+
 ## Volkseigenschaften
 ### Menschliche Vielfalt
 Du darfst bei der Charaktererstellung den Wert **dreier** beliebiger [[Attribute]] um *+1* steigern. Zusätzlich darfst du eine beliebige [[Fähigkeiten|Fähigkeit]] um *+2* steigern und erlangst [[Kompetenz|Kompetenz]] in dieser Fähigkeit. Außerdem kannst du ein zusätzliches [[Talent]] wählen.
-# Varianten
+
+# Herkunft
 ## Siebenländer
 **Siebenländer** sind die Bewohner derjenigen sieben Nationen, die dem Kontinent seinen gemeinsprachlichen Namen verschaffen. Dazu gehören die Königreiche [[Ausperlend]], [[Ennelend]], [[Kaukand]], [[Padrinal]], [[Tarvenien]], die [[Bennetei]], sowie die Republik [[Merin]].
 
