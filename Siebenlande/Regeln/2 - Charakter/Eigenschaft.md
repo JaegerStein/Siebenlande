@@ -12,33 +12,37 @@ Lichtquellen haben die **doppelte** Reichweite.
 
 Licht, das zu schwach ist, um als Lichtquelle zu dienen, erhöht dennoch die [[Helligkeit]] um **2 Stufen** in einem **10 [[Maßeinheiten|Fuß]] Radius** und um **1 Stufe** in einem **20 Fuß Radius**. Die maximale daraus resultierende Helligkeit ist *Hell*.In diesem Licht kann keine Farbe wahrgenommen werden, nur Grautöne.
 
-**[[Attribute#Weisheit|WEI]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-2**.
+**[[Attribute#Wahrnehmung|WAH]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-2**.
 
 ### Überlegene Dunkelsicht
-Lichtquellen haben die **vierfache** Reichweite.
+Lichtquellen haben die **dreifache** Reichweite.
 
 Licht, das zu schwach ist, um als Lichtquelle zu dienen, erhöht dennoch die [[Helligkeit]] um **2 Stufen** in einem **20 [[Maßeinheiten|Fuß]] Radius** und um **1 Stufe** in einem **40 Fuß Radius**. Die maximale daraus resultierende Helligkeit ist *Hell*. In diesem Licht kann keine Farbe wahrgenommen werden, nur Grautöne.
 
-**[[Attribute#Weisheit|WEI]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-4**.
+**[[Attribute#Wahrnehmung|WAH]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-4**.
 
 ### Nachtsicht
-Lichtquellen haben die **sechsfache** Reichweite.
+Lichtquellen haben die **vierfache** Reichweite.
 
 Licht, das zu schwach ist, um als Lichtquelle zu dienen, erhöht dennoch die [[Helligkeit]] um **2 Stufen** in einem **40 [[Maßeinheiten|Fuß]] Radius** und um **1 Stufe** in einem **80 Fuß Radius**. Die maximale daraus resultierende Helligkeit ist *Hell*. In diesem Licht kann keine Farbe wahrgenommen werden, nur Grautöne.
 
-**[[Attribute#Weisheit|WEI]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-8**.
+**[[Attribute#Wahrnehmung|WAH]]-[[Rettungswürfe|RW]]**, die vor dem [[Zustände#Geblendet|Blenden]] schützen sollen, haben einen **Malus** von **-8**.
 
-**[[Attribute#Wahrnehmung|WAH]]**-Würfe, die bei mindestens *hellem Licht* auf Sicht erfolgen, haben [[Vor- & Nachteil|Nachteil]].
+**[[Attribute#Wahrnehmung|WAH]]**-Würfe, die bei *hellem Licht* auf Sicht erfolgen, haben [[Vor- & Nachteil|Nachteil]]. **WAH**-Würfe auf Sicht bei *blendendem* Licht schlagen automatisch fehl, als sei es *gleißendes* Licht.
 
 ### Konstruktsicht
 Lichtquellen haben keinen Einfluss auf die Sicht.
 
 Das Wesen kann bis zu **60 Fuß** normal sehen, vorausgesetzt die Sicht ist nicht [[Helligkeit|verschleiert]], und bis zu **120 Fuß**, als ob es *dunkel* wäre.
 
+Jenseits von **120 Fuß** kann das Wesen nichts mehr sehen.
+
 ### Überlegene Konstruktsicht
 Lichtquellen haben keinen Einfluss auf die Sicht.
 
 Das Wesen kann bis zu **90 Fuß** normal sehen, vorausgesetzt die Sicht ist nicht [[Helligkeit|verschleiert]], und bis zu **180 Fuß**, als ob es *düster* wäre.
+
+Jenseits von **180 Fuß** kann das Wesen nichts mehr sehen.
 
 ## Bedrohlich
 Statt [[Attribute#Charisma|CHA]] wird zum [[Fähigkeiten|Einschüchtern]] [[Attribute#Stärke|STÄ]] verwenden. 
