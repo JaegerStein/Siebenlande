@@ -12,7 +12,7 @@ tags:
 
 Die nächste Reise unserer siebenköpfigen Abenteurergruppe, bestehend aus
 
-- dem [[Halbdämon]]-[[Dunkelelfe|Dunkelelfen]] **[[Artheus Panti]]**,
+- dem [[Kambion]]-[[Dunkelelfe|Dunkelelfen]] **[[Artheus Panti]]**,
 - der [[Llekampa]] **[[Boma]]**,
 - dem [[Yespest]] **[[Dursam Goar]]**,
 - dem [[Minotaure|Minotauren]] **[[Journal/Questerei Streichelzoo/Fionnsgeul Tarbh]]**,
