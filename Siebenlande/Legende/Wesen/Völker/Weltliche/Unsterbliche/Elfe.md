@@ -16,19 +16,18 @@ thumbnail: "[[elfe.jpg]]"
 **Größe** 6 bis 6<sup>1/2</sup> [[Maßeinheiten|Fuß]], [[Größenkategorien|Mittel]]
 **Bewegungsrate** 30 Fuß
 
-**Eigenschaften** [[Eigenschaft#Überlegene Dunkelsicht|Überlegene Dunkelsicht]], [[Eigenschaft#Immunität|Immunität]], [[Eigenschaft#Beidhändigkeit|Beidhändigkeit]]
+**Eigenschaften** [[Eigenschaft#Überlegene Dunkelsicht|Überlegene Dunkelsicht]]
 
 | STÄ | ATH | GES | KON | WAH | INT | WEI | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 10  | 10  | 11  | 10  | 11  | 10  | 11  | 10  |
 
 ## Volkseigenschaften
-### Elfische Trance
-~~Statt zu schlafen kannst du in einem tranceartigen Zustand meditieren und in nur 4 Stunden den gleichen Grad an Erholung erhalten, für den die meisten Völker 8 Stunden Schlaf benötigen. Deine _Lange Rast_ dauert nur halb so lange wie normalerweise.~~
-Das ist doof, das wird gegen was anderes ausgetauscht.
+### Überdauernde Geduld
+Zeit bedeutet dir wenig. Wenn du nicht unter Zeitdruck stehst und dir für eine Aufgabe die zehnfache Zeit nimmst, gilt jedes Ergebnis eines W20-Wurfes mindestens als 10, auch wenn der Würfel darunter liegt.
 
 ### Elfische Erhabenheit
-Du kannst während der Charaktererstellung zwei beliebige Attribute um +1 erhöhen. Zusätzlich kannst du 6 Charakterpunkte für Fähigkeiten, Waffenkunde, oder Magie ausgeben.
+Du kannst während der Charaktererstellung zwei beliebige Attribute um +1 erhöhen. Zusätzlich kannst du 6 unterschiedliche [[Fähigkeiten]] um 2 erhöhen.
 
 ## Herkunft
 ### Hochelfe
