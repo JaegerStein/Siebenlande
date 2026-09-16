@@ -21,7 +21,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 **06.03im Jahr** 49 der zweiten Epoche des fünften Zeitalters
 
 - Sind auf dem Weg auf einen Ork getroffen der still am Wasser saß
-- Der Ork Watasarai bittet uns seinen Bruder Unlok zu finden dieser wurde entführt und mit einem Schiff über den Enner gebracht
+- Der Ork [[Watasarai]] bittet uns seinen Bruder [[Unlok]] zu finden dieser wurde entführt und mit einem Schiff über den Enner gebracht
 
 **07.03im Jahr** 49 der zweiten Epoche des fünften Zeitalters
 
@@ -34,7 +34,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 - Fionn startet Abstimmung Artheus zu fesseln oder getrennt von der Gruppe schlafen zu lassen
 - Artheus streitet alle Vorwürfe ab und legt sich schlafen
 - Nyx ist von der ganzen Situation überfordert und bekommt von der Gruppe Story von Artheus erzählt ( schon mal Hexe getötet )
-- Fionn sein Ei schlüpft Babyechse (Hydra) kommt raus
+- Fionn sein Ei schlüpft Babyechse ([[Hydra]]) kommt raus
 - Die Gruppe nannte die kleine Echse Urmel
 - Wir kommen in der Stadt Ebben an, Szonna trennt sich in Ebben von der Gruppe
 - Fionn kauft Leine, Käfig und Nahrung für Urmel (Leinen Länge 10 Felder)
@@ -43,7 +43,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 
 **09.03 im Jahr 49 der zweiten Epoche des fünften Zeitalters**
 
-- Siegelhart hat Fionn in die Arena eingeladen
+- [[Siegelhart]] hat Fionn in die Arena eingeladen
 - Fionn nimmt die Einladung an und setzt sich in die VIP Lounge
 - Gladiatorenkämpfe nicht überall erlaubt
 - Der Umfangreiche nimmt Beleidigung als Name an
@@ -828,5 +828,19 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Vor der Miene spricht uns Horath darauf an ob wir den Fluch/Spuk der Kohlemiene gelöst haben 
 - Fionn und Bivid erklären ihm alles was wir innen drin erlebt haben und machen ihm klar das die ausgemachte Bezahlung für diese Quest nicht reicht und wir erst für mehr Bezahlung am nächsten Tag erneut hinein gehen und den Rest untersuchen 
 - Wir begeben uns alle in die Taverne des nahen gelegenem Dorfes jeder sucht sich einen Schlafplatz aus und legt sich zu Bett
+
+31.06 im Jahr 49
 - Während wir im Bett liegen erscheinen bei Boma, Artheus und mir Schatten die sich an uns anschleichen um gegen uns zu kämpfen, Artheus ist der einzige der es schafft den Schatten rechtzeitig zu erkennen
-- 
+- Artheus springt sofort aus dem Fenster und eilt wahrscheinlich Boma zur Hilfe 
+- Nyx hat es geschafft mit zwei Motten Schwärmen und einem Schatten klar zu kommen, allerdings schafft der Schatten es mit einem kombinierten Angriff zusammen mit den Motten Nyx die Lichter auszupusten und in einen Kokon zu verpuppen
+- In Fäirs Zimmer ist es während der ganzen Zeit erschreckend ruhig erst nach mehreren angriffen der Gegner bequemt sich Fäir aus seinem Zimmer und schaut einfach nur dumm den Flur entlang
+- Bivid kommt nach einen überragenden Sieg am Black Jack Tisch auch endlich mal in das 1. Stockwerk und stellt sich zusammen mit Norwa einem weiteren Schatten im Treppenhaus entgegen
+- Fionn liegt weiterhin in seinem Schuppen und schläft da er über Norwa so extrem wenig Schaden bekommt vermutet er einfach nur das er Magenschmerzen von falschem Essen hat
+- Boma schafft es überraschender weise den Kampf draußen gegen den Schatten ganz alleine obwohl sie jedes mal kurz vor dem sterben ist bekommt sie sich jedes mal wieder hoch geheilt und schmettert dem Schatten einen Feuertrank nach dem anderen ins Gesicht (ein hoch auf unsere Kampfziege)
+- Der letzte Schatten in meinem Zimmer bekommt von mir so hart einen gleißenden Song in die Fresse gedrückt das es fast schon so aussieht als hätte ich eine kleine mini Sonne erschaffen der Schatten völlig geblendet davon löst sich einfach direkt auf der Stelle auf
+- Nach diesem erschöpfenden Kampf geht Nyx runter in die Bar und teilt sich mit Bivid sein letztes Bier völlig niedergeschlagen erinnert sich Nyx an das Kraut von Tömto und sucht sich in der Taverne eine Pfeife um sich das Gras schmecken zu lassen
+- Das Gras hatte einen üble Nebenwirkung da Nyx Schatten für immer verschwindet und aus diesem natürlich noch ein weiterer böser Schatten auftaucht der Nyx und Bivid angreift
+- Als der Schatten nach seinem Angriff durch die Wand verschwindet entzünden sich Nyx und Bivid gemütlich eine Kerze auf dem Tisch an da sie beide denken der Kampf wäre vorbei fragt Bivid Nyx ob er auch ein paar Züge von der Pfeife abhaben kann
+- Nyx völlig begeistert über die gleiche vor Liebe von Bivid reicht ihm selbstverständlich die Pfeife rüber 
+- Bivid nimmt einen Zug von der Pfeife und ist sofort von dem starken Zeug umgehauen und wird buchstäblich zu Stein 
+- Völlig geschockt davon zieht sich Nyx mit der Kerze zur Theke zurück und trauert dem versteinerten Bivid hinterher
