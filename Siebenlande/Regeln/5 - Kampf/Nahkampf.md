@@ -1,5 +1,6 @@
 
 # Flankieren
+---
 Anders als zuvor sind Flankierungs-Regeln unbeeinflusst von der Ausrichtung desjenigen, der flankiert wird, sondern ausschließlich abhängig von den Positionen des Angreifers im Verhältnis zu seinen Verbündeten.
 
 | Einfach                     | Mehrfach                     |
@@ -34,6 +35,7 @@ Belegen Angreifer oder Verbündete mehrere Zonen gleichzeitig, wird mit der für
 
 
 # Hinterhältiger Angriff
+---
 Wenn die angreifende Kreatur noch nicht vom Gegner bemerkt wurde, kann diese den Versuch unternehmen, einen **_Hinterhältigen Angriff_** durchzuführen. Dazu muss diese einen [[Fähigkeiten|Heimlichkeitswurf]] gegen den gegnerischen [[Attribute|Wahrnehmungswurf]] bestehen.
 
 - Wenn sich die Kreatur frontal nährt, erhält der Gegner einen **_+10_** Bonus auf seinen Wahrnehmungswurf,
