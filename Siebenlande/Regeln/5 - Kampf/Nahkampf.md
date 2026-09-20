@@ -14,14 +14,19 @@ Jeder Verbündete im Rücken des Ziels gibt diesem außerdem eine stapelbaren [[
 
 ## Skalierung
 
-| Flankierungen | Bonus |
-| ------------- | ----- |
-| 1             |       |
-| 2             |       |
-| 3             |       |
-| 4             |       |
-| 5             |       |
-
+| Flankierungen |    Bonus    |
+| ------------: | :---------: |
+|             1 |  1(W4 +1)   |
+|             2 |  2(W4 + 2)  |
+|             3 |  3(W4 + 3)  |
+|             4 |  4(W4 + 4)  |
+|             5 |  5(W4 + 5)  |
+|             6 |  6(W4 + 6)  |
+|             7 |  7(W4 + 7)  |
+|             8 |  8(W4 + 8)  |
+|             9 |  9(W4 + 9)  |
+|            10 | 10(W4 + 10) |
+|          usw. |    usf.     |
 
 ## Zonen
 
@@ -36,15 +41,26 @@ Belegen Angreifer oder Verbündete mehrere Zonen gleichzeitig, wird mit der für
 
 # Hinterhältiger Angriff
 ---
-Wenn die angreifende Kreatur noch nicht vom Gegner bemerkt wurde, kann diese den Versuch unternehmen, einen **_Hinterhältigen Angriff_** durchzuführen. Dazu muss diese einen [[Fähigkeiten|Heimlichkeitswurf]] gegen den gegnerischen [[Attribute|Wahrnehmungswurf]] bestehen.
+Hat das Ziel den Angreifer noch nicht wahrgenommen, kann dieser versuchen, einen **Hinterhältigen Angriff** auszuführen.
 
-- Wenn sich die Kreatur frontal nährt, erhält der Gegner einen **_+10_** Bonus auf seinen Wahrnehmungswurf,
-- wenn sie sich seitlich nährt erhält er einen **_+5_** Bonus,
-- und er erhält keinen Bonus bei einer Annäherung von hinten.
+Dabei rechnet der Angreifer regulär seinen [[Fähigkeiten#Heimlichkeit|Heimlichkeits]]-Wurf (**[[Attribute#Athletik|ATH]]**) oder entsprechendes Equivalent aus [[Talent]]/[[Eigenschaft]] gegen den **WAH-[[Rettungswürfe|RW]]** des Ziels.
 
-Wenn die Kreatur den Heimlichkeitswurf besteht, bleibt sie verborgen und kann den Gegner angreifen, ohne dass sich dieser verteidigt. Durch einen erfolgreichen **_Hinterhältigen Angriff_** erhält der Angreifer keine zusätzlichen Boni.
+Gelingt der Wurf, erhält der Angreifer die **Differenz** als **Bonus** auf seinen Angriffswurf, der Verteidiger erhält zusätzlich Nachteil auf die Verteidigung. Versagt der Angreifer bei dem Wurf, erhält er keinen Bonus auf den Angriff, das Ziel kann sich gewöhnlich verteidigen.
+
+Da der Angreifer in diesem Fall Attribut + Fähigkeit + Kompetenz verrechnet, der Verteidiger aber nur Attribut + Kompetenz, hat der Angreifer in dieser Interaktion einen natürlichen Vorteil.
+
+Abseits von speziellen Eigenschaften und Talenten ist der Angreifer nach seinem Hinterhältigen Angriff enttarnt und kann sich für den Verlauf des Kampfes nicht mehr regulär tarnen.
+
+## Ausnahmen
+Attackiert der Angreifer ein sehendes Ziel bei hellem Licht frontal, versagt der Hinterhältige Angriff automatisch (sofern kein Talent oder Eigenschaft dies beeinflusst). Bei anderen Lichtverhältnissen gelten die üblichen Bedingungen der [[Helligkeit]].
+*Frontal* ergibt sich hierbei entweder eindeutig durch die Positionierung Verbündeter des Angreifers im Nahkampf im Sinne der [[Nahkampf#Flankieren|Flankierungs]]-Regeln, oder narrativ organisch durch die vorangegangene Bewegung und Aktion des Ziels im ermessen des Spielleiters.
+
+*Ist das Ziel von zwei Verbündeten des Angreifers auf gegenüberliegenden Seiten umstellt, geschieht jede Annährung aus der Flanke. Die Verbündeten dienen hierbei narrativ als Ablenkung, um die Aufmerksamkeit des Ziels vom Angreifer wegzulocken und so den Hinterhältigen Angriff zu ermöglichen. Dies hat keinen Einfluss auf die tatsächliche Rechnung des Wurfes.*
+
+Flankierung hat rechnerisch keinen Einfluss auf den Heimlichkeits-Wurf des Angreifers, nur auf den darauffolgenden Angriff.
 
 # Kritische Treffer
+---
 ## Beim Angriff
 - **1**: Der Gegner erhält die Gelegenheit, sofort einen Gegenangriff zu unternehmen.
 - **20**: Die [[Allgemeine Begriffe|Boni]] aus *Waffenkunde* und *Geübte Waffen* des Angreifers werden für diesen Angriff verdoppelt.
