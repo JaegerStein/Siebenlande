@@ -26,7 +26,7 @@ Man stelle einem einfachen Bauern und einem Riesen die gleiche praktische Aufgab
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 12³ | 10  |  8  | 10  |  8  | 10  | 12  |  8  |
 
-³*Allein durch ihre Größe erhalten Riesen zusätzlich +8 auf jeden STÄ-Wurf.*
+³*Allein durch ihre Größe erhalten Riesen zusätzlich +8 auf jeden STÄ-Wurf, für einen Standard-Bonus von +10 ab Stufe 0.*
 
 # Volkseigenschaften
 ---
