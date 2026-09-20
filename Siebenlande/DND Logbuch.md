@@ -144,7 +144,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 - Wallenstein untersucht das Artefakt und lädt es auf
 - Wallenstein und Willerrich sterben
 - Artheus schafft es die Stadtwache zu überzeugen das er nicht an dem Tod des Zauberes schuld ist und wird gebeten die Stadt zu verlassen
-- Während Artheus die Stadt verlassen möchte wird er ein kleines Stück von Cholima begleitet und sie spricht ihn auf den Auftragsmord an. Cholima´s richtiger Name ist Ghäm falls Artheus sie wieder kontaktieren möchte
+- Während Artheus die Stadt verlassen möchte wird er ein kleines Stück von [[Gh'äm|Cholima]] begleitet und sie spricht ihn auf den Auftragsmord an. Cholima´s richtiger Name ist Gh'äm falls Artheus sie wieder kontaktieren möchte
 - Fionn gefrustet davon das er Asta nicht findet besäuft sich und möchte daher erst am nächsten Tag aufbrechen
 - Artheus erzählt in der Taverne die wahre Geschichte des Zauberers
 
