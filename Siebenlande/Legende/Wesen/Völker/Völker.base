@@ -4,7 +4,9 @@ views:
     filters:
       and:
         - file.tags.contains("Volk")
-        - "!thumbnail.isEmpty()"
+    sort:
+      - property: file.name
+        direction: ASC
     image: note.thumbnail
     imageAspectRatio: 1.5
     cardSize: 250
