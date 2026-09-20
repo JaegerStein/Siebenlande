@@ -7,7 +7,11 @@ aliases:
   - Menschen
 thumbnail: "[[mensch.jpg]]"
 ---
-![[mensch.jpg|float-right|256]] Die **Menschen** zählen zu den jüngsten Völker der [[Siebenlande]], dennoch konnten sie sich innerhalb kürzester Zeit zur vorherrschenden Macht des Kontinents aufschwingen. Obwohl ältere Völker sie gelegentlich als simpel und unkultiviert abtun, sind Menschen äußerst anpassungs- und widerstandsfähig. Es gibt keine Umgebung, die sie sich nicht zu Untertan machen können. Menschen sind ständig bestrebt, ihren Einfluss auszubreiten und zählen Diplomatie wie Kriegsführung gleichermaßen zu ihrem Repertoire. Sie werden auch als das _Beständige Volk_ bezeichnet.
+![[mensch.jpg|float-right|256]] Die **Menschen** zählen zu den jüngsten Völkern der [[Siebenlande]], dennoch konnten sie sich innerhalb kürzester Zeit zur vorherrschenden Macht des Kontinents aufschwingen. Obwohl ältere Völker sie gelegentlich als simpel und unkultiviert abtun, sind Menschen äußerst anpassungs- und widerstandsfähig. Es gibt keine Umgebung, die sie sich nicht zu Untertan machen können. Menschen sind ständig bestrebt, ihren Einfluss auszubreiten und zählen Diplomatie wie Kriegsführung gleichermaßen zu ihrem Repertoire. Sie werden auch als das _Beständige Volk_ bezeichnet.
+
+>*Menschen sind weder das stärkste Volk, das klügste Volk, das schnellste Volk, noch das robusteste Volk. Trotzdem beherrschen sie den ganzen Kontinent, also müssen sie irgendwas richtig machen.*
+>\- Hat mal ein Zwerg gesagt
+
 
 # Merkmale
 **Lebenserwartung** 60 Jahre
