@@ -4,8 +4,8 @@ tags:
   - Sterblich
 thumbnail: "[[riese.jpg]]"
 ---
-![[riese.jpg|float-right|256]] Vermutlich sind die **Riesen** eines der ältesten [[Volk|Völker]] der [[Siebenlande]] - vielleicht sogar älter als die [[Elfe|Elfen]] selbst, die ihren eigenen Erzählungen nach den Kontinent auch erstmal finden mussten, um dort sesshaft zu werden. Die Riesen jedoch sind so alt wie die Wälder selbst.
-Sie sind ein überwiegend friedliebendes Volk, das in der Regel den Kontakt zu [[Mensch|Menschen]] und meist auch allen anderen Völkern vermeidet, um stattdessen in Abgeschiedenheit lebt - ein Verhalten, dass ihr Überleben seit Jahrtausenden erfolgreich gesichert hat.
+![[riese.jpg|float-right|256]] Vermutlich sind **Riesen** eines der ältesten [[Volk|Völker]] der [[Siebenlande]] - vielleicht sogar älter als die [[Elfe|Elfen]] selbst, die ihren eigenen Erzählungen nach den Kontinent auch erstmal finden mussten, um dort sesshaft zu werden. Die Riesen jedoch sind so alt wie die Wälder selbst.
+Sie sind ein überwiegend friedliebendes Volk, das in der Regel den Kontakt zu [[Mensch|Menschen]] und meist auch allen anderen Völkern vermeidet, um stattdessen in Abgeschiedenheit zu leben - ein Verhalten, das ihr Überleben seit Jahrtausenden erfolgreich gesichert hat.
 
 Riesen wird nachgesagt, dass sie manchmal etwas unproportional sind; mit zu langen Armen oder Beinen, einem buckligen Kreuz, Köpfen zu groß oder klein für den eigenen Körper - alles in allem weisen Riesen eine deutlich variablere Physiognomie als die meisten anderen Völker auf. Ob das allein auf die Größe oder doch antike Mächte zurückzuführen ist, kann keiner beantworten.
 
