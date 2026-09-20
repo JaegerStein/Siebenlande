@@ -18,7 +18,7 @@ Zwar mögen sie unter den Menschen als Soldaten geachtet sein, dennoch haftet ih
 **Größe** 6 bis 7 [[Maßeinheiten|Fuß]], [[Größenkategorien|Mittel]]
 **Bewegungsrate** 40 Fuß
 
-**Eigenschaften** [[Eigenschaft#Dunkelsicht|Dunkelsicht]], [[Eigenschaft#Bedrohlich|Bedrohlich]]
+**Eigenschaften** [[Eigenschaft#Dunkelsicht|Dunkelsicht]], [[Eigenschaft#Bedrohlich|Bedrohlich]], [[Eigenschaft#Rudeltaktiken|Rudeltaktiken]]
 
 | STÄ | ATH | GES | KON | WAH | INT | WEI | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -33,6 +33,10 @@ Zwar mögen sie unter den Menschen als Soldaten geachtet sein, dennoch haftet ih
 Du bist **immun** gegen *Gifte*, denen du durch *Verzehr* ausgesetzt wurdest. Rationen sind auch in gänzlich fauligem Zustand noch genießbar für dich, und dir kann nicht übel werden.
 Gifte, die dich auf anderem Wege befallen, etwa durch Wunden in einem Kampf, können dir weiterhin Schaden verursachen, jedoch hast du hierfür eine natürliche **1W8** [[Resistenz]] gegen **Gift**. 
 
+## Doch ein Raubtier
+Du hast *Waffenlos* +2 (ATH) in [[Waffenkunde]] und jeweils +2 auf *Hände* und *Gebiss* in [[Geübte Waffen]]. 
+- Waffenlose [[Nahkampf]]-Angriffe mit deinen Händen verursachen zusätzlich **1W6** Schnittschaden.
+- Waffenlose Angriffe mit deinem Gebiss verwenden ATH und verursachen **W8** Stichschaden. Außerdem hast du die Chance, dein Ziel zu vergiften. KON-RW 10 + 1W8: 1W6 Giftschaden für 2 Runden. 
 
 # Herkunft
 ---
