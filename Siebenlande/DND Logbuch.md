@@ -21,7 +21,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 **06.03im Jahr** 49 der zweiten Epoche des fünften Zeitalters
 
 - Sind auf dem Weg auf einen Ork getroffen der still am Wasser saß
-- Der Ork [[Watasarai]] bittet uns seinen Bruder [[Unlok]] zu finden dieser wurde entführt und mit einem Schiff über den Enner gebracht
+- Der Ork [[Watá'sarèi]] bittet uns seinen Bruder [[Unloq]] zu finden dieser wurde entführt und mit einem Schiff über den Enner gebracht
 
 **07.03im Jahr** 49 der zweiten Epoche des fünften Zeitalters
 
@@ -34,7 +34,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 - Fionn startet Abstimmung Artheus zu fesseln oder getrennt von der Gruppe schlafen zu lassen
 - Artheus streitet alle Vorwürfe ab und legt sich schlafen
 - Nyx ist von der ganzen Situation überfordert und bekommt von der Gruppe Story von Artheus erzählt ( schon mal Hexe getötet )
-- Fionn sein Ei schlüpft Babyechse ([[Hydra]]) kommt raus
+- Fionn sein Ei schlüpft Babyechse ([[Urmel]]) kommt raus
 - Die Gruppe nannte die kleine Echse Urmel
 - Wir kommen in der Stadt Ebben an, Szonna trennt sich in Ebben von der Gruppe
 - Fionn kauft Leine, Käfig und Nahrung für Urmel (Leinen Länge 10 Felder)
@@ -43,7 +43,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 
 **09.03 im Jahr 49 der zweiten Epoche des fünften Zeitalters**
 
-- [[Siegelhart]] hat Fionn in die Arena eingeladen
+- [[Sigelhart]] hat Fionn in die Arena eingeladen
 - Fionn nimmt die Einladung an und setzt sich in die VIP Lounge
 - Gladiatorenkämpfe nicht überall erlaubt
 - Der Umfangreiche nimmt Beleidigung als Name an
