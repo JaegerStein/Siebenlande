@@ -35,6 +35,12 @@ Als Riese verabscheust du unnötige Gewalt und vermeidest Kämpfe soweit möglic
 
 ## Wandelnder Gigant
 ²Deine Schritte mögen zwar enorm sein, aber deine Beine tragen viel Gewicht; du kannst nicht sprinten, dafür hast du eine natürliche Nahkampfreichweite von 10 Fuß.
+
+## Nur die Ruhe
+Du hast [[Vor- & Nachteil|Nachteil]] auf alle [[Attribute#Intelligenz|INT]]-Würfe, die du nicht schon frühestens am Tag zuvor versucht hast. Jedes mal, wenn du bei einem bestimmten INT-Wurf scheiterst, erhältst du +1 Bonus (kumulativ, max. 1/Stunde) auf genau diesen Wurf, bis zu einem maximalen Bonus in Höhe deiner Charakterstufe.
+
+*Wenn dein Riese Stufe 10 ist, und an einem Tag 10 Stunden lang den gleichen INT-Wurf mit Nachteil versucht, kannst du ihn am nächsten Morgen ohne Nachteil mit +10 Bonus versuchen.*
+
 # Herkunft
 ---
 ## Hügelriese
