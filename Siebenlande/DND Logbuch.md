@@ -844,3 +844,29 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Nyx völlig begeistert über die gleiche vor Liebe von Bivid reicht ihm selbstverständlich die Pfeife rüber 
 - Bivid nimmt einen Zug von der Pfeife und ist sofort von dem starken Zeug umgehauen und wird buchstäblich zu Stein 
 - Völlig geschockt davon zieht sich Nyx mit der Kerze zur Theke zurück und trauert dem versteinerten Bivid hinterher
+- Norwa wird von dem Schatten angegriffen und flüchtet anschließend zu Bivid und Nyx runter in die Taverne, dort angekommen trifft er auf Nyx der kauernd auf der Theke sitzt und Bivid der versteinernd am Tisch steht
+- Als Norwa Nyx fragt was hier passiert ist sagt Nyx nur "nichts spezielles wir haben Bier getrunken und eine Pfeife geraucht"
+- Fionn wurde auch endlich mal wach und macht sich auch endlich mal auf den Weg in die Taverne
+- Da Nyx an Bivid seinem Zustand nichts ändern kann beschließt er hoch zu den Zimmern zu gehen um den Schatten zu jagen damit alle genug Zeit haben Bivid wieder zu normal Zustand zu bringen, Fionn und Norwa kommen auch langsam hinterher
+- Nyx sucht einzeln alle Räume nach dem Schatten ab
+- Während dem läuft Boma unten durch die Taverne und erkennt in der ferne an dem Tisch wo Nyx und Bivid saßen einen Schatten sie brüllt Fionn zu das er dort ist
+- Fionn ermutigt Boma dazu schnell einen Feuertrank auf ihn zu werfen da die Schatten sich im hellen nicht bewegen können
+- Gesagt getan Boma wirft mit voller Wucht ihren Trank auf den zuvor gesehenen Schatten direkt als der Trank trifft sieht sie wie etwas von diesem Schatten abbricht als sie nachsieht bemerkt sie das dort Bivid als versteinerte Statue da steht und ihm das halbe Gesicht fehlt
+- Stück für Stück versucht sie Bivids Gesicht wieder zusammen zupuzzeln
+- Bivid ist zwar versteinert bekommt aber alles mit was um ihn rum geschieht und hört auch das Fionn und Boma versuchen möchten den Vorfall zu vertuschen und alles auf den Schatten schieben möchten
+- Wenn man genau hinsieht kann man eine klitzekleine Träne außen an der Steinstatue herunter läuft und direkt wieder verdampft da sein Stein immer noch so aufgeheizt von Bomas Trank ist 
+- Aus dem nichts greift der Schatten Fionn an allerdings schafft es Fionn den Schatten festzusetzen
+- Nyx sprintet runter in die Taverne und haucht dem Schatten die letzte Lebenskraft aus 
+- Nach ewiger Diskussion und Schuldzusprüchen beschließen Boma und Fionn Bivid mit in die Scheune zu nehmen und auf ihn aufzupassen
+- Danach legen sich alle zu Bett
+
+32.06 im Jahr 49
+- Am nächsten Tag kommt der Schankwirt zu Nyx und Bivid an die Theke völlig entsetzt fragt er uns was in seiner Taverne passiert ist und was das alles soll
+- Nyx schmeißt ihm 5 Gold entgegen und sagt er soll sich erstmal beruhigen und 3 Bier fertig machen damit sie gemütlich einen trinken können
+- Nach 2 oder 3 runden Bier fragt Nyx den Schankwirt Namens Flisa ob er auch mal gerne an seiner Pfeife ziehen möchte
+- Erst nach ein wenig Überredung stimmt Flisa doch zu einen Zug von der Pfeife zu nehmen leider hat es bei ihm den Effekt das er für immer die Gedanken aller anderen Menschen hören kann
+- Langsam aber sicher beginnt er komplett Wahnsinnig zu werden da er nicht auf die Gedanken von Bivid und Nyx klar kommt 
+- Genau in diesem Moment kommt Fionn in die Taverne gelaufen und erinnert sich gerade an die Zeit die er in der Hölle verbracht hat und an die unzähligen Kämpfe die er dort bestritten und geleitet hat 
+- Diese Information hat [[Flisa]] quasi endgültig die Lichter ausgeknipst er wirft uns allen vor Dämonen zu sein und das wir alle gefährlich sind
+- Die gesamte Gruppe macht sich ohne ein wimpernzucken auf zurück zur Kohlemiene um sie ein zweites mal zu untersuchen
+- 
