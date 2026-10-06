@@ -2,6 +2,7 @@
 Dazu kommt, dass Spieler sich nur während der [[Charaktererstellung]] selbst Eigenschaften zuweisen können. Nach Spielbeginn ändern sich diese nur noch durch äußere Begebenheiten.
 
 # Gewöhnliche Eigenschaften
+---
 Viele Eigenschaften sind nicht einmalig, sondern treten in einer Reihe von unterschiedlichen Wesen auf.
 
 ## Sinne
@@ -47,7 +48,12 @@ Jenseits von **180 Fuß** kann das Wesen nichts mehr sehen.
 ## Bedrohlich
 Statt [[Attribute#Charisma|CHA]] wird zum [[Fähigkeiten|Einschüchtern]] [[Attribute#Stärke|STÄ]] verwenden. 
 
+## Rudeltaktiken
+Stehst du in [[Nahkampf]]-Reichweite zu einem Gegner, zählst du für deine Verbündeten als [[Nahkampf#Flankieren|flankierend]], unabhängig von deiner tatsächlichen Position. Stehst du tatsächlich im Rücken des Gegners, zählt deine Flankierung zweifach (der Nachteil auf die Verteidigung des Gegners aber dennoch nur einfach.)
+
+
 # TODO zu überarbeiten
+---
 ## Beidhändigkeit
 Du bist nicht nur in der Lage, beide Hände gleich gut zu gebrauchen, sondern hast auch eine ausgeprägte Hand-Auge-Koordination, die es dir erlaubt, sie gleichzeitig für unterschiedliche Aufgaben effektiv einzusetzen, auch im Kampf. Angriffe mit der Zweithand haben keinen [[Allgemeine Begriffe|Nachteil]].
 

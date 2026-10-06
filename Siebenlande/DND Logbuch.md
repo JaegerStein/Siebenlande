@@ -21,7 +21,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 **06.03im Jahr** 49 der zweiten Epoche des fünften Zeitalters
 
 - Sind auf dem Weg auf einen Ork getroffen der still am Wasser saß
-- Der Ork [[Watasarai]] bittet uns seinen Bruder [[Unlok]] zu finden dieser wurde entführt und mit einem Schiff über den Enner gebracht
+- Der Ork [[Watá'sarèi]] bittet uns seinen Bruder [[Unloq]] zu finden dieser wurde entführt und mit einem Schiff über den Enner gebracht
 
 **07.03im Jahr** 49 der zweiten Epoche des fünften Zeitalters
 
@@ -34,7 +34,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 - Fionn startet Abstimmung Artheus zu fesseln oder getrennt von der Gruppe schlafen zu lassen
 - Artheus streitet alle Vorwürfe ab und legt sich schlafen
 - Nyx ist von der ganzen Situation überfordert und bekommt von der Gruppe Story von Artheus erzählt ( schon mal Hexe getötet )
-- Fionn sein Ei schlüpft Babyechse ([[Hydra]]) kommt raus
+- Fionn sein Ei schlüpft Babyechse ([[Urmel]]) kommt raus
 - Die Gruppe nannte die kleine Echse Urmel
 - Wir kommen in der Stadt Ebben an, Szonna trennt sich in Ebben von der Gruppe
 - Fionn kauft Leine, Käfig und Nahrung für Urmel (Leinen Länge 10 Felder)
@@ -43,7 +43,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 
 **09.03 im Jahr 49 der zweiten Epoche des fünften Zeitalters**
 
-- [[Siegelhart]] hat Fionn in die Arena eingeladen
+- [[Sigelhart]] hat Fionn in die Arena eingeladen
 - Fionn nimmt die Einladung an und setzt sich in die VIP Lounge
 - Gladiatorenkämpfe nicht überall erlaubt
 - Der Umfangreiche nimmt Beleidigung als Name an
@@ -144,7 +144,7 @@ Siehe [[Staffel 9 - Die Nekromantin]] und die Episoden davor, auch von der [[ind
 - Wallenstein untersucht das Artefakt und lädt es auf
 - Wallenstein und Willerrich sterben
 - Artheus schafft es die Stadtwache zu überzeugen das er nicht an dem Tod des Zauberes schuld ist und wird gebeten die Stadt zu verlassen
-- Während Artheus die Stadt verlassen möchte wird er ein kleines Stück von Cholima begleitet und sie spricht ihn auf den Auftragsmord an. Cholima´s richtiger Name ist Ghäm falls Artheus sie wieder kontaktieren möchte
+- Während Artheus die Stadt verlassen möchte wird er ein kleines Stück von [[Gh'äm|Cholima]] begleitet und sie spricht ihn auf den Auftragsmord an. Cholima´s richtiger Name ist Gh'äm falls Artheus sie wieder kontaktieren möchte
 - Fionn gefrustet davon das er Asta nicht findet besäuft sich und möchte daher erst am nächsten Tag aufbrechen
 - Artheus erzählt in der Taverne die wahre Geschichte des Zauberers
 

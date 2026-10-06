@@ -13,7 +13,9 @@ tags:
   - Merinisch
   - Kaderlos
   - Avatar
+thumbnail: "[[artheus_panti.jpg]]"
 ---
 **Artheus Panti** ist ein aus [[Merin]] stammender [[Albe#Gesellschaft|kaderlose]] [[Albe|Alb]] und [[Kambion|Kambion]], der vom [[Gott]] [[Manner]] zu dessen [[Avatar]] erhoben wurde. Er gehört der [[Questerei]] [[Streichelzoo]] an.
 
-Er ist Kämpfer und Bäcker.
+![[artheus_panti.jpg|float-right|256]] Er ist Kämpfer und Bäcker.
+  

@@ -9,10 +9,10 @@ thumbnail: "[[yespest.jpg]]"
 # Merkmale
 **Lebenserwartung** 1000
 **Basisausdauer** 20
-**Größe** 4<sup>1/2</sup> bis 6<sup>1/2</sup> [[Maßeinheiten|Fuß]], [[Größenkategorien|Mittel]]
+**Größe** 3<sup>1/2</sup> bis 6<sup>1/2</sup> [[Maßeinheiten|Fuß]], [[Größenkategorien|Klein bis Mittel]]
 **Bewegungsrate** 30 Fuß
 
-**Eigenschaften** [[Eigenschaft#Überlegene Dunkelsicht|Überlegene Dunkelsicht]]
+**Eigenschaften** [[Eigenschaft#Nachtsicht|Nachtsicht]]
 
 | STÄ | ATH | GES | KON | WAH | INT | WEI | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
