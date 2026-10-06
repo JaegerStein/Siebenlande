@@ -869,4 +869,11 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Genau in diesem Moment kommt Fionn in die Taverne gelaufen und erinnert sich gerade an die Zeit die er in der Hölle verbracht hat und an die unzähligen Kämpfe die er dort bestritten und geleitet hat 
 - Diese Information hat [[Flisa]] quasi endgültig die Lichter ausgeknipst er wirft uns allen vor Dämonen zu sein und das wir alle gefährlich sind
 - Die gesamte Gruppe macht sich ohne ein wimpernzucken auf zurück zur Kohlemiene um sie ein zweites mal zu untersuchen
-- 
+- Diesmal laufen wir alle aber zusammen als Gruppe durch die Höhle nur Boma bleibt draußen vor dem Eingang stehen
+- sehr entschlossen sich an den Plan zuhalten laufen wir wirklich nur schritt für schritt durch den unerkundeten Abschnitt der Höhle 
+- weiter unten links in der Höhle angekommen finden wir eine Menge Mottenschwärme die Nyx sofort vernichtet
+- noch ein Stück weiter entdeckt Artheus einen Kokon an der Wand hängen auch diesen attackiert Nyx mit seinen Eisfähigkeiten
+- Nach einem relativ starken Schallangriff schafft es Nyx den Kokon aufzureißen und natürlich schlüpft aus diesem ein weiterer Schatten (als ob wir davon nicht schon genug hatten)
+- im gleichen Moment als der Schatten auftaucht versteckt sich Nyx hinter Fionn um dort ein wenig Deckung zu rufen anschließend brüllt er so laut er kann und macht den Rest der Gruppe darauf aufmerksam 
+- Da sich Fionn strategisch gut vor den großen Schatten gestellt hat konnte sich dieser nicht bewegen und wir konnten in gemeinsam Stück für Stück zur Strecke bringen
+- Wieder draußen vor der Höhle angekommen bezahlt uns Horath ausgiebig und gibt uns 100 Gold und soviel Kohle für 5 Jahre wie wir brauchen 
