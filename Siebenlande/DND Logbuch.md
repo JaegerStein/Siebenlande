@@ -877,3 +877,16 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - im gleichen Moment als der Schatten auftaucht versteckt sich Nyx hinter Fionn um dort ein wenig Deckung zu rufen anschließend brüllt er so laut er kann und macht den Rest der Gruppe darauf aufmerksam 
 - Da sich Fionn strategisch gut vor den großen Schatten gestellt hat konnte sich dieser nicht bewegen und wir konnten in gemeinsam Stück für Stück zur Strecke bringen
 - Wieder draußen vor der Höhle angekommen bezahlt uns Horath ausgiebig und gibt uns 100 Gold und soviel Kohle für 5 Jahre wie wir brauchen 
+
+37.06 im Jahr 49
+- Auf dem Heimweg hält uns ein kleiner Händler Namens Piedro Qkwasper und bittet uns um Hilfe in seinem Heimatland da ihm anscheinend von einer Zauberin seine Sachen geklaut bekommen hat
+- Nach längerem hin und her beschließen wir mit Piedro zusammen ein Stück weiter zu laufen da wir sowieso Richtung Norden laufen müssen
+
+43.06 im Jahr 49
+- Angekommen in dem Dorf vor unserer Burg sehen wir das neben unserer Flagge eine andere Flagge weht und zwar die der Weißflammen
+- Erikkon der Dorfälteste erklärt uns das die Weißflammen mit einer kleinen Armee auftauchte und um Einlass gebeten hatten sie haben uns auch erzählt das anscheinend unsere Zauberer die wir beherbergen abgehauen sind und sich im Wald verstecken
+- In unserer Speisekammer angekommen treffen wir auf Pjovel der Kommandant der Weißflammen der uns erklärt das wir als Questerei uns bei den Weißflammen registrieren müssen damit sie uns kontrollieren können
+- Pjovel trägt eine silberne Maske um sein absolut hässliches Gesicht zu verstecken 
+- Neben ihm sitzt Bolpar Wolparting er ist der Notar von Pjovel und schreibt alles sorgfältig mit was wir so besprechen
+- Am Ende der Sitzung bietet Nyx Bolpar seine Pfeife an um die Besprechungen zu besiegeln im gleichen moment als Bolpar den Rauch aus atmet beginnt er<font style="color:pink;"></font> <font style="color:pink;">zu schweben und sich im Kreis zu drehen intuitiv spielt Nyx ein Lied das vermutlich aus der Zukunft kommt aber denoch vertraut klingt (Sailor Moon) am Ende seiner Pirouetten fällt ihm sein Bart aus und er wechselt das Geschlecht und wird zur Frau</font>
+- 
