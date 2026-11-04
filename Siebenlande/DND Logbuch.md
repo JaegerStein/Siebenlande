@@ -889,4 +889,47 @@ Zwischen dem 21.04 und dem 17.06 im Jahr 49
 - Pjovel trägt eine silberne Maske um sein absolut hässliches Gesicht zu verstecken 
 - Neben ihm sitzt Bolpar Wolparting er ist der Notar von Pjovel und schreibt alles sorgfältig mit was wir so besprechen
 - Am Ende der Sitzung bietet Nyx Bolpar seine Pfeife an um die Besprechungen zu besiegeln im gleichen moment als Bolpar den Rauch aus atmet beginnt er<font style="color:pink;"></font> <font style="color:pink;">zu schweben und sich im Kreis zu drehen intuitiv spielt Nyx ein Lied das vermutlich aus der Zukunft kommt aber denoch vertraut klingt (Sailor Moon) am Ende seiner Pirouetten fällt ihm sein Bart aus und er wechselt das Geschlecht und wird zur Frau</font>
+- Nach dem Besuch der weißflammen kam ein komischer Albe Namens Bizero in unsere Burg er stellt sich als Informationshändler vor und möchte in unserer Nähe eine Unterkunft haben als Gegenleistung bietet er uns seine Dienste an 
+- Nyx hat direkt versucht Informationen von ihm über den Anbau von Tömtos Kraut zu bekommen allerdings möchte er eine Gegenleistung dafür er hat Nyx nur erzählt das er einen relativ frischen Kadaver eines Intelligenten Wesens brauch
+- Nyx der Bizero nicht sonderlich mag heckt mit Bivid einen geheimen Plan aus ihm etwas von Tömtos Kraut in den Kamin seines Hauses zu werfen
+- Bivid so locker wie er drauf ist natürlich sofort dabei und hilft Nyx
+- Fionn der Rabenvater schaut nach einer gefühlten Ewigkeit mal wieder nach seinem Urmel
+- Urmel ist ein ziemliches Stück gewachsen und ist mittlerweile so groß wie ein Hund, Fionn erfährt auch von unseren Wachen das Urmel alles frisst was kleiner ist als es selbst
+- Fionn beschließt nun Verantwortung zu übernehmen und möchte Urmel erziehen dafür nimmt er sich Norwa zur Hilfe da er gut mit Tieren umgehen kann
+- Artheus lernt in der Woche in der wir uns auf der Burg befinden eine Albische Gebärdensprache und Boma füllt wieder ihren Vorrat an Tränken auf 
+- In dieser Zeit kommen auch ein paar reisende vorbei die uns Geschichten erzählen von einem etwas entfernten Tavernen Besitzer der absolut Wahnsinnig ist und irgendetwas von Dämonen und Tierwesen erzählt unter den Leuten wird sogar gemunkelt das er von einem Inquisitor festgenommen wurde und verhört wird
+- Fionn macht sich bei Bizero schlau über Q´Kwasper ob er irgendwas über ihn weiß
+- Bizero erzählt ihm die komplette Hintergrund Geschichte was in Karden passiert ist allerdings vor 600 Jahren also sehr unwahrscheinlich das es alles so passiert ist wie Q´Kwasper es berichtete  
+- Nach 2-3 Tagen taucht Bizero wieder auf und teilt uns mit das er eine neue Quest für uns hat und zwar sollen wir die Beraterin des Königs in Kaukand retten und ihr helfen (er verschweigt das es sich dabei um eine Albin handelt) ihr Name ist Berla Zsain
+- Nachts machen sich Bivid und Nyx auf den Weg zur Hütte von Bizero (weiterschreiben Tömtos Kraut in den Kamin geworfen)
+- Währenddessen besucht Asta Fionn in der Burg und spricht mit ihm über das verhalten der Elfen und Alben wenn es um Pakte geht
+- Sie kommt auch um sich ihren Gefallen einzufordern den sie noch offen hat und macht eine Anspielung das er bzw. wir Bivid loswerden sollen
+
+50.06 im Jahr 49
+- wir machen uns auf den Weg nach Karden Richtung Fluss um dann von dort aus mit dem Schiff nach Karden
+
+36.07 im Jahr 49
+- Angekommen in Taly um weitere 16 Tage weiter zu laufen Richtung Karden
+
+52.07 im Jahr 49
+- Kurz vor Karden laufen wir durch einen benachbarten Wald und hören in der Entfernung jemand auf einer Laute spielen, als wir uns den klängen der Laute nähern sehen wir einen alten "Bekannten" nämlich Meister Alpertinger der damals Bomas Fridolin und unseren geliebten Bax gefressen hat
+- Fionn und Norwa machen sich bereit für den Angriff
+- Bivid und Nyx setzten sich auf einen etwas höher gelegenen Berg und entzünden sich ein Lagerfeuer, trotz aller Skepsis frag Nyx Boma ob sie nicht auch hoch auf den Berg möchte 
+- Alle bereiten sich quasi auf ihre Art auf den Kampf vor
+- Teleultimus streift durch den Wald um einen möglichen Hinterhalt ausschließen zu können als er von seinem Streifzug zurück kommt bereitet sich Norwa vor seinen ersten Schuss zu landen
+- In dem selben Augenblick sprintet Fionn auf Wolpertinger los
+- Trotz Teleultimus Einsatz schaffen die Bären es einen Hinterhalt zu starten
+- Hinter dem Berg wo sich Boma, Bivid und Nyx verschanzten tauchte ein verbündeter Bär Alpertingers auf und sprintet hoch zu ihnen
+- Innerhalb einer Angriffsabfolge schafft es der Bär Nyx in die Knie zu zwingen obwohl Bivid alles dafür gab ihn am Leben zu halten
+- Alpertinger der mittlerweile durch zu viel Schaden in eine andere Form gewechselt hat schafft es mit einem äußerst starken Zauber Fionn so verheerend zu manipulieren das er die meisten seiner Talente, Fähigkeiten und sogar seine Verbündeten vergisst und diesen nicht mehr zur Hilfe eilen kann
+- Boma wirft ihre stärksten zwei Feuertränke auf den durchschnittlichen Bär und schafft es damit den Bär in Rauch aufzulösen
+- Der Typische Bär schafft es auch hoch auf den Berg und greift Boma mit einem verheerenden Schlag an auf sie wird sofort in die Knie gezwungen
+- Nyx hat die glorreiche Idee in dieser hitzigen Situation etwas von Tömtos Kraut zu rauchen der Effekt diesmal besagt das er bei jedem Nieser einen Klon von sich selbst erschafft, direkt nach dem Zug an der Pfeife macht Nyx eine Ausweichrolle nach vorne und schafft es so Boma aus den Fängen des Bärens zu befreien und auf die Beine zu helfen
+- Direkt als Nyx wieder steht muss er plötzlich anfangen zu Niesen und erschafft so seinen ersten Klon
+- Der Bär der sich schon auf einen Angriff auf die vor ihm liegende Boma vorbereitet hatte ist völlig verwirrt von den plötzlich zwei auftauchenden Nyx das er statt Boma anzugreifen Nyx´s Doppelgänger angreift
+- Nyx hat es also mal wieder geschafft und Boma gerettet
+- Während der ganzen Zeit schaffen es Fionn, Artheus, Norwa und Fäir alle anderen Bären erfolgreich auszuschalten
+- Da der Typische Bär Nyxs Klon schon erledigt hat und Nyx Boma in Sicherheit gebracht hat greift er sofort Nyx wieder an und schlägt ihn direkt wieder zu Boden 
+- Voller Wut attackiert er danach direkt Bivid, dieser konnte sich gegen den Angriff zur wehr setzen und sich verteidigen
+- Fionn der das alles von der Entfernung aus mitbekommt sprintet sofort in die Richtung der anderen und rammt den Bär gegen den Berg
 - 
